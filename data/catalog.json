@@ -1,0 +1,493 @@
+{
+  "generated_at": "2026-09-21T01:52:14Z",
+  "canonical_host": "https://metix.ai",
+  "source_sitemaps": [
+    "https://metix.ai/reports/sitemap.xml",
+    "https://metix.ai/reports/series/sitemap.xml"
+  ],
+  "counts": {
+    "total": 53,
+    "hubs": 2,
+    "series": 29,
+    "mapping": 22
+  },
+  "entries": [
+    {
+      "url": "https://metix.ai/reports/",
+      "canonical": "https://metix.ai/reports/",
+      "kind": "hub",
+      "slug": null,
+      "title_guess": "Reports hub",
+      "lastmod": "2026-09-21",
+      "title": "Metix AI Reports"
+    },
+    {
+      "url": "https://metix.ai/reports/series/",
+      "canonical": "https://metix.ai/reports/series/",
+      "kind": "hub",
+      "slug": null,
+      "title_guess": "Series hub",
+      "lastmod": "2026-09-04",
+      "title": "Metix AI Series Reports"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026",
+      "canonical": "https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026",
+      "kind": "mapping",
+      "slug": "salesforce-agentforce-hiring-2026",
+      "title_guess": "salesforce agentforce hiring 2026",
+      "lastmod": "2026-09-07",
+      "title": "Cutting Technical Roles While Hiring for Sales and Delivery: Salesforce After Agentforce Passed $1B"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/si-genai-delivery-bench-2026",
+      "canonical": "https://metix.ai/reports/mapping/si-genai-delivery-bench-2026",
+      "kind": "mapping",
+      "slug": "si-genai-delivery-bench-2026",
+      "title_guess": "si genai delivery bench 2026",
+      "lastmod": "2026-08-28",
+      "title": "SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/wall-street-senior-banker-2026",
+      "canonical": "https://metix.ai/reports/mapping/wall-street-senior-banker-2026",
+      "kind": "mapping",
+      "slug": "wall-street-senior-banker-2026",
+      "title_guess": "wall street senior banker 2026",
+      "lastmod": "2026-08-20",
+      "title": "The Wall Street Talent War: Mapping Senior Banker Flows Across 11 Investment Banks"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/databricks-ai-talent-strategy-2026",
+      "canonical": "https://metix.ai/reports/mapping/databricks-ai-talent-strategy-2026",
+      "kind": "mapping",
+      "slug": "databricks-ai-talent-strategy-2026",
+      "title_guess": "databricks ai talent strategy 2026",
+      "lastmod": "2026-08-27",
+      "title": "From Data Engineering to AI Agents: How Databricks Is Reshaping the Enterprise Data Stack"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/nvidia-ai-infrastructure-talent-race-2026",
+      "canonical": "https://metix.ai/reports/mapping/nvidia-ai-infrastructure-talent-race-2026",
+      "kind": "mapping",
+      "slug": "nvidia-ai-infrastructure-talent-race-2026",
+      "title_guess": "nvidia ai infrastructure talent race 2026",
+      "lastmod": "2026-08-20",
+      "title": "AI Infra Talent Race: Roles Constraining Compute Buildout"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/ai-infra-capital-talent-2026",
+      "canonical": "https://metix.ai/reports/mapping/ai-infra-capital-talent-2026",
+      "kind": "mapping",
+      "slug": "ai-infra-capital-talent-2026",
+      "title_guess": "ai infra capital talent 2026",
+      "lastmod": "2026-08-19",
+      "title": "Six Banks and $500B+ AI-Infra Capital: The Talent Layer"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/ai-next-talent-gap-2026",
+      "canonical": "https://metix.ai/reports/mapping/ai-next-talent-gap-2026",
+      "kind": "mapping",
+      "slug": "ai-next-talent-gap-2026",
+      "title_guess": "ai next talent gap 2026",
+      "lastmod": "2026-08-20",
+      "title": "Jeff Dean leaves Google, revealing AI’s next talent gap"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/ai-agent-talent-supply-demand-gap-2026",
+      "canonical": "https://metix.ai/reports/mapping/ai-agent-talent-supply-demand-gap-2026",
+      "kind": "mapping",
+      "slug": "ai-agent-talent-supply-demand-gap-2026",
+      "title_guess": "ai agent talent supply demand gap 2026",
+      "lastmod": "2026-08-20",
+      "title": "AI Agent talent structure"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/openai-anthropic-xai-talent-structure",
+      "canonical": "https://metix.ai/reports/mapping/openai-anthropic-xai-talent-structure",
+      "kind": "mapping",
+      "slug": "openai-anthropic-xai-talent-structure",
+      "title_guess": "openai anthropic xai talent structure",
+      "lastmod": "2026-08-20",
+      "title": "OpenAI, Anthropic and xAI Talent Structure Benchmark"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/overseas-chip-rd-manufacturing-talent-2026",
+      "canonical": "https://metix.ai/reports/mapping/overseas-chip-rd-manufacturing-talent-2026",
+      "kind": "mapping",
+      "slug": "overseas-chip-rd-manufacturing-talent-2026",
+      "title_guess": "overseas chip rd manufacturing talent 2026",
+      "lastmod": "2026-08-20",
+      "title": "Overseas chip R&amp;D and manufacturing talent report"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/fintech-talent-momentum-2026",
+      "canonical": "https://metix.ai/reports/mapping/fintech-talent-momentum-2026",
+      "kind": "mapping",
+      "slug": "fintech-talent-momentum-2026",
+      "title_guess": "fintech talent momentum 2026",
+      "lastmod": "2026-08-20",
+      "title": "FinTech Engineering Talent Momentum Leaderboard 2026"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/ai-video-generation-talent-2026",
+      "canonical": "https://metix.ai/reports/mapping/ai-video-generation-talent-2026",
+      "kind": "mapping",
+      "slug": "ai-video-generation-talent-2026",
+      "title_guess": "ai video generation talent 2026",
+      "lastmod": "2026-08-20",
+      "title": "AI Video Generation Talent Map 2026"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/ai-infra-chip-talent-2026",
+      "canonical": "https://metix.ai/reports/mapping/ai-infra-chip-talent-2026",
+      "kind": "mapping",
+      "slug": "ai-infra-chip-talent-2026",
+      "title_guess": "ai infra chip talent 2026",
+      "lastmod": "2026-08-20",
+      "title": "AI Compute &amp; Chip Talent Map 2026"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/openai-engineering-xray-2026",
+      "canonical": "https://metix.ai/reports/mapping/openai-engineering-xray-2026",
+      "kind": "mapping",
+      "slug": "openai-engineering-xray-2026",
+      "title_guess": "openai engineering xray 2026",
+      "lastmod": "2026-08-20",
+      "title": "OpenAI Engineering Talent X-Ray"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/anthropic-engineering-xray-2026",
+      "canonical": "https://metix.ai/reports/mapping/anthropic-engineering-xray-2026",
+      "kind": "mapping",
+      "slug": "anthropic-engineering-xray-2026",
+      "title_guess": "anthropic engineering xray 2026",
+      "lastmod": "2026-08-20",
+      "title": "Anthropic Engineering Talent X-Ray"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/quant-ai-talent-2026",
+      "canonical": "https://metix.ai/reports/mapping/quant-ai-talent-2026",
+      "kind": "mapping",
+      "slug": "quant-ai-talent-2026",
+      "title_guess": "quant ai talent 2026",
+      "lastmod": "2026-08-20",
+      "title": "Quant Finance × AI Talent Flow"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/frontier-ai-labs-talent-2026",
+      "canonical": "https://metix.ai/reports/mapping/frontier-ai-labs-talent-2026",
+      "kind": "mapping",
+      "slug": "frontier-ai-labs-talent-2026",
+      "title_guess": "frontier ai labs talent 2026",
+      "lastmod": "2026-08-20",
+      "title": "Frontier AI Lab Talent Landscape &amp; Flow Map"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/clinical-ai-healthcare-2026",
+      "canonical": "https://metix.ai/reports/mapping/clinical-ai-healthcare-2026",
+      "kind": "mapping",
+      "slug": "clinical-ai-healthcare-2026",
+      "title_guess": "clinical ai healthcare 2026",
+      "lastmod": "2026-08-20",
+      "title": "Clinical AI &amp; Health Systems Talent Map (U.S.)"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/techbio-ai-pharma-2026",
+      "canonical": "https://metix.ai/reports/mapping/techbio-ai-pharma-2026",
+      "kind": "mapping",
+      "slug": "techbio-ai-pharma-2026",
+      "title_guess": "techbio ai pharma 2026",
+      "lastmod": "2026-08-20",
+      "title": "TechBio / AI Drug Discovery Talent Map"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/embodied-ai-humanoid-2026",
+      "canonical": "https://metix.ai/reports/mapping/embodied-ai-humanoid-2026",
+      "kind": "mapping",
+      "slug": "embodied-ai-humanoid-2026",
+      "title_guess": "embodied ai humanoid 2026",
+      "lastmod": "2026-08-20",
+      "title": "Embodied AI &amp; Humanoid Robots Talent Map"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/game-engine-world-model-2026",
+      "canonical": "https://metix.ai/reports/mapping/game-engine-world-model-2026",
+      "kind": "mapping",
+      "slug": "game-engine-world-model-2026",
+      "title_guess": "game engine world model 2026",
+      "lastmod": "2026-08-20",
+      "title": "Game Engine × World Model Talent Corridor"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/job-distribution-ex-china-2026",
+      "canonical": "https://metix.ai/reports/mapping/job-distribution-ex-china-2026",
+      "kind": "mapping",
+      "slug": "job-distribution-ex-china-2026",
+      "title_guess": "job distribution ex china 2026",
+      "lastmod": null,
+      "title": "Overseas Jobs — Structure Report"
+    },
+    {
+      "url": "https://metix.ai/reports/series/applied-scientist-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/applied-scientist-peer-pack-2026",
+      "kind": "series",
+      "slug": "applied-scientist-peer-pack-2026",
+      "title_guess": "applied scientist peer pack 2026",
+      "lastmod": "2026-09-21",
+      "title": "Applied Scientist Peer Pack: Amazon 4413 vs Microsoft 1624"
+    },
+    {
+      "url": "https://metix.ai/reports/series/data-scientist-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/data-scientist-peer-pack-2026",
+      "kind": "series",
+      "slug": "data-scientist-peer-pack-2026",
+      "title_guess": "data scientist peer pack 2026",
+      "lastmod": "2026-09-21",
+      "title": "Data Scientist Peer Pack: Meta 2593 vs Uber 378"
+    },
+    {
+      "url": "https://metix.ai/reports/series/product-designer-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/product-designer-peer-pack-2026",
+      "kind": "series",
+      "slug": "product-designer-peer-pack-2026",
+      "title_guess": "product designer peer pack 2026",
+      "lastmod": "2026-09-21",
+      "title": "Product Designer Peer Pack: Shopify 206 vs Adobe 138"
+    },
+    {
+      "url": "https://metix.ai/reports/series/research-scientist-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/research-scientist-peer-pack-2026",
+      "kind": "series",
+      "slug": "research-scientist-peer-pack-2026",
+      "title_guess": "research scientist peer pack 2026",
+      "lastmod": "2026-09-21",
+      "title": "Research Scientist Peer Pack: Meta 3255 vs Google 790"
+    },
+    {
+      "url": "https://metix.ai/reports/series/solutions-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/solutions-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "solutions-eng-peer-pack-2026",
+      "title_guess": "solutions eng peer pack 2026",
+      "lastmod": "2026-09-21",
+      "title": "Solutions Engineer Peer Pack: Databricks 664 vs Cloudflare 327"
+    },
+    {
+      "url": "https://metix.ai/reports/series/infra-sre-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/infra-sre-peer-pack-2026",
+      "kind": "series",
+      "slug": "infra-sre-peer-pack-2026",
+      "title_guess": "infra sre peer pack 2026",
+      "lastmod": "2026-09-17",
+      "title": "Infra SRE Peer Pack: Elastic 56 vs MongoDB 43"
+    },
+    {
+      "url": "https://metix.ai/reports/series/ml-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/ml-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "ml-eng-peer-pack-2026",
+      "title_guess": "ml eng peer pack 2026",
+      "lastmod": "2026-09-18",
+      "title": "Machine Learning Engineer Peer Pack: Scale AI 89 vs Hugging Face 62"
+    },
+    {
+      "url": "https://metix.ai/reports/series/network-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/network-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "network-eng-peer-pack-2026",
+      "title_guess": "network eng peer pack 2026",
+      "lastmod": "2026-09-18",
+      "title": "Network Engineer Peer Pack: Cisco 1896 vs Juniper 150"
+    },
+    {
+      "url": "https://metix.ai/reports/series/sec-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/sec-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "sec-eng-peer-pack-2026",
+      "title_guess": "sec eng peer pack 2026",
+      "lastmod": "2026-09-18",
+      "title": "Security Engineer Peer Pack: Palo Alto Networks 193 vs CrowdStrike 100"
+    },
+    {
+      "url": "https://metix.ai/reports/series/solutions-arch-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/solutions-arch-peer-pack-2026",
+      "kind": "series",
+      "slug": "solutions-arch-peer-pack-2026",
+      "title_guess": "solutions arch peer pack 2026",
+      "lastmod": "2026-09-18",
+      "title": "Solutions Architect Peer Pack: Databricks 1505 vs Snowflake 322"
+    },
+    {
+      "url": "https://metix.ai/reports/series/sre-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/sre-peer-pack-2026",
+      "kind": "series",
+      "slug": "sre-peer-pack-2026",
+      "title_guess": "sre peer pack 2026",
+      "lastmod": "2026-09-14",
+      "title": "SRE Peer Pack: GitLab 47 vs CrowdStrike 26"
+    },
+    {
+      "url": "https://metix.ai/reports/series/jpmorgan-goldman-markets-2026",
+      "canonical": "https://metix.ai/reports/series/jpmorgan-goldman-markets-2026",
+      "kind": "series",
+      "slug": "jpmorgan-goldman-markets-2026",
+      "title_guess": "jpmorgan goldman markets 2026",
+      "lastmod": "2026-09-14",
+      "title": "Goldman 67 vs JPMorgan 38 | Electronic Trading / Trading Technology"
+    },
+    {
+      "url": "https://metix.ai/reports/series/airbnb-booking-marketplace-2026",
+      "canonical": "https://metix.ai/reports/series/airbnb-booking-marketplace-2026",
+      "kind": "series",
+      "slug": "airbnb-booking-marketplace-2026",
+      "title_guess": "airbnb booking marketplace 2026",
+      "lastmod": "2026-09-14",
+      "title": "Airbnb 16 vs Booking 21 | Host Pricing / Marketplace"
+    },
+    {
+      "url": "https://metix.ai/reports/series/skyworks-qorvo-rf-2026",
+      "canonical": "https://metix.ai/reports/series/skyworks-qorvo-rf-2026",
+      "kind": "series",
+      "slug": "skyworks-qorvo-rf-2026",
+      "title_guess": "skyworks qorvo rf 2026",
+      "lastmod": "2026-09-14",
+      "title": "Skyworks 80 vs Qorvo 92 | RF Front-End / RFIC"
+    },
+    {
+      "url": "https://metix.ai/reports/series/ti-adi-analog-2026",
+      "canonical": "https://metix.ai/reports/series/ti-adi-analog-2026",
+      "kind": "series",
+      "slug": "ti-adi-analog-2026",
+      "title_guess": "ti adi analog 2026",
+      "lastmod": "2026-09-14",
+      "title": "TI 692 vs ADI 374 | Analog / Mixed-Signal"
+    },
+    {
+      "url": "https://metix.ai/reports/series/asml-kla-overlay-litho-process-control-2026",
+      "canonical": "https://metix.ai/reports/series/asml-kla-overlay-litho-process-control-2026",
+      "kind": "series",
+      "slug": "asml-kla-overlay-litho-process-control-2026",
+      "title_guess": "asml kla overlay litho process control 2026",
+      "lastmod": "2026-09-14",
+      "title": "ASML Eindhoven 191 vs HQ Veldhoven 21"
+    },
+    {
+      "url": "https://metix.ai/reports/series/av-perception-talent-2026",
+      "canonical": "https://metix.ai/reports/series/av-perception-talent-2026",
+      "kind": "series",
+      "slug": "av-perception-talent-2026",
+      "title_guess": "av perception talent 2026",
+      "lastmod": "2026-09-14",
+      "title": "Waymo 48 / Zoox 9 Jobs | AV Perception"
+    },
+    {
+      "url": "https://metix.ai/reports/series/cadence-synopsys-emulation-hav-2026",
+      "canonical": "https://metix.ai/reports/series/cadence-synopsys-emulation-hav-2026",
+      "kind": "series",
+      "slug": "cadence-synopsys-emulation-hav-2026",
+      "title_guess": "cadence synopsys emulation hav 2026",
+      "lastmod": "2026-09-14",
+      "title": "Synopsys 43 HAV Seats vs Cadence 29"
+    },
+    {
+      "url": "https://metix.ai/reports/series/coreweave-crusoe-dc-ops-2026",
+      "canonical": "https://metix.ai/reports/series/coreweave-crusoe-dc-ops-2026",
+      "kind": "series",
+      "slug": "coreweave-crusoe-dc-ops-2026",
+      "title_guess": "coreweave crusoe dc ops 2026",
+      "lastmod": "2026-09-14",
+      "title": "CoreWeave: 93 of 102 US DC-Ops Seats"
+    },
+    {
+      "url": "https://metix.ai/reports/series/defense-ai-autonomy-talent-2026",
+      "canonical": "https://metix.ai/reports/series/defense-ai-autonomy-talent-2026",
+      "kind": "series",
+      "slug": "defense-ai-autonomy-talent-2026",
+      "title_guess": "defense ai autonomy talent 2026",
+      "lastmod": "2026-09-14",
+      "title": "Anduril 54 / Shield AI 38 Jobs | Defense Autonomy"
+    },
+    {
+      "url": "https://metix.ai/reports/series/joby-archer-evtol-gnc-2026",
+      "canonical": "https://metix.ai/reports/series/joby-archer-evtol-gnc-2026",
+      "kind": "series",
+      "slug": "joby-archer-evtol-gnc-2026",
+      "title_guess": "joby archer evtol gnc 2026",
+      "lastmod": "2026-09-14",
+      "title": "Archer 84 vs Joby 38 | eVTOL GNC"
+    },
+    {
+      "url": "https://metix.ai/reports/series/lam-amat-etch-deposition-process-2026",
+      "canonical": "https://metix.ai/reports/series/lam-amat-etch-deposition-process-2026",
+      "kind": "series",
+      "slug": "lam-amat-etch-deposition-process-2026",
+      "title_guess": "lam amat etch deposition process 2026",
+      "lastmod": "2026-09-14",
+      "title": "Applied 213 vs Lam 120 | Etch / Deposition"
+    },
+    {
+      "url": "https://metix.ai/reports/series/mongodb-elastic-query-search-2026",
+      "canonical": "https://metix.ai/reports/series/mongodb-elastic-query-search-2026",
+      "kind": "series",
+      "slug": "mongodb-elastic-query-search-2026",
+      "title_guess": "mongodb elastic query search 2026",
+      "lastmod": "2026-09-14",
+      "title": "Mongo 24 vs Elastic 31 | Query / Search Seats"
+    },
+    {
+      "url": "https://metix.ai/reports/series/spacex-rocketlab-blueorigin-launch-gnc-2026",
+      "canonical": "https://metix.ai/reports/series/spacex-rocketlab-blueorigin-launch-gnc-2026",
+      "kind": "series",
+      "slug": "spacex-rocketlab-blueorigin-launch-gnc-2026",
+      "title_guess": "spacex rocketlab blueorigin launch gnc 2026",
+      "lastmod": "2026-09-14",
+      "title": "Blue Origin 318 GNC Jobs | Launch Flight Software"
+    },
+    {
+      "url": "https://metix.ai/reports/series/stripe-adyen-fraud-risk-2026",
+      "canonical": "https://metix.ai/reports/series/stripe-adyen-fraud-risk-2026",
+      "kind": "series",
+      "slug": "stripe-adyen-fraud-risk-2026",
+      "title_guess": "stripe adyen fraud risk 2026",
+      "lastmod": "2026-09-14",
+      "title": "Stripe Bengaluru 83 | Payments Fraud / Risk ML"
+    },
+    {
+      "url": "https://metix.ai/reports/series/legal-ai-talent-2026",
+      "canonical": "https://metix.ai/reports/series/legal-ai-talent-2026",
+      "kind": "series",
+      "slug": "legal-ai-talent-2026",
+      "title_guess": "legal ai talent 2026",
+      "lastmod": "2026-09-14",
+      "title": "legal ai talent 2026"
+    },
+    {
+      "url": "https://metix.ai/reports/series/voice-speech-ai-talent-2026",
+      "canonical": "https://metix.ai/reports/series/voice-speech-ai-talent-2026",
+      "kind": "series",
+      "slug": "voice-speech-ai-talent-2026",
+      "title_guess": "voice speech ai talent 2026",
+      "lastmod": "2026-09-14",
+      "title": "voice speech ai talent 2026"
+    },
+    {
+      "url": "https://metix.ai/reports/series/fde-employed-vs-jd-2026",
+      "canonical": "https://metix.ai/reports/series/fde-employed-vs-jd-2026",
+      "kind": "series",
+      "slug": "fde-employed-vs-jd-2026",
+      "title_guess": "fde employed vs jd 2026",
+      "lastmod": "2026-09-14",
+      "title": "fde employed vs jd 2026"
+    },
+    {
+      "url": "https://metix.ai/reports/series/inference-serving-talent-2026",
+      "canonical": "https://metix.ai/reports/series/inference-serving-talent-2026",
+      "kind": "series",
+      "slug": "inference-serving-talent-2026",
+      "title_guess": "inference serving talent 2026",
+      "lastmod": "2026-09-14",
+      "title": "inference serving talent 2026"
+    }
+  ]
+}
