@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-21T12:44:05Z",
+  "generated_at": "2026-09-22T01:58:49Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 53,
+    "total": 58,
     "hubs": 2,
-    "series": 29,
+    "series": 34,
     "mapping": 22
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-09-21",
+      "lastmod": "2026-09-22",
       "title": "Metix AI Reports"
     },
     {
@@ -203,6 +203,46 @@
       "slug": "job-distribution-ex-china-2026",
       "lastmod": null,
       "title": "Overseas Jobs — Structure Report"
+    },
+    {
+      "url": "https://metix.ai/reports/series/data-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/data-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "data-eng-peer-pack-2026",
+      "lastmod": "2026-09-22",
+      "title": "Data Engineer Peer Pack: Netflix 173 vs Uber 89"
+    },
+    {
+      "url": "https://metix.ai/reports/series/ios-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/ios-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "ios-eng-peer-pack-2026",
+      "lastmod": "2026-09-22",
+      "title": "iOS Engineer Peer Pack: Apple 367 vs Meta 83"
+    },
+    {
+      "url": "https://metix.ai/reports/series/product-mgr-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/product-mgr-peer-pack-2026",
+      "kind": "series",
+      "slug": "product-mgr-peer-pack-2026",
+      "lastmod": "2026-09-22",
+      "title": "Product Manager Peer Pack: Google 4099 vs Meta 2657"
+    },
+    {
+      "url": "https://metix.ai/reports/series/sales-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/sales-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "sales-eng-peer-pack-2026",
+      "lastmod": "2026-09-22",
+      "title": "Sales Engineer Peer Pack: Snowflake 328 vs Cisco 114"
+    },
+    {
+      "url": "https://metix.ai/reports/series/tpm-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/tpm-peer-pack-2026",
+      "kind": "series",
+      "slug": "tpm-peer-pack-2026",
+      "lastmod": "2026-09-22",
+      "title": "Technical Program Manager Peer Pack: Amazon 5100 vs Google 3831"
     },
     {
       "url": "https://metix.ai/reports/series/applied-scientist-peer-pack-2026",
