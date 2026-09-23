@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-22T11:34:28Z",
+  "generated_at": "2026-09-23T01:46:21Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 58,
+    "total": 64,
     "hubs": 2,
-    "series": 34,
+    "series": 40,
     "mapping": 22
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-09-22",
+      "lastmod": "2026-09-23",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-09-04",
+      "lastmod": "2026-09-23",
       "title": "Metix AI Series Reports"
     },
     {
@@ -33,7 +33,7 @@
       "canonical": "https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026",
       "kind": "mapping",
       "slug": "salesforce-agentforce-hiring-2026",
-      "lastmod": "2026-09-07",
+      "lastmod": "2026-09-04",
       "title": "Cutting Technical Roles While Hiring for Sales and Delivery: Salesforce After Agentforce Passed $1B"
     },
     {
@@ -41,7 +41,7 @@
       "canonical": "https://metix.ai/reports/mapping/si-genai-delivery-bench-2026",
       "kind": "mapping",
       "slug": "si-genai-delivery-bench-2026",
-      "lastmod": "2026-08-28",
+      "lastmod": "2026-09-07",
       "title": "SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators"
     },
     {
@@ -49,7 +49,7 @@
       "canonical": "https://metix.ai/reports/mapping/wall-street-senior-banker-2026",
       "kind": "mapping",
       "slug": "wall-street-senior-banker-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-08-28",
       "title": "The Wall Street Talent War: Mapping Senior Banker Flows Across 11 Investment Banks"
     },
     {
@@ -57,7 +57,7 @@
       "canonical": "https://metix.ai/reports/mapping/databricks-ai-talent-strategy-2026",
       "kind": "mapping",
       "slug": "databricks-ai-talent-strategy-2026",
-      "lastmod": "2026-08-27",
+      "lastmod": "2026-08-20",
       "title": "From Data Engineering to AI Agents: How Databricks Is Reshaping the Enterprise Data Stack"
     },
     {
@@ -65,7 +65,7 @@
       "canonical": "https://metix.ai/reports/mapping/nvidia-ai-infrastructure-talent-race-2026",
       "kind": "mapping",
       "slug": "nvidia-ai-infrastructure-talent-race-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-08-27",
       "title": "AI Infra Talent Race: Roles Constraining Compute Buildout"
     },
     {
@@ -73,7 +73,7 @@
       "canonical": "https://metix.ai/reports/mapping/ai-infra-capital-talent-2026",
       "kind": "mapping",
       "slug": "ai-infra-capital-talent-2026",
-      "lastmod": "2026-08-19",
+      "lastmod": "2026-08-20",
       "title": "Six Banks and $500B+ AI-Infra Capital: The Talent Layer"
     },
     {
@@ -81,7 +81,7 @@
       "canonical": "https://metix.ai/reports/mapping/ai-next-talent-gap-2026",
       "kind": "mapping",
       "slug": "ai-next-talent-gap-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-08-19",
       "title": "Jeff Dean leaves Google, revealing AI’s next talent gap"
     },
     {
@@ -201,8 +201,56 @@
       "canonical": "https://metix.ai/reports/mapping/job-distribution-ex-china-2026",
       "kind": "mapping",
       "slug": "job-distribution-ex-china-2026",
-      "lastmod": null,
+      "lastmod": "2026-08-20",
       "title": "Overseas Jobs — Structure Report"
+    },
+    {
+      "url": "https://metix.ai/reports/series/android-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/android-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "android-eng-peer-pack-2026",
+      "lastmod": "2026-09-23",
+      "title": "Android Engineer Peer Pack: Google 345 vs Meta 61"
+    },
+    {
+      "url": "https://metix.ai/reports/series/fde-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/fde-peer-pack-2026",
+      "kind": "series",
+      "slug": "fde-peer-pack-2026",
+      "lastmod": "2026-09-23",
+      "title": "Forward Deployed Engineer Peer Pack: Palantir 576 vs Meta 96"
+    },
+    {
+      "url": "https://metix.ai/reports/series/fw-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/fw-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "fw-eng-peer-pack-2026",
+      "lastmod": "2026-09-23",
+      "title": "Firmware Engineer Peer Pack: Apple 820 vs Qualcomm 521"
+    },
+    {
+      "url": "https://metix.ai/reports/series/hw-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/hw-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "hw-eng-peer-pack-2026",
+      "lastmod": "2026-09-23",
+      "title": "Hardware Engineer Peer Pack: Apple 828 vs Qualcomm 432"
+    },
+    {
+      "url": "https://metix.ai/reports/series/uxr-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/uxr-peer-pack-2026",
+      "kind": "series",
+      "slug": "uxr-peer-pack-2026",
+      "lastmod": "2026-09-23",
+      "title": "UX Researcher Peer Pack: Google 1121 vs Meta 634"
+    },
+    {
+      "url": "https://metix.ai/reports/series/data-eng-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/data-eng-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "data-eng-employed-vs-open-2026",
+      "lastmod": "2026-09-23",
+      "title": "Data Engineer Employed vs Open: Netflix 173 against 5"
     },
     {
       "url": "https://metix.ai/reports/series/data-eng-peer-pack-2026",
@@ -289,7 +337,7 @@
       "canonical": "https://metix.ai/reports/series/infra-sre-peer-pack-2026",
       "kind": "series",
       "slug": "infra-sre-peer-pack-2026",
-      "lastmod": "2026-09-17",
+      "lastmod": "2026-09-22",
       "title": "Infra SRE Peer Pack: Elastic 56 vs MongoDB 43"
     },
     {
@@ -329,7 +377,7 @@
       "canonical": "https://metix.ai/reports/series/sre-peer-pack-2026",
       "kind": "series",
       "slug": "sre-peer-pack-2026",
-      "lastmod": "2026-09-14",
+      "lastmod": "2026-09-22",
       "title": "SRE Peer Pack: GitLab 47 vs CrowdStrike 26"
     },
     {
