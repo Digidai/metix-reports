@@ -15,9 +15,9 @@ Metix publishes structured talent reports (series peer packs / benches and mappi
 - Series sitemap: https://metix.ai/reports/series/sitemap.xml
 - Mapping sitemap: https://metix.ai/reports/sitemap.xml
 
-## Catalog (64 URLs)
+## Catalog (66 URLs)
 
-Generated `2026-09-23T01:46:21Z` from live sitemaps (40 series · 22 mapping · 2 hubs).
+Generated `2026-09-23T11:31:40Z` from live sitemaps (42 series · 22 mapping · 2 hubs).
 
 ### Series
 
@@ -30,9 +30,10 @@ Generated `2026-09-23T01:46:21Z` from live sitemaps (40 series · 22 mapping · 
 - [Archer 84 vs Joby 38 | eVTOL GNC](https://metix.ai/reports/series/joby-archer-evtol-gnc-2026) — lastmod `2026-09-14`
 - [ASML Eindhoven 191 vs HQ Veldhoven 21](https://metix.ai/reports/series/asml-kla-overlay-litho-process-control-2026) — lastmod `2026-09-14`
 - [Blue Origin 318 GNC Jobs | Launch Flight Software](https://metix.ai/reports/series/spacex-rocketlab-blueorigin-launch-gnc-2026) — lastmod `2026-09-14`
+- [Career families](https://metix.ai/reports/series/career-families) — lastmod `2026-09-23`
 - [CoreWeave: 93 of 102 US DC-Ops Seats](https://metix.ai/reports/series/coreweave-crusoe-dc-ops-2026) — lastmod `2026-09-14`
 - [Data Engineer Employed vs Open: Netflix 173 against 5](https://metix.ai/reports/series/data-eng-employed-vs-open-2026) — lastmod `2026-09-23`
-- [Data Engineer Peer Pack: Netflix 173 vs Uber 89](https://metix.ai/reports/series/data-eng-peer-pack-2026) — lastmod `2026-09-22`
+- [Data Engineer Peer Pack: Netflix 173 vs Uber 89](https://metix.ai/reports/series/data-eng-peer-pack-2026) — lastmod `2026-09-23`
 - [Data Scientist Peer Pack: Meta 2593 vs Uber 378](https://metix.ai/reports/series/data-scientist-peer-pack-2026) — lastmod `2026-09-21`
 - [ElevenLabs Voice AI: 622 Current, 219 Jobs](https://metix.ai/reports/series/voice-speech-ai-talent-2026) — lastmod `2026-09-14`
 - [EvenUp Legal 195 vs Lawyer 3](https://metix.ai/reports/series/legal-ai-talent-2026) — lastmod `2026-09-14`
@@ -40,7 +41,7 @@ Generated `2026-09-23T01:46:21Z` from live sitemaps (40 series · 22 mapping · 
 - [Forward Deployed Engineer Peer Pack: Palantir 576 vs Meta 96](https://metix.ai/reports/series/fde-peer-pack-2026) — lastmod `2026-09-23`
 - [Goldman 67 vs JPMorgan 38 | Electronic Trading / Trading Technology](https://metix.ai/reports/series/jpmorgan-goldman-markets-2026) — lastmod `2026-09-14`
 - [Hardware Engineer Peer Pack: Apple 828 vs Qualcomm 432](https://metix.ai/reports/series/hw-eng-peer-pack-2026) — lastmod `2026-09-23`
-- [Infra SRE Peer Pack: Elastic 56 vs MongoDB 43](https://metix.ai/reports/series/infra-sre-peer-pack-2026) — lastmod `2026-09-22`
+- [Infra SRE Peer Pack: Elastic 56 vs MongoDB 43](https://metix.ai/reports/series/infra-sre-peer-pack-2026) — lastmod `2026-09-23`
 - [iOS Engineer Peer Pack: Apple 367 vs Meta 83](https://metix.ai/reports/series/ios-eng-peer-pack-2026) — lastmod `2026-09-22`
 - [Machine Learning Engineer Peer Pack: Scale AI 89 vs Hugging Face 62](https://metix.ai/reports/series/ml-eng-peer-pack-2026) — lastmod `2026-09-18`
 - [Mongo 24 vs Elastic 31 | Query / Search Seats](https://metix.ai/reports/series/mongodb-elastic-query-search-2026) — lastmod `2026-09-14`
@@ -51,10 +52,11 @@ Generated `2026-09-23T01:46:21Z` from live sitemaps (40 series · 22 mapping · 
 - [Research Scientist Peer Pack: Meta 3255 vs Google 790](https://metix.ai/reports/series/research-scientist-peer-pack-2026) — lastmod `2026-09-21`
 - [Sales Engineer Peer Pack: Snowflake 328 vs Cisco 114](https://metix.ai/reports/series/sales-eng-peer-pack-2026) — lastmod `2026-09-22`
 - [Security Engineer Peer Pack: Palo Alto Networks 193 vs CrowdStrike 100](https://metix.ai/reports/series/sec-eng-peer-pack-2026) — lastmod `2026-09-18`
+- [Series methodology](https://metix.ai/reports/series/methodology) — lastmod `2026-09-23`
 - [Skyworks 80 vs Qorvo 92 | RF Front-End / RFIC](https://metix.ai/reports/series/skyworks-qorvo-rf-2026) — lastmod `2026-09-14`
 - [Solutions Architect Peer Pack: Databricks 1505 vs Snowflake 322](https://metix.ai/reports/series/solutions-arch-peer-pack-2026) — lastmod `2026-09-18`
 - [Solutions Engineer Peer Pack: Databricks 664 vs Cloudflare 327](https://metix.ai/reports/series/solutions-eng-peer-pack-2026) — lastmod `2026-09-21`
-- [SRE Peer Pack: GitLab 47 vs CrowdStrike 26](https://metix.ai/reports/series/sre-peer-pack-2026) — lastmod `2026-09-22`
+- [SRE Peer Pack: GitLab 47 vs CrowdStrike 26](https://metix.ai/reports/series/sre-peer-pack-2026) — lastmod `2026-09-23`
 - [Stripe Bengaluru 83 | Payments Fraud / Risk ML](https://metix.ai/reports/series/stripe-adyen-fraud-risk-2026) — lastmod `2026-09-14`
 - [Synopsys 43 HAV Seats vs Cadence 29](https://metix.ai/reports/series/cadence-synopsys-emulation-hav-2026) — lastmod `2026-09-14`
 - [Technical Program Manager Peer Pack: Amazon 5100 vs Google 3831](https://metix.ai/reports/series/tpm-peer-pack-2026) — lastmod `2026-09-22`

@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-23T01:46:21Z",
+  "generated_at": "2026-09-23T11:31:40Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 64,
+    "total": 66,
     "hubs": 2,
-    "series": 40,
+    "series": 42,
     "mapping": 22
   },
   "entries": [
@@ -257,7 +257,7 @@
       "canonical": "https://metix.ai/reports/series/data-eng-peer-pack-2026",
       "kind": "series",
       "slug": "data-eng-peer-pack-2026",
-      "lastmod": "2026-09-22",
+      "lastmod": "2026-09-23",
       "title": "Data Engineer Peer Pack: Netflix 173 vs Uber 89"
     },
     {
@@ -337,7 +337,7 @@
       "canonical": "https://metix.ai/reports/series/infra-sre-peer-pack-2026",
       "kind": "series",
       "slug": "infra-sre-peer-pack-2026",
-      "lastmod": "2026-09-22",
+      "lastmod": "2026-09-23",
       "title": "Infra SRE Peer Pack: Elastic 56 vs MongoDB 43"
     },
     {
@@ -377,7 +377,7 @@
       "canonical": "https://metix.ai/reports/series/sre-peer-pack-2026",
       "kind": "series",
       "slug": "sre-peer-pack-2026",
-      "lastmod": "2026-09-22",
+      "lastmod": "2026-09-23",
       "title": "SRE Peer Pack: GitLab 47 vs CrowdStrike 26"
     },
     {
@@ -523,6 +523,22 @@
       "slug": "inference-serving-talent-2026",
       "lastmod": "2026-09-14",
       "title": "Anyscale 489, Groq 1 Job | Inference Serving"
+    },
+    {
+      "url": "https://metix.ai/reports/series/methodology",
+      "canonical": "https://metix.ai/reports/series/methodology",
+      "kind": "series",
+      "slug": "methodology",
+      "lastmod": "2026-09-23",
+      "title": "Series methodology"
+    },
+    {
+      "url": "https://metix.ai/reports/series/career-families",
+      "canonical": "https://metix.ai/reports/series/career-families",
+      "kind": "series",
+      "slug": "career-families",
+      "lastmod": "2026-09-23",
+      "title": "Career families"
     }
   ]
 }
