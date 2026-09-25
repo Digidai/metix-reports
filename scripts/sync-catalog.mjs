@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 /**
- * Refresh data/catalog.json (+ README series/mapping sections + docs/index.html)
- * from live Metix sitemaps. No secrets required.
+ * Refresh data/catalog.json (+ README series/mapping sections + docs/index.html
+ * + docs/llms.txt) from live Metix sitemaps. No secrets required.
+ * llms.txt is pointers only: canonical indexes, hubs, and title+URL lines.
  */
 import { writeFileSync, readFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
@@ -13,6 +14,10 @@ const UA = 'MetixCatalogSync/1.0 (+https://github.com/Digidai/metix-reports)';
 const SITEMAPS = [
   'https://metix.ai/reports/sitemap.xml',
   'https://metix.ai/reports/series/sitemap.xml',
+];
+const CANONICAL_LLMS = [
+  'https://metix.ai/reports/llms.txt',
+  'https://metix.ai/reports/series/llms.txt',
 ];
 
 async function fetchText(url) {
@@ -131,9 +136,42 @@ const index = `<!DOCTYPE html>
   <ul>
     ${lis}
   </ul>
+  <h2>LLM indexes</h2>
+  <p>Pointers only. Report bodies stay on metix.ai:</p>
+  <ul>
+    <li><a href="https://metix.ai/reports/llms.txt">https://metix.ai/reports/llms.txt</a></li>
+    <li><a href="https://metix.ai/reports/series/llms.txt">https://metix.ai/reports/series/llms.txt</a></li>
+    <li><a href="llms.txt">llms.txt</a> on this site (same pointers, regenerated with the catalog)</li>
+  </ul>
   <p><a href="https://github.com/Digidai/metix-reports">Source repo</a> · <a href="https://raw.githubusercontent.com/Digidai/metix-reports/main/data/catalog.json">catalog.json</a></p>
 </body>
 </html>
 `;
 writeFileSync(join(ROOT, 'docs/index.html'), index);
+
+const pointerLines = entries
+  .map((e) => `- [${e.title.replaceAll('[', '(').replaceAll(']', ')')}](${e.url})`)
+  .join('\n');
+const llms = `# Metix AI Reports — public catalog
+
+> Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
+
+Generated: ${catalog.generated_at}
+Counts: ${catalog.counts.total} URLs (${catalog.counts.series} series, ${catalog.counts.mapping} mapping, ${catalog.counts.hubs} hubs).
+
+## Canonical LLM indexes
+
+- [Reports llms.txt](${CANONICAL_LLMS[0]}): canonical mapping index on metix.ai
+- [Series llms.txt](${CANONICAL_LLMS[1]}): canonical series index on metix.ai
+
+## Hubs
+
+- [Reports hub](https://metix.ai/reports/)
+- [Series hub](https://metix.ai/reports/series/)
+
+## Catalog URLs
+
+${pointerLines}
+`;
+writeFileSync(join(ROOT, 'docs/llms.txt'), llms);
 console.log('synced', catalog.counts);
