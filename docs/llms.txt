@@ -2,7 +2,7 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-09-25T04:09:09Z
+Generated: 2026-09-25T11:47:51Z
 Counts: 76 URLs (52 series, 22 mapping, 2 hubs).
 
 ## Canonical LLM indexes
