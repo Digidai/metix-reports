@@ -17,7 +17,7 @@ Metix publishes structured talent reports (series peer packs / benches and mappi
 
 ## Catalog (76 URLs)
 
-Generated `2026-09-25T04:05:34Z` from live sitemaps (52 series · 22 mapping · 2 hubs).
+Generated `2026-09-25T04:09:09Z` from live sitemaps (52 series · 22 mapping · 2 hubs).
 
 ### Series
 
@@ -119,7 +119,9 @@ Each Pages entry uses `rel=canonical` toward metix.ai where applicable. Full HTM
 node scripts/sync-catalog.mjs
 ```
 
-GitHub Action `.github/workflows/sync-catalog.yml` refreshes the catalog on a schedule from live sitemaps.
+GitHub Action `.github/workflows/sync-catalog.yml` refreshes the catalog from live sitemaps on a daily cron, a weekday 01:07 UTC cron, `workflow_dispatch`, and `repository_dispatch` type `metix-catalog-sync`.
+
+LLM pointer file (no report bodies): [`docs/llms.txt`](docs/llms.txt). Canonical indexes remain [metix.ai/reports/llms.txt](https://metix.ai/reports/llms.txt) and [metix.ai/reports/series/llms.txt](https://metix.ai/reports/series/llms.txt).
 
 ## SEO rationale (honest)
 

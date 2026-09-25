@@ -1,8 +1,13 @@
 name: Sync catalog from Metix sitemaps
 on:
   schedule:
+    # Daily catch-all, plus a weekday run after the Asia/Shanghai morning
+    # publish window (~00:48Z / 08:48 CST). Two runs on weekdays, one on weekends.
     - cron: "17 6 * * *"
+    - cron: "7 1 * * 1-5"
   workflow_dispatch:
+  repository_dispatch:
+    types: [metix-catalog-sync]
 permissions:
   contents: write
 jobs:
@@ -23,6 +28,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/catalog.json README.md docs/index.html
+          git add data/catalog.json README.md docs/index.html docs/llms.txt
           git commit -m "chore: sync catalog from metix.ai sitemaps"
           git push
