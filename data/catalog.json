@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-25T11:47:51Z",
+  "generated_at": "2026-09-26T11:21:45Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 76,
+    "total": 145,
     "hubs": 2,
     "series": 52,
-    "mapping": 22
+    "mapping": 91
   },
   "entries": [
     {
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-09-25",
+      "lastmod": "2026-09-26",
       "title": "Metix AI Reports"
     },
     {
@@ -203,6 +203,558 @@
       "slug": "job-distribution-ex-china-2026",
       "lastmod": "2026-08-20",
       "title": "Overseas Jobs — Structure Report"
+    },
+    {
+      "url": "https://metix.ai/reports/methodology",
+      "canonical": "https://metix.ai/reports/methodology",
+      "kind": "mapping",
+      "slug": "methodology",
+      "lastmod": "2026-09-26",
+      "title": "How Metix talent maps are built"
+    },
+    {
+      "url": "https://metix.ai/reports/topics/ai-infra-chips",
+      "canonical": "https://metix.ai/reports/topics/ai-infra-chips",
+      "kind": "mapping",
+      "slug": "ai-infra-chips",
+      "lastmod": "2026-08-27",
+      "title": "AI infrastructure and chip talent map"
+    },
+    {
+      "url": "https://metix.ai/reports/topics/clinical-techbio",
+      "canonical": "https://metix.ai/reports/topics/clinical-techbio",
+      "kind": "mapping",
+      "slug": "clinical-techbio",
+      "lastmod": "2026-08-20",
+      "title": "Clinical AI and TechBio talent map"
+    },
+    {
+      "url": "https://metix.ai/reports/topics/embodied-robotics",
+      "canonical": "https://metix.ai/reports/topics/embodied-robotics",
+      "kind": "mapping",
+      "slug": "embodied-robotics",
+      "lastmod": "2026-08-20",
+      "title": "Embodied AI and humanoid talent map"
+    },
+    {
+      "url": "https://metix.ai/reports/topics/fintech-ai",
+      "canonical": "https://metix.ai/reports/topics/fintech-ai",
+      "kind": "mapping",
+      "slug": "fintech-ai",
+      "lastmod": "2026-08-20",
+      "title": "Fintech and quant-to-AI talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/topics/frontier-ai-labs",
+      "canonical": "https://metix.ai/reports/topics/frontier-ai-labs",
+      "kind": "mapping",
+      "slug": "frontier-ai-labs",
+      "lastmod": "2026-08-20",
+      "title": "Frontier AI Labs talent structure"
+    },
+    {
+      "url": "https://metix.ai/reports/topics/overseas-chinese-talent",
+      "canonical": "https://metix.ai/reports/topics/overseas-chinese-talent",
+      "kind": "mapping",
+      "slug": "overseas-chinese-talent",
+      "lastmod": "2026-08-20",
+      "title": "Overseas job structure and ethnic-Chinese algorithm talent"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/ai-infra-accountability-seats",
+      "canonical": "https://metix.ai/reports/questions/ai-infra-accountability-seats",
+      "kind": "mapping",
+      "slug": "ai-infra-accountability-seats",
+      "lastmod": "2026-08-20",
+      "title": "How many accountability seats connect AI-infra capital to delivery?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/ai-infra-construction-scarcity",
+      "canonical": "https://metix.ai/reports/questions/ai-infra-construction-scarcity",
+      "kind": "mapping",
+      "slug": "ai-infra-construction-scarcity",
+      "lastmod": "2026-08-27",
+      "title": "Which AI infrastructure role is scarcest?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/ai-infra-core-company-map",
+      "canonical": "https://metix.ai/reports/questions/ai-infra-core-company-map",
+      "kind": "mapping",
+      "slug": "ai-infra-core-company-map",
+      "lastmod": "2026-08-20",
+      "title": "How many core companies are on the AI-infra capital talent map?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/ai-infra-datacenter-engineer-postings",
+      "canonical": "https://metix.ai/reports/questions/ai-infra-datacenter-engineer-postings",
+      "kind": "mapping",
+      "slug": "ai-infra-datacenter-engineer-postings",
+      "lastmod": "2026-08-27",
+      "title": "How many US data-center engineer jobs post per day?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/ai-infra-electrical-power-growth",
+      "canonical": "https://metix.ai/reports/questions/ai-infra-electrical-power-growth",
+      "kind": "mapping",
+      "slug": "ai-infra-electrical-power-growth",
+      "lastmod": "2026-08-27",
+      "title": "How fast is electrical and power hiring growing versus data-center engineers?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/ai-infra-internal-mobility",
+      "canonical": "https://metix.ai/reports/questions/ai-infra-internal-mobility",
+      "kind": "mapping",
+      "slug": "ai-infra-internal-mobility",
+      "lastmod": "2026-08-27",
+      "title": "Where do AI infrastructure hires come from?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/ai-video-builder-share",
+      "canonical": "https://metix.ai/reports/questions/ai-video-builder-share",
+      "kind": "mapping",
+      "slug": "ai-video-builder-share",
+      "lastmod": "2026-08-20",
+      "title": "How many people at AI video companies are builders?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/ai-video-joined-two-years",
+      "canonical": "https://metix.ai/reports/questions/ai-video-joined-two-years",
+      "kind": "mapping",
+      "slug": "ai-video-joined-two-years",
+      "lastmod": "2026-08-20",
+      "title": "What share of AI video builders joined in the last two years?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/ai-video-phd-share",
+      "canonical": "https://metix.ai/reports/questions/ai-video-phd-share",
+      "kind": "mapping",
+      "slug": "ai-video-phd-share",
+      "lastmod": "2026-08-20",
+      "title": "What is the PhD share of AI video builders?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/anthropic-gtm-share",
+      "canonical": "https://metix.ai/reports/questions/anthropic-gtm-share",
+      "kind": "mapping",
+      "slug": "anthropic-gtm-share",
+      "lastmod": "2026-08-20",
+      "title": "How commercial is Anthropic’s talent mix?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/anthropic-mts-share",
+      "canonical": "https://metix.ai/reports/questions/anthropic-mts-share",
+      "kind": "mapping",
+      "slug": "anthropic-mts-share",
+      "lastmod": "2026-08-20",
+      "title": "What share of Anthropic staff are Member of Technical Staff?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/anthropic-phd-share",
+      "canonical": "https://metix.ai/reports/questions/anthropic-phd-share",
+      "kind": "mapping",
+      "slug": "anthropic-phd-share",
+      "lastmod": "2026-08-20",
+      "title": "What share of Anthropic technical staff hold a PhD?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/anthropic-talent-sources",
+      "canonical": "https://metix.ai/reports/questions/anthropic-talent-sources",
+      "kind": "mapping",
+      "slug": "anthropic-talent-sources",
+      "lastmod": "2026-08-20",
+      "title": "Where does Anthropic hire engineers from?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/anthropic-tenure",
+      "canonical": "https://metix.ai/reports/questions/anthropic-tenure",
+      "kind": "mapping",
+      "slug": "anthropic-tenure",
+      "lastmod": "2026-08-20",
+      "title": "How new is Anthropic’s engineering team?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/clinical-ai-headcount",
+      "canonical": "https://metix.ai/reports/questions/clinical-ai-headcount",
+      "kind": "mapping",
+      "slug": "clinical-ai-headcount",
+      "lastmod": "2026-08-20",
+      "title": "How many US clinical-AI profiles are mapped?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/clinical-background-share",
+      "canonical": "https://metix.ai/reports/questions/clinical-background-share",
+      "kind": "mapping",
+      "slug": "clinical-background-share",
+      "lastmod": "2026-08-20",
+      "title": "How many people in the clinical-AI map have a clinical background?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/clinical-ml-bilingual-talent",
+      "canonical": "https://metix.ai/reports/questions/clinical-ml-bilingual-talent",
+      "kind": "mapping",
+      "slug": "clinical-ml-bilingual-talent",
+      "lastmod": "2026-08-20",
+      "title": "How many clinical-by-ML bilingual people are mapped?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/discovery-loop-founder-capabilities",
+      "canonical": "https://metix.ai/reports/questions/discovery-loop-founder-capabilities",
+      "kind": "mapping",
+      "slug": "discovery-loop-founder-capabilities",
+      "lastmod": "2026-08-19",
+      "title": "How many founder capabilities does the Discovery Loop map name?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/discovery-loop-lineage-talent",
+      "canonical": "https://metix.ai/reports/questions/discovery-loop-lineage-talent",
+      "kind": "mapping",
+      "slug": "discovery-loop-lineage-talent",
+      "lastmod": "2026-08-19",
+      "title": "How many lineage-covered people are in the Discovery Loop map?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/discovery-loop-peer-postings",
+      "canonical": "https://metix.ai/reports/questions/discovery-loop-peer-postings",
+      "kind": "mapping",
+      "slug": "discovery-loop-peer-postings",
+      "lastmod": "2026-08-19",
+      "title": "How many peer postings are in the Discovery Loop map?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/embodied-ai-headcount",
+      "canonical": "https://metix.ai/reports/questions/embodied-ai-headcount",
+      "kind": "mapping",
+      "slug": "embodied-ai-headcount",
+      "lastmod": "2026-08-20",
+      "title": "How many embodied-AI companies and profiles are mapped?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/embodied-ai-technical-pool",
+      "canonical": "https://metix.ai/reports/questions/embodied-ai-technical-pool",
+      "kind": "mapping",
+      "slug": "embodied-ai-technical-pool",
+      "lastmod": "2026-08-20",
+      "title": "How large is the embodied-AI technical pool?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/embodied-hardware-ai-hybrids",
+      "canonical": "https://metix.ai/reports/questions/embodied-hardware-ai-hybrids",
+      "kind": "mapping",
+      "slug": "embodied-hardware-ai-hybrids",
+      "lastmod": "2026-08-20",
+      "title": "How big is the hardware-by-AI hybrid bench in embodied AI?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/fintech-engineer-headcount",
+      "canonical": "https://metix.ai/reports/questions/fintech-engineer-headcount",
+      "kind": "mapping",
+      "slug": "fintech-engineer-headcount",
+      "lastmod": "2026-08-20",
+      "title": "How many engineers are in the fintech momentum table?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/fintech-joined-last-year",
+      "canonical": "https://metix.ai/reports/questions/fintech-joined-last-year",
+      "kind": "mapping",
+      "slug": "fintech-joined-last-year",
+      "lastmod": "2026-08-20",
+      "title": "What share of fintech engineers joined in the last year?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/fintech-ramp-net-import",
+      "canonical": "https://metix.ai/reports/questions/fintech-ramp-net-import",
+      "kind": "mapping",
+      "slug": "fintech-ramp-net-import",
+      "lastmod": "2026-08-20",
+      "title": "Which fintech company is the top net importer in the peer circle?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/frontier-labs-chinese-share",
+      "canonical": "https://metix.ai/reports/questions/frontier-labs-chinese-share",
+      "kind": "mapping",
+      "slug": "frontier-labs-chinese-share",
+      "lastmod": "2026-08-20",
+      "title": "What share of the 13-lab technical pool is ethnic-Chinese?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/frontier-labs-headcount",
+      "canonical": "https://metix.ai/reports/questions/frontier-labs-headcount",
+      "kind": "mapping",
+      "slug": "frontier-labs-headcount",
+      "lastmod": "2026-08-20",
+      "title": "How many people are in the 13-lab technical pool?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/frontier-labs-research-share",
+      "canonical": "https://metix.ai/reports/questions/frontier-labs-research-share",
+      "kind": "mapping",
+      "slug": "frontier-labs-research-share",
+      "lastmod": "2026-08-20",
+      "title": "What share of frontier-lab staff are on a research track?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/game-engine-graphics-talent",
+      "canonical": "https://metix.ai/reports/questions/game-engine-graphics-talent",
+      "kind": "mapping",
+      "slug": "game-engine-graphics-talent",
+      "lastmod": "2026-08-20",
+      "title": "How many engine-side graphics specialists are mapped?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/game-engine-technical-pool",
+      "canonical": "https://metix.ai/reports/questions/game-engine-technical-pool",
+      "kind": "mapping",
+      "slug": "game-engine-technical-pool",
+      "lastmod": "2026-08-20",
+      "title": "How large is the engine-side technical pool?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/intel-feeder-to-chip-startups",
+      "canonical": "https://metix.ai/reports/questions/intel-feeder-to-chip-startups",
+      "kind": "mapping",
+      "slug": "intel-feeder-to-chip-startups",
+      "lastmod": "2026-08-20",
+      "title": "How often is Intel the top feeder into chip companies?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/jacobs-datacenter-hiring-growth",
+      "canonical": "https://metix.ai/reports/questions/jacobs-datacenter-hiring-growth",
+      "kind": "mapping",
+      "slug": "jacobs-datacenter-hiring-growth",
+      "lastmod": "2026-08-27",
+      "title": "How fast is Jacobs hiring for data centers?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/nvidia-500b-capital-talent",
+      "canonical": "https://metix.ai/reports/questions/nvidia-500b-capital-talent",
+      "kind": "mapping",
+      "slug": "nvidia-500b-capital-talent",
+      "lastmod": "2026-08-20",
+      "title": "What talent sits behind the $500B+ AI-infra capital target?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/nvidia-golden-handcuff-share",
+      "canonical": "https://metix.ai/reports/questions/nvidia-golden-handcuff-share",
+      "kind": "mapping",
+      "slug": "nvidia-golden-handcuff-share",
+      "lastmod": "2026-08-20",
+      "title": "What share of NVIDIA engineers does the chip map call golden-handcuffed?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/openai-anthropic-xai-engineering-share",
+      "canonical": "https://metix.ai/reports/questions/openai-anthropic-xai-engineering-share",
+      "kind": "mapping",
+      "slug": "openai-anthropic-xai-engineering-share",
+      "lastmod": "2026-08-20",
+      "title": "What is the engineering share at OpenAI vs Anthropic vs xAI?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/openai-anthropic-xai-sources",
+      "canonical": "https://metix.ai/reports/questions/openai-anthropic-xai-sources",
+      "kind": "mapping",
+      "slug": "openai-anthropic-xai-sources",
+      "lastmod": "2026-08-20",
+      "title": "Where do OpenAI, Anthropic and xAI hire from?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/openai-mts-share",
+      "canonical": "https://metix.ai/reports/questions/openai-mts-share",
+      "kind": "mapping",
+      "slug": "openai-mts-share",
+      "lastmod": "2026-08-20",
+      "title": "What share of OpenAI staff are Member of Technical Staff?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/openai-phd-share",
+      "canonical": "https://metix.ai/reports/questions/openai-phd-share",
+      "kind": "mapping",
+      "slug": "openai-phd-share",
+      "lastmod": "2026-08-20",
+      "title": "What share of OpenAI technical staff hold a PhD?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/openai-talent-sources",
+      "canonical": "https://metix.ai/reports/questions/openai-talent-sources",
+      "kind": "mapping",
+      "slug": "openai-talent-sources",
+      "lastmod": "2026-08-20",
+      "title": "Where does OpenAI hire engineers from?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/openai-tenure",
+      "canonical": "https://metix.ai/reports/questions/openai-tenure",
+      "kind": "mapping",
+      "slug": "openai-tenure",
+      "lastmod": "2026-08-20",
+      "title": "How new is OpenAI’s engineering team?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/openai-to-anthropic-moves",
+      "canonical": "https://metix.ai/reports/questions/openai-to-anthropic-moves",
+      "kind": "mapping",
+      "slug": "openai-to-anthropic-moves",
+      "lastmod": "2026-08-20",
+      "title": "How many visible moves from OpenAI to Anthropic?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/openai-us-share",
+      "canonical": "https://metix.ai/reports/questions/openai-us-share",
+      "kind": "mapping",
+      "slug": "openai-us-share",
+      "lastmod": "2026-08-20",
+      "title": "What share of OpenAI technical staff are in the US?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/overseas-chip-company-map",
+      "canonical": "https://metix.ai/reports/questions/overseas-chip-company-map",
+      "kind": "mapping",
+      "slug": "overseas-chip-company-map",
+      "lastmod": "2026-08-20",
+      "title": "How many companies are on the overseas chip map?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/overseas-chip-priority-targets",
+      "canonical": "https://metix.ai/reports/questions/overseas-chip-priority-targets",
+      "kind": "mapping",
+      "slug": "overseas-chip-priority-targets",
+      "lastmod": "2026-08-20",
+      "title": "How many gated priority targets are on the overseas chip map?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/overseas-chip-talent-leads",
+      "canonical": "https://metix.ai/reports/questions/overseas-chip-talent-leads",
+      "kind": "mapping",
+      "slug": "overseas-chip-talent-leads",
+      "lastmod": "2026-08-20",
+      "title": "How many overseas chip talent leads are mapped?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/overseas-jobs-function-mix",
+      "canonical": "https://metix.ai/reports/questions/overseas-jobs-function-mix",
+      "kind": "mapping",
+      "slug": "overseas-jobs-function-mix",
+      "lastmod": "2026-08-20",
+      "title": "Which functions dominate overseas hiring?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/overseas-jobs-industry-mix",
+      "canonical": "https://metix.ai/reports/questions/overseas-jobs-industry-mix",
+      "kind": "mapping",
+      "slug": "overseas-jobs-industry-mix",
+      "lastmod": "2026-08-20",
+      "title": "Which industries dominate overseas hiring?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/overseas-jobs-top-countries",
+      "canonical": "https://metix.ai/reports/questions/overseas-jobs-top-countries",
+      "kind": "mapping",
+      "slug": "overseas-jobs-top-countries",
+      "lastmod": "2026-08-20",
+      "title": "Which countries hold the most overseas job postings?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/overseas-jobs-us-share",
+      "canonical": "https://metix.ai/reports/questions/overseas-jobs-us-share",
+      "kind": "mapping",
+      "slug": "overseas-jobs-us-share",
+      "lastmod": "2026-08-20",
+      "title": "How many overseas jobs are in the US?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/quant-ai-corridor-size",
+      "canonical": "https://metix.ai/reports/questions/quant-ai-corridor-size",
+      "kind": "mapping",
+      "slug": "quant-ai-corridor-size",
+      "lastmod": "2026-08-20",
+      "title": "How large is the visible quant-to-AI-lab corridor?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/quant-ai-current-pool",
+      "canonical": "https://metix.ai/reports/questions/quant-ai-current-pool",
+      "kind": "mapping",
+      "slug": "quant-ai-current-pool",
+      "lastmod": "2026-08-20",
+      "title": "How many current profiles are at the 25 quant firms?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/quant-to-ai-lab-flow",
+      "canonical": "https://metix.ai/reports/questions/quant-to-ai-lab-flow",
+      "kind": "mapping",
+      "slug": "quant-to-ai-lab-flow",
+      "lastmod": "2026-08-20",
+      "title": "How many visible moves run from quant firms to AI labs?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/techbio-computational-ml-pool",
+      "canonical": "https://metix.ai/reports/questions/techbio-computational-ml-pool",
+      "kind": "mapping",
+      "slug": "techbio-computational-ml-pool",
+      "lastmod": "2026-08-20",
+      "title": "How large is the TechBio computational and ML pool?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/techbio-headcount",
+      "canonical": "https://metix.ai/reports/questions/techbio-headcount",
+      "kind": "mapping",
+      "slug": "techbio-headcount",
+      "lastmod": "2026-08-20",
+      "title": "How many profiles are in the TechBio map?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/techbio-target-companies",
+      "canonical": "https://metix.ai/reports/questions/techbio-target-companies",
+      "kind": "mapping",
+      "slug": "techbio-target-companies",
+      "lastmod": "2026-08-20",
+      "title": "How many TechBio target companies are mapped?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/us-agent-jd-count",
+      "canonical": "https://metix.ai/reports/questions/us-agent-jd-count",
+      "kind": "mapping",
+      "slug": "us-agent-jd-count",
+      "lastmod": "2026-08-20",
+      "title": "How many Agent job descriptions are in the US map?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/us-agent-job-groups",
+      "canonical": "https://metix.ai/reports/questions/us-agent-job-groups",
+      "kind": "mapping",
+      "slug": "us-agent-job-groups",
+      "lastmod": "2026-08-20",
+      "title": "How many job groups are in the US Agent map?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/us-agent-talent-headcount",
+      "canonical": "https://metix.ai/reports/questions/us-agent-talent-headcount",
+      "kind": "mapping",
+      "slug": "us-agent-talent-headcount",
+      "lastmod": "2026-08-20",
+      "title": "How many US Agent professionals are in the supply-demand map?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/us-chip-ai-infra-headcount",
+      "canonical": "https://metix.ai/reports/questions/us-chip-ai-infra-headcount",
+      "kind": "mapping",
+      "slug": "us-chip-ai-infra-headcount",
+      "lastmod": "2026-08-20",
+      "title": "How large is the US chip and AI-infra talent pool?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/world-model-engine-origin",
+      "canonical": "https://metix.ai/reports/questions/world-model-engine-origin",
+      "kind": "mapping",
+      "slug": "world-model-engine-origin",
+      "lastmod": "2026-08-20",
+      "title": "What share of world-model talent comes from game engines?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/xai-human-data-share",
+      "canonical": "https://metix.ai/reports/questions/xai-human-data-share",
+      "kind": "mapping",
+      "slug": "xai-human-data-share",
+      "lastmod": "2026-08-20",
+      "title": "What share of xAI is Human Data &amp; Evaluation?"
     },
     {
       "url": "https://metix.ai/reports/series/anthropic-company-teardown-2026",
