@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-26T11:21:45Z",
+  "generated_at": "2026-09-27T11:59:30Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 145,
+    "total": 144,
     "hubs": 2,
     "series": 52,
-    "mapping": 91
+    "mapping": 90
   },
   "entries": [
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-09-25",
+      "lastmod": "2026-09-26",
       "title": "Metix AI Series Reports"
     },
     {
@@ -161,7 +161,7 @@
       "canonical": "https://metix.ai/reports/mapping/frontier-ai-labs-talent-2026",
       "kind": "mapping",
       "slug": "frontier-ai-labs-talent-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-09-26",
       "title": "Frontier AI Lab Talent Landscape &amp; Flow Map"
     },
     {
@@ -249,7 +249,7 @@
       "canonical": "https://metix.ai/reports/topics/frontier-ai-labs",
       "kind": "mapping",
       "slug": "frontier-ai-labs",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-09-26",
       "title": "Frontier AI Labs talent structure"
     },
     {
@@ -257,7 +257,7 @@
       "canonical": "https://metix.ai/reports/topics/overseas-chinese-talent",
       "kind": "mapping",
       "slug": "overseas-chinese-talent",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-09-26",
       "title": "Overseas job structure and ethnic-Chinese algorithm talent"
     },
     {
@@ -469,19 +469,11 @@
       "title": "Which fintech company is the top net importer in the peer circle?"
     },
     {
-      "url": "https://metix.ai/reports/questions/frontier-labs-chinese-share",
-      "canonical": "https://metix.ai/reports/questions/frontier-labs-chinese-share",
-      "kind": "mapping",
-      "slug": "frontier-labs-chinese-share",
-      "lastmod": "2026-08-20",
-      "title": "What share of the 13-lab technical pool is ethnic-Chinese?"
-    },
-    {
       "url": "https://metix.ai/reports/questions/frontier-labs-headcount",
       "canonical": "https://metix.ai/reports/questions/frontier-labs-headcount",
       "kind": "mapping",
       "slug": "frontier-labs-headcount",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-09-26",
       "title": "How many people are in the 13-lab technical pool?"
     },
     {
@@ -489,7 +481,7 @@
       "canonical": "https://metix.ai/reports/questions/frontier-labs-research-share",
       "kind": "mapping",
       "slug": "frontier-labs-research-share",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-09-26",
       "title": "What share of frontier-lab staff are on a research track?"
     },
     {

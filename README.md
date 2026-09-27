@@ -15,9 +15,9 @@ Metix publishes structured talent reports (series peer packs / benches and mappi
 - Series sitemap: https://metix.ai/reports/series/sitemap.xml
 - Mapping sitemap: https://metix.ai/reports/sitemap.xml
 
-## Catalog (145 URLs)
+## Catalog (144 URLs)
 
-Generated `2026-09-26T11:21:45Z` from live sitemaps (52 series · 91 mapping · 2 hubs).
+Generated `2026-09-27T11:59:30Z` from live sitemaps (52 series · 90 mapping · 2 hubs).
 
 ### Series
 
@@ -90,8 +90,8 @@ Generated `2026-09-26T11:21:45Z` from live sitemaps (52 series · 91 mapping · 
 - [Fintech and quant-to-AI talent flow](https://metix.ai/reports/topics/fintech-ai) — lastmod `2026-08-20`
 - [FinTech Engineering Talent Momentum Leaderboard 2026](https://metix.ai/reports/mapping/fintech-talent-momentum-2026) — lastmod `2026-08-20`
 - [From Data Engineering to AI Agents: How Databricks Is Reshaping the Enterprise Data Stack](https://metix.ai/reports/mapping/databricks-ai-talent-strategy-2026) — lastmod `2026-08-20`
-- [Frontier AI Lab Talent Landscape &amp; Flow Map](https://metix.ai/reports/mapping/frontier-ai-labs-talent-2026) — lastmod `2026-08-20`
-- [Frontier AI Labs talent structure](https://metix.ai/reports/topics/frontier-ai-labs) — lastmod `2026-08-20`
+- [Frontier AI Lab Talent Landscape &amp; Flow Map](https://metix.ai/reports/mapping/frontier-ai-labs-talent-2026) — lastmod `2026-09-26`
+- [Frontier AI Labs talent structure](https://metix.ai/reports/topics/frontier-ai-labs) — lastmod `2026-09-26`
 - [Game Engine × World Model Talent Corridor](https://metix.ai/reports/mapping/game-engine-world-model-2026) — lastmod `2026-08-20`
 - [How big is the hardware-by-AI hybrid bench in embodied AI?](https://metix.ai/reports/questions/embodied-hardware-ai-hybrids) — lastmod `2026-08-20`
 - [How commercial is Anthropic’s talent mix?](https://metix.ai/reports/questions/anthropic-gtm-share) — lastmod `2026-08-20`
@@ -118,7 +118,7 @@ Generated `2026-09-26T11:21:45Z` from live sitemaps (52 series · 91 mapping · 
 - [How many overseas chip talent leads are mapped?](https://metix.ai/reports/questions/overseas-chip-talent-leads) — lastmod `2026-08-20`
 - [How many overseas jobs are in the US?](https://metix.ai/reports/questions/overseas-jobs-us-share) — lastmod `2026-08-20`
 - [How many peer postings are in the Discovery Loop map?](https://metix.ai/reports/questions/discovery-loop-peer-postings) — lastmod `2026-08-19`
-- [How many people are in the 13-lab technical pool?](https://metix.ai/reports/questions/frontier-labs-headcount) — lastmod `2026-08-20`
+- [How many people are in the 13-lab technical pool?](https://metix.ai/reports/questions/frontier-labs-headcount) — lastmod `2026-09-26`
 - [How many people at AI video companies are builders?](https://metix.ai/reports/questions/ai-video-builder-share) — lastmod `2026-08-20`
 - [How many people in the clinical-AI map have a clinical background?](https://metix.ai/reports/questions/clinical-background-share) — lastmod `2026-08-20`
 - [How many profiles are in the TechBio map?](https://metix.ai/reports/questions/techbio-headcount) — lastmod `2026-08-20`
@@ -136,7 +136,7 @@ Generated `2026-09-26T11:21:45Z` from live sitemaps (52 series · 91 mapping · 
 - [OpenAI Engineering Talent X-Ray](https://metix.ai/reports/mapping/openai-engineering-xray-2026) — lastmod `2026-08-20`
 - [OpenAI, Anthropic and xAI Talent Structure Benchmark](https://metix.ai/reports/mapping/openai-anthropic-xai-talent-structure) — lastmod `2026-08-20`
 - [Overseas chip R&amp;D and manufacturing talent report](https://metix.ai/reports/mapping/overseas-chip-rd-manufacturing-talent-2026) — lastmod `2026-08-20`
-- [Overseas job structure and ethnic-Chinese algorithm talent](https://metix.ai/reports/topics/overseas-chinese-talent) — lastmod `2026-08-20`
+- [Overseas job structure and ethnic-Chinese algorithm talent](https://metix.ai/reports/topics/overseas-chinese-talent) — lastmod `2026-09-26`
 - [Overseas Jobs — Structure Report](https://metix.ai/reports/mapping/job-distribution-ex-china-2026) — lastmod `2026-08-20`
 - [Quant Finance × AI Talent Flow](https://metix.ai/reports/mapping/quant-ai-talent-2026) — lastmod `2026-08-20`
 - [SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators](https://metix.ai/reports/mapping/si-genai-delivery-bench-2026) — lastmod `2026-09-07`
@@ -149,12 +149,11 @@ Generated `2026-09-26T11:21:45Z` from live sitemaps (52 series · 91 mapping · 
 - [What share of Anthropic staff are Member of Technical Staff?](https://metix.ai/reports/questions/anthropic-mts-share) — lastmod `2026-08-20`
 - [What share of Anthropic technical staff hold a PhD?](https://metix.ai/reports/questions/anthropic-phd-share) — lastmod `2026-08-20`
 - [What share of fintech engineers joined in the last year?](https://metix.ai/reports/questions/fintech-joined-last-year) — lastmod `2026-08-20`
-- [What share of frontier-lab staff are on a research track?](https://metix.ai/reports/questions/frontier-labs-research-share) — lastmod `2026-08-20`
+- [What share of frontier-lab staff are on a research track?](https://metix.ai/reports/questions/frontier-labs-research-share) — lastmod `2026-09-26`
 - [What share of NVIDIA engineers does the chip map call golden-handcuffed?](https://metix.ai/reports/questions/nvidia-golden-handcuff-share) — lastmod `2026-08-20`
 - [What share of OpenAI staff are Member of Technical Staff?](https://metix.ai/reports/questions/openai-mts-share) — lastmod `2026-08-20`
 - [What share of OpenAI technical staff are in the US?](https://metix.ai/reports/questions/openai-us-share) — lastmod `2026-08-20`
 - [What share of OpenAI technical staff hold a PhD?](https://metix.ai/reports/questions/openai-phd-share) — lastmod `2026-08-20`
-- [What share of the 13-lab technical pool is ethnic-Chinese?](https://metix.ai/reports/questions/frontier-labs-chinese-share) — lastmod `2026-08-20`
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin) — lastmod `2026-08-20`
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share) — lastmod `2026-08-20`
 - [What talent sits behind the $500B+ AI-infra capital target?](https://metix.ai/reports/questions/nvidia-500b-capital-talent) — lastmod `2026-08-20`
