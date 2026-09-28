@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-09-27T11:59:30Z
-Counts: 144 URLs (52 series, 90 mapping, 2 hubs).
+Generated: 2026-09-28T06:45:54Z
+Counts: 149 URLs (57 series, 90 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -109,6 +109,11 @@ Counts: 144 URLs (52 series, 90 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Meta to Stripe talent flow](https://metix.ai/reports/series/meta-to-data-infra-talent-flow-2026)
+- [OpenAI seat shelf](https://metix.ai/reports/series/openai-company-teardown-2026)
+- [Platform Engineer Peer Pack: Microsoft 42 vs NVIDIA 29](https://metix.ai/reports/series/platform-eng-peer-pack-2026)
+- [Site Reliability Engineer employed per open role](https://metix.ai/reports/series/sre-employed-vs-open-2026)
+- [Support Engineer Peer Pack: Twilio 252 vs Datadog 176](https://metix.ai/reports/series/support-eng-peer-pack-2026)
 - [Anthropic seat shelf](https://metix.ai/reports/series/anthropic-company-teardown-2026)
 - [Data Analyst Peer Pack: Amazon 2910 vs Google 1413](https://metix.ai/reports/series/data-analyst-peer-pack-2026)
 - [Google to OpenAI talent flow](https://metix.ai/reports/series/google-to-frontier-labs-talent-flow-2026)
