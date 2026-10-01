@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-09-30T12:31:17Z
-Counts: 149 URLs (57 series, 90 mapping, 2 hubs).
+Generated: 2026-10-01T07:10:05Z
+Counts: 164 URLs (72 series, 90 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -109,6 +109,21 @@ Counts: 149 URLs (57 series, 90 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Apple to OpenAI talent flow](https://metix.ai/reports/series/apple-to-frontier-labs-talent-flow-2026)
+- [Databricks seat shelf](https://metix.ai/reports/series/databricks-company-teardown-2026)
+- [Infrastructure Engineer Peer Pack: NVIDIA 113 vs Amazon 100](https://metix.ai/reports/series/infra-eng-peer-pack-2026)
+- [Principal Engineer Peer Pack: Amazon 844 vs Oracle 682](https://metix.ai/reports/series/principal-eng-peer-pack-2026)
+- [Security Engineer employed per open role](https://metix.ai/reports/series/sec-eng-employed-vs-open-2026)
+- [Engineering Manager employed per open role](https://metix.ai/reports/series/eng-manager-employed-vs-open-2026)
+- [Full Stack Engineer Peer Pack: Google 392 vs Amazon 386](https://metix.ai/reports/series/fullstack-eng-peer-pack-2026)
+- [Microsoft to Databricks talent flow](https://metix.ai/reports/series/microsoft-to-data-infra-talent-flow-2026)
+- [Staff Engineer Peer Pack: Google 205 vs IBM 149](https://metix.ai/reports/series/staff-eng-peer-pack-2026)
+- [Stripe seat shelf](https://metix.ai/reports/series/stripe-company-teardown-2026)
+- [Amazon to Databricks talent flow](https://metix.ai/reports/series/amazon-to-data-infra-talent-flow-2026)
+- [Application Security Engineer Peer Pack: Amazon 117 vs Salesforce 54](https://metix.ai/reports/series/appsec-eng-peer-pack-2026)
+- [Mobile Engineer Peer Pack: Microsoft 161 vs Amazon 91](https://metix.ai/reports/series/mobile-eng-peer-pack-2026)
+- [NVIDIA seat shelf](https://metix.ai/reports/series/nvidia-company-teardown-2026)
+- [Product Manager employed per open role](https://metix.ai/reports/series/pm-employed-vs-open-2026)
 - [Meta to Stripe talent flow](https://metix.ai/reports/series/meta-to-data-infra-talent-flow-2026)
 - [OpenAI seat shelf](https://metix.ai/reports/series/openai-company-teardown-2026)
 - [Platform Engineer Peer Pack: Microsoft 42 vs NVIDIA 29](https://metix.ai/reports/series/platform-eng-peer-pack-2026)

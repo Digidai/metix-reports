@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-30T12:31:17Z",
+  "generated_at": "2026-10-01T07:10:05Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 149,
+    "total": 164,
     "hubs": 2,
-    "series": 57,
+    "series": 72,
     "mapping": 90
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-09-28",
+      "lastmod": "2026-10-01",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-09-28",
+      "lastmod": "2026-10-01",
       "title": "Metix AI Series Reports"
     },
     {
@@ -747,6 +747,126 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/apple-to-frontier-labs-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/apple-to-frontier-labs-talent-flow-2026",
+      "kind": "series",
+      "slug": "apple-to-frontier-labs-talent-flow-2026",
+      "lastmod": "2026-10-01",
+      "title": "Apple to OpenAI talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/databricks-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/databricks-company-teardown-2026",
+      "kind": "series",
+      "slug": "databricks-company-teardown-2026",
+      "lastmod": "2026-10-01",
+      "title": "Databricks seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/infra-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/infra-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "infra-eng-peer-pack-2026",
+      "lastmod": "2026-10-01",
+      "title": "Infrastructure Engineer Peer Pack: NVIDIA 113 vs Amazon 100"
+    },
+    {
+      "url": "https://metix.ai/reports/series/principal-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/principal-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "principal-eng-peer-pack-2026",
+      "lastmod": "2026-10-01",
+      "title": "Principal Engineer Peer Pack: Amazon 844 vs Oracle 682"
+    },
+    {
+      "url": "https://metix.ai/reports/series/sec-eng-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/sec-eng-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "sec-eng-employed-vs-open-2026",
+      "lastmod": "2026-10-01",
+      "title": "Security Engineer employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/eng-manager-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/eng-manager-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "eng-manager-employed-vs-open-2026",
+      "lastmod": "2026-10-01",
+      "title": "Engineering Manager employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/fullstack-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/fullstack-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "fullstack-eng-peer-pack-2026",
+      "lastmod": "2026-10-01",
+      "title": "Full Stack Engineer Peer Pack: Google 392 vs Amazon 386"
+    },
+    {
+      "url": "https://metix.ai/reports/series/microsoft-to-data-infra-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/microsoft-to-data-infra-talent-flow-2026",
+      "kind": "series",
+      "slug": "microsoft-to-data-infra-talent-flow-2026",
+      "lastmod": "2026-10-01",
+      "title": "Microsoft to Databricks talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/staff-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/staff-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "staff-eng-peer-pack-2026",
+      "lastmod": "2026-10-01",
+      "title": "Staff Engineer Peer Pack: Google 205 vs IBM 149"
+    },
+    {
+      "url": "https://metix.ai/reports/series/stripe-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/stripe-company-teardown-2026",
+      "kind": "series",
+      "slug": "stripe-company-teardown-2026",
+      "lastmod": "2026-10-01",
+      "title": "Stripe seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/amazon-to-data-infra-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/amazon-to-data-infra-talent-flow-2026",
+      "kind": "series",
+      "slug": "amazon-to-data-infra-talent-flow-2026",
+      "lastmod": "2026-10-01",
+      "title": "Amazon to Databricks talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/appsec-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/appsec-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "appsec-eng-peer-pack-2026",
+      "lastmod": "2026-10-01",
+      "title": "Application Security Engineer Peer Pack: Amazon 117 vs Salesforce 54"
+    },
+    {
+      "url": "https://metix.ai/reports/series/mobile-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/mobile-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "mobile-eng-peer-pack-2026",
+      "lastmod": "2026-10-01",
+      "title": "Mobile Engineer Peer Pack: Microsoft 161 vs Amazon 91"
+    },
+    {
+      "url": "https://metix.ai/reports/series/nvidia-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/nvidia-company-teardown-2026",
+      "kind": "series",
+      "slug": "nvidia-company-teardown-2026",
+      "lastmod": "2026-10-01",
+      "title": "NVIDIA seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/pm-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/pm-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "pm-employed-vs-open-2026",
+      "lastmod": "2026-10-01",
+      "title": "Product Manager employed per open role"
     },
     {
       "url": "https://metix.ai/reports/series/meta-to-data-infra-talent-flow-2026",
