@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-04T12:18:34Z",
+  "generated_at": "2026-10-05T06:57:32Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 169,
+    "total": 174,
     "hubs": 2,
-    "series": 77,
+    "series": 82,
     "mapping": 90
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-02",
+      "lastmod": "2026-10-05",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-02",
+      "lastmod": "2026-10-05",
       "title": "Metix AI Series Reports"
     },
     {
@@ -747,6 +747,46 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/account-exec-data-infra-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/account-exec-data-infra-peer-pack-2026",
+      "kind": "series",
+      "slug": "account-exec-data-infra-peer-pack-2026",
+      "lastmod": "2026-10-05",
+      "title": "Account Executive Peer Pack: Databricks 1403 vs Datadog 1137"
+    },
+    {
+      "url": "https://metix.ai/reports/series/northrop-grumman-to-defense-tech-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/northrop-grumman-to-defense-tech-talent-flow-2026",
+      "kind": "series",
+      "slug": "northrop-grumman-to-defense-tech-talent-flow-2026",
+      "lastmod": "2026-10-05",
+      "title": "Northrop Grumman to Anduril talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/qa-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/qa-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "qa-eng-peer-pack-2026",
+      "lastmod": "2026-10-05",
+      "title": "QA Engineer Peer Pack: IBM 1928 vs Oracle 1455"
+    },
+    {
+      "url": "https://metix.ai/reports/series/rippling-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/rippling-company-teardown-2026",
+      "kind": "series",
+      "slug": "rippling-company-teardown-2026",
+      "lastmod": "2026-10-05",
+      "title": "Rippling seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/tpm-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/tpm-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "tpm-employed-vs-open-2026",
+      "lastmod": "2026-10-05",
+      "title": "Technical Program Manager employed per open role"
     },
     {
       "url": "https://metix.ai/reports/series/analytics-eng-peer-pack-2026",
