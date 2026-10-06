@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-10-05T14:32:48Z
-Counts: 174 URLs (82 series, 90 mapping, 2 hubs).
+Generated: 2026-10-06T07:30:58Z
+Counts: 179 URLs (87 series, 90 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -109,6 +109,11 @@ Counts: 174 URLs (82 series, 90 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Figma seat shelf](https://metix.ai/reports/series/figma-company-teardown-2026)
+- [Goldman Sachs to Coinbase talent flow](https://metix.ai/reports/series/goldman-sachs-to-fintech-talent-flow-2026)
+- [Machine Learning Engineer Peer Pack: NVIDIA 201 vs Tesla 143](https://metix.ai/reports/series/ml-eng-autonomy-peer-pack-2026)
+- [Software Architect Peer Pack: IBM 513 vs SAP 248](https://metix.ai/reports/series/software-architect-peer-pack-2026)
+- [Solutions Architect employed per open role](https://metix.ai/reports/series/solutions-arch-employed-vs-open-2026)
 - [Account Executive Peer Pack: Databricks 1403 vs Datadog 1137](https://metix.ai/reports/series/account-exec-data-infra-peer-pack-2026)
 - [Northrop Grumman to Anduril talent flow](https://metix.ai/reports/series/northrop-grumman-to-defense-tech-talent-flow-2026)
 - [QA Engineer Peer Pack: IBM 1928 vs Oracle 1455](https://metix.ai/reports/series/qa-eng-peer-pack-2026)
