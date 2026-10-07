@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-06T13:16:28Z",
+  "generated_at": "2026-10-07T07:11:09Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 179,
+    "total": 184,
     "hubs": 2,
-    "series": 87,
+    "series": 92,
     "mapping": 90
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-06",
+      "lastmod": "2026-10-07",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-06",
+      "lastmod": "2026-10-07",
       "title": "Metix AI Series Reports"
     },
     {
@@ -747,6 +747,46 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/atlassian-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/atlassian-company-teardown-2026",
+      "kind": "series",
+      "slug": "atlassian-company-teardown-2026",
+      "lastmod": "2026-10-07",
+      "title": "Atlassian seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/cisco-to-security-vendors-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/cisco-to-security-vendors-talent-flow-2026",
+      "kind": "series",
+      "slug": "cisco-to-security-vendors-talent-flow-2026",
+      "lastmod": "2026-10-07",
+      "title": "Cisco to Palo Alto Networks talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/program-mgr-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/program-mgr-peer-pack-2026",
+      "kind": "series",
+      "slug": "program-mgr-peer-pack-2026",
+      "lastmod": "2026-10-07",
+      "title": "Program Manager Peer Pack: IBM 2989 vs Oracle 2569"
+    },
+    {
+      "url": "https://metix.ai/reports/series/research-scientist-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/research-scientist-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "research-scientist-employed-vs-open-2026",
+      "lastmod": "2026-10-07",
+      "title": "Research Scientist employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/sales-eng-security-vendors-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/sales-eng-security-vendors-peer-pack-2026",
+      "kind": "series",
+      "slug": "sales-eng-security-vendors-peer-pack-2026",
+      "lastmod": "2026-10-07",
+      "title": "Sales Engineer Peer Pack: CrowdStrike 373 vs Zscaler 361"
     },
     {
       "url": "https://metix.ai/reports/series/figma-company-teardown-2026",
