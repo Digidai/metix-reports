@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-10-07T13:18:53Z
-Counts: 184 URLs (92 series, 90 mapping, 2 hubs).
+Generated: 2026-10-08T07:17:41Z
+Counts: 189 URLs (97 series, 90 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -109,6 +109,11 @@ Counts: 184 URLs (92 series, 90 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Data Scientist Peer Pack: PayPal 561 vs Stripe 99](https://metix.ai/reports/series/data-scientist-fintech-peer-pack-2026)
+- [Designer employed per open role](https://metix.ai/reports/series/designer-employed-vs-open-2026)
+- [Google to Waymo talent flow](https://metix.ai/reports/series/google-to-autonomy-talent-flow-2026)
+- [Palantir seat shelf](https://metix.ai/reports/series/palantir-company-teardown-2026)
+- [Technical Writer Peer Pack: Oracle 358 vs Salesforce 280](https://metix.ai/reports/series/tech-writer-peer-pack-2026)
 - [Atlassian seat shelf](https://metix.ai/reports/series/atlassian-company-teardown-2026)
 - [Cisco to Palo Alto Networks talent flow](https://metix.ai/reports/series/cisco-to-security-vendors-talent-flow-2026)
 - [Program Manager Peer Pack: IBM 2989 vs Oracle 2569](https://metix.ai/reports/series/program-mgr-peer-pack-2026)

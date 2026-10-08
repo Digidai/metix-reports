@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-07T13:18:53Z",
+  "generated_at": "2026-10-08T07:17:41Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 184,
+    "total": 189,
     "hubs": 2,
-    "series": 92,
+    "series": 97,
     "mapping": 90
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-07",
+      "lastmod": "2026-10-08",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-07",
+      "lastmod": "2026-10-08",
       "title": "Metix AI Series Reports"
     },
     {
@@ -747,6 +747,46 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/data-scientist-fintech-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/data-scientist-fintech-peer-pack-2026",
+      "kind": "series",
+      "slug": "data-scientist-fintech-peer-pack-2026",
+      "lastmod": "2026-10-08",
+      "title": "Data Scientist Peer Pack: PayPal 561 vs Stripe 99"
+    },
+    {
+      "url": "https://metix.ai/reports/series/designer-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/designer-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "designer-employed-vs-open-2026",
+      "lastmod": "2026-10-08",
+      "title": "Designer employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/google-to-autonomy-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/google-to-autonomy-talent-flow-2026",
+      "kind": "series",
+      "slug": "google-to-autonomy-talent-flow-2026",
+      "lastmod": "2026-10-08",
+      "title": "Google to Waymo talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/palantir-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/palantir-company-teardown-2026",
+      "kind": "series",
+      "slug": "palantir-company-teardown-2026",
+      "lastmod": "2026-10-08",
+      "title": "Palantir seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/tech-writer-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/tech-writer-peer-pack-2026",
+      "kind": "series",
+      "slug": "tech-writer-peer-pack-2026",
+      "lastmod": "2026-10-08",
+      "title": "Technical Writer Peer Pack: Oracle 358 vs Salesforce 280"
     },
     {
       "url": "https://metix.ai/reports/series/atlassian-company-teardown-2026",
