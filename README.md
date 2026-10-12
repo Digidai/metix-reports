@@ -15,9 +15,9 @@ Metix publishes structured talent reports (series peer packs / benches and mappi
 - Series sitemap: https://metix.ai/reports/series/sitemap.xml
 - Mapping sitemap: https://metix.ai/reports/sitemap.xml
 
-## Catalog (189 URLs)
+## Catalog (194 URLs)
 
-Generated `2026-10-11T12:45:39Z` from live sitemaps (97 series · 90 mapping · 2 hubs).
+Generated `2026-10-12T07:18:14Z` from live sitemaps (102 series · 90 mapping · 2 hubs).
 
 ### Series
 
@@ -42,6 +42,7 @@ Generated `2026-10-11T12:45:39Z` from live sitemaps (97 series · 90 mapping · 
 - [Cisco to Palo Alto Networks talent flow](https://metix.ai/reports/series/cisco-to-security-vendors-talent-flow-2026) — lastmod `2026-10-07`
 - [Cloud Engineer Peer Pack: Amazon 1441 vs Microsoft 467](https://metix.ai/reports/series/cloud-eng-peer-pack-2026) — lastmod `2026-10-06`
 - [CoreWeave: 93 of 102 US DC-Ops Seats](https://metix.ai/reports/series/coreweave-crusoe-dc-ops-2026) — lastmod `2026-10-06`
+- [CrowdStrike seat shelf](https://metix.ai/reports/series/crowdstrike-company-teardown-2026) — lastmod `2026-10-12`
 - [Customer Engineer Peer Pack: Google 1884 vs Microsoft 622](https://metix.ai/reports/series/ce-peer-pack-2026) — lastmod `2026-10-06`
 - [Data Analyst Peer Pack: Amazon 2910 vs Google 1413](https://metix.ai/reports/series/data-analyst-peer-pack-2026) — lastmod `2026-10-06`
 - [Data Engineer Employed vs Open: Netflix 173 against 5](https://metix.ai/reports/series/data-eng-employed-vs-open-2026) — lastmod `2026-10-06`
@@ -49,6 +50,7 @@ Generated `2026-10-11T12:45:39Z` from live sitemaps (97 series · 90 mapping · 
 - [Data Scientist employed per open role](https://metix.ai/reports/series/data-scientist-employed-vs-open-2026) — lastmod `2026-10-06`
 - [Data Scientist Peer Pack: Meta 2593 vs Uber 378](https://metix.ai/reports/series/data-scientist-peer-pack-2026) — lastmod `2026-10-06`
 - [Data Scientist Peer Pack: PayPal 561 vs Stripe 99](https://metix.ai/reports/series/data-scientist-fintech-peer-pack-2026) — lastmod `2026-10-08`
+- [Database Administrator Peer Pack: IBM 2136 vs Oracle 1174](https://metix.ai/reports/series/dba-peer-pack-2026) — lastmod `2026-10-12`
 - [Databricks seat shelf](https://metix.ai/reports/series/databricks-company-teardown-2026) — lastmod `2026-10-06`
 - [Designer employed per open role](https://metix.ai/reports/series/designer-employed-vs-open-2026) — lastmod `2026-10-08`
 - [DevOps Engineer Peer Pack: Amazon 560 vs Microsoft 296](https://metix.ai/reports/series/devops-eng-peer-pack-2026) — lastmod `2026-10-06`
@@ -80,6 +82,7 @@ Generated `2026-10-11T12:45:39Z` from live sitemaps (97 series · 90 mapping · 
 - [Northrop Grumman to Anduril talent flow](https://metix.ai/reports/series/northrop-grumman-to-defense-tech-talent-flow-2026) — lastmod `2026-10-06`
 - [NVIDIA seat shelf](https://metix.ai/reports/series/nvidia-company-teardown-2026) — lastmod `2026-10-06`
 - [OpenAI seat shelf](https://metix.ai/reports/series/openai-company-teardown-2026) — lastmod `2026-10-06`
+- [Oracle to MongoDB talent flow](https://metix.ai/reports/series/oracle-to-devtools-talent-flow-2026) — lastmod `2026-10-12`
 - [Palantir FDE: 1 Exact Job, 1 Employed Title, 69 Job Titles](https://metix.ai/reports/series/fde-employed-vs-jd-2026) — lastmod `2026-10-06`
 - [Palantir seat shelf](https://metix.ai/reports/series/palantir-company-teardown-2026) — lastmod `2026-10-08`
 - [Platform Engineer Peer Pack: Microsoft 42 vs NVIDIA 29](https://metix.ai/reports/series/platform-eng-peer-pack-2026) — lastmod `2026-10-06`
@@ -89,6 +92,7 @@ Generated `2026-10-11T12:45:39Z` from live sitemaps (97 series · 90 mapping · 
 - [Product Manager Peer Pack: Google 4099 vs Meta 2657](https://metix.ai/reports/series/product-mgr-peer-pack-2026) — lastmod `2026-10-06`
 - [Program Manager Peer Pack: IBM 2989 vs Oracle 2569](https://metix.ai/reports/series/program-mgr-peer-pack-2026) — lastmod `2026-10-07`
 - [QA Engineer Peer Pack: IBM 1928 vs Oracle 1455](https://metix.ai/reports/series/qa-eng-peer-pack-2026) — lastmod `2026-10-06`
+- [Research Engineer Peer Pack: Meta 440 vs NVIDIA 91](https://metix.ai/reports/series/research-eng-ai-labs-peer-pack-2026) — lastmod `2026-10-12`
 - [Research Scientist employed per open role](https://metix.ai/reports/series/research-scientist-employed-vs-open-2026) — lastmod `2026-10-07`
 - [Research Scientist Peer Pack: Meta 3255 vs Google 790](https://metix.ai/reports/series/research-scientist-peer-pack-2026) — lastmod `2026-10-06`
 - [Rippling seat shelf](https://metix.ai/reports/series/rippling-company-teardown-2026) — lastmod `2026-10-06`
@@ -101,6 +105,7 @@ Generated `2026-10-11T12:45:39Z` from live sitemaps (97 series · 90 mapping · 
 - [Skyworks 80 vs Qorvo 92 | RF Front-End / RFIC](https://metix.ai/reports/series/skyworks-qorvo-rf-2026) — lastmod `2026-10-06`
 - [Snowflake seat shelf](https://metix.ai/reports/series/snowflake-company-teardown-2026) — lastmod `2026-10-06`
 - [Software Architect Peer Pack: IBM 513 vs SAP 248](https://metix.ai/reports/series/software-architect-peer-pack-2026) — lastmod `2026-10-06`
+- [Software Engineer employed per open role](https://metix.ai/reports/series/software-eng-employed-vs-open-2026) — lastmod `2026-10-12`
 - [Solutions Architect employed per open role](https://metix.ai/reports/series/solutions-arch-employed-vs-open-2026) — lastmod `2026-10-06`
 - [Solutions Architect Peer Pack: Databricks 1505 vs Snowflake 322](https://metix.ai/reports/series/solutions-arch-peer-pack-2026) — lastmod `2026-10-06`
 - [Solutions Engineer Peer Pack: Databricks 664 vs Cloudflare 327](https://metix.ai/reports/series/solutions-eng-peer-pack-2026) — lastmod `2026-10-06`

@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-10-11T12:45:39Z
-Counts: 189 URLs (97 series, 90 mapping, 2 hubs).
+Generated: 2026-10-12T07:18:14Z
+Counts: 194 URLs (102 series, 90 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -109,6 +109,11 @@ Counts: 189 URLs (97 series, 90 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [CrowdStrike seat shelf](https://metix.ai/reports/series/crowdstrike-company-teardown-2026)
+- [Database Administrator Peer Pack: IBM 2136 vs Oracle 1174](https://metix.ai/reports/series/dba-peer-pack-2026)
+- [Oracle to MongoDB talent flow](https://metix.ai/reports/series/oracle-to-devtools-talent-flow-2026)
+- [Research Engineer Peer Pack: Meta 440 vs NVIDIA 91](https://metix.ai/reports/series/research-eng-ai-labs-peer-pack-2026)
+- [Software Engineer employed per open role](https://metix.ai/reports/series/software-eng-employed-vs-open-2026)
 - [Data Scientist Peer Pack: PayPal 561 vs Stripe 99](https://metix.ai/reports/series/data-scientist-fintech-peer-pack-2026)
 - [Designer employed per open role](https://metix.ai/reports/series/designer-employed-vs-open-2026)
 - [Google to Waymo talent flow](https://metix.ai/reports/series/google-to-autonomy-talent-flow-2026)
