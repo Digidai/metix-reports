@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-12T15:18:13Z",
+  "generated_at": "2026-10-13T07:40:23Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 194,
+    "total": 199,
     "hubs": 2,
-    "series": 102,
+    "series": 107,
     "mapping": 90
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-12",
+      "lastmod": "2026-10-13",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-12",
+      "lastmod": "2026-10-13",
       "title": "Metix AI Series Reports"
     },
     {
@@ -747,6 +747,46 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/amazon-to-ai-infra-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/amazon-to-ai-infra-talent-flow-2026",
+      "kind": "series",
+      "slug": "amazon-to-ai-infra-talent-flow-2026",
+      "lastmod": "2026-10-13",
+      "title": "Amazon to NVIDIA talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/coinbase-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/coinbase-company-teardown-2026",
+      "kind": "series",
+      "slug": "coinbase-company-teardown-2026",
+      "lastmod": "2026-10-13",
+      "title": "Coinbase seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/hardware-eng-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/hardware-eng-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "hardware-eng-employed-vs-open-2026",
+      "lastmod": "2026-10-13",
+      "title": "Hardware Engineer employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/product-mgr-devtools-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/product-mgr-devtools-peer-pack-2026",
+      "kind": "series",
+      "slug": "product-mgr-devtools-peer-pack-2026",
+      "lastmod": "2026-10-13",
+      "title": "Product Manager Peer Pack: Atlassian 412 vs Datadog 164"
+    },
+    {
+      "url": "https://metix.ai/reports/series/security-architect-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/security-architect-peer-pack-2026",
+      "kind": "series",
+      "slug": "security-architect-peer-pack-2026",
+      "lastmod": "2026-10-13",
+      "title": "Security Architect Peer Pack: IBM 339 vs Cisco 128"
     },
     {
       "url": "https://metix.ai/reports/series/crowdstrike-company-teardown-2026",
