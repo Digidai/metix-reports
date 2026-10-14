@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-13T14:08:21Z",
+  "generated_at": "2026-10-14T06:05:37Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 199,
+    "total": 204,
     "hubs": 2,
-    "series": 107,
+    "series": 112,
     "mapping": 90
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-13",
+      "lastmod": "2026-10-14",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-13",
+      "lastmod": "2026-10-14",
       "title": "Metix AI Series Reports"
     },
     {
@@ -747,6 +747,46 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/account-exec-security-vendors-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/account-exec-security-vendors-peer-pack-2026",
+      "kind": "series",
+      "slug": "account-exec-security-vendors-peer-pack-2026",
+      "lastmod": "2026-10-14",
+      "title": "Account Executive Peer Pack: Zscaler 449 vs CrowdStrike 422"
+    },
+    {
+      "url": "https://metix.ai/reports/series/solutions-consultant-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/solutions-consultant-peer-pack-2026",
+      "kind": "series",
+      "slug": "solutions-consultant-peer-pack-2026",
+      "lastmod": "2026-10-14",
+      "title": "Solutions Consultant Peer Pack: Adobe 445 vs ServiceNow 234"
+    },
+    {
+      "url": "https://metix.ai/reports/series/support-eng-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/support-eng-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "support-eng-employed-vs-open-2026",
+      "lastmod": "2026-10-14",
+      "title": "Support Engineer employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/tesla-to-defense-tech-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/tesla-to-defense-tech-talent-flow-2026",
+      "kind": "series",
+      "slug": "tesla-to-defense-tech-talent-flow-2026",
+      "lastmod": "2026-10-14",
+      "title": "Tesla to SpaceX talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/waymo-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/waymo-company-teardown-2026",
+      "kind": "series",
+      "slug": "waymo-company-teardown-2026",
+      "lastmod": "2026-10-14",
+      "title": "Waymo seat shelf"
     },
     {
       "url": "https://metix.ai/reports/series/amazon-to-ai-infra-talent-flow-2026",
