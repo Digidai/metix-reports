@@ -17,7 +17,7 @@ Metix publishes structured talent reports (series peer packs / benches and mappi
 
 ## Catalog (209 URLs)
 
-Generated `2026-10-15T05:51:55Z` from live sitemaps (117 series · 90 mapping · 2 hubs).
+Generated `2026-10-15T11:24:52Z` from live sitemaps (117 series · 90 mapping · 2 hubs).
 
 ### Series
 
@@ -91,7 +91,7 @@ Generated `2026-10-15T05:51:55Z` from live sitemaps (117 series · 90 mapping ·
 - [NVIDIA seat shelf](https://metix.ai/reports/series/nvidia-company-teardown-2026) — lastmod `2026-10-06`
 - [OpenAI seat shelf](https://metix.ai/reports/series/openai-company-teardown-2026) — lastmod `2026-10-06`
 - [Oracle to MongoDB talent flow](https://metix.ai/reports/series/oracle-to-devtools-talent-flow-2026) — lastmod `2026-10-12`
-- [Palantir FDE: 1 Exact Job, 1 Employed Title, 69 Job Titles](https://metix.ai/reports/series/fde-employed-vs-jd-2026) — lastmod `2026-10-06`
+- [Palantir FDE: 1 Exact Job, 1 Employed Title, 69 Job Titles](https://metix.ai/reports/series/fde-employed-vs-jd-2026) — lastmod `2026-10-15`
 - [Palantir seat shelf](https://metix.ai/reports/series/palantir-company-teardown-2026) — lastmod `2026-10-08`
 - [Platform Engineer Peer Pack: Microsoft 42 vs NVIDIA 29](https://metix.ai/reports/series/platform-eng-peer-pack-2026) — lastmod `2026-10-06`
 - [Principal Engineer Peer Pack: Amazon 844 vs Oracle 682](https://metix.ai/reports/series/principal-eng-peer-pack-2026) — lastmod `2026-10-06`
@@ -141,23 +141,23 @@ Generated `2026-10-15T05:51:55Z` from live sitemaps (117 series · 90 mapping ·
 
 ### Mapping
 
-- [AI Agent talent structure](https://metix.ai/reports/mapping/ai-agent-talent-supply-demand-gap-2026) — lastmod `2026-08-20`
-- [AI Compute &amp; Chip Talent Map 2026](https://metix.ai/reports/mapping/ai-infra-chip-talent-2026) — lastmod `2026-08-20`
-- [AI Infra Talent Race: Roles Constraining Compute Buildout](https://metix.ai/reports/mapping/nvidia-ai-infrastructure-talent-race-2026) — lastmod `2026-08-27`
+- [AI Agent talent structure](https://metix.ai/reports/mapping/ai-agent-talent-supply-demand-gap-2026) — lastmod `2026-10-15`
+- [AI Compute &amp; Chip Talent Map 2026](https://metix.ai/reports/mapping/ai-infra-chip-talent-2026) — lastmod `2026-10-15`
+- [AI Infra Talent Race: Roles Constraining Compute Buildout](https://metix.ai/reports/mapping/nvidia-ai-infrastructure-talent-race-2026) — lastmod `2026-10-15`
 - [AI infrastructure and chip talent map](https://metix.ai/reports/topics/ai-infra-chips) — lastmod `2026-08-27`
-- [AI Video Generation Talent Map 2026](https://metix.ai/reports/mapping/ai-video-generation-talent-2026) — lastmod `2026-08-20`
-- [Anthropic Engineering Talent X-Ray](https://metix.ai/reports/mapping/anthropic-engineering-xray-2026) — lastmod `2026-08-20`
-- [Clinical AI &amp; Health Systems Talent Map (U.S.)](https://metix.ai/reports/mapping/clinical-ai-healthcare-2026) — lastmod `2026-08-20`
+- [AI Video Generation Talent Map 2026](https://metix.ai/reports/mapping/ai-video-generation-talent-2026) — lastmod `2026-10-15`
+- [Anthropic Engineering Talent X-Ray](https://metix.ai/reports/mapping/anthropic-engineering-xray-2026) — lastmod `2026-10-15`
+- [Clinical AI &amp; Health Systems Talent Map (U.S.)](https://metix.ai/reports/mapping/clinical-ai-healthcare-2026) — lastmod `2026-10-15`
 - [Clinical AI and TechBio talent map](https://metix.ai/reports/topics/clinical-techbio) — lastmod `2026-08-20`
-- [Cutting Technical Roles While Hiring for Sales and Delivery: Salesforce After Agentforce Passed $1B](https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026) — lastmod `2026-09-04`
-- [Embodied AI &amp; Humanoid Robots Talent Map](https://metix.ai/reports/mapping/embodied-ai-humanoid-2026) — lastmod `2026-08-20`
+- [Cutting Technical Roles While Hiring for Sales and Delivery: Salesforce After Agentforce Passed $1B](https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026) — lastmod `2026-10-15`
+- [Embodied AI &amp; Humanoid Robots Talent Map](https://metix.ai/reports/mapping/embodied-ai-humanoid-2026) — lastmod `2026-10-15`
 - [Embodied AI and humanoid talent map](https://metix.ai/reports/topics/embodied-robotics) — lastmod `2026-08-20`
 - [Fintech and quant-to-AI talent flow](https://metix.ai/reports/topics/fintech-ai) — lastmod `2026-08-20`
-- [FinTech Engineering Talent Momentum Leaderboard 2026](https://metix.ai/reports/mapping/fintech-talent-momentum-2026) — lastmod `2026-08-20`
-- [From Data Engineering to AI Agents: How Databricks Is Reshaping the Enterprise Data Stack](https://metix.ai/reports/mapping/databricks-ai-talent-strategy-2026) — lastmod `2026-08-20`
-- [Frontier AI Lab Talent Landscape &amp; Flow Map](https://metix.ai/reports/mapping/frontier-ai-labs-talent-2026) — lastmod `2026-09-26`
+- [FinTech Engineering Talent Momentum Leaderboard 2026](https://metix.ai/reports/mapping/fintech-talent-momentum-2026) — lastmod `2026-10-15`
+- [From Data Engineering to AI Agents: How Databricks Is Reshaping the Enterprise Data Stack](https://metix.ai/reports/mapping/databricks-ai-talent-strategy-2026) — lastmod `2026-10-15`
+- [Frontier AI Lab Talent Landscape &amp; Flow Map](https://metix.ai/reports/mapping/frontier-ai-labs-talent-2026) — lastmod `2026-10-15`
 - [Frontier AI Labs talent structure](https://metix.ai/reports/topics/frontier-ai-labs) — lastmod `2026-09-26`
-- [Game Engine × World Model Talent Corridor](https://metix.ai/reports/mapping/game-engine-world-model-2026) — lastmod `2026-08-20`
+- [Game Engine × World Model Talent Corridor](https://metix.ai/reports/mapping/game-engine-world-model-2026) — lastmod `2026-10-15`
 - [How big is the hardware-by-AI hybrid bench in embodied AI?](https://metix.ai/reports/questions/embodied-hardware-ai-hybrids) — lastmod `2026-08-20`
 - [How commercial is Anthropic’s talent mix?](https://metix.ai/reports/questions/anthropic-gtm-share) — lastmod `2026-08-20`
 - [How fast is electrical and power hiring growing versus data-center engineers?](https://metix.ai/reports/questions/ai-infra-electrical-power-growth) — lastmod `2026-08-27`
@@ -197,17 +197,17 @@ Generated `2026-10-15T05:51:55Z` from live sitemaps (117 series · 90 mapping ·
 - [How new is Anthropic’s engineering team?](https://metix.ai/reports/questions/anthropic-tenure) — lastmod `2026-08-20`
 - [How new is OpenAI’s engineering team?](https://metix.ai/reports/questions/openai-tenure) — lastmod `2026-08-20`
 - [How often is Intel the top feeder into chip companies?](https://metix.ai/reports/questions/intel-feeder-to-chip-startups) — lastmod `2026-08-20`
-- [Jeff Dean leaves Google, revealing AI’s next talent gap](https://metix.ai/reports/mapping/ai-next-talent-gap-2026) — lastmod `2026-08-19`
-- [OpenAI Engineering Talent X-Ray](https://metix.ai/reports/mapping/openai-engineering-xray-2026) — lastmod `2026-08-20`
-- [OpenAI, Anthropic and xAI Talent Structure Benchmark](https://metix.ai/reports/mapping/openai-anthropic-xai-talent-structure) — lastmod `2026-08-20`
-- [Overseas chip R&amp;D and manufacturing talent report](https://metix.ai/reports/mapping/overseas-chip-rd-manufacturing-talent-2026) — lastmod `2026-08-20`
+- [Jeff Dean leaves Google, revealing AI’s next talent gap](https://metix.ai/reports/mapping/ai-next-talent-gap-2026) — lastmod `2026-10-15`
+- [OpenAI Engineering Talent X-Ray](https://metix.ai/reports/mapping/openai-engineering-xray-2026) — lastmod `2026-10-15`
+- [OpenAI, Anthropic and xAI Talent Structure Benchmark](https://metix.ai/reports/mapping/openai-anthropic-xai-talent-structure) — lastmod `2026-10-15`
+- [Overseas chip R&amp;D and manufacturing talent report](https://metix.ai/reports/mapping/overseas-chip-rd-manufacturing-talent-2026) — lastmod `2026-10-15`
 - [Overseas job structure and ethnic-Chinese algorithm talent](https://metix.ai/reports/topics/overseas-chinese-talent) — lastmod `2026-09-26`
-- [Overseas Jobs — Structure Report](https://metix.ai/reports/mapping/job-distribution-ex-china-2026) — lastmod `2026-08-20`
-- [Quant Finance × AI Talent Flow](https://metix.ai/reports/mapping/quant-ai-talent-2026) — lastmod `2026-08-20`
-- [SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators](https://metix.ai/reports/mapping/si-genai-delivery-bench-2026) — lastmod `2026-09-07`
+- [Overseas Jobs — Structure Report](https://metix.ai/reports/mapping/job-distribution-ex-china-2026) — lastmod `2026-10-15`
+- [Quant Finance × AI Talent Flow](https://metix.ai/reports/mapping/quant-ai-talent-2026) — lastmod `2026-10-15`
+- [SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators](https://metix.ai/reports/mapping/si-genai-delivery-bench-2026) — lastmod `2026-10-15`
 - [Six Banks and $500B+ AI-Infra Capital: The Talent Layer](https://metix.ai/reports/mapping/ai-infra-capital-talent-2026) — lastmod `2026-08-20`
-- [TechBio / AI Drug Discovery Talent Map](https://metix.ai/reports/mapping/techbio-ai-pharma-2026) — lastmod `2026-08-20`
-- [The Wall Street Talent War: Mapping Senior Banker Flows Across 11 Investment Banks](https://metix.ai/reports/mapping/wall-street-senior-banker-2026) — lastmod `2026-08-28`
+- [TechBio / AI Drug Discovery Talent Map](https://metix.ai/reports/mapping/techbio-ai-pharma-2026) — lastmod `2026-10-15`
+- [The Wall Street Talent War: Mapping Senior Banker Flows Across 11 Investment Banks](https://metix.ai/reports/mapping/wall-street-senior-banker-2026) — lastmod `2026-10-15`
 - [What is the engineering share at OpenAI vs Anthropic vs xAI?](https://metix.ai/reports/questions/openai-anthropic-xai-engineering-share) — lastmod `2026-08-20`
 - [What is the PhD share of AI video builders?](https://metix.ai/reports/questions/ai-video-phd-share) — lastmod `2026-08-20`
 - [What share of AI video builders joined in the last two years?](https://metix.ai/reports/questions/ai-video-joined-two-years) — lastmod `2026-08-20`

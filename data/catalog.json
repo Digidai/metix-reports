@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:51:55Z",
+  "generated_at": "2026-10-15T11:24:52Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
@@ -33,7 +33,7 @@
       "canonical": "https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026",
       "kind": "mapping",
       "slug": "salesforce-agentforce-hiring-2026",
-      "lastmod": "2026-09-04",
+      "lastmod": "2026-10-15",
       "title": "Cutting Technical Roles While Hiring for Sales and Delivery: Salesforce After Agentforce Passed $1B"
     },
     {
@@ -41,7 +41,7 @@
       "canonical": "https://metix.ai/reports/mapping/si-genai-delivery-bench-2026",
       "kind": "mapping",
       "slug": "si-genai-delivery-bench-2026",
-      "lastmod": "2026-09-07",
+      "lastmod": "2026-10-15",
       "title": "SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators"
     },
     {
@@ -49,7 +49,7 @@
       "canonical": "https://metix.ai/reports/mapping/wall-street-senior-banker-2026",
       "kind": "mapping",
       "slug": "wall-street-senior-banker-2026",
-      "lastmod": "2026-08-28",
+      "lastmod": "2026-10-15",
       "title": "The Wall Street Talent War: Mapping Senior Banker Flows Across 11 Investment Banks"
     },
     {
@@ -57,7 +57,7 @@
       "canonical": "https://metix.ai/reports/mapping/databricks-ai-talent-strategy-2026",
       "kind": "mapping",
       "slug": "databricks-ai-talent-strategy-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "From Data Engineering to AI Agents: How Databricks Is Reshaping the Enterprise Data Stack"
     },
     {
@@ -65,7 +65,7 @@
       "canonical": "https://metix.ai/reports/mapping/nvidia-ai-infrastructure-talent-race-2026",
       "kind": "mapping",
       "slug": "nvidia-ai-infrastructure-talent-race-2026",
-      "lastmod": "2026-08-27",
+      "lastmod": "2026-10-15",
       "title": "AI Infra Talent Race: Roles Constraining Compute Buildout"
     },
     {
@@ -81,7 +81,7 @@
       "canonical": "https://metix.ai/reports/mapping/ai-next-talent-gap-2026",
       "kind": "mapping",
       "slug": "ai-next-talent-gap-2026",
-      "lastmod": "2026-08-19",
+      "lastmod": "2026-10-15",
       "title": "Jeff Dean leaves Google, revealing AI’s next talent gap"
     },
     {
@@ -89,7 +89,7 @@
       "canonical": "https://metix.ai/reports/mapping/ai-agent-talent-supply-demand-gap-2026",
       "kind": "mapping",
       "slug": "ai-agent-talent-supply-demand-gap-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "AI Agent talent structure"
     },
     {
@@ -97,7 +97,7 @@
       "canonical": "https://metix.ai/reports/mapping/openai-anthropic-xai-talent-structure",
       "kind": "mapping",
       "slug": "openai-anthropic-xai-talent-structure",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "OpenAI, Anthropic and xAI Talent Structure Benchmark"
     },
     {
@@ -105,7 +105,7 @@
       "canonical": "https://metix.ai/reports/mapping/overseas-chip-rd-manufacturing-talent-2026",
       "kind": "mapping",
       "slug": "overseas-chip-rd-manufacturing-talent-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "Overseas chip R&amp;D and manufacturing talent report"
     },
     {
@@ -113,7 +113,7 @@
       "canonical": "https://metix.ai/reports/mapping/fintech-talent-momentum-2026",
       "kind": "mapping",
       "slug": "fintech-talent-momentum-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "FinTech Engineering Talent Momentum Leaderboard 2026"
     },
     {
@@ -121,7 +121,7 @@
       "canonical": "https://metix.ai/reports/mapping/ai-video-generation-talent-2026",
       "kind": "mapping",
       "slug": "ai-video-generation-talent-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "AI Video Generation Talent Map 2026"
     },
     {
@@ -129,7 +129,7 @@
       "canonical": "https://metix.ai/reports/mapping/ai-infra-chip-talent-2026",
       "kind": "mapping",
       "slug": "ai-infra-chip-talent-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "AI Compute &amp; Chip Talent Map 2026"
     },
     {
@@ -137,7 +137,7 @@
       "canonical": "https://metix.ai/reports/mapping/openai-engineering-xray-2026",
       "kind": "mapping",
       "slug": "openai-engineering-xray-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "OpenAI Engineering Talent X-Ray"
     },
     {
@@ -145,7 +145,7 @@
       "canonical": "https://metix.ai/reports/mapping/anthropic-engineering-xray-2026",
       "kind": "mapping",
       "slug": "anthropic-engineering-xray-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "Anthropic Engineering Talent X-Ray"
     },
     {
@@ -153,7 +153,7 @@
       "canonical": "https://metix.ai/reports/mapping/quant-ai-talent-2026",
       "kind": "mapping",
       "slug": "quant-ai-talent-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "Quant Finance × AI Talent Flow"
     },
     {
@@ -161,7 +161,7 @@
       "canonical": "https://metix.ai/reports/mapping/frontier-ai-labs-talent-2026",
       "kind": "mapping",
       "slug": "frontier-ai-labs-talent-2026",
-      "lastmod": "2026-09-26",
+      "lastmod": "2026-10-15",
       "title": "Frontier AI Lab Talent Landscape &amp; Flow Map"
     },
     {
@@ -169,7 +169,7 @@
       "canonical": "https://metix.ai/reports/mapping/clinical-ai-healthcare-2026",
       "kind": "mapping",
       "slug": "clinical-ai-healthcare-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "Clinical AI &amp; Health Systems Talent Map (U.S.)"
     },
     {
@@ -177,7 +177,7 @@
       "canonical": "https://metix.ai/reports/mapping/techbio-ai-pharma-2026",
       "kind": "mapping",
       "slug": "techbio-ai-pharma-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "TechBio / AI Drug Discovery Talent Map"
     },
     {
@@ -185,7 +185,7 @@
       "canonical": "https://metix.ai/reports/mapping/embodied-ai-humanoid-2026",
       "kind": "mapping",
       "slug": "embodied-ai-humanoid-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "Embodied AI &amp; Humanoid Robots Talent Map"
     },
     {
@@ -193,7 +193,7 @@
       "canonical": "https://metix.ai/reports/mapping/game-engine-world-model-2026",
       "kind": "mapping",
       "slug": "game-engine-world-model-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "Game Engine × World Model Talent Corridor"
     },
     {
@@ -201,7 +201,7 @@
       "canonical": "https://metix.ai/reports/mapping/job-distribution-ex-china-2026",
       "kind": "mapping",
       "slug": "job-distribution-ex-china-2026",
-      "lastmod": "2026-08-20",
+      "lastmod": "2026-10-15",
       "title": "Overseas Jobs — Structure Report"
     },
     {
@@ -1657,7 +1657,7 @@
       "canonical": "https://metix.ai/reports/series/fde-employed-vs-jd-2026",
       "kind": "series",
       "slug": "fde-employed-vs-jd-2026",
-      "lastmod": "2026-10-06",
+      "lastmod": "2026-10-15",
       "title": "Palantir FDE: 1 Exact Job, 1 Employed Title, 69 Job Titles"
     },
     {
