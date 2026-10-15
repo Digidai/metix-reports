@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-14T11:48:14Z",
+  "generated_at": "2026-10-15T05:51:55Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 204,
+    "total": 209,
     "hubs": 2,
-    "series": 112,
+    "series": 117,
     "mapping": 90
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-14",
+      "lastmod": "2026-10-15",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-14",
+      "lastmod": "2026-10-15",
       "title": "Metix AI Series Reports"
     },
     {
@@ -747,6 +747,46 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/director-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/director-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "director-eng-peer-pack-2026",
+      "lastmod": "2026-10-15",
+      "title": "Director of Engineering Peer Pack: Salesforce 173 vs Oracle 163"
+    },
+    {
+      "url": "https://metix.ai/reports/series/hubspot-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/hubspot-company-teardown-2026",
+      "kind": "series",
+      "slug": "hubspot-company-teardown-2026",
+      "lastmod": "2026-10-15",
+      "title": "HubSpot seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/ibm-to-security-vendors-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/ibm-to-security-vendors-talent-flow-2026",
+      "kind": "series",
+      "slug": "ibm-to-security-vendors-talent-flow-2026",
+      "lastmod": "2026-10-15",
+      "title": "IBM to Palo Alto Networks talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/ml-eng-fintech-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/ml-eng-fintech-peer-pack-2026",
+      "kind": "series",
+      "slug": "ml-eng-fintech-peer-pack-2026",
+      "lastmod": "2026-10-15",
+      "title": "Machine Learning Engineer Peer Pack: PayPal 236 vs Block 101"
+    },
+    {
+      "url": "https://metix.ai/reports/series/systems-eng-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/systems-eng-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "systems-eng-employed-vs-open-2026",
+      "lastmod": "2026-10-15",
+      "title": "Systems Engineer employed per open role"
     },
     {
       "url": "https://metix.ai/reports/series/account-exec-security-vendors-peer-pack-2026",
