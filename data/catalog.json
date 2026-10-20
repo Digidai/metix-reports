@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-19T13:07:57Z",
+  "generated_at": "2026-10-20T05:58:23Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 219,
+    "total": 224,
     "hubs": 2,
-    "series": 127,
+    "series": 132,
     "mapping": 90
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-19",
+      "lastmod": "2026-10-20",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-19",
+      "lastmod": "2026-10-20",
       "title": "Metix AI Series Reports"
     },
     {
@@ -749,6 +749,46 @@
       "title": "What share of xAI is Human Data &amp; Evaluation?"
     },
     {
+      "url": "https://metix.ai/reports/series/csm-enterprise-saas-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/csm-enterprise-saas-peer-pack-2026",
+      "kind": "series",
+      "slug": "csm-enterprise-saas-peer-pack-2026",
+      "lastmod": "2026-10-20",
+      "title": "Customer Success Manager Peer Pack: Salesforce 1250 vs SAP 1008"
+    },
+    {
+      "url": "https://metix.ai/reports/series/datadog-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/datadog-company-teardown-2026",
+      "kind": "series",
+      "slug": "datadog-company-teardown-2026",
+      "lastmod": "2026-10-20",
+      "title": "Datadog seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/microsoft-to-ai-infra-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/microsoft-to-ai-infra-talent-flow-2026",
+      "kind": "series",
+      "slug": "microsoft-to-ai-infra-talent-flow-2026",
+      "lastmod": "2026-10-20",
+      "title": "Microsoft to NVIDIA talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/perf-eng-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/perf-eng-peer-pack-2026",
+      "kind": "series",
+      "slug": "perf-eng-peer-pack-2026",
+      "lastmod": "2026-10-20",
+      "title": "Performance Engineer Peer Pack: NVIDIA 118 vs IBM 107"
+    },
+    {
+      "url": "https://metix.ai/reports/series/pmm-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/pmm-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "pmm-employed-vs-open-2026",
+      "lastmod": "2026-10-20",
+      "title": "Product Marketing Manager employed per open role"
+    },
+    {
       "url": "https://metix.ai/reports/series/account-exec-employed-vs-open-2026",
       "canonical": "https://metix.ai/reports/series/account-exec-employed-vs-open-2026",
       "kind": "series",
@@ -817,7 +857,7 @@
       "canonical": "https://metix.ai/reports/series/tam-data-infra-peer-pack-2026",
       "kind": "series",
       "slug": "tam-data-infra-peer-pack-2026",
-      "lastmod": "2026-10-19",
+      "lastmod": "2026-10-20",
       "title": "Technical Account Manager Peer Pack: Datadog 72 vs Cloudflare 32"
     },
     {
@@ -833,7 +873,7 @@
       "canonical": "https://metix.ai/reports/series/director-eng-peer-pack-2026",
       "kind": "series",
       "slug": "director-eng-peer-pack-2026",
-      "lastmod": "2026-10-19",
+      "lastmod": "2026-10-20",
       "title": "Director of Engineering Peer Pack: Salesforce 173 vs Oracle 163"
     },
     {
@@ -945,7 +985,7 @@
       "canonical": "https://metix.ai/reports/series/security-architect-peer-pack-2026",
       "kind": "series",
       "slug": "security-architect-peer-pack-2026",
-      "lastmod": "2026-10-19",
+      "lastmod": "2026-10-20",
       "title": "Security Architect Peer Pack: IBM 339 vs Cisco 128"
     },
     {
@@ -961,7 +1001,7 @@
       "canonical": "https://metix.ai/reports/series/dba-peer-pack-2026",
       "kind": "series",
       "slug": "dba-peer-pack-2026",
-      "lastmod": "2026-10-19",
+      "lastmod": "2026-10-20",
       "title": "Database Administrator Peer Pack: IBM 2136 vs Oracle 1174"
     },
     {
@@ -1065,7 +1105,7 @@
       "canonical": "https://metix.ai/reports/series/sales-eng-security-vendors-peer-pack-2026",
       "kind": "series",
       "slug": "sales-eng-security-vendors-peer-pack-2026",
-      "lastmod": "2026-10-19",
+      "lastmod": "2026-10-20",
       "title": "Sales Engineer Peer Pack: CrowdStrike 373 vs Zscaler 361"
     },
     {
