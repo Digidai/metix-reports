@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-10-20T11:32:28Z
-Counts: 224 URLs (132 series, 90 mapping, 2 hubs).
+Generated: 2026-10-21T05:59:00Z
+Counts: 229 URLs (137 series, 90 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -109,6 +109,11 @@ Counts: 224 URLs (132 series, 90 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Business Analyst Peer Pack: IBM 3187 vs Oracle 1406](https://metix.ai/reports/series/business-analyst-peer-pack-2026)
+- [Data Engineer Peer Pack: PayPal 344 vs Block 47](https://metix.ai/reports/series/data-eng-fintech-peer-pack-2026)
+- [Network Engineer employed per open role](https://metix.ai/reports/series/network-eng-employed-vs-open-2026)
+- [Okta seat shelf](https://metix.ai/reports/series/okta-company-teardown-2026)
+- [Salesforce to Datadog talent flow](https://metix.ai/reports/series/salesforce-to-devtools-talent-flow-2026)
 - [Customer Success Manager Peer Pack: Salesforce 1250 vs SAP 1008](https://metix.ai/reports/series/csm-enterprise-saas-peer-pack-2026)
 - [Datadog seat shelf](https://metix.ai/reports/series/datadog-company-teardown-2026)
 - [Microsoft to NVIDIA talent flow](https://metix.ai/reports/series/microsoft-to-ai-infra-talent-flow-2026)
