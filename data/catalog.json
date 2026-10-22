@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-21T11:44:48Z",
+  "generated_at": "2026-10-22T06:05:15Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 229,
+    "total": 234,
     "hubs": 2,
-    "series": 137,
+    "series": 142,
     "mapping": 90
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-21",
+      "lastmod": "2026-10-22",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-10-21",
+      "lastmod": "2026-10-22",
       "title": "Metix AI Series Reports"
     },
     {
@@ -749,6 +749,46 @@
       "title": "What share of xAI is Human Data &amp; Evaluation?"
     },
     {
+      "url": "https://metix.ai/reports/series/boeing-to-defense-tech-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/boeing-to-defense-tech-talent-flow-2026",
+      "kind": "series",
+      "slug": "boeing-to-defense-tech-talent-flow-2026",
+      "lastmod": "2026-10-22",
+      "title": "Boeing to SpaceX talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/product-mgr-fintech-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/product-mgr-fintech-peer-pack-2026",
+      "kind": "series",
+      "slug": "product-mgr-fintech-peer-pack-2026",
+      "lastmod": "2026-10-22",
+      "title": "Product Manager Peer Pack: PayPal 776 vs Stripe 199"
+    },
+    {
+      "url": "https://metix.ai/reports/series/robinhood-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/robinhood-company-teardown-2026",
+      "kind": "series",
+      "slug": "robinhood-company-teardown-2026",
+      "lastmod": "2026-10-22",
+      "title": "Robinhood seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/sdr-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/sdr-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "sdr-employed-vs-open-2026",
+      "lastmod": "2026-10-22",
+      "title": "Sales Development Representative employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/sourcer-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/sourcer-peer-pack-2026",
+      "kind": "series",
+      "slug": "sourcer-peer-pack-2026",
+      "lastmod": "2026-10-22",
+      "title": "Sourcer Peer Pack: Uber 96 vs IBM 89"
+    },
+    {
       "url": "https://metix.ai/reports/series/business-analyst-peer-pack-2026",
       "canonical": "https://metix.ai/reports/series/business-analyst-peer-pack-2026",
       "kind": "series",
@@ -897,7 +937,7 @@
       "canonical": "https://metix.ai/reports/series/tam-data-infra-peer-pack-2026",
       "kind": "series",
       "slug": "tam-data-infra-peer-pack-2026",
-      "lastmod": "2026-10-21",
+      "lastmod": "2026-10-22",
       "title": "Technical Account Manager Peer Pack: Datadog 72 vs Cloudflare 32"
     },
     {
@@ -913,7 +953,7 @@
       "canonical": "https://metix.ai/reports/series/director-eng-peer-pack-2026",
       "kind": "series",
       "slug": "director-eng-peer-pack-2026",
-      "lastmod": "2026-10-21",
+      "lastmod": "2026-10-22",
       "title": "Director of Engineering Peer Pack: Salesforce 173 vs Oracle 163"
     },
     {
@@ -1025,7 +1065,7 @@
       "canonical": "https://metix.ai/reports/series/security-architect-peer-pack-2026",
       "kind": "series",
       "slug": "security-architect-peer-pack-2026",
-      "lastmod": "2026-10-21",
+      "lastmod": "2026-10-22",
       "title": "Security Architect Peer Pack: IBM 339 vs Cisco 128"
     },
     {
@@ -1041,7 +1081,7 @@
       "canonical": "https://metix.ai/reports/series/dba-peer-pack-2026",
       "kind": "series",
       "slug": "dba-peer-pack-2026",
-      "lastmod": "2026-10-21",
+      "lastmod": "2026-10-22",
       "title": "Database Administrator Peer Pack: IBM 2136 vs Oracle 1174"
     },
     {
@@ -1145,7 +1185,7 @@
       "canonical": "https://metix.ai/reports/series/sales-eng-security-vendors-peer-pack-2026",
       "kind": "series",
       "slug": "sales-eng-security-vendors-peer-pack-2026",
-      "lastmod": "2026-10-21",
+      "lastmod": "2026-10-22",
       "title": "Sales Engineer Peer Pack: CrowdStrike 373 vs Zscaler 361"
     },
     {
