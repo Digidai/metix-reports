@@ -15,9 +15,9 @@ Metix publishes structured talent reports (series peer packs / benches and mappi
 - Series sitemap: https://metix.ai/reports/series/sitemap.xml
 - Mapping sitemap: https://metix.ai/reports/sitemap.xml
 
-## Catalog (234 URLs)
+## Catalog (239 URLs)
 
-Generated `2026-10-22T11:48:02Z` from live sitemaps (142 series · 90 mapping · 2 hubs).
+Generated `2026-10-23T06:00:08Z` from live sitemaps (147 series · 90 mapping · 2 hubs).
 
 ### Series
 
@@ -34,6 +34,7 @@ Generated `2026-10-22T11:48:02Z` from live sitemaps (142 series · 90 mapping ·
 - [Anthropic seat shelf](https://metix.ai/reports/series/anthropic-company-teardown-2026) — lastmod `2026-10-17`
 - [Anyscale 489, Groq 1 Job | Inference Serving](https://metix.ai/reports/series/inference-serving-talent-2026) — lastmod `2026-10-17`
 - [Apple to OpenAI talent flow](https://metix.ai/reports/series/apple-to-frontier-labs-talent-flow-2026) — lastmod `2026-10-17`
+- [Apple to Zoox talent flow](https://metix.ai/reports/series/apple-to-autonomy-talent-flow-2026) — lastmod `2026-10-23`
 - [Application Security Engineer Peer Pack: Amazon 117 vs Salesforce 54](https://metix.ai/reports/series/appsec-eng-peer-pack-2026) — lastmod `2026-10-18`
 - [Applied 213 vs Lam 120 | Etch / Deposition](https://metix.ai/reports/series/lam-amat-etch-deposition-process-2026) — lastmod `2026-10-17`
 - [Applied Scientist Peer Pack: Amazon 4413 vs Microsoft 1624](https://metix.ai/reports/series/applied-scientist-peer-pack-2026) — lastmod `2026-10-18`
@@ -52,20 +53,22 @@ Generated `2026-10-22T11:48:02Z` from live sitemaps (142 series · 90 mapping ·
 - [CoreWeave: 93 of 102 US DC-Ops Seats](https://metix.ai/reports/series/coreweave-crusoe-dc-ops-2026) — lastmod `2026-10-17`
 - [CrowdStrike seat shelf](https://metix.ai/reports/series/crowdstrike-company-teardown-2026) — lastmod `2026-10-17`
 - [Customer Engineer Peer Pack: Google 1884 vs Microsoft 622](https://metix.ai/reports/series/ce-peer-pack-2026) — lastmod `2026-10-18`
+- [Customer Success Manager employed per open role](https://metix.ai/reports/series/csm-employed-vs-open-2026) — lastmod `2026-10-23`
 - [Customer Success Manager Peer Pack: Salesforce 1250 vs SAP 1008](https://metix.ai/reports/series/csm-enterprise-saas-peer-pack-2026) — lastmod `2026-10-20`
 - [Data Analyst Peer Pack: Amazon 2910 vs Google 1413](https://metix.ai/reports/series/data-analyst-peer-pack-2026) — lastmod `2026-10-18`
+- [Data Architect Peer Pack: IBM 250 vs Adobe 63](https://metix.ai/reports/series/data-architect-peer-pack-2026) — lastmod `2026-10-23`
 - [Data Engineer Employed vs Open: Netflix 173 against 5](https://metix.ai/reports/series/data-eng-employed-vs-open-2026) — lastmod `2026-10-17`
 - [Data Engineer Peer Pack: Netflix 173 vs Uber 89](https://metix.ai/reports/series/data-eng-peer-pack-2026) — lastmod `2026-10-18`
 - [Data Engineer Peer Pack: PayPal 344 vs Block 47](https://metix.ai/reports/series/data-eng-fintech-peer-pack-2026) — lastmod `2026-10-21`
 - [Data Scientist employed per open role](https://metix.ai/reports/series/data-scientist-employed-vs-open-2026) — lastmod `2026-10-17`
 - [Data Scientist Peer Pack: Meta 2593 vs Uber 378](https://metix.ai/reports/series/data-scientist-peer-pack-2026) — lastmod `2026-10-18`
 - [Data Scientist Peer Pack: PayPal 561 vs Stripe 99](https://metix.ai/reports/series/data-scientist-fintech-peer-pack-2026) — lastmod `2026-10-18`
-- [Database Administrator Peer Pack: IBM 2136 vs Oracle 1174](https://metix.ai/reports/series/dba-peer-pack-2026) — lastmod `2026-10-22`
+- [Database Administrator Peer Pack: IBM 2136 vs Oracle 1174](https://metix.ai/reports/series/dba-peer-pack-2026) — lastmod `2026-10-23`
 - [Databricks seat shelf](https://metix.ai/reports/series/databricks-company-teardown-2026) — lastmod `2026-10-17`
 - [Datadog seat shelf](https://metix.ai/reports/series/datadog-company-teardown-2026) — lastmod `2026-10-20`
 - [Designer employed per open role](https://metix.ai/reports/series/designer-employed-vs-open-2026) — lastmod `2026-10-17`
 - [DevOps Engineer Peer Pack: Amazon 560 vs Microsoft 296](https://metix.ai/reports/series/devops-eng-peer-pack-2026) — lastmod `2026-10-18`
-- [Director of Engineering Peer Pack: Salesforce 173 vs Oracle 163](https://metix.ai/reports/series/director-eng-peer-pack-2026) — lastmod `2026-10-22`
+- [Director of Engineering Peer Pack: Salesforce 173 vs Oracle 163](https://metix.ai/reports/series/director-eng-peer-pack-2026) — lastmod `2026-10-23`
 - [ElevenLabs Voice AI: 622 Current, 219 Jobs](https://metix.ai/reports/series/voice-speech-ai-talent-2026) — lastmod `2026-10-17`
 - [Engineering Manager employed per open role](https://metix.ai/reports/series/eng-manager-employed-vs-open-2026) — lastmod `2026-10-17`
 - [EvenUp Legal 195 vs Lawyer 3](https://metix.ai/reports/series/legal-ai-talent-2026) — lastmod `2026-10-17`
@@ -105,6 +108,7 @@ Generated `2026-10-22T11:48:02Z` from live sitemaps (142 series · 90 mapping ·
 - [Oracle to MongoDB talent flow](https://metix.ai/reports/series/oracle-to-devtools-talent-flow-2026) — lastmod `2026-10-17`
 - [Palantir FDE: 1 Exact Job, 1 Employed Title, 69 Job Titles](https://metix.ai/reports/series/fde-employed-vs-jd-2026) — lastmod `2026-10-17`
 - [Palantir seat shelf](https://metix.ai/reports/series/palantir-company-teardown-2026) — lastmod `2026-10-17`
+- [Palo Alto Networks seat shelf](https://metix.ai/reports/series/palo-alto-networks-company-teardown-2026) — lastmod `2026-10-23`
 - [Performance Engineer Peer Pack: NVIDIA 118 vs IBM 107](https://metix.ai/reports/series/perf-eng-peer-pack-2026) — lastmod `2026-10-20`
 - [Platform Engineer Peer Pack: Microsoft 42 vs NVIDIA 29](https://metix.ai/reports/series/platform-eng-peer-pack-2026) — lastmod `2026-10-18`
 - [Principal Engineer Peer Pack: Amazon 844 vs Oracle 682](https://metix.ai/reports/series/principal-eng-peer-pack-2026) — lastmod `2026-10-18`
@@ -114,6 +118,7 @@ Generated `2026-10-22T11:48:02Z` from live sitemaps (142 series · 90 mapping ·
 - [Product Manager Peer Pack: Google 4099 vs Meta 2657](https://metix.ai/reports/series/product-mgr-peer-pack-2026) — lastmod `2026-10-18`
 - [Product Manager Peer Pack: PayPal 776 vs Stripe 199](https://metix.ai/reports/series/product-mgr-fintech-peer-pack-2026) — lastmod `2026-10-22`
 - [Product Marketing Manager employed per open role](https://metix.ai/reports/series/pmm-employed-vs-open-2026) — lastmod `2026-10-20`
+- [Product Marketing Manager Peer Pack: Adobe 231 vs Salesforce 186](https://metix.ai/reports/series/pmm-enterprise-saas-peer-pack-2026) — lastmod `2026-10-23`
 - [Program Manager Peer Pack: IBM 2989 vs Oracle 2569](https://metix.ai/reports/series/program-mgr-peer-pack-2026) — lastmod `2026-10-18`
 - [QA Engineer Peer Pack: IBM 1928 vs Oracle 1455](https://metix.ai/reports/series/qa-eng-peer-pack-2026) — lastmod `2026-10-18`
 - [Recruiter employed per open role](https://metix.ai/reports/series/recruiter-employed-vs-open-2026) — lastmod `2026-10-17`
@@ -123,10 +128,10 @@ Generated `2026-10-22T11:48:02Z` from live sitemaps (142 series · 90 mapping ·
 - [Rippling seat shelf](https://metix.ai/reports/series/rippling-company-teardown-2026) — lastmod `2026-10-17`
 - [Robinhood seat shelf](https://metix.ai/reports/series/robinhood-company-teardown-2026) — lastmod `2026-10-22`
 - [Sales Development Representative employed per open role](https://metix.ai/reports/series/sdr-employed-vs-open-2026) — lastmod `2026-10-22`
-- [Sales Engineer Peer Pack: CrowdStrike 373 vs Zscaler 361](https://metix.ai/reports/series/sales-eng-security-vendors-peer-pack-2026) — lastmod `2026-10-22`
+- [Sales Engineer Peer Pack: CrowdStrike 373 vs Zscaler 361](https://metix.ai/reports/series/sales-eng-security-vendors-peer-pack-2026) — lastmod `2026-10-23`
 - [Sales Engineer Peer Pack: Snowflake 328 vs Cisco 114](https://metix.ai/reports/series/sales-eng-peer-pack-2026) — lastmod `2026-10-18`
 - [Salesforce to Datadog talent flow](https://metix.ai/reports/series/salesforce-to-devtools-talent-flow-2026) — lastmod `2026-10-21`
-- [Security Architect Peer Pack: IBM 339 vs Cisco 128](https://metix.ai/reports/series/security-architect-peer-pack-2026) — lastmod `2026-10-22`
+- [Security Architect Peer Pack: IBM 339 vs Cisco 128](https://metix.ai/reports/series/security-architect-peer-pack-2026) — lastmod `2026-10-23`
 - [Security Engineer employed per open role](https://metix.ai/reports/series/sec-eng-employed-vs-open-2026) — lastmod `2026-10-17`
 - [Security Engineer Peer Pack: Palo Alto Networks 193 vs CrowdStrike 100](https://metix.ai/reports/series/sec-eng-peer-pack-2026) — lastmod `2026-10-18`
 - [Security Engineer Peer Pack: PayPal 138 vs Coinbase 53](https://metix.ai/reports/series/sec-eng-fintech-peer-pack-2026) — lastmod `2026-10-19`
@@ -150,7 +155,7 @@ Generated `2026-10-22T11:48:02Z` from live sitemaps (142 series · 90 mapping ·
 - [Support Engineer Peer Pack: Twilio 252 vs Datadog 176](https://metix.ai/reports/series/support-eng-peer-pack-2026) — lastmod `2026-10-18`
 - [Synopsys 43 HAV Seats vs Cadence 29](https://metix.ai/reports/series/cadence-synopsys-emulation-hav-2026) — lastmod `2026-10-17`
 - [Systems Engineer employed per open role](https://metix.ai/reports/series/systems-eng-employed-vs-open-2026) — lastmod `2026-10-17`
-- [Technical Account Manager Peer Pack: Datadog 72 vs Cloudflare 32](https://metix.ai/reports/series/tam-data-infra-peer-pack-2026) — lastmod `2026-10-22`
+- [Technical Account Manager Peer Pack: Datadog 72 vs Cloudflare 32](https://metix.ai/reports/series/tam-data-infra-peer-pack-2026) — lastmod `2026-10-23`
 - [Technical Program Manager employed per open role](https://metix.ai/reports/series/tpm-employed-vs-open-2026) — lastmod `2026-10-17`
 - [Technical Program Manager Peer Pack: Amazon 5100 vs Google 3831](https://metix.ai/reports/series/tpm-peer-pack-2026) — lastmod `2026-10-18`
 - [Technical Recruiter Peer Pack: Amazon 1132 vs Google 567](https://metix.ai/reports/series/tech-recruiter-peer-pack-2026) — lastmod `2026-10-18`
@@ -166,24 +171,24 @@ Generated `2026-10-22T11:48:02Z` from live sitemaps (142 series · 90 mapping ·
 
 ### Mapping
 
-- [AI Agent talent structure](https://metix.ai/reports/mapping/ai-agent-talent-supply-demand-gap-2026) — lastmod `2026-10-17`
-- [AI Compute &amp; Chip Talent Map 2026](https://metix.ai/reports/mapping/ai-infra-chip-talent-2026) — lastmod `2026-10-17`
-- [AI Infra Talent Race: Roles Constraining Compute Buildout](https://metix.ai/reports/mapping/nvidia-ai-infrastructure-talent-race-2026) — lastmod `2026-10-17`
-- [AI Infra: 3,633 Profiles, $500B+ Capital](https://metix.ai/reports/mapping/ai-infra-capital-talent-2026) — lastmod `2026-10-17`
+- [AI Agent talent structure](https://metix.ai/reports/mapping/ai-agent-talent-supply-demand-gap-2026) — lastmod `2026-10-22`
+- [AI Compute &amp; Chip Talent Map 2026](https://metix.ai/reports/mapping/ai-infra-chip-talent-2026) — lastmod `2026-10-22`
+- [AI Infra Talent Race: Roles Constraining Compute Buildout](https://metix.ai/reports/mapping/nvidia-ai-infrastructure-talent-race-2026) — lastmod `2026-10-22`
+- [AI Infra: 3,633 Profiles, $500B+ Capital](https://metix.ai/reports/mapping/ai-infra-capital-talent-2026) — lastmod `2026-08-20`
 - [AI infrastructure and chip talent map](https://metix.ai/reports/topics/ai-infra-chips) — lastmod `2026-10-17`
-- [AI Video Generation Talent Map 2026](https://metix.ai/reports/mapping/ai-video-generation-talent-2026) — lastmod `2026-10-17`
-- [Anthropic Engineering Talent X-Ray](https://metix.ai/reports/mapping/anthropic-engineering-xray-2026) — lastmod `2026-10-17`
-- [Clinical AI &amp; Health Systems Talent Map (U.S.)](https://metix.ai/reports/mapping/clinical-ai-healthcare-2026) — lastmod `2026-10-17`
+- [AI Video Generation Talent Map 2026](https://metix.ai/reports/mapping/ai-video-generation-talent-2026) — lastmod `2026-10-22`
+- [Anthropic Engineering Talent X-Ray](https://metix.ai/reports/mapping/anthropic-engineering-xray-2026) — lastmod `2026-10-22`
+- [Clinical AI &amp; Health Systems Talent Map (U.S.)](https://metix.ai/reports/mapping/clinical-ai-healthcare-2026) — lastmod `2026-10-22`
 - [Clinical AI and TechBio talent map](https://metix.ai/reports/topics/clinical-techbio) — lastmod `2026-10-17`
-- [Cutting Technical Roles While Hiring for Sales and Delivery: Salesforce After Agentforce Passed $1B](https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026) — lastmod `2026-10-17`
-- [Discovery Loop: 25 Research Engineering Jobs](https://metix.ai/reports/mapping/ai-next-talent-gap-2026) — lastmod `2026-10-17`
+- [Cutting Technical Roles While Hiring for Sales and Delivery: Salesforce After Agentforce Passed $1B](https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026) — lastmod `2026-10-22`
+- [Discovery Loop: 25 Research Engineering Jobs](https://metix.ai/reports/mapping/ai-next-talent-gap-2026) — lastmod `2026-10-22`
 - [Embodied AI and humanoid talent map](https://metix.ai/reports/topics/embodied-robotics) — lastmod `2026-10-17`
 - [Fintech and quant-to-AI talent flow](https://metix.ai/reports/topics/fintech-ai) — lastmod `2026-10-17`
-- [FinTech Engineering Talent Momentum Leaderboard 2026](https://metix.ai/reports/mapping/fintech-talent-momentum-2026) — lastmod `2026-10-17`
-- [From Data Engineering to AI Agents: How Databricks Is Reshaping the Enterprise Data Stack](https://metix.ai/reports/mapping/databricks-ai-talent-strategy-2026) — lastmod `2026-10-17`
-- [Frontier AI Labs List: 13 Labs, 19,057 Profiles](https://metix.ai/reports/mapping/frontier-ai-labs-talent-2026) — lastmod `2026-10-17`
+- [FinTech Engineering Talent Momentum Leaderboard 2026](https://metix.ai/reports/mapping/fintech-talent-momentum-2026) — lastmod `2026-10-22`
+- [From Data Engineering to AI Agents: How Databricks Is Reshaping the Enterprise Data Stack](https://metix.ai/reports/mapping/databricks-ai-talent-strategy-2026) — lastmod `2026-10-22`
+- [Frontier AI Labs List: 13 Labs, 19,057 Profiles](https://metix.ai/reports/mapping/frontier-ai-labs-talent-2026) — lastmod `2026-10-22`
 - [Frontier AI Labs talent structure](https://metix.ai/reports/topics/frontier-ai-labs) — lastmod `2026-10-17`
-- [Game Engine × World Model Talent Corridor](https://metix.ai/reports/mapping/game-engine-world-model-2026) — lastmod `2026-10-17`
+- [Game Engine × World Model Talent Corridor](https://metix.ai/reports/mapping/game-engine-world-model-2026) — lastmod `2026-10-22`
 - [How big is the hardware-by-AI hybrid bench in embodied AI?](https://metix.ai/reports/questions/embodied-hardware-ai-hybrids) — lastmod `2026-10-17`
 - [How commercial is Anthropic’s talent mix?](https://metix.ai/reports/questions/anthropic-gtm-share) — lastmod `2026-10-17`
 - [How fast is electrical and power hiring growing versus data-center engineers?](https://metix.ai/reports/questions/ai-infra-electrical-power-growth) — lastmod `2026-10-17`
@@ -223,16 +228,16 @@ Generated `2026-10-22T11:48:02Z` from live sitemaps (142 series · 90 mapping ·
 - [How new is Anthropic’s engineering team?](https://metix.ai/reports/questions/anthropic-tenure) — lastmod `2026-10-17`
 - [How new is OpenAI’s engineering team?](https://metix.ai/reports/questions/openai-tenure) — lastmod `2026-10-17`
 - [How often is Intel the top feeder into chip companies?](https://metix.ai/reports/questions/intel-feeder-to-chip-startups) — lastmod `2026-10-17`
-- [Humanoid Robot Talent: 13 Players, 1,930 Profiles](https://metix.ai/reports/mapping/embodied-ai-humanoid-2026) — lastmod `2026-10-17`
-- [OpenAI Engineering Talent X-Ray](https://metix.ai/reports/mapping/openai-engineering-xray-2026) — lastmod `2026-10-17`
+- [Humanoid Robot Talent: 13 Players, 1,930 Profiles](https://metix.ai/reports/mapping/embodied-ai-humanoid-2026) — lastmod `2026-10-22`
+- [OpenAI Engineering Talent X-Ray](https://metix.ai/reports/mapping/openai-engineering-xray-2026) — lastmod `2026-10-22`
 - [OpenAI MTS: 1,725 of 3,041 Technical](https://metix.ai/reports/questions/openai-mts-share) — lastmod `2026-10-17`
-- [Overseas chip R&amp;D and manufacturing talent report](https://metix.ai/reports/mapping/overseas-chip-rd-manufacturing-talent-2026) — lastmod `2026-10-17`
+- [Overseas chip R&amp;D and manufacturing talent report](https://metix.ai/reports/mapping/overseas-chip-rd-manufacturing-talent-2026) — lastmod `2026-10-22`
 - [Overseas job structure and ethnic-Chinese algorithm talent](https://metix.ai/reports/topics/overseas-chinese-talent) — lastmod `2026-10-17`
-- [Overseas Jobs — Structure Report](https://metix.ai/reports/mapping/job-distribution-ex-china-2026) — lastmod `2026-10-17`
-- [Quant Talent to AI Labs: 367 Moves, 25 Firms](https://metix.ai/reports/mapping/quant-ai-talent-2026) — lastmod `2026-10-17`
-- [Senior Banker Mapping: 101 Moves Across 11 Banks](https://metix.ai/reports/mapping/wall-street-senior-banker-2026) — lastmod `2026-10-17`
-- [SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators](https://metix.ai/reports/mapping/si-genai-delivery-bench-2026) — lastmod `2026-10-17`
-- [TechBio Talent: 6,420 Profiles at 35 AI-Pharma Firms](https://metix.ai/reports/mapping/techbio-ai-pharma-2026) — lastmod `2026-10-17`
+- [Overseas Jobs — Structure Report](https://metix.ai/reports/mapping/job-distribution-ex-china-2026) — lastmod `2026-10-22`
+- [Quant Talent to AI Labs: 367 Moves, 25 Firms](https://metix.ai/reports/mapping/quant-ai-talent-2026) — lastmod `2026-10-22`
+- [Senior Banker Mapping: 101 Moves Across 11 Banks](https://metix.ai/reports/mapping/wall-street-senior-banker-2026) — lastmod `2026-10-22`
+- [SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators](https://metix.ai/reports/mapping/si-genai-delivery-bench-2026) — lastmod `2026-10-22`
+- [TechBio Talent: 6,420 Profiles at 35 AI-Pharma Firms](https://metix.ai/reports/mapping/techbio-ai-pharma-2026) — lastmod `2026-10-22`
 - [What is the engineering share at OpenAI vs Anthropic vs xAI?](https://metix.ai/reports/questions/openai-anthropic-xai-engineering-share) — lastmod `2026-10-17`
 - [What is the PhD share of AI video builders?](https://metix.ai/reports/questions/ai-video-phd-share) — lastmod `2026-10-17`
 - [What share of AI video builders joined in the last two years?](https://metix.ai/reports/questions/ai-video-joined-two-years) — lastmod `2026-10-17`
@@ -255,7 +260,7 @@ Generated `2026-10-22T11:48:02Z` from live sitemaps (142 series · 90 mapping ·
 - [Which fintech company is the top net importer in the peer circle?](https://metix.ai/reports/questions/fintech-ramp-net-import) — lastmod `2026-10-17`
 - [Which functions dominate overseas hiring?](https://metix.ai/reports/questions/overseas-jobs-function-mix) — lastmod `2026-10-17`
 - [Which industries dominate overseas hiring?](https://metix.ai/reports/questions/overseas-jobs-industry-mix) — lastmod `2026-10-17`
-- [xAI vs Anthropic vs OpenAI: 9,421 Profiles](https://metix.ai/reports/mapping/openai-anthropic-xai-talent-structure) — lastmod `2026-10-17`
+- [xAI vs Anthropic vs OpenAI: 9,421 Profiles](https://metix.ai/reports/mapping/openai-anthropic-xai-talent-structure) — lastmod `2026-10-22`
 
 ## How to cite
 

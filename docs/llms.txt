@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-10-22T11:48:02Z
-Counts: 234 URLs (142 series, 90 mapping, 2 hubs).
+Generated: 2026-10-23T06:00:08Z
+Counts: 239 URLs (147 series, 90 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -109,6 +109,11 @@ Counts: 234 URLs (142 series, 90 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Apple to Zoox talent flow](https://metix.ai/reports/series/apple-to-autonomy-talent-flow-2026)
+- [Customer Success Manager employed per open role](https://metix.ai/reports/series/csm-employed-vs-open-2026)
+- [Data Architect Peer Pack: IBM 250 vs Adobe 63](https://metix.ai/reports/series/data-architect-peer-pack-2026)
+- [Palo Alto Networks seat shelf](https://metix.ai/reports/series/palo-alto-networks-company-teardown-2026)
+- [Product Marketing Manager Peer Pack: Adobe 231 vs Salesforce 186](https://metix.ai/reports/series/pmm-enterprise-saas-peer-pack-2026)
 - [Boeing to SpaceX talent flow](https://metix.ai/reports/series/boeing-to-defense-tech-talent-flow-2026)
 - [Product Manager Peer Pack: PayPal 776 vs Stripe 199](https://metix.ai/reports/series/product-mgr-fintech-peer-pack-2026)
 - [Robinhood seat shelf](https://metix.ai/reports/series/robinhood-company-teardown-2026)
