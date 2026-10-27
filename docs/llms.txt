@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-10-26T12:56:30Z
-Counts: 246 URLs (154 series, 90 mapping, 2 hubs).
+Generated: 2026-10-27T06:13:40Z
+Counts: 253 URLs (161 series, 90 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -109,6 +109,13 @@ Counts: 246 URLs (154 series, 90 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Meta to Coinbase talent flow](https://metix.ai/reports/series/meta-to-fintech-talent-flow-2026)
+- [OpenAI market-entry geography](https://metix.ai/reports/series/openai-market-entry-geo-2026)
+- [Software Development Manager Peer Pack: Oracle 908 vs IBM 415](https://metix.ai/reports/series/sdm-peer-pack-2026)
+- [enterprise security vendors vendor bench for Security Engineer](https://metix.ai/reports/series/security-vendor-sec-eng-vendor-bench-2026)
+- [Solutions Engineer employed per open role](https://metix.ai/reports/series/solutions-eng-employed-vs-open-2026)
+- [Software Engineer (defense tech and primes) Peer Pack: Palantir 1122 vs Anduril 947](https://metix.ai/reports/series/swe-defense-tech-peer-pack-2026)
+- [Zscaler seat shelf](https://metix.ai/reports/series/zscaler-company-teardown-2026)
 - [Account Manager employed per open role](https://metix.ai/reports/series/account-mgr-employed-vs-open-2026)
 - [Anthropic market-entry geography](https://metix.ai/reports/series/anthropic-market-entry-geo-2026)
 - [observability vendor bench for Site Reliability Engineer](https://metix.ai/reports/series/observability-sre-vendor-bench-2026)
