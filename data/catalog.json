@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:59:38Z",
+  "generated_at": "2026-10-28T12:53:09Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
@@ -1074,7 +1074,7 @@
       "kind": "series",
       "slug": "pmm-employed-vs-open-2026",
       "lastmod": "2026-10-24",
-      "title": "pmm-employed-vs-open-2026"
+      "title": "Product Marketing Manager employed per open role"
     },
     {
       "url": "https://metix.ai/reports/series/account-exec-employed-vs-open-2026",
@@ -1770,7 +1770,7 @@
       "kind": "series",
       "slug": "fde-peer-pack-2026",
       "lastmod": "2026-10-24",
-      "title": "Forward Deployed Engineer Peer Pack: Palantir 576 vs Meta 96"
+      "title": "fde-peer-pack-2026"
     },
     {
       "url": "https://metix.ai/reports/series/fw-eng-peer-pack-2026",
@@ -1850,7 +1850,7 @@
       "kind": "series",
       "slug": "applied-scientist-peer-pack-2026",
       "lastmod": "2026-10-28",
-      "title": "applied-scientist-peer-pack-2026"
+      "title": "Applied Scientist Peer Pack: Amazon 4413 vs Microsoft 1624"
     },
     {
       "url": "https://metix.ai/reports/series/data-scientist-peer-pack-2026",
@@ -1874,7 +1874,7 @@
       "kind": "series",
       "slug": "research-scientist-peer-pack-2026",
       "lastmod": "2026-10-28",
-      "title": "research-scientist-peer-pack-2026"
+      "title": "Research Scientist Peer Pack: Meta 3255 vs Google 790"
     },
     {
       "url": "https://metix.ai/reports/series/solutions-eng-peer-pack-2026",
@@ -1954,7 +1954,7 @@
       "kind": "series",
       "slug": "skyworks-qorvo-rf-2026",
       "lastmod": "2026-10-24",
-      "title": "Skyworks 80 vs Qorvo 92 | RF Front-End / RFIC"
+      "title": "skyworks-qorvo-rf-2026"
     },
     {
       "url": "https://metix.ai/reports/series/ti-adi-analog-2026",
@@ -2034,7 +2034,7 @@
       "kind": "series",
       "slug": "spacex-rocketlab-blueorigin-launch-gnc-2026",
       "lastmod": "2026-10-24",
-      "title": "spacex-rocketlab-blueorigin-launch-gnc-2026"
+      "title": "Blue Origin 318 GNC Jobs | Launch Flight Software"
     },
     {
       "url": "https://metix.ai/reports/series/stripe-adyen-fraud-risk-2026",
