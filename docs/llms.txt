@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-10-27T12:07:49Z
-Counts: 253 URLs (161 series, 90 mapping, 2 hubs).
+Generated: 2026-10-28T06:59:38Z
+Counts: 260 URLs (168 series, 90 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -109,6 +109,13 @@ Counts: 253 URLs (161 series, 90 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Google to NVIDIA talent flow](https://metix.ai/reports/series/google-to-ai-infra-talent-flow-2026)
+- [payments rails vendor bench for Software Engineer](https://metix.ai/reports/series/payments-rails-swe-vendor-bench-2026)
+- [Plaid seat shelf](https://metix.ai/reports/series/plaid-company-teardown-2026)
+- [Program Manager employed per open role](https://metix.ai/reports/series/program-mgr-employed-vs-open-2026)
+- [Stripe market-entry geography](https://metix.ai/reports/series/stripe-market-entry-geo-2026)
+- [Software Engineer (developer tools) Peer Pack: Atlassian 4809 vs Datadog 2187](https://metix.ai/reports/series/swe-devtools-peer-pack-2026)
+- [Systems Engineer Peer Pack: Cisco 938 vs IBM 552](https://metix.ai/reports/series/systems-eng-peer-pack-2026)
 - [Meta to Coinbase talent flow](https://metix.ai/reports/series/meta-to-fintech-talent-flow-2026)
 - [OpenAI market-entry geography](https://metix.ai/reports/series/openai-market-entry-geo-2026)
 - [Software Development Manager Peer Pack: Oracle 908 vs IBM 415](https://metix.ai/reports/series/sdm-peer-pack-2026)
@@ -142,7 +149,7 @@ Counts: 253 URLs (161 series, 90 mapping, 2 hubs).
 - [Datadog seat shelf](https://metix.ai/reports/series/datadog-company-teardown-2026)
 - [Microsoft to NVIDIA talent flow](https://metix.ai/reports/series/microsoft-to-ai-infra-talent-flow-2026)
 - [Performance Engineer Peer Pack: NVIDIA 118 vs IBM 107](https://metix.ai/reports/series/perf-eng-peer-pack-2026)
-- [Product Marketing Manager employed per open role](https://metix.ai/reports/series/pmm-employed-vs-open-2026)
+- [pmm-employed-vs-open-2026](https://metix.ai/reports/series/pmm-employed-vs-open-2026)
 - [Account Executive employed per open role](https://metix.ai/reports/series/account-exec-employed-vs-open-2026)
 - [AI Engineer Peer Pack: IBM 778 vs NVIDIA 96](https://metix.ai/reports/series/ai-eng-peer-pack-2026)
 - [Cloudflare seat shelf](https://metix.ai/reports/series/cloudflare-company-teardown-2026)
@@ -239,10 +246,10 @@ Counts: 253 URLs (161 series, 90 mapping, 2 hubs).
 - [Product Manager Peer Pack: Google 4099 vs Meta 2657](https://metix.ai/reports/series/product-mgr-peer-pack-2026)
 - [Sales Engineer Peer Pack: Snowflake 328 vs Cisco 114](https://metix.ai/reports/series/sales-eng-peer-pack-2026)
 - [Technical Program Manager Peer Pack: Amazon 5100 vs Google 3831](https://metix.ai/reports/series/tpm-peer-pack-2026)
-- [Applied Scientist Peer Pack: Amazon 4413 vs Microsoft 1624](https://metix.ai/reports/series/applied-scientist-peer-pack-2026)
+- [applied-scientist-peer-pack-2026](https://metix.ai/reports/series/applied-scientist-peer-pack-2026)
 - [Data Scientist Peer Pack: Meta 2593 vs Uber 378](https://metix.ai/reports/series/data-scientist-peer-pack-2026)
 - [Product Designer Peer Pack: Shopify 206 vs Adobe 138](https://metix.ai/reports/series/product-designer-peer-pack-2026)
-- [Research Scientist Peer Pack: Meta 3255 vs Google 790](https://metix.ai/reports/series/research-scientist-peer-pack-2026)
+- [research-scientist-peer-pack-2026](https://metix.ai/reports/series/research-scientist-peer-pack-2026)
 - [Solutions Engineer Peer Pack: Databricks 664 vs Cloudflare 327](https://metix.ai/reports/series/solutions-eng-peer-pack-2026)
 - [Infra SRE Peer Pack: Elastic 56 vs MongoDB 43](https://metix.ai/reports/series/infra-sre-peer-pack-2026)
 - [Machine Learning Engineer Peer Pack: Scale AI 89 vs Hugging Face 62](https://metix.ai/reports/series/ml-eng-peer-pack-2026)
@@ -262,7 +269,7 @@ Counts: 253 URLs (161 series, 90 mapping, 2 hubs).
 - [Archer 84 vs Joby 38 | eVTOL GNC](https://metix.ai/reports/series/joby-archer-evtol-gnc-2026)
 - [Applied 213 vs Lam 120 | Etch / Deposition](https://metix.ai/reports/series/lam-amat-etch-deposition-process-2026)
 - [Mongo 24 vs Elastic 31 | Query / Search Seats](https://metix.ai/reports/series/mongodb-elastic-query-search-2026)
-- [Blue Origin 318 GNC Jobs | Launch Flight Software](https://metix.ai/reports/series/spacex-rocketlab-blueorigin-launch-gnc-2026)
+- [spacex-rocketlab-blueorigin-launch-gnc-2026](https://metix.ai/reports/series/spacex-rocketlab-blueorigin-launch-gnc-2026)
 - [Stripe Bengaluru 83 | Payments Fraud / Risk ML](https://metix.ai/reports/series/stripe-adyen-fraud-risk-2026)
 - [EvenUp Legal 195 vs Lawyer 3](https://metix.ai/reports/series/legal-ai-talent-2026)
 - [ElevenLabs Voice AI: 622 Current, 219 Jobs](https://metix.ai/reports/series/voice-speech-ai-talent-2026)
