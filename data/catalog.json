@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-29T07:00:25Z",
+  "generated_at": "2026-10-29T12:57:00Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 267,
+    "total": 268,
     "hubs": 2,
     "series": 175,
-    "mapping": 90
+    "mapping": 91
   },
   "entries": [
     {
@@ -27,6 +27,14 @@
       "slug": null,
       "lastmod": "2026-10-29",
       "title": "Metix AI Series Reports"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/sf-ai-customer-service-talent-2026",
+      "canonical": "https://metix.ai/reports/mapping/sf-ai-customer-service-talent-2026",
+      "kind": "mapping",
+      "slug": "sf-ai-customer-service-talent-2026",
+      "lastmod": "2026-10-29",
+      "title": "A delivery war, not a research race A talent map of the AI customer-service wave"
     },
     {
       "url": "https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026",

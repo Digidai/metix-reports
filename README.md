@@ -15,9 +15,9 @@ Metix publishes structured talent reports (series peer packs / benches and mappi
 - Series sitemap: https://metix.ai/reports/series/sitemap.xml
 - Mapping sitemap: https://metix.ai/reports/sitemap.xml
 
-## Catalog (267 URLs)
+## Catalog (268 URLs)
 
-Generated `2026-10-29T07:00:25Z` from live sitemaps (175 series · 90 mapping · 2 hubs).
+Generated `2026-10-29T12:57:00Z` from live sitemaps (175 series · 91 mapping · 2 hubs).
 
 ### Series
 
@@ -199,6 +199,7 @@ Generated `2026-10-29T07:00:25Z` from live sitemaps (175 series · 90 mapping ·
 
 ### Mapping
 
+- [A delivery war, not a research race A talent map of the AI customer-service wave](https://metix.ai/reports/mapping/sf-ai-customer-service-talent-2026) — lastmod `2026-10-29`
 - [AI Agent talent structure](https://metix.ai/reports/mapping/ai-agent-talent-supply-demand-gap-2026) — lastmod `2026-10-22`
 - [AI Compute &amp; Chip Talent Map 2026](https://metix.ai/reports/mapping/ai-infra-chip-talent-2026) — lastmod `2026-10-22`
 - [AI Infra Talent Race: Roles Constraining Compute Buildout](https://metix.ai/reports/mapping/nvidia-ai-infrastructure-talent-race-2026) — lastmod `2026-10-22`

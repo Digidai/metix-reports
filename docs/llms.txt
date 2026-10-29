@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-10-29T07:00:25Z
-Counts: 267 URLs (175 series, 90 mapping, 2 hubs).
+Generated: 2026-10-29T12:57:00Z
+Counts: 268 URLs (175 series, 91 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -19,6 +19,7 @@ Counts: 267 URLs (175 series, 90 mapping, 2 hubs).
 
 - [Metix AI Reports](https://metix.ai/reports/)
 - [Metix AI Series Reports](https://metix.ai/reports/series/)
+- [A delivery war, not a research race A talent map of the AI customer-service wave](https://metix.ai/reports/mapping/sf-ai-customer-service-talent-2026)
 - [Cutting Technical Roles While Hiring for Sales and Delivery: Salesforce After Agentforce Passed $1B](https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026)
 - [SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators](https://metix.ai/reports/mapping/si-genai-delivery-bench-2026)
 - [Senior Banker Mapping: 101 Moves Across 11 Banks](https://metix.ai/reports/mapping/wall-street-senior-banker-2026)
