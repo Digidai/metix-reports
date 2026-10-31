@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-10-30T12:50:29Z
-Counts: 276 URLs (182 series, 92 mapping, 2 hubs).
+Generated: 2026-10-31T12:22:08Z
+Counts: 283 URLs (189 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -111,6 +111,13 @@ Counts: 276 URLs (182 series, 92 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Engineering Manager (fintech) Peer Pack: PayPal 377 vs Stripe 289](https://metix.ai/reports/series/eng-mgr-fintech-peer-pack-2026)
+- [identity / IAM vendor bench for Software Engineer](https://metix.ai/reports/series/identity-iam-swe-vendor-bench-2026)
+- [Partner Manager employed per open role](https://metix.ai/reports/series/partner-mgr-employed-vs-open-2026)
+- [Product Analyst Peer Pack: Salesforce 41 vs Oracle 35](https://metix.ai/reports/series/product-analyst-peer-pack-2026)
+- [Spotify market-entry geography](https://metix.ai/reports/series/spotify-market-entry-geo-2026)
+- [Toast seat shelf](https://metix.ai/reports/series/toast-company-teardown-2026)
+- [Uber to Coinbase talent flow](https://metix.ai/reports/series/uber-to-fintech-talent-flow-2026)
 - [Applied Scientist employed per open role](https://metix.ai/reports/series/applied-scientist-employed-vs-open-2026)
 - [Cloudflare market-entry geography](https://metix.ai/reports/series/cloudflare-market-entry-geo-2026)
 - [cloud data warehouse vendor bench for Solutions Architect](https://metix.ai/reports/series/data-warehouse-sa-vendor-bench-2026)
