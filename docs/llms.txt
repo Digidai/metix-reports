@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-10-31T12:22:08Z
-Counts: 283 URLs (189 series, 92 mapping, 2 hubs).
+Generated: 2026-11-01T13:17:51Z
+Counts: 290 URLs (196 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -111,6 +111,13 @@ Counts: 283 URLs (189 series, 92 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Cloud Architect Peer Pack: Oracle 877 vs Amazon 569](https://metix.ai/reports/series/cloud-architect-peer-pack-2026)
+- [Databricks market-entry geography](https://metix.ai/reports/series/databricks-market-entry-geo-2026)
+- [Gusto seat shelf](https://metix.ai/reports/series/gusto-company-teardown-2026)
+- [Marketing Manager employed per open role](https://metix.ai/reports/series/marketing-mgr-employed-vs-open-2026)
+- [CPaaS / messaging vendor bench for Software Engineer](https://metix.ai/reports/series/messaging-cpaas-swe-vendor-bench-2026)
+- [Microsoft to Palo Alto Networks talent flow](https://metix.ai/reports/series/microsoft-to-security-vendors-talent-flow-2026)
+- [Technical Writer Peer Pack: Google 401 vs Oracle 358](https://metix.ai/reports/series/technical-writer-peer-pack-2026)
 - [Engineering Manager (fintech) Peer Pack: PayPal 377 vs Stripe 289](https://metix.ai/reports/series/eng-mgr-fintech-peer-pack-2026)
 - [identity / IAM vendor bench for Software Engineer](https://metix.ai/reports/series/identity-iam-swe-vendor-bench-2026)
 - [Partner Manager employed per open role](https://metix.ai/reports/series/partner-mgr-employed-vs-open-2026)
