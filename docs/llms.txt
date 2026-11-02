@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-01T13:17:51Z
-Counts: 290 URLs (196 series, 92 mapping, 2 hubs).
+Generated: 2026-11-02T07:38:11Z
+Counts: 297 URLs (203 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -111,6 +111,13 @@ Counts: 290 URLs (196 series, 92 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [BI / analytics platforms vendor bench for Software Engineer](https://metix.ai/reports/series/bi-analytics-swe-vendor-bench-2026)
+- [Canva market-entry geography](https://metix.ai/reports/series/canva-market-entry-geo-2026)
+- [Dropbox seat shelf](https://metix.ai/reports/series/dropbox-company-teardown-2026)
+- [Financial Analyst Peer Pack: Amazon 3417 vs Google 576](https://metix.ai/reports/series/financial-analyst-peer-pack-2026)
+- [IBM to NVIDIA talent flow](https://metix.ai/reports/series/ibm-to-ai-infra-talent-flow-2026)
+- [Security Analyst Peer Pack: IBM 773 vs Microsoft 199](https://metix.ai/reports/series/security-analyst-peer-pack-2026)
+- [Technical Account Manager employed per open role](https://metix.ai/reports/series/tam-employed-vs-open-2026)
 - [Cloud Architect Peer Pack: Oracle 877 vs Amazon 569](https://metix.ai/reports/series/cloud-architect-peer-pack-2026)
 - [Databricks market-entry geography](https://metix.ai/reports/series/databricks-market-entry-geo-2026)
 - [Gusto seat shelf](https://metix.ai/reports/series/gusto-company-teardown-2026)
