@@ -17,7 +17,7 @@ Metix publishes structured talent reports (series peer packs / benches and mappi
 
 ## Catalog (297 URLs)
 
-Generated `2026-11-02T07:38:11Z` from live sitemaps (203 series · 92 mapping · 2 hubs).
+Generated `2026-11-02T15:45:06Z` from live sitemaps (203 series · 92 mapping · 2 hubs).
 
 ### Series
 
@@ -284,7 +284,6 @@ Generated `2026-11-02T07:38:11Z` from live sitemaps (203 series · 92 mapping ·
 - [How new is OpenAI’s engineering team?](https://metix.ai/reports/questions/openai-tenure) — lastmod `2026-10-17`
 - [How often is Intel the top feeder into chip companies?](https://metix.ai/reports/questions/intel-feeder-to-chip-startups) — lastmod `2026-10-17`
 - [Humanoid Robot Talent: 13 Players, 1,930 Profiles](https://metix.ai/reports/mapping/embodied-ai-humanoid-2026) — lastmod `2026-10-30`
-- [One person per open role: SF agent architects &amp; the AI customer-service talent map](https://metix.ai/reports/mapping/sf-ai-customer-service-talent-2026) — lastmod `2026-10-30`
 - [OpenAI Engineering Talent X-Ray](https://metix.ai/reports/mapping/openai-engineering-xray-2026) — lastmod `2026-10-30`
 - [OpenAI MTS: 1,725 of 3,041 Technical](https://metix.ai/reports/questions/openai-mts-share) — lastmod `2026-10-17`
 - [Overseas chip R&amp;D and manufacturing talent report](https://metix.ai/reports/mapping/overseas-chip-rd-manufacturing-talent-2026) — lastmod `2026-10-30`
@@ -293,7 +292,8 @@ Generated `2026-11-02T07:38:11Z` from live sitemaps (203 series · 92 mapping ·
 - [Quant Talent to AI Labs: 367 Moves, 25 Firms](https://metix.ai/reports/mapping/quant-ai-talent-2026) — lastmod `2026-10-30`
 - [Senior Banker Mapping: 101 Moves Across 11 Banks](https://metix.ai/reports/mapping/wall-street-senior-banker-2026) — lastmod `2026-10-30`
 - [SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators](https://metix.ai/reports/mapping/si-genai-delivery-bench-2026) — lastmod `2026-10-30`
-- [The AI Customer-Service Talent Map: one market, four org models](https://metix.ai/reports/mapping/ai-customer-service-talent-map-2026) — lastmod `2026-10-30`
+- [The AI Customer-Service Talent Map: one market, four org models](https://metix.ai/reports/mapping/ai-customer-service-talent-map-2026) — lastmod `2026-11-02`
+- [Two people per open role: SF agent architects &amp; the AI customer-service talent map](https://metix.ai/reports/mapping/sf-ai-customer-service-talent-2026) — lastmod `2026-11-02`
 - [What is the engineering share at OpenAI vs Anthropic vs xAI?](https://metix.ai/reports/questions/openai-anthropic-xai-engineering-share) — lastmod `2026-10-17`
 - [What is the PhD share of AI video builders?](https://metix.ai/reports/questions/ai-video-phd-share) — lastmod `2026-10-17`
 - [What share of AI video builders joined in the last two years?](https://metix.ai/reports/questions/ai-video-joined-two-years) — lastmod `2026-10-17`

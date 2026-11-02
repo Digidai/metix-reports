@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T07:38:11Z",
+  "generated_at": "2026-11-02T15:45:06Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
@@ -33,7 +33,7 @@
       "canonical": "https://metix.ai/reports/mapping/ai-customer-service-talent-map-2026",
       "kind": "mapping",
       "slug": "ai-customer-service-talent-map-2026",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-11-02",
       "title": "The AI Customer-Service Talent Map: one market, four org models"
     },
     {
@@ -41,8 +41,8 @@
       "canonical": "https://metix.ai/reports/mapping/sf-ai-customer-service-talent-2026",
       "kind": "mapping",
       "slug": "sf-ai-customer-service-talent-2026",
-      "lastmod": "2026-10-30",
-      "title": "One person per open role: SF agent architects &amp; the AI customer-service talent map"
+      "lastmod": "2026-11-02",
+      "title": "Two people per open role: SF agent architects &amp; the AI customer-service talent map"
     },
     {
       "url": "https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026",
