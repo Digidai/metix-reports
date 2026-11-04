@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-03T14:08:20Z
-Counts: 297 URLs (203 series, 92 mapping, 2 hubs).
+Generated: 2026-11-04T07:28:20Z
+Counts: 304 URLs (210 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -111,6 +111,13 @@ Counts: 297 URLs (203 series, 92 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Block seat shelf](https://metix.ai/reports/series/block-company-teardown-2026)
+- [Cisco to Cloudflare talent flow](https://metix.ai/reports/series/cisco-to-devtools-talent-flow-2026)
+- [database systems vendors vendor bench for Software Engineer](https://metix.ai/reports/series/database-systems-swe-vendor-bench-2026)
+- [Electrical Engineer Peer Pack: Apple 423 vs Tesla 158](https://metix.ai/reports/series/electrical-eng-peer-pack-2026)
+- [Figma market-entry geography](https://metix.ai/reports/series/figma-market-entry-geo-2026)
+- [HR Business Partner Peer Pack: Amazon 2888 vs Microsoft 181](https://metix.ai/reports/series/hrbp-peer-pack-2026)
+- [Research Engineer employed per open role](https://metix.ai/reports/series/research-eng-employed-vs-open-2026)
 - [BI / analytics platforms vendor bench for Software Engineer](https://metix.ai/reports/series/bi-analytics-swe-vendor-bench-2026)
 - [Canva market-entry geography](https://metix.ai/reports/series/canva-market-entry-geo-2026)
 - [Dropbox seat shelf](https://metix.ai/reports/series/dropbox-company-teardown-2026)
@@ -138,7 +145,7 @@ Counts: 297 URLs (203 series, 92 mapping, 2 hubs).
 - [Release Engineer Peer Pack: Oracle 85 vs IBM 38](https://metix.ai/reports/series/release-eng-peer-pack-2026)
 - [Software Engineer (AI-native companies) Peer Pack: Scale AI 364 vs Glean 228](https://metix.ai/reports/series/swe-ai-natives-peer-pack-2026)
 - [Tesla to Zoox talent flow](https://metix.ai/reports/series/tesla-to-autonomy-talent-flow-2026)
-- [Twilio seat shelf](https://metix.ai/reports/series/twilio-company-teardown-2026)
+- [Twilio 的席位分布](https://metix.ai/reports/series/twilio-company-teardown-2026)
 - [Confluent seat shelf](https://metix.ai/reports/series/confluent-company-teardown-2026)
 - [Design Manager Peer Pack: IBM 111 vs Adobe 89](https://metix.ai/reports/series/design-mgr-peer-pack-2026)
 - [Okta to Wiz talent flow](https://metix.ai/reports/series/okta-to-security-vendors-talent-flow-2026)
@@ -252,7 +259,7 @@ Counts: 297 URLs (203 series, 92 mapping, 2 hubs).
 - [Microsoft to Databricks talent flow](https://metix.ai/reports/series/microsoft-to-data-infra-talent-flow-2026)
 - [Staff Engineer Peer Pack: Google 205 vs IBM 149](https://metix.ai/reports/series/staff-eng-peer-pack-2026)
 - [Stripe seat shelf](https://metix.ai/reports/series/stripe-company-teardown-2026)
-- [Amazon to Databricks talent flow](https://metix.ai/reports/series/amazon-to-data-infra-talent-flow-2026)
+- [Amazon into Databricks](https://metix.ai/reports/series/amazon-to-data-infra-talent-flow-2026)
 - [Application Security Engineer Peer Pack: Amazon 117 vs Salesforce 54](https://metix.ai/reports/series/appsec-eng-peer-pack-2026)
 - [Mobile Engineer Peer Pack: Microsoft 161 vs Amazon 91](https://metix.ai/reports/series/mobile-eng-peer-pack-2026)
 - [NVIDIA seat shelf](https://metix.ai/reports/series/nvidia-company-teardown-2026)
@@ -270,7 +277,7 @@ Counts: 297 URLs (203 series, 92 mapping, 2 hubs).
 - [Backend Engineer Peer Pack: LinkedIn 88 vs Shopify 49](https://metix.ai/reports/series/be-eng-peer-pack-2026)
 - [Customer Engineer Peer Pack: Google 1884 vs Microsoft 622](https://metix.ai/reports/series/ce-peer-pack-2026)
 - [Cloud Engineer Peer Pack: Amazon 1441 vs Microsoft 467](https://metix.ai/reports/series/cloud-eng-peer-pack-2026)
-- [DevOps Engineer Peer Pack: Amazon 560 vs Microsoft 296](https://metix.ai/reports/series/devops-eng-peer-pack-2026)
+- [Five DevOps Engineer benches on one date: inside the 1,036-profile peer pack](https://metix.ai/reports/series/devops-eng-peer-pack-2026)
 - [Frontend Engineer Peer Pack: Google 384 vs Meta 204](https://metix.ai/reports/series/fe-eng-peer-pack-2026)
 - [Android Engineer Peer Pack: Google 345 vs Meta 61](https://metix.ai/reports/series/android-eng-peer-pack-2026)
 - [Forward Deployed Engineer Peer Pack: Palantir 576 vs Meta 96](https://metix.ai/reports/series/fde-peer-pack-2026)
