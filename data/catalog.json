@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T07:28:20Z",
+  "generated_at": "2026-11-04T14:28:45Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
@@ -1042,7 +1042,7 @@
       "kind": "series",
       "slug": "twilio-company-teardown-2026",
       "lastmod": "2026-10-29 PT",
-      "title": "Twilio 的席位分布"
+      "title": "Twilio seat shelf"
     },
     {
       "url": "https://metix.ai/reports/series/confluent-company-teardown-2026",

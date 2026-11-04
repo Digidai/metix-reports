@@ -17,7 +17,7 @@ Metix publishes structured talent reports (series peer packs / benches and mappi
 
 ## Catalog (304 URLs)
 
-Generated `2026-11-04T07:28:20Z` from live sitemaps (210 series · 92 mapping · 2 hubs).
+Generated `2026-11-04T14:28:45Z` from live sitemaps (210 series · 92 mapping · 2 hubs).
 
 ### Series
 
@@ -221,7 +221,7 @@ Generated `2026-11-04T07:28:20Z` from live sitemaps (210 series · 92 mapping ·
 - [Tesla to Zoox talent flow](https://metix.ai/reports/series/tesla-to-autonomy-talent-flow-2026) — lastmod `2026-10-30`
 - [TI 692 vs ADI 374 | Analog / Mixed-Signal](https://metix.ai/reports/series/ti-adi-analog-2026) — lastmod `2026-10-30`
 - [Toast seat shelf](https://metix.ai/reports/series/toast-company-teardown-2026) — lastmod `2026-11-04`
-- [Twilio 的席位分布](https://metix.ai/reports/series/twilio-company-teardown-2026) — lastmod `2026-10-29 PT`
+- [Twilio seat shelf](https://metix.ai/reports/series/twilio-company-teardown-2026) — lastmod `2026-10-29 PT`
 - [Uber to Aurora talent flow](https://metix.ai/reports/series/uber-to-autonomy-talent-flow-2026) — lastmod `2026-10-30`
 - [Uber to Coinbase talent flow](https://metix.ai/reports/series/uber-to-fintech-talent-flow-2026) — lastmod `2026-11-04`
 - [Uber to Stripe talent flow](https://metix.ai/reports/series/uber-to-data-infra-talent-flow-2026) — lastmod `2026-10-30`

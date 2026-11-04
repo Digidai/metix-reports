@@ -2,7 +2,7 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-04T07:28:20Z
+Generated: 2026-11-04T14:28:45Z
 Counts: 304 URLs (210 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
@@ -145,7 +145,7 @@ Counts: 304 URLs (210 series, 92 mapping, 2 hubs).
 - [Release Engineer Peer Pack: Oracle 85 vs IBM 38](https://metix.ai/reports/series/release-eng-peer-pack-2026)
 - [Software Engineer (AI-native companies) Peer Pack: Scale AI 364 vs Glean 228](https://metix.ai/reports/series/swe-ai-natives-peer-pack-2026)
 - [Tesla to Zoox talent flow](https://metix.ai/reports/series/tesla-to-autonomy-talent-flow-2026)
-- [Twilio 的席位分布](https://metix.ai/reports/series/twilio-company-teardown-2026)
+- [Twilio seat shelf](https://metix.ai/reports/series/twilio-company-teardown-2026)
 - [Confluent seat shelf](https://metix.ai/reports/series/confluent-company-teardown-2026)
 - [Design Manager Peer Pack: IBM 111 vs Adobe 89](https://metix.ai/reports/series/design-mgr-peer-pack-2026)
 - [Okta to Wiz talent flow](https://metix.ai/reports/series/okta-to-security-vendors-talent-flow-2026)
