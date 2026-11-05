@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:53:17Z",
+  "generated_at": "2026-11-05T14:36:28Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
@@ -2386,7 +2386,7 @@
       "kind": "series",
       "slug": "av-perception-talent-2026",
       "lastmod": "2026-11-05",
-      "title": "Waymo 48 / Zoox 9 Jobs | AV Perception"
+      "title": "av-perception-talent-2026"
     },
     {
       "url": "https://metix.ai/reports/series/cadence-synopsys-emulation-hav-2026",
