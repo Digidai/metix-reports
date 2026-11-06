@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-05T14:36:28Z
-Counts: 311 URLs (217 series, 92 mapping, 2 hubs).
+Generated: 2026-11-06T07:53:51Z
+Counts: 318 URLs (224 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -111,6 +111,13 @@ Counts: 311 URLs (217 series, 92 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Asana seat shelf](https://metix.ai/reports/series/asana-company-teardown-2026)
+- [Data Analyst employed per open role](https://metix.ai/reports/series/data-analyst-employed-vs-open-2026)
+- [DevOps Engineer (fintech) Peer Pack: Capital One 450 vs Mastercard 218](https://metix.ai/reports/series/devops-eng-fintech-peer-pack-2026)
+- [Full Stack Engineer (fintech) Peer Pack: Capital One 727 vs PayPal 175](https://metix.ai/reports/series/fullstack-eng-fintech-peer-pack-2026)
+- [ITSM / service management vendor bench for Software Engineer](https://metix.ai/reports/series/itsm-swe-vendor-bench-2026)
+- [LinkedIn market-entry geography](https://metix.ai/reports/series/linkedin-market-entry-geo-2026)
+- [RTX to SpaceX talent flow](https://metix.ai/reports/series/rtx-to-defense-tech-talent-flow-2026)
 - [Affirm seat shelf](https://metix.ai/reports/series/affirm-company-teardown-2026)
 - [Amazon to Palo Alto Networks talent flow](https://metix.ai/reports/series/amazon-to-security-vendors-talent-flow-2026)
 - [Backend Engineer (fintech) Peer Pack: PayPal 59 vs Capital One 34](https://metix.ai/reports/series/be-eng-fintech-peer-pack-2026)
@@ -313,7 +320,7 @@ Counts: 311 URLs (217 series, 92 mapping, 2 hubs).
 - [Skyworks 80 vs Qorvo 92 | RF Front-End / RFIC](https://metix.ai/reports/series/skyworks-qorvo-rf-2026)
 - [TI 692 vs ADI 374 | Analog / Mixed-Signal](https://metix.ai/reports/series/ti-adi-analog-2026)
 - [ASML Eindhoven 191 vs HQ Veldhoven 21](https://metix.ai/reports/series/asml-kla-overlay-litho-process-control-2026)
-- [av-perception-talent-2026](https://metix.ai/reports/series/av-perception-talent-2026)
+- [Waymo 48 / Zoox 9 Jobs | AV Perception](https://metix.ai/reports/series/av-perception-talent-2026)
 - [Synopsys 43 HAV Seats vs Cadence 29](https://metix.ai/reports/series/cadence-synopsys-emulation-hav-2026)
 - [CoreWeave: 93 of 102 US DC-Ops Seats](https://metix.ai/reports/series/coreweave-crusoe-dc-ops-2026)
 - [Anduril 54 / Shield AI 38 Jobs | Defense Autonomy](https://metix.ai/reports/series/defense-ai-autonomy-talent-2026)
