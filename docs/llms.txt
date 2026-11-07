@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-06T14:13:59Z
-Counts: 318 URLs (224 series, 92 mapping, 2 hubs).
+Generated: 2026-11-07T12:57:05Z
+Counts: 325 URLs (231 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -111,6 +111,13 @@ Counts: 318 URLs (224 series, 92 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [DevOps Engineer employed per open role](https://metix.ai/reports/series/devops-eng-employed-vs-open-2026)
+- [IBM to MongoDB talent flow](https://metix.ai/reports/series/ibm-to-devtools-talent-flow-2026)
+- [enterprise networking vendor bench for Software Engineer](https://metix.ai/reports/series/network-infra-swe-vendor-bench-2026)
+- [Product Designer (fintech) Peer Pack: Stripe 100 vs Coinbase 74](https://metix.ai/reports/series/product-designer-fintech-peer-pack-2026)
+- [Technical Program Manager (fintech) Peer Pack: Stripe 72 vs PayPal 62](https://metix.ai/reports/series/tpm-fintech-peer-pack-2026)
+- [Uber market-entry geography](https://metix.ai/reports/series/uber-market-entry-geo-2026)
+- [Zoox seat shelf](https://metix.ai/reports/series/zoox-company-teardown-2026)
 - [Asana seat shelf](https://metix.ai/reports/series/asana-company-teardown-2026)
 - [Data Analyst employed per open role](https://metix.ai/reports/series/data-analyst-employed-vs-open-2026)
 - [DevOps Engineer (fintech) Peer Pack: Capital One 450 vs Mastercard 218](https://metix.ai/reports/series/devops-eng-fintech-peer-pack-2026)
