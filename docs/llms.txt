@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-07T12:57:05Z
-Counts: 325 URLs (231 series, 92 mapping, 2 hubs).
+Generated: 2026-11-08T13:20:10Z
+Counts: 332 URLs (238 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -111,6 +111,13 @@ Counts: 325 URLs (231 series, 92 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Account Executive (fintech) Peer Pack: Stripe 691 vs PayPal 311](https://metix.ai/reports/series/account-exec-fintech-peer-pack-2026)
+- [Amazon to Coinbase talent flow](https://metix.ai/reports/series/amazon-to-fintech-talent-flow-2026)
+- [Brex seat shelf](https://metix.ai/reports/series/brex-company-teardown-2026)
+- [EDA / semiconductor tools vendor bench for Software Engineer](https://metix.ai/reports/series/chip-eda-swe-vendor-bench-2026)
+- [Data Analyst (fintech) Peer Pack: Stripe 177 vs PayPal 157](https://metix.ai/reports/series/data-analyst-fintech-peer-pack-2026)
+- [Platform Engineer employed per open role](https://metix.ai/reports/series/platform-eng-employed-vs-open-2026)
+- [Salesforce market-entry geography](https://metix.ai/reports/series/salesforce-market-entry-geo-2026)
 - [DevOps Engineer employed per open role](https://metix.ai/reports/series/devops-eng-employed-vs-open-2026)
 - [IBM to MongoDB talent flow](https://metix.ai/reports/series/ibm-to-devtools-talent-flow-2026)
 - [enterprise networking vendor bench for Software Engineer](https://metix.ai/reports/series/network-infra-swe-vendor-bench-2026)

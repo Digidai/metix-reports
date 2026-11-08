@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-07T12:57:05Z",
+  "generated_at": "2026-11-08T13:20:10Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 325,
+    "total": 332,
     "hubs": 2,
-    "series": 231,
+    "series": 238,
     "mapping": 92
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-07",
+      "lastmod": "2026-11-08",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-07",
+      "lastmod": "2026-11-08",
       "title": "Metix AI Series Reports"
     },
     {
@@ -763,6 +763,62 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/account-exec-fintech-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/account-exec-fintech-peer-pack-2026",
+      "kind": "series",
+      "slug": "account-exec-fintech-peer-pack-2026",
+      "lastmod": "2026-11-08",
+      "title": "Account Executive (fintech) Peer Pack: Stripe 691 vs PayPal 311"
+    },
+    {
+      "url": "https://metix.ai/reports/series/amazon-to-fintech-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/amazon-to-fintech-talent-flow-2026",
+      "kind": "series",
+      "slug": "amazon-to-fintech-talent-flow-2026",
+      "lastmod": "2026-11-08",
+      "title": "Amazon to Coinbase talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/brex-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/brex-company-teardown-2026",
+      "kind": "series",
+      "slug": "brex-company-teardown-2026",
+      "lastmod": "2026-11-08",
+      "title": "Brex seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/chip-eda-swe-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/chip-eda-swe-vendor-bench-2026",
+      "kind": "series",
+      "slug": "chip-eda-swe-vendor-bench-2026",
+      "lastmod": "2026-11-08",
+      "title": "EDA / semiconductor tools vendor bench for Software Engineer"
+    },
+    {
+      "url": "https://metix.ai/reports/series/data-analyst-fintech-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/data-analyst-fintech-peer-pack-2026",
+      "kind": "series",
+      "slug": "data-analyst-fintech-peer-pack-2026",
+      "lastmod": "2026-11-08",
+      "title": "Data Analyst (fintech) Peer Pack: Stripe 177 vs PayPal 157"
+    },
+    {
+      "url": "https://metix.ai/reports/series/platform-eng-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/platform-eng-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "platform-eng-employed-vs-open-2026",
+      "lastmod": "2026-11-08",
+      "title": "Platform Engineer employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/salesforce-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/salesforce-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "salesforce-market-entry-geo-2026",
+      "lastmod": "2026-11-08",
+      "title": "Salesforce market-entry geography"
     },
     {
       "url": "https://metix.ai/reports/series/devops-eng-employed-vs-open-2026",
