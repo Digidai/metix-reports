@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-09T16:12:42Z",
+  "generated_at": "2026-11-10T08:22:44Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 339,
+    "total": 346,
     "hubs": 2,
-    "series": 245,
+    "series": 252,
     "mapping": 92
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-09",
+      "lastmod": "2026-11-10",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-09",
+      "lastmod": "2026-11-10",
       "title": "Metix AI Series Reports"
     },
     {
@@ -763,6 +763,62 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/cloud-eng-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/cloud-eng-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "cloud-eng-employed-vs-open-2026",
+      "lastmod": "2026-11-10",
+      "title": "Cloud Engineer employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/hris-swe-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/hris-swe-vendor-bench-2026",
+      "kind": "series",
+      "slug": "hris-swe-vendor-bench-2026",
+      "lastmod": "2026-11-10",
+      "title": "HRIS / workforce platforms vendor bench for Software Engineer"
+    },
+    {
+      "url": "https://metix.ai/reports/series/l3harris-to-defense-tech-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/l3harris-to-defense-tech-talent-flow-2026",
+      "kind": "series",
+      "slug": "l3harris-to-defense-tech-talent-flow-2026",
+      "lastmod": "2026-11-10",
+      "title": "L3Harris to SpaceX talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/samsara-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/samsara-company-teardown-2026",
+      "kind": "series",
+      "slug": "samsara-company-teardown-2026",
+      "lastmod": "2026-11-10",
+      "title": "Samsara seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/staff-eng-fintech-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/staff-eng-fintech-peer-pack-2026",
+      "kind": "series",
+      "slug": "staff-eng-fintech-peer-pack-2026",
+      "lastmod": "2026-11-10",
+      "title": "Staff Engineer (fintech) Peer Pack: Visa 69 vs PayPal 59"
+    },
+    {
+      "url": "https://metix.ai/reports/series/support-eng-fintech-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/support-eng-fintech-peer-pack-2026",
+      "kind": "series",
+      "slug": "support-eng-fintech-peer-pack-2026",
+      "lastmod": "2026-11-10",
+      "title": "Support Engineer (fintech) Peer Pack: PayPal 58 vs Capital One 46"
+    },
+    {
+      "url": "https://metix.ai/reports/series/visa-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/visa-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "visa-market-entry-geo-2026",
+      "lastmod": "2026-11-10",
+      "title": "Visa market-entry geography"
     },
     {
       "url": "https://metix.ai/reports/series/adobe-market-entry-geo-2026",
