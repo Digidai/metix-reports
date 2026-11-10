@@ -17,10 +17,13 @@ Metix publishes structured talent reports (series peer packs / benches and mappi
 
 ## Catalog (346 URLs)
 
-Generated `2026-11-10T08:22:44Z` from live sitemaps (252 series · 92 mapping · 2 hubs).
+Generated `2026-11-10T14:50:37Z` from live sitemaps (252 series · 92 mapping · 2 hubs).
 
 ### Series
 
+- [1,121 Sales Engineer names across five security vendors](https://metix.ai/reports/series/sales-eng-security-vendors-peer-pack-2026) — lastmod `2026-11-10`
+- [1,593 Software Development Managers, India 580 vs US 541](https://metix.ai/reports/series/sdm-peer-pack-2026) — lastmod `2026-11-10`
+- [284 Stripe and Adyen fraud and financial-crime names](https://metix.ai/reports/series/stripe-adyen-fraud-risk-2026) — lastmod `2026-11-10`
 - [Account Executive (data infrastructure) Peer Pack: Databricks 1403 vs Datadog 1137](https://metix.ai/reports/series/account-exec-data-infra-peer-pack-2026) — lastmod `2026-11-06`
 - [Account Executive (fintech) Peer Pack: Stripe 691 vs PayPal 311](https://metix.ai/reports/series/account-exec-fintech-peer-pack-2026) — lastmod `2026-11-08`
 - [Account Executive (security vendors) Peer Pack: Zscaler 449 vs CrowdStrike 422](https://metix.ai/reports/series/account-exec-security-vendors-peer-pack-2026) — lastmod `2026-11-06`
@@ -200,7 +203,6 @@ Generated `2026-11-10T08:22:44Z` from live sitemaps (252 series · 92 mapping ·
 - [robotics software platforms vendor bench for Software Engineer](https://metix.ai/reports/series/robotics-sw-swe-vendor-bench-2026) — lastmod `2026-11-09`
 - [RTX to SpaceX talent flow](https://metix.ai/reports/series/rtx-to-defense-tech-talent-flow-2026) — lastmod `2026-11-06`
 - [Sales Development Representative employed per open role](https://metix.ai/reports/series/sdr-employed-vs-open-2026) — lastmod `2026-11-06`
-- [Sales Engineer (security vendors) Peer Pack: CrowdStrike 373 vs Zscaler 361](https://metix.ai/reports/series/sales-eng-security-vendors-peer-pack-2026) — lastmod `2026-10-30`
 - [Sales Engineer Peer Pack: Snowflake 328 vs Cisco 114](https://metix.ai/reports/series/sales-eng-peer-pack-2026) — lastmod `2026-11-06`
 - [Salesforce market-entry geography](https://metix.ai/reports/series/salesforce-market-entry-geo-2026) — lastmod `2026-11-08`
 - [Salesforce to Datadog talent flow](https://metix.ai/reports/series/salesforce-to-devtools-talent-flow-2026) — lastmod `2026-11-06`
@@ -220,7 +222,6 @@ Generated `2026-11-10T08:22:44Z` from live sitemaps (252 series · 92 mapping ·
 - [Software Architect Peer Pack: IBM 513 vs SAP 248](https://metix.ai/reports/series/software-architect-peer-pack-2026) — lastmod `2026-11-06`
 - [Software Development Engineer employed per open role](https://metix.ai/reports/series/sde-employed-vs-open-2026) — lastmod `2026-11-05`
 - [Software Development Engineer in Test Peer Pack: IBM 500 vs Oracle 368](https://metix.ai/reports/series/sdet-peer-pack-2026) — lastmod `2026-11-07`
-- [Software Development Manager Peer Pack: Oracle 908 vs IBM 415](https://metix.ai/reports/series/sdm-peer-pack-2026) — lastmod `2026-10-30`
 - [Software Engineer (AI-native companies) Peer Pack: Scale AI 364 vs Glean 228](https://metix.ai/reports/series/swe-ai-natives-peer-pack-2026) — lastmod `2026-10-30`
 - [Software Engineer (autonomy) Peer Pack: Tesla 2033 vs Waymo 1107](https://metix.ai/reports/series/swe-autonomy-peer-pack-2026) — lastmod `2026-10-30`
 - [Software Engineer (defense tech and primes) Peer Pack: Palantir 1122 vs Anduril 947](https://metix.ai/reports/series/swe-defense-tech-peer-pack-2026) — lastmod `2026-10-30`
@@ -238,7 +239,6 @@ Generated `2026-11-10T08:22:44Z` from live sitemaps (252 series · 92 mapping ·
 - [Staff Engineer (fintech) Peer Pack: Visa 69 vs PayPal 59](https://metix.ai/reports/series/staff-eng-fintech-peer-pack-2026) — lastmod `2026-11-10`
 - [Staff Engineer employed per open role](https://metix.ai/reports/series/staff-eng-employed-vs-open-2026) — lastmod `2026-11-09`
 - [Staff Engineer Peer Pack: Google 205 vs IBM 149](https://metix.ai/reports/series/staff-eng-peer-pack-2026) — lastmod `2026-11-07`
-- [Stripe Bengaluru 83 | Payments Fraud / Risk ML](https://metix.ai/reports/series/stripe-adyen-fraud-risk-2026) — lastmod `2026-11-06`
 - [Stripe market-entry geography](https://metix.ai/reports/series/stripe-market-entry-geo-2026) — lastmod `2026-11-06`
 - [Stripe seat shelf](https://metix.ai/reports/series/stripe-company-teardown-2026) — lastmod `2026-11-06`
 - [Support Engineer (fintech) Peer Pack: PayPal 58 vs Capital One 46](https://metix.ai/reports/series/support-eng-fintech-peer-pack-2026) — lastmod `2026-11-10`
@@ -340,7 +340,7 @@ Generated `2026-11-10T08:22:44Z` from live sitemaps (252 series · 92 mapping ·
 - [Overseas Jobs — Structure Report](https://metix.ai/reports/mapping/job-distribution-ex-china-2026) — lastmod `2026-10-30`
 - [Quant Talent to AI Labs: 367 Moves, 25 Firms](https://metix.ai/reports/mapping/quant-ai-talent-2026) — lastmod `2026-10-30`
 - [Senior Banker Mapping: 101 Moves Across 11 Banks](https://metix.ai/reports/mapping/wall-street-senior-banker-2026) — lastmod `2026-10-30`
-- [SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators](https://metix.ai/reports/mapping/si-genai-delivery-bench-2026) — lastmod `2026-10-30`
+- [SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators](https://metix.ai/reports/mapping/si-genai-delivery-bench-2026) — lastmod `2026-11-10`
 - [The AI Customer-Service Talent Map: one market, four org models](https://metix.ai/reports/mapping/ai-customer-service-talent-map-2026) — lastmod `2026-11-02`
 - [Two people per open role: SF agent architects &amp; the AI customer-service talent map](https://metix.ai/reports/mapping/sf-ai-customer-service-talent-2026) — lastmod `2026-11-02`
 - [What is the engineering share at OpenAI vs Anthropic vs xAI?](https://metix.ai/reports/questions/openai-anthropic-xai-engineering-share) — lastmod `2026-10-17`

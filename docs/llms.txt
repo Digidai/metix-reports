@@ -2,7 +2,7 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-10T08:22:44Z
+Generated: 2026-11-10T14:50:37Z
 Counts: 346 URLs (252 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
@@ -114,8 +114,11 @@ Counts: 346 URLs (252 series, 92 mapping, 2 hubs).
 - [Cloud Engineer employed per open role](https://metix.ai/reports/series/cloud-eng-employed-vs-open-2026)
 - [HRIS / workforce platforms vendor bench for Software Engineer](https://metix.ai/reports/series/hris-swe-vendor-bench-2026)
 - [L3Harris to SpaceX talent flow](https://metix.ai/reports/series/l3harris-to-defense-tech-talent-flow-2026)
+- [1,121 Sales Engineer names across five security vendors](https://metix.ai/reports/series/sales-eng-security-vendors-peer-pack-2026)
 - [Samsara seat shelf](https://metix.ai/reports/series/samsara-company-teardown-2026)
+- [1,593 Software Development Managers, India 580 vs US 541](https://metix.ai/reports/series/sdm-peer-pack-2026)
 - [Staff Engineer (fintech) Peer Pack: Visa 69 vs PayPal 59](https://metix.ai/reports/series/staff-eng-fintech-peer-pack-2026)
+- [284 Stripe and Adyen fraud and financial-crime names](https://metix.ai/reports/series/stripe-adyen-fraud-risk-2026)
 - [Support Engineer (fintech) Peer Pack: PayPal 58 vs Capital One 46](https://metix.ai/reports/series/support-eng-fintech-peer-pack-2026)
 - [Visa market-entry geography](https://metix.ai/reports/series/visa-market-entry-geo-2026)
 - [Adobe market-entry geography](https://metix.ai/reports/series/adobe-market-entry-geo-2026)
@@ -204,7 +207,6 @@ Counts: 346 URLs (252 series, 92 mapping, 2 hubs).
 - [Systems Engineer Peer Pack: Cisco 938 vs IBM 552](https://metix.ai/reports/series/systems-eng-peer-pack-2026)
 - [Meta to Coinbase talent flow](https://metix.ai/reports/series/meta-to-fintech-talent-flow-2026)
 - [OpenAI market-entry geography](https://metix.ai/reports/series/openai-market-entry-geo-2026)
-- [Software Development Manager Peer Pack: Oracle 908 vs IBM 415](https://metix.ai/reports/series/sdm-peer-pack-2026)
 - [enterprise security vendors vendor bench for Security Engineer](https://metix.ai/reports/series/security-vendor-sec-eng-vendor-bench-2026)
 - [Solutions Engineer employed per open role](https://metix.ai/reports/series/solutions-eng-employed-vs-open-2026)
 - [Software Engineer (defense tech and primes) Peer Pack: Palantir 1122 vs Anduril 947](https://metix.ai/reports/series/swe-defense-tech-peer-pack-2026)
@@ -275,7 +277,6 @@ Counts: 346 URLs (252 series, 92 mapping, 2 hubs).
 - [Cisco to Palo Alto Networks talent flow](https://metix.ai/reports/series/cisco-to-security-vendors-talent-flow-2026)
 - [Program Manager Peer Pack: IBM 2989 vs Oracle 2569](https://metix.ai/reports/series/program-mgr-peer-pack-2026)
 - [Research Scientist employed per open role](https://metix.ai/reports/series/research-scientist-employed-vs-open-2026)
-- [Sales Engineer (security vendors) Peer Pack: CrowdStrike 373 vs Zscaler 361](https://metix.ai/reports/series/sales-eng-security-vendors-peer-pack-2026)
 - [Figma seat shelf](https://metix.ai/reports/series/figma-company-teardown-2026)
 - [Goldman Sachs to Coinbase talent flow](https://metix.ai/reports/series/goldman-sachs-to-fintech-talent-flow-2026)
 - [Machine Learning Engineer (autonomy) Peer Pack: NVIDIA 201 vs Tesla 143](https://metix.ai/reports/series/ml-eng-autonomy-peer-pack-2026)
@@ -356,7 +357,6 @@ Counts: 346 URLs (252 series, 92 mapping, 2 hubs).
 - [Applied 213 vs Lam 120 | Etch / Deposition](https://metix.ai/reports/series/lam-amat-etch-deposition-process-2026)
 - [Mongo 24 vs Elastic 31 | Query / Search Seats](https://metix.ai/reports/series/mongodb-elastic-query-search-2026)
 - [Blue Origin 318 GNC Jobs | Launch Flight Software](https://metix.ai/reports/series/spacex-rocketlab-blueorigin-launch-gnc-2026)
-- [Stripe Bengaluru 83 | Payments Fraud / Risk ML](https://metix.ai/reports/series/stripe-adyen-fraud-risk-2026)
 - [EvenUp Legal 195 vs Lawyer 3](https://metix.ai/reports/series/legal-ai-talent-2026)
 - [ElevenLabs Voice AI: 622 Current, 219 Jobs](https://metix.ai/reports/series/voice-speech-ai-talent-2026)
 - [Palantir FDE: 1 Exact Job, 1 Employed Title, 69 Job Titles](https://metix.ai/reports/series/fde-employed-vs-jd-2026)
