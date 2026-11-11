@@ -2,7 +2,7 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-11T07:44:07Z
+Generated: 2026-11-11T14:15:50Z
 Counts: 353 URLs (259 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
@@ -19,29 +19,29 @@ Counts: 353 URLs (259 series, 92 mapping, 2 hubs).
 
 - [Metix AI Reports](https://metix.ai/reports/)
 - [Metix AI Series Reports](https://metix.ai/reports/series/)
-- [5,537 people at 12 AI CX firms; 46.5% face customers outside Crescendo](https://metix.ai/reports/mapping/ai-customer-service-talent-map-2026)
+- [The AI Customer-Service Talent Map: one market, four org models](https://metix.ai/reports/mapping/ai-customer-service-talent-map-2026)
 - [1,694 agent-native builders in August, 999 open roles in October](https://metix.ai/reports/mapping/sf-ai-customer-service-talent-2026)
-- [SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators](https://metix.ai/reports/mapping/si-genai-delivery-bench-2026)
 - [1,713 Salesforce US roles: R&amp;D is 10.4%, sales+delivery 6.4×](https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026)
+- [SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators](https://metix.ai/reports/mapping/si-genai-delivery-bench-2026)
 - [Senior Banker Mapping: 101 Moves Across 11 Banks](https://metix.ai/reports/mapping/wall-street-senior-banker-2026)
-- [71.5 Databricks FDE postings a month in August, about 40×](https://metix.ai/reports/mapping/databricks-ai-talent-strategy-2026)
-- [2,615 Data Center Engineer postings a day, 19.6% tightness](https://metix.ai/reports/mapping/nvidia-ai-infrastructure-talent-race-2026)
+- [From Data Engineering to AI Agents: How Databricks Is Reshaping the Enterprise Data Stack](https://metix.ai/reports/mapping/databricks-ai-talent-strategy-2026)
+- [AI Infra Talent Race: Roles Constraining Compute Buildout](https://metix.ai/reports/mapping/nvidia-ai-infrastructure-talent-race-2026)
 - [AI Infra: 3,633 Profiles, $500B+ Capital](https://metix.ai/reports/mapping/ai-infra-capital-talent-2026)
 - [594 verified, 397 precise: top four hold 50.2% of 3,612 records](https://metix.ai/reports/mapping/ai-next-talent-gap-2026)
 - [Agent talent 2026: 259 JDs at 24 firms, 513 people at 27](https://metix.ai/reports/mapping/ai-agent-talent-supply-demand-gap-2026)
 - [9,421 U.S. profiles: xAI Human Data &amp; Evaluation is 5.83×](https://metix.ai/reports/mapping/openai-anthropic-xai-talent-structure)
 - [101,975 chip leads at 58 firms in 10 markets](https://metix.ai/reports/mapping/overseas-chip-rd-manufacturing-talent-2026)
-- [25,860 fintech engineers: Ramp nets +51, Stripe→Ramp is 21](https://metix.ai/reports/mapping/fintech-talent-momentum-2026)
+- [FinTech Engineering Talent Momentum Leaderboard 2026](https://metix.ai/reports/mapping/fintech-talent-momentum-2026)
 - [Seven AI video firms: 518 builders out of 1,687 listed](https://metix.ai/reports/mapping/ai-video-generation-talent-2026)
 - [56,861 U.S. chip-and-compute profiles: six giants hold 97.6%](https://metix.ai/reports/mapping/ai-infra-chip-talent-2026)
 - [3,041 OpenAI technical staff: 13-year median experience](https://metix.ai/reports/mapping/openai-engineering-xray-2026)
-- [1,281 Anthropic technical staff: 86% US, median tenure 13.0 months](https://metix.ai/reports/mapping/anthropic-engineering-xray-2026)
+- [Anthropic Engineering Talent X-Ray](https://metix.ai/reports/mapping/anthropic-engineering-xray-2026)
 - [367 quant-experienced people at AI labs, versus 90 the other way](https://metix.ai/reports/mapping/quant-ai-talent-2026)
 - [11,914 technical staff at 13 labs: Meta and DeepMind are 58%](https://metix.ai/reports/mapping/frontier-ai-labs-talent-2026)
 - [6,415 U.S. profiles: 1,077 Clinical×ML bilingual, 16.8% of the full pool](https://metix.ai/reports/mapping/clinical-ai-healthcare-2026)
 - [6,420 profiles at 35 firms: 125 protein specialists are 2.9% of the computational pool](https://metix.ai/reports/mapping/techbio-ai-pharma-2026)
 - [1,044 technical staff at 13 embodied players: 26.4% hardware](https://metix.ai/reports/mapping/embodied-ai-humanoid-2026)
-- [72 of 618 world-model staff carry game-engine pedigree](https://metix.ai/reports/mapping/game-engine-world-model-2026)
+- [Game Engine × World Model Talent Corridor](https://metix.ai/reports/mapping/game-engine-world-model-2026)
 - [6,167,276 jobs outside China: the US holds 54.0%](https://metix.ai/reports/mapping/job-distribution-ex-china-2026)
 - [How Metix talent maps are built](https://metix.ai/reports/methodology)
 - [AI infrastructure and chip talent map](https://metix.ai/reports/topics/ai-infra-chips)
