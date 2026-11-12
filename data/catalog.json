@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-11T14:15:50Z",
+  "generated_at": "2026-11-12T08:14:44Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 353,
+    "total": 360,
     "hubs": 2,
-    "series": 259,
+    "series": 266,
     "mapping": 92
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-11",
+      "lastmod": "2026-11-12",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-11",
+      "lastmod": "2026-11-12",
       "title": "Metix AI Series Reports"
     },
     {
@@ -45,20 +45,20 @@
       "title": "1,694 agent-native builders in August, 999 open roles in October"
     },
     {
-      "url": "https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026",
-      "canonical": "https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026",
-      "kind": "mapping",
-      "slug": "salesforce-agentforce-hiring-2026",
-      "lastmod": "2026-11-11",
-      "title": "1,713 Salesforce US roles: R&amp;D is 10.4%, sales+delivery 6.4×"
-    },
-    {
       "url": "https://metix.ai/reports/mapping/si-genai-delivery-bench-2026",
       "canonical": "https://metix.ai/reports/mapping/si-genai-delivery-bench-2026",
       "kind": "mapping",
       "slug": "si-genai-delivery-bench-2026",
       "lastmod": "2026-11-11",
       "title": "SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026",
+      "canonical": "https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026",
+      "kind": "mapping",
+      "slug": "salesforce-agentforce-hiring-2026",
+      "lastmod": "2026-11-11",
+      "title": "1,713 Salesforce US roles: R&amp;D is 10.4%, sales+delivery 6.4×"
     },
     {
       "url": "https://metix.ai/reports/mapping/wall-street-senior-banker-2026",
@@ -763,6 +763,62 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/amazon-to-autonomy-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/amazon-to-autonomy-talent-flow-2026",
+      "kind": "series",
+      "slug": "amazon-to-autonomy-talent-flow-2026",
+      "lastmod": "2026-11-12",
+      "title": "Amazon to Waymo talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/billing-revops-swe-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/billing-revops-swe-vendor-bench-2026",
+      "kind": "series",
+      "slug": "billing-revops-swe-vendor-bench-2026",
+      "lastmod": "2026-11-12",
+      "title": "billing / subscription platforms vendor bench for Software Engineer"
+    },
+    {
+      "url": "https://metix.ai/reports/series/compliance-analyst-fintech-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/compliance-analyst-fintech-peer-pack-2026",
+      "kind": "series",
+      "slug": "compliance-analyst-fintech-peer-pack-2026",
+      "lastmod": "2026-11-12",
+      "title": "Compliance Analyst (fintech) Peer Pack: PayPal 184 vs Coinbase 164"
+    },
+    {
+      "url": "https://metix.ai/reports/series/infra-eng-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/infra-eng-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "infra-eng-employed-vs-open-2026",
+      "lastmod": "2026-11-12",
+      "title": "Infrastructure Engineer employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/paypal-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/paypal-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "paypal-market-entry-geo-2026",
+      "lastmod": "2026-11-12",
+      "title": "PayPal market-entry geography"
+    },
+    {
+      "url": "https://metix.ai/reports/series/roblox-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/roblox-company-teardown-2026",
+      "kind": "series",
+      "slug": "roblox-company-teardown-2026",
+      "lastmod": "2026-11-12",
+      "title": "Roblox seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/swe-security-vendors-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/swe-security-vendors-peer-pack-2026",
+      "kind": "series",
+      "slug": "swe-security-vendors-peer-pack-2026",
+      "lastmod": "2026-11-12",
+      "title": "Software Engineer (security vendors) Peer Pack: Palo Alto Networks 2656 vs Zscaler 1301"
     },
     {
       "url": "https://metix.ai/reports/series/airbnb-market-entry-geo-2026",

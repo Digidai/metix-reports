@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-11T14:15:50Z
-Counts: 353 URLs (259 series, 92 mapping, 2 hubs).
+Generated: 2026-11-12T08:14:44Z
+Counts: 360 URLs (266 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -21,8 +21,8 @@ Counts: 353 URLs (259 series, 92 mapping, 2 hubs).
 - [Metix AI Series Reports](https://metix.ai/reports/series/)
 - [The AI Customer-Service Talent Map: one market, four org models](https://metix.ai/reports/mapping/ai-customer-service-talent-map-2026)
 - [1,694 agent-native builders in August, 999 open roles in October](https://metix.ai/reports/mapping/sf-ai-customer-service-talent-2026)
-- [1,713 Salesforce US roles: R&amp;D is 10.4%, sales+delivery 6.4×](https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026)
 - [SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators](https://metix.ai/reports/mapping/si-genai-delivery-bench-2026)
+- [1,713 Salesforce US roles: R&amp;D is 10.4%, sales+delivery 6.4×](https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026)
 - [Senior Banker Mapping: 101 Moves Across 11 Banks](https://metix.ai/reports/mapping/wall-street-senior-banker-2026)
 - [From Data Engineering to AI Agents: How Databricks Is Reshaping the Enterprise Data Stack](https://metix.ai/reports/mapping/databricks-ai-talent-strategy-2026)
 - [AI Infra Talent Race: Roles Constraining Compute Buildout](https://metix.ai/reports/mapping/nvidia-ai-infrastructure-talent-race-2026)
@@ -111,6 +111,13 @@ Counts: 353 URLs (259 series, 92 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Amazon to Waymo talent flow](https://metix.ai/reports/series/amazon-to-autonomy-talent-flow-2026)
+- [billing / subscription platforms vendor bench for Software Engineer](https://metix.ai/reports/series/billing-revops-swe-vendor-bench-2026)
+- [Compliance Analyst (fintech) Peer Pack: PayPal 184 vs Coinbase 164](https://metix.ai/reports/series/compliance-analyst-fintech-peer-pack-2026)
+- [Infrastructure Engineer employed per open role](https://metix.ai/reports/series/infra-eng-employed-vs-open-2026)
+- [PayPal market-entry geography](https://metix.ai/reports/series/paypal-market-entry-geo-2026)
+- [Roblox seat shelf](https://metix.ai/reports/series/roblox-company-teardown-2026)
+- [Software Engineer (security vendors) Peer Pack: Palo Alto Networks 2656 vs Zscaler 1301](https://metix.ai/reports/series/swe-security-vendors-peer-pack-2026)
 - [Airbnb market-entry geography](https://metix.ai/reports/series/airbnb-market-entry-geo-2026)
 - [Full Stack Engineer employed per open role](https://metix.ai/reports/series/fullstack-eng-employed-vs-open-2026)
 - [Kubernetes platform / PaaS vendor bench for Software Engineer](https://metix.ai/reports/series/k8s-platform-swe-vendor-bench-2026)
