@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-12T15:09:36Z",
+  "generated_at": "2026-11-13T07:52:16Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 360,
+    "total": 367,
     "hubs": 2,
-    "series": 266,
+    "series": 273,
     "mapping": 92
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-12",
+      "lastmod": "2026-11-13",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-12",
+      "lastmod": "2026-11-13",
       "title": "Metix AI Series Reports"
     },
     {
@@ -763,6 +763,62 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/google-to-fintech-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/google-to-fintech-talent-flow-2026",
+      "kind": "series",
+      "slug": "google-to-fintech-talent-flow-2026",
+      "lastmod": "2026-11-13",
+      "title": "Google to Coinbase talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/ml-platform-swe-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/ml-platform-swe-vendor-bench-2026",
+      "kind": "series",
+      "slug": "ml-platform-swe-vendor-bench-2026",
+      "lastmod": "2026-11-13",
+      "title": "ML platform / MLOps vendor bench for Software Engineer"
+    },
+    {
+      "url": "https://metix.ai/reports/series/netflix-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/netflix-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "netflix-market-entry-geo-2026",
+      "lastmod": "2026-11-13",
+      "title": "Netflix market-entry geography"
+    },
+    {
+      "url": "https://metix.ai/reports/series/product-mgr-security-vendors-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/product-mgr-security-vendors-peer-pack-2026",
+      "kind": "series",
+      "slug": "product-mgr-security-vendors-peer-pack-2026",
+      "lastmod": "2026-11-13",
+      "title": "Product Manager (security vendors) Peer Pack: Palo Alto Networks 323 vs Okta 105"
+    },
+    {
+      "url": "https://metix.ai/reports/series/sales-eng-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/sales-eng-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "sales-eng-employed-vs-open-2026",
+      "lastmod": "2026-11-13",
+      "title": "Sales Engineer employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/sre-fintech-broad-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/sre-fintech-broad-peer-pack-2026",
+      "kind": "series",
+      "slug": "sre-fintech-broad-peer-pack-2026",
+      "lastmod": "2026-11-13",
+      "title": "Site Reliability Engineer (fintech) Peer Pack: Visa 425 vs Mastercard 363"
+    },
+    {
+      "url": "https://metix.ai/reports/series/zoom-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/zoom-company-teardown-2026",
+      "kind": "series",
+      "slug": "zoom-company-teardown-2026",
+      "lastmod": "2026-11-13",
+      "title": "Zoom seat shelf"
     },
     {
       "url": "https://metix.ai/reports/series/amazon-to-autonomy-talent-flow-2026",

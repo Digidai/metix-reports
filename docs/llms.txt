@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-12T15:09:36Z
-Counts: 360 URLs (266 series, 92 mapping, 2 hubs).
+Generated: 2026-11-13T07:52:16Z
+Counts: 367 URLs (273 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -111,6 +111,13 @@ Counts: 360 URLs (266 series, 92 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Google to Coinbase talent flow](https://metix.ai/reports/series/google-to-fintech-talent-flow-2026)
+- [ML platform / MLOps vendor bench for Software Engineer](https://metix.ai/reports/series/ml-platform-swe-vendor-bench-2026)
+- [Netflix market-entry geography](https://metix.ai/reports/series/netflix-market-entry-geo-2026)
+- [Product Manager (security vendors) Peer Pack: Palo Alto Networks 323 vs Okta 105](https://metix.ai/reports/series/product-mgr-security-vendors-peer-pack-2026)
+- [Sales Engineer employed per open role](https://metix.ai/reports/series/sales-eng-employed-vs-open-2026)
+- [Site Reliability Engineer (fintech) Peer Pack: Visa 425 vs Mastercard 363](https://metix.ai/reports/series/sre-fintech-broad-peer-pack-2026)
+- [Zoom seat shelf](https://metix.ai/reports/series/zoom-company-teardown-2026)
 - [Amazon to Waymo talent flow](https://metix.ai/reports/series/amazon-to-autonomy-talent-flow-2026)
 - [billing / subscription platforms vendor bench for Software Engineer](https://metix.ai/reports/series/billing-revops-swe-vendor-bench-2026)
 - [Compliance Analyst (fintech) Peer Pack: PayPal 184 vs Coinbase 164](https://metix.ai/reports/series/compliance-analyst-fintech-peer-pack-2026)
