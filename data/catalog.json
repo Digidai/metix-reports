@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-13T14:32:27Z",
+  "generated_at": "2026-11-14T13:28:57Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 367,
+    "total": 374,
     "hubs": 2,
-    "series": 273,
+    "series": 280,
     "mapping": 92
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-13",
+      "lastmod": "2026-11-14",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-13",
+      "lastmod": "2026-11-14",
       "title": "Metix AI Series Reports"
     },
     {
@@ -763,6 +763,62 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/apple-to-defense-tech-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/apple-to-defense-tech-talent-flow-2026",
+      "kind": "series",
+      "slug": "apple-to-defense-tech-talent-flow-2026",
+      "lastmod": "2026-11-14",
+      "title": "Apple to SpaceX talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/financial-analyst-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/financial-analyst-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "financial-analyst-employed-vs-open-2026",
+      "lastmod": "2026-11-14",
+      "title": "Financial Analyst employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/intuit-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/intuit-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "intuit-market-entry-geo-2026",
+      "lastmod": "2026-11-14",
+      "title": "Intuit market-entry geography"
+    },
+    {
+      "url": "https://metix.ai/reports/series/ml-eng-ai-infra-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/ml-eng-ai-infra-peer-pack-2026",
+      "kind": "series",
+      "slug": "ml-eng-ai-infra-peer-pack-2026",
+      "lastmod": "2026-11-14",
+      "title": "Machine Learning Engineer (AI infrastructure) Peer Pack: NVIDIA 250 vs Databricks 73"
+    },
+    {
+      "url": "https://metix.ai/reports/series/rivian-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/rivian-company-teardown-2026",
+      "kind": "series",
+      "slug": "rivian-company-teardown-2026",
+      "lastmod": "2026-11-14",
+      "title": "Rivian seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/solutions-eng-security-vendors-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/solutions-eng-security-vendors-peer-pack-2026",
+      "kind": "series",
+      "slug": "solutions-eng-security-vendors-peer-pack-2026",
+      "lastmod": "2026-11-14",
+      "title": "Solutions Engineer (security vendors) Peer Pack: Okta 258 vs Palo Alto Networks 120"
+    },
+    {
+      "url": "https://metix.ai/reports/series/storage-object-swe-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/storage-object-swe-vendor-bench-2026",
+      "kind": "series",
+      "slug": "storage-object-swe-vendor-bench-2026",
+      "lastmod": "2026-11-14",
+      "title": "object / file storage vendors vendor bench for Software Engineer"
     },
     {
       "url": "https://metix.ai/reports/series/google-to-fintech-talent-flow-2026",

@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-13T14:32:27Z
-Counts: 367 URLs (273 series, 92 mapping, 2 hubs).
+Generated: 2026-11-14T13:28:57Z
+Counts: 374 URLs (280 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -111,6 +111,13 @@ Counts: 367 URLs (273 series, 92 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Apple to SpaceX talent flow](https://metix.ai/reports/series/apple-to-defense-tech-talent-flow-2026)
+- [Financial Analyst employed per open role](https://metix.ai/reports/series/financial-analyst-employed-vs-open-2026)
+- [Intuit market-entry geography](https://metix.ai/reports/series/intuit-market-entry-geo-2026)
+- [Machine Learning Engineer (AI infrastructure) Peer Pack: NVIDIA 250 vs Databricks 73](https://metix.ai/reports/series/ml-eng-ai-infra-peer-pack-2026)
+- [Rivian seat shelf](https://metix.ai/reports/series/rivian-company-teardown-2026)
+- [Solutions Engineer (security vendors) Peer Pack: Okta 258 vs Palo Alto Networks 120](https://metix.ai/reports/series/solutions-eng-security-vendors-peer-pack-2026)
+- [object / file storage vendors vendor bench for Software Engineer](https://metix.ai/reports/series/storage-object-swe-vendor-bench-2026)
 - [Google to Coinbase talent flow](https://metix.ai/reports/series/google-to-fintech-talent-flow-2026)
 - [ML platform / MLOps vendor bench for Software Engineer](https://metix.ai/reports/series/ml-platform-swe-vendor-bench-2026)
 - [Netflix market-entry geography](https://metix.ai/reports/series/netflix-market-entry-geo-2026)
