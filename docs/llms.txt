@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-14T13:28:57Z
-Counts: 374 URLs (280 series, 92 mapping, 2 hubs).
+Generated: 2026-11-15T13:54:35Z
+Counts: 381 URLs (287 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -111,6 +111,13 @@ Counts: 374 URLs (280 series, 92 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [AI Engineer employed per open role](https://metix.ai/reports/series/ai-eng-employed-vs-open-2026)
+- [Autodesk market-entry geography](https://metix.ai/reports/series/autodesk-market-entry-geo-2026)
+- [Discord seat shelf](https://metix.ai/reports/series/discord-company-teardown-2026)
+- [ELT / data movement vendor bench for Software Engineer](https://metix.ai/reports/series/etlmelt-swe-vendor-bench-2026)
+- [Meta to Datadog talent flow](https://metix.ai/reports/series/meta-to-devtools-talent-flow-2026)
+- [Solutions Architect (AI infrastructure) Peer Pack: Databricks 1652 vs NVIDIA 769](https://metix.ai/reports/series/solutions-arch-ai-infra-peer-pack-2026)
+- [Solutions Architect (security vendors) Peer Pack: Palo Alto Networks 129 vs Fortinet 56](https://metix.ai/reports/series/solutions-arch-security-vendors-peer-pack-2026)
 - [Apple to SpaceX talent flow](https://metix.ai/reports/series/apple-to-defense-tech-talent-flow-2026)
 - [Financial Analyst employed per open role](https://metix.ai/reports/series/financial-analyst-employed-vs-open-2026)
 - [Intuit market-entry geography](https://metix.ai/reports/series/intuit-market-entry-geo-2026)

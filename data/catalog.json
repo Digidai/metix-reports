@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-14T13:28:57Z",
+  "generated_at": "2026-11-15T13:54:35Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 374,
+    "total": 381,
     "hubs": 2,
-    "series": 280,
+    "series": 287,
     "mapping": 92
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-14",
+      "lastmod": "2026-11-15",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-14",
+      "lastmod": "2026-11-15",
       "title": "Metix AI Series Reports"
     },
     {
@@ -763,6 +763,62 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/ai-eng-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/ai-eng-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "ai-eng-employed-vs-open-2026",
+      "lastmod": "2026-11-15",
+      "title": "AI Engineer employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/autodesk-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/autodesk-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "autodesk-market-entry-geo-2026",
+      "lastmod": "2026-11-15",
+      "title": "Autodesk market-entry geography"
+    },
+    {
+      "url": "https://metix.ai/reports/series/discord-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/discord-company-teardown-2026",
+      "kind": "series",
+      "slug": "discord-company-teardown-2026",
+      "lastmod": "2026-11-15",
+      "title": "Discord seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/etlmelt-swe-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/etlmelt-swe-vendor-bench-2026",
+      "kind": "series",
+      "slug": "etlmelt-swe-vendor-bench-2026",
+      "lastmod": "2026-11-15",
+      "title": "ELT / data movement vendor bench for Software Engineer"
+    },
+    {
+      "url": "https://metix.ai/reports/series/meta-to-devtools-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/meta-to-devtools-talent-flow-2026",
+      "kind": "series",
+      "slug": "meta-to-devtools-talent-flow-2026",
+      "lastmod": "2026-11-15",
+      "title": "Meta to Datadog talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/solutions-arch-ai-infra-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/solutions-arch-ai-infra-peer-pack-2026",
+      "kind": "series",
+      "slug": "solutions-arch-ai-infra-peer-pack-2026",
+      "lastmod": "2026-11-15",
+      "title": "Solutions Architect (AI infrastructure) Peer Pack: Databricks 1652 vs NVIDIA 769"
+    },
+    {
+      "url": "https://metix.ai/reports/series/solutions-arch-security-vendors-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/solutions-arch-security-vendors-peer-pack-2026",
+      "kind": "series",
+      "slug": "solutions-arch-security-vendors-peer-pack-2026",
+      "lastmod": "2026-11-15",
+      "title": "Solutions Architect (security vendors) Peer Pack: Palo Alto Networks 129 vs Fortinet 56"
     },
     {
       "url": "https://metix.ai/reports/series/apple-to-defense-tech-talent-flow-2026",

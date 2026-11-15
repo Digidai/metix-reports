@@ -15,9 +15,9 @@ Metix publishes structured talent reports (series peer packs / benches and mappi
 - Series sitemap: https://metix.ai/reports/series/sitemap.xml
 - Mapping sitemap: https://metix.ai/reports/sitemap.xml
 
-## Catalog (374 URLs)
+## Catalog (381 URLs)
 
-Generated `2026-11-14T13:28:57Z` from live sitemaps (280 series · 92 mapping · 2 hubs).
+Generated `2026-11-15T13:54:35Z` from live sitemaps (287 series · 92 mapping · 2 hubs).
 
 ### Series
 
@@ -31,6 +31,7 @@ Generated `2026-11-14T13:28:57Z` from live sitemaps (280 series · 92 mapping ·
 - [Account Manager employed per open role](https://metix.ai/reports/series/account-mgr-employed-vs-open-2026) — lastmod `2026-11-06`
 - [Adobe market-entry geography](https://metix.ai/reports/series/adobe-market-entry-geo-2026) — lastmod `2026-11-09`
 - [Affirm seat shelf](https://metix.ai/reports/series/affirm-company-teardown-2026) — lastmod `2026-11-05`
+- [AI Engineer employed per open role](https://metix.ai/reports/series/ai-eng-employed-vs-open-2026) — lastmod `2026-11-15`
 - [AI Engineer Peer Pack: IBM 778 vs NVIDIA 96](https://metix.ai/reports/series/ai-eng-peer-pack-2026) — lastmod `2026-11-06`
 - [Airbnb 16 vs Booking 21 | Host Pricing / Marketplace](https://metix.ai/reports/series/airbnb-booking-marketplace-2026) — lastmod `2026-11-06`
 - [Airbnb market-entry geography](https://metix.ai/reports/series/airbnb-market-entry-geo-2026) — lastmod `2026-11-11`
@@ -56,6 +57,7 @@ Generated `2026-11-14T13:28:57Z` from live sitemaps (280 series · 92 mapping ·
 - [Asana seat shelf](https://metix.ai/reports/series/asana-company-teardown-2026) — lastmod `2026-11-06`
 - [ASML Eindhoven 191 vs HQ Veldhoven 21](https://metix.ai/reports/series/asml-kla-overlay-litho-process-control-2026) — lastmod `2026-11-06`
 - [Atlassian seat shelf](https://metix.ai/reports/series/atlassian-company-teardown-2026) — lastmod `2026-11-06`
+- [Autodesk market-entry geography](https://metix.ai/reports/series/autodesk-market-entry-geo-2026) — lastmod `2026-11-15`
 - [Backend Engineer (fintech) Peer Pack: PayPal 59 vs Capital One 34](https://metix.ai/reports/series/be-eng-fintech-peer-pack-2026) — lastmod `2026-11-05`
 - [Backend Engineer Peer Pack: LinkedIn 88 vs Shopify 49](https://metix.ai/reports/series/be-eng-peer-pack-2026) — lastmod `2026-11-11`
 - [BI / analytics platforms vendor bench for Software Engineer](https://metix.ai/reports/series/bi-analytics-swe-vendor-bench-2026) — lastmod `2026-11-06`
@@ -105,10 +107,12 @@ Generated `2026-11-14T13:28:57Z` from live sitemaps (280 series · 92 mapping ·
 - [DevOps Engineer (fintech) Peer Pack: Capital One 450 vs Mastercard 218](https://metix.ai/reports/series/devops-eng-fintech-peer-pack-2026) — lastmod `2026-11-06`
 - [DevOps Engineer employed per open role](https://metix.ai/reports/series/devops-eng-employed-vs-open-2026) — lastmod `2026-11-07`
 - [Director of Engineering Peer Pack: Salesforce 173 vs Oracle 163](https://metix.ai/reports/series/director-eng-peer-pack-2026) — lastmod `2026-11-06`
+- [Discord seat shelf](https://metix.ai/reports/series/discord-company-teardown-2026) — lastmod `2026-11-15`
 - [Dropbox seat shelf](https://metix.ai/reports/series/dropbox-company-teardown-2026) — lastmod `2026-11-06`
 - [EDA / semiconductor tools vendor bench for Software Engineer](https://metix.ai/reports/series/chip-eda-swe-vendor-bench-2026) — lastmod `2026-11-08`
 - [Electrical Engineer Peer Pack: Apple 423 vs Tesla 158](https://metix.ai/reports/series/electrical-eng-peer-pack-2026) — lastmod `2026-11-06`
 - [ElevenLabs Voice AI: 622 Current, 219 Jobs](https://metix.ai/reports/series/voice-speech-ai-talent-2026) — lastmod `2026-11-06`
+- [ELT / data movement vendor bench for Software Engineer](https://metix.ai/reports/series/etlmelt-swe-vendor-bench-2026) — lastmod `2026-11-15`
 - [endpoint security vendor bench for Software Engineer](https://metix.ai/reports/series/endpoint-sec-swe-vendor-bench-2026) — lastmod `2026-11-11`
 - [Engineering Manager (fintech) Peer Pack: PayPal 377 vs Stripe 289](https://metix.ai/reports/series/eng-mgr-fintech-peer-pack-2026) — lastmod `2026-11-06`
 - [Engineering Manager employed per open role](https://metix.ai/reports/series/eng-manager-employed-vs-open-2026) — lastmod `2026-11-06`
@@ -163,6 +167,7 @@ Generated `2026-11-14T13:28:57Z` from live sitemaps (280 series · 92 mapping ·
 - [Machine Learning Engineer Peer Pack: Scale AI 89 vs Hugging Face 62](https://metix.ai/reports/series/ml-eng-peer-pack-2026) — lastmod `2026-11-06`
 - [Marketing Manager employed per open role](https://metix.ai/reports/series/marketing-mgr-employed-vs-open-2026) — lastmod `2026-11-06`
 - [Meta to Coinbase talent flow](https://metix.ai/reports/series/meta-to-fintech-talent-flow-2026) — lastmod `2026-11-06`
+- [Meta to Datadog talent flow](https://metix.ai/reports/series/meta-to-devtools-talent-flow-2026) — lastmod `2026-11-15`
 - [Meta to Stripe talent flow](https://metix.ai/reports/series/meta-to-data-infra-talent-flow-2026) — lastmod `2026-11-06`
 - [Microsoft to Databricks talent flow](https://metix.ai/reports/series/microsoft-to-data-infra-talent-flow-2026) — lastmod `2026-11-06`
 - [Microsoft to Datadog talent flow](https://metix.ai/reports/series/microsoft-to-devtools-talent-flow-2026) — lastmod `2026-11-11`
@@ -254,6 +259,8 @@ Generated `2026-11-14T13:28:57Z` from live sitemaps (280 series · 92 mapping ·
 - [Software Engineer employed per open role](https://metix.ai/reports/series/software-eng-employed-vs-open-2026) — lastmod `2026-11-06`
 - [Software Engineer Peer Pack: Atlassian 4809 vs Datadog 2187](https://metix.ai/reports/series/swe-devtools-peer-pack-2026) — lastmod `2026-11-10`
 - [Software Engineer Peer Pack: Palantir 1122 vs Anduril 947](https://metix.ai/reports/series/swe-defense-tech-peer-pack-2026) — lastmod `2026-11-11`
+- [Solutions Architect (AI infrastructure) Peer Pack: Databricks 1652 vs NVIDIA 769](https://metix.ai/reports/series/solutions-arch-ai-infra-peer-pack-2026) — lastmod `2026-11-15`
+- [Solutions Architect (security vendors) Peer Pack: Palo Alto Networks 129 vs Fortinet 56](https://metix.ai/reports/series/solutions-arch-security-vendors-peer-pack-2026) — lastmod `2026-11-15`
 - [Solutions Architect employed per open role](https://metix.ai/reports/series/solutions-arch-employed-vs-open-2026) — lastmod `2026-11-06`
 - [Solutions Architect Peer Pack: Databricks 1505 vs Snowflake 322](https://metix.ai/reports/series/solutions-arch-peer-pack-2026) — lastmod `2026-10-30`
 - [Solutions Consultant Peer Pack: Adobe 445 vs ServiceNow 234](https://metix.ai/reports/series/solutions-consultant-peer-pack-2026) — lastmod `2026-11-11`
