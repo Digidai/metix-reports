@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-17T15:57:53Z",
+  "generated_at": "2026-11-18T08:30:17Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 381,
+    "total": 388,
     "hubs": 2,
-    "series": 287,
+    "series": 294,
     "mapping": 92
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-15",
+      "lastmod": "2026-11-17",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-15",
+      "lastmod": "2026-11-17",
       "title": "Metix AI Series Reports"
     },
     {
@@ -763,6 +763,62 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/amazon-to-defense-tech-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/amazon-to-defense-tech-talent-flow-2026",
+      "kind": "series",
+      "slug": "amazon-to-defense-tech-talent-flow-2026",
+      "lastmod": "2026-11-17",
+      "title": "Amazon to SpaceX talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/cicd-devops-eng-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/cicd-devops-eng-vendor-bench-2026",
+      "kind": "series",
+      "slug": "cicd-devops-eng-vendor-bench-2026",
+      "lastmod": "2026-11-17",
+      "title": "CI/CD / DevOps platforms vendor bench for Software Engineer"
+    },
+    {
+      "url": "https://metix.ai/reports/series/eng-mgr-security-vendors-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/eng-mgr-security-vendors-peer-pack-2026",
+      "kind": "series",
+      "slug": "eng-mgr-security-vendors-peer-pack-2026",
+      "lastmod": "2026-11-17",
+      "title": "Engineering Manager (security vendors) Peer Pack: Palo Alto Networks 307 vs CrowdStrike 221"
+    },
+    {
+      "url": "https://metix.ai/reports/series/fde-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/fde-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "fde-employed-vs-open-2026",
+      "lastmod": "2026-11-17",
+      "title": "Forward Deployed Engineer employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/lyft-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/lyft-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "lyft-market-entry-geo-2026",
+      "lastmod": "2026-11-17",
+      "title": "Lyft market-entry geography"
+    },
+    {
+      "url": "https://metix.ai/reports/series/research-scientist-ai-infra-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/research-scientist-ai-infra-peer-pack-2026",
+      "kind": "series",
+      "slug": "research-scientist-ai-infra-peer-pack-2026",
+      "lastmod": "2026-11-17",
+      "title": "Research Scientist (AI infrastructure) Peer Pack: NVIDIA 706 vs OpenAI 70"
+    },
+    {
+      "url": "https://metix.ai/reports/series/wiz-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/wiz-company-teardown-2026",
+      "kind": "series",
+      "slug": "wiz-company-teardown-2026",
+      "lastmod": "2026-11-17",
+      "title": "Wiz seat shelf"
     },
     {
       "url": "https://metix.ai/reports/series/ai-eng-employed-vs-open-2026",

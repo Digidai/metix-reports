@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-17T15:57:53Z
-Counts: 381 URLs (287 series, 92 mapping, 2 hubs).
+Generated: 2026-11-18T08:30:17Z
+Counts: 388 URLs (294 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -111,6 +111,13 @@ Counts: 381 URLs (287 series, 92 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Amazon to SpaceX talent flow](https://metix.ai/reports/series/amazon-to-defense-tech-talent-flow-2026)
+- [CI/CD / DevOps platforms vendor bench for Software Engineer](https://metix.ai/reports/series/cicd-devops-eng-vendor-bench-2026)
+- [Engineering Manager (security vendors) Peer Pack: Palo Alto Networks 307 vs CrowdStrike 221](https://metix.ai/reports/series/eng-mgr-security-vendors-peer-pack-2026)
+- [Forward Deployed Engineer employed per open role](https://metix.ai/reports/series/fde-employed-vs-open-2026)
+- [Lyft market-entry geography](https://metix.ai/reports/series/lyft-market-entry-geo-2026)
+- [Research Scientist (AI infrastructure) Peer Pack: NVIDIA 706 vs OpenAI 70](https://metix.ai/reports/series/research-scientist-ai-infra-peer-pack-2026)
+- [Wiz seat shelf](https://metix.ai/reports/series/wiz-company-teardown-2026)
 - [AI Engineer employed per open role](https://metix.ai/reports/series/ai-eng-employed-vs-open-2026)
 - [Autodesk market-entry geography](https://metix.ai/reports/series/autodesk-market-entry-geo-2026)
 - [Discord seat shelf](https://metix.ai/reports/series/discord-company-teardown-2026)

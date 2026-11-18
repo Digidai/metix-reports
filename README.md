@@ -15,9 +15,9 @@ Metix publishes structured talent reports (series peer packs / benches and mappi
 - Series sitemap: https://metix.ai/reports/series/sitemap.xml
 - Mapping sitemap: https://metix.ai/reports/sitemap.xml
 
-## Catalog (381 URLs)
+## Catalog (388 URLs)
 
-Generated `2026-11-17T15:57:53Z` from live sitemaps (287 series · 92 mapping · 2 hubs).
+Generated `2026-11-18T08:30:17Z` from live sitemaps (294 series · 92 mapping · 2 hubs).
 
 ### Series
 
@@ -39,6 +39,7 @@ Generated `2026-11-17T15:57:53Z` from live sitemaps (287 series · 92 mapping ·
 - [Amazon to Coinbase talent flow](https://metix.ai/reports/series/amazon-to-fintech-talent-flow-2026) — lastmod `2026-11-08`
 - [Amazon to NVIDIA talent flow](https://metix.ai/reports/series/amazon-to-ai-infra-talent-flow-2026) — lastmod `2026-11-06`
 - [Amazon to Palo Alto Networks talent flow](https://metix.ai/reports/series/amazon-to-security-vendors-talent-flow-2026) — lastmod `2026-11-05`
+- [Amazon to SpaceX talent flow](https://metix.ai/reports/series/amazon-to-defense-tech-talent-flow-2026) — lastmod `2026-11-17`
 - [Amazon to Waymo talent flow](https://metix.ai/reports/series/amazon-to-autonomy-talent-flow-2026) — lastmod `2026-11-12`
 - [Analytics Engineer Peer Pack: Netflix 119 vs Airbnb 44](https://metix.ai/reports/series/analytics-eng-peer-pack-2026) — lastmod `2026-11-11`
 - [Android Engineer Peer Pack: Google 345 vs Meta 61](https://metix.ai/reports/series/android-eng-peer-pack-2026) — lastmod `2026-11-06`
@@ -69,6 +70,7 @@ Generated `2026-11-17T15:57:53Z` from live sitemaps (287 series · 92 mapping ·
 - [Business Analyst Peer Pack: IBM 3187 vs Oracle 1406](https://metix.ai/reports/series/business-analyst-peer-pack-2026) — lastmod `2026-11-06`
 - [Canva market-entry geography](https://metix.ai/reports/series/canva-market-entry-geo-2026) — lastmod `2026-11-06`
 - [Career families](https://metix.ai/reports/series/career-families) — lastmod `2026-09-23`
+- [CI/CD / DevOps platforms vendor bench for Software Engineer](https://metix.ai/reports/series/cicd-devops-eng-vendor-bench-2026) — lastmod `2026-11-17`
 - [Cisco to Cloudflare talent flow](https://metix.ai/reports/series/cisco-to-devtools-talent-flow-2026) — lastmod `2026-11-06`
 - [Cisco to Palo Alto Networks talent flow](https://metix.ai/reports/series/cisco-to-security-vendors-talent-flow-2026) — lastmod `2026-11-06`
 - [Cloud Architect Peer Pack: Oracle 877 vs Amazon 569](https://metix.ai/reports/series/cloud-architect-peer-pack-2026) — lastmod `2026-11-06`
@@ -115,6 +117,7 @@ Generated `2026-11-17T15:57:53Z` from live sitemaps (287 series · 92 mapping ·
 - [ELT / data movement vendor bench for Software Engineer](https://metix.ai/reports/series/etlmelt-swe-vendor-bench-2026) — lastmod `2026-11-15`
 - [endpoint security vendor bench for Software Engineer](https://metix.ai/reports/series/endpoint-sec-swe-vendor-bench-2026) — lastmod `2026-11-11`
 - [Engineering Manager (fintech) Peer Pack: PayPal 377 vs Stripe 289](https://metix.ai/reports/series/eng-mgr-fintech-peer-pack-2026) — lastmod `2026-11-06`
+- [Engineering Manager (security vendors) Peer Pack: Palo Alto Networks 307 vs CrowdStrike 221](https://metix.ai/reports/series/eng-mgr-security-vendors-peer-pack-2026) — lastmod `2026-11-17`
 - [Engineering Manager employed per open role](https://metix.ai/reports/series/eng-manager-employed-vs-open-2026) — lastmod `2026-11-06`
 - [enterprise networking vendor bench for Software Engineer](https://metix.ai/reports/series/network-infra-swe-vendor-bench-2026) — lastmod `2026-11-07`
 - [enterprise security vendors vendor bench for Security Engineer](https://metix.ai/reports/series/security-vendor-sec-eng-vendor-bench-2026) — lastmod `2026-11-06`
@@ -125,6 +128,7 @@ Generated `2026-11-17T15:57:53Z` from live sitemaps (287 series · 92 mapping ·
 - [Financial Analyst Peer Pack: Amazon 3417 vs Google 576](https://metix.ai/reports/series/financial-analyst-peer-pack-2026) — lastmod `2026-11-06`
 - [Firmware Engineer Peer Pack: Apple 820 vs Qualcomm 521](https://metix.ai/reports/series/fw-eng-peer-pack-2026) — lastmod `2026-11-11`
 - [Five DevOps Engineer benches on one date: inside the 1,036-profile peer pack](https://metix.ai/reports/series/devops-eng-peer-pack-2026) — lastmod `2026-11-11`
+- [Forward Deployed Engineer employed per open role](https://metix.ai/reports/series/fde-employed-vs-open-2026) — lastmod `2026-11-17`
 - [Forward Deployed Engineer Peer Pack: Palantir 576 vs Meta 96](https://metix.ai/reports/series/fde-peer-pack-2026) — lastmod `2026-11-06`
 - [Frontend Engineer (fintech) Peer Pack: Capital One 76 vs PayPal 33](https://metix.ai/reports/series/fe-eng-fintech-peer-pack-2026) — lastmod `2026-11-05`
 - [Frontend Engineer Peer Pack: Google 384 vs Meta 204](https://metix.ai/reports/series/fe-eng-peer-pack-2026) — lastmod `2026-11-06`
@@ -160,6 +164,7 @@ Generated `2026-11-17T15:57:53Z` from live sitemaps (287 series · 92 mapping ·
 - [Kubernetes platform / PaaS vendor bench for Software Engineer](https://metix.ai/reports/series/k8s-platform-swe-vendor-bench-2026) — lastmod `2026-11-11`
 - [L3Harris to SpaceX talent flow](https://metix.ai/reports/series/l3harris-to-defense-tech-talent-flow-2026) — lastmod `2026-11-10`
 - [LinkedIn market-entry geography](https://metix.ai/reports/series/linkedin-market-entry-geo-2026) — lastmod `2026-11-11`
+- [Lyft market-entry geography](https://metix.ai/reports/series/lyft-market-entry-geo-2026) — lastmod `2026-11-17`
 - [Machine Learning Engineer (AI infrastructure) Peer Pack: NVIDIA 250 vs Databricks 73](https://metix.ai/reports/series/ml-eng-ai-infra-peer-pack-2026) — lastmod `2026-11-14`
 - [Machine Learning Engineer (autonomy) Peer Pack: NVIDIA 201 vs Tesla 143](https://metix.ai/reports/series/ml-eng-autonomy-peer-pack-2026) — lastmod `2026-11-06`
 - [Machine Learning Engineer (fintech) Peer Pack: PayPal 236 vs Block 101](https://metix.ai/reports/series/ml-eng-fintech-peer-pack-2026) — lastmod `2026-11-06`
@@ -221,6 +226,7 @@ Generated `2026-11-17T15:57:53Z` from live sitemaps (287 series · 92 mapping ·
 - [Release Engineer Peer Pack: Oracle 85 vs IBM 38](https://metix.ai/reports/series/release-eng-peer-pack-2026) — lastmod `2026-11-06`
 - [Research Engineer (AI labs) Peer Pack: Meta 440 vs NVIDIA 91](https://metix.ai/reports/series/research-eng-ai-labs-peer-pack-2026) — lastmod `2026-11-06`
 - [Research Engineer employed per open role](https://metix.ai/reports/series/research-eng-employed-vs-open-2026) — lastmod `2026-11-06`
+- [Research Scientist (AI infrastructure) Peer Pack: NVIDIA 706 vs OpenAI 70](https://metix.ai/reports/series/research-scientist-ai-infra-peer-pack-2026) — lastmod `2026-11-17`
 - [Research Scientist employed per open role](https://metix.ai/reports/series/research-scientist-employed-vs-open-2026) — lastmod `2026-11-06`
 - [Research Scientist Peer Pack: Meta 3255 vs Google 790](https://metix.ai/reports/series/research-scientist-peer-pack-2026) — lastmod `2026-11-11`
 - [Rippling seat shelf](https://metix.ai/reports/series/rippling-company-teardown-2026) — lastmod `2026-11-06`
@@ -304,6 +310,7 @@ Generated `2026-11-17T15:57:53Z` from live sitemaps (287 series · 92 mapping ·
 - [Visa market-entry geography](https://metix.ai/reports/series/visa-market-entry-geo-2026) — lastmod `2026-11-10`
 - [Waymo 48 / Zoox 9 Jobs | AV Perception](https://metix.ai/reports/series/av-perception-talent-2026) — lastmod `2026-11-06`
 - [Waymo seat shelf](https://metix.ai/reports/series/waymo-company-teardown-2026) — lastmod `2026-11-06`
+- [Wiz seat shelf](https://metix.ai/reports/series/wiz-company-teardown-2026) — lastmod `2026-11-17`
 - [Workday seat shelf](https://metix.ai/reports/series/workday-company-teardown-2026) — lastmod `2026-11-06`
 - [Zoom seat shelf](https://metix.ai/reports/series/zoom-company-teardown-2026) — lastmod `2026-11-13`
 - [Zoox seat shelf](https://metix.ai/reports/series/zoox-company-teardown-2026) — lastmod `2026-11-07`
