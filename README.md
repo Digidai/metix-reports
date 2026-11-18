@@ -17,7 +17,7 @@ Metix publishes structured talent reports (series peer packs / benches and mappi
 
 ## Catalog (388 URLs)
 
-Generated `2026-11-18T08:30:17Z` from live sitemaps (294 series · 92 mapping · 2 hubs).
+Generated `2026-11-18T15:37:10Z` from live sitemaps (294 series · 92 mapping · 2 hubs).
 
 ### Series
 
