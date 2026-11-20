@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-19T15:42:47Z",
+  "generated_at": "2026-11-20T08:29:04Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 395,
+    "total": 402,
     "hubs": 2,
-    "series": 301,
+    "series": 308,
     "mapping": 92
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-20",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-18",
+      "lastmod": "2026-11-20",
       "title": "Metix AI Series Reports"
     },
     {
@@ -3171,6 +3171,62 @@
       "slug": "career-families",
       "lastmod": "2026-09-23",
       "title": "Career families"
+    },
+    {
+      "url": "https://metix.ai/reports/series/data-eng-data-infra-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/data-eng-data-infra-peer-pack-2026",
+      "kind": "series",
+      "slug": "data-eng-data-infra-peer-pack-2026",
+      "lastmod": "2026-11-20",
+      "title": "Data Engineer (data infrastructure) Peer Pack: Databricks 76 vs Snowflake 49"
+    },
+    {
+      "url": "https://metix.ai/reports/series/design-tools-swe-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/design-tools-swe-vendor-bench-2026",
+      "kind": "series",
+      "slug": "design-tools-swe-vendor-bench-2026",
+      "lastmod": "2026-11-20",
+      "title": "design / creative tools vendor bench for Software Engineer"
+    },
+    {
+      "url": "https://metix.ai/reports/series/duolingo-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/duolingo-company-teardown-2026",
+      "kind": "series",
+      "slug": "duolingo-company-teardown-2026",
+      "lastmod": "2026-11-20",
+      "title": "Duolingo seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/hubspot-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/hubspot-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "hubspot-market-entry-geo-2026",
+      "lastmod": "2026-11-20",
+      "title": "HubSpot market-entry geography"
+    },
+    {
+      "url": "https://metix.ai/reports/series/mechanical-eng-aerospace-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/mechanical-eng-aerospace-peer-pack-2026",
+      "kind": "series",
+      "slug": "mechanical-eng-aerospace-peer-pack-2026",
+      "lastmod": "2026-11-20",
+      "title": "Mechanical Engineer (aerospace) Peer Pack: Lockheed Martin 1524 vs Northrop Grumman 1481"
+    },
+    {
+      "url": "https://metix.ai/reports/series/microsoft-to-defense-tech-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/microsoft-to-defense-tech-talent-flow-2026",
+      "kind": "series",
+      "slug": "microsoft-to-defense-tech-talent-flow-2026",
+      "lastmod": "2026-11-20",
+      "title": "Microsoft to Palantir talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/operations-analyst-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/operations-analyst-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "operations-analyst-employed-vs-open-2026",
+      "lastmod": "2026-11-20",
+      "title": "Operations Analyst employed per open role"
     }
   ]
 }

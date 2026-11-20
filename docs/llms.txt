@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-19T15:42:47Z
-Counts: 395 URLs (301 series, 92 mapping, 2 hubs).
+Generated: 2026-11-20T08:29:04Z
+Counts: 402 URLs (308 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -412,3 +412,10 @@ Counts: 395 URLs (301 series, 92 mapping, 2 hubs).
 - [Anyscale 489, Groq 1 Job | Inference Serving](https://metix.ai/reports/series/inference-serving-talent-2026)
 - [Series methodology](https://metix.ai/reports/series/methodology)
 - [Career families](https://metix.ai/reports/series/career-families)
+- [Data Engineer (data infrastructure) Peer Pack: Databricks 76 vs Snowflake 49](https://metix.ai/reports/series/data-eng-data-infra-peer-pack-2026)
+- [design / creative tools vendor bench for Software Engineer](https://metix.ai/reports/series/design-tools-swe-vendor-bench-2026)
+- [Duolingo seat shelf](https://metix.ai/reports/series/duolingo-company-teardown-2026)
+- [HubSpot market-entry geography](https://metix.ai/reports/series/hubspot-market-entry-geo-2026)
+- [Mechanical Engineer (aerospace) Peer Pack: Lockheed Martin 1524 vs Northrop Grumman 1481](https://metix.ai/reports/series/mechanical-eng-aerospace-peer-pack-2026)
+- [Microsoft to Palantir talent flow](https://metix.ai/reports/series/microsoft-to-defense-tech-talent-flow-2026)
+- [Operations Analyst employed per open role](https://metix.ai/reports/series/operations-analyst-employed-vs-open-2026)
