@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-21T14:37:42Z",
+  "generated_at": "2026-11-22T14:31:40Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 402,
+    "total": 409,
     "hubs": 2,
-    "series": 308,
+    "series": 315,
     "mapping": 92
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-20",
+      "lastmod": "2026-11-21",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-20",
+      "lastmod": "2026-11-21",
       "title": "Metix AI Series Reports"
     },
     {
@@ -45,20 +45,20 @@
       "title": "1,694 agent-native builders in August, 999 open roles in October"
     },
     {
-      "url": "https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026",
-      "canonical": "https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026",
-      "kind": "mapping",
-      "slug": "salesforce-agentforce-hiring-2026",
-      "lastmod": "2026-11-11",
-      "title": "1,713 Salesforce US roles: R&amp;D is 10.4%, sales+delivery 6.4×"
-    },
-    {
       "url": "https://metix.ai/reports/mapping/si-genai-delivery-bench-2026",
       "canonical": "https://metix.ai/reports/mapping/si-genai-delivery-bench-2026",
       "kind": "mapping",
       "slug": "si-genai-delivery-bench-2026",
       "lastmod": "2026-11-11",
       "title": "SI GenAI Delivery Bench 2026: 126 Mapped Seats Against 42 Jobs at Four Integrators"
+    },
+    {
+      "url": "https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026",
+      "canonical": "https://metix.ai/reports/mapping/salesforce-agentforce-hiring-2026",
+      "kind": "mapping",
+      "slug": "salesforce-agentforce-hiring-2026",
+      "lastmod": "2026-11-11",
+      "title": "1,713 Salesforce US roles: R&amp;D is 10.4%, sales+delivery 6.4×"
     },
     {
       "url": "https://metix.ai/reports/mapping/wall-street-senior-banker-2026",
@@ -765,6 +765,118 @@
       "title": "What share of xAI is Human Data &amp; Evaluation?"
     },
     {
+      "url": "https://metix.ai/reports/series/accountant-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/accountant-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "accountant-employed-vs-open-2026",
+      "lastmod": "2026-11-21",
+      "title": "Accountant employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/amazon-to-devtools-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/amazon-to-devtools-talent-flow-2026",
+      "kind": "series",
+      "slug": "amazon-to-devtools-talent-flow-2026",
+      "lastmod": "2026-11-21",
+      "title": "Amazon to Datadog talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/collab-suite-swe-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/collab-suite-swe-vendor-bench-2026",
+      "kind": "series",
+      "slug": "collab-suite-swe-vendor-bench-2026",
+      "lastmod": "2026-11-21",
+      "title": "collaboration suite SaaS vendor bench for Software Engineer"
+    },
+    {
+      "url": "https://metix.ai/reports/series/csm-security-vendors-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/csm-security-vendors-peer-pack-2026",
+      "kind": "series",
+      "slug": "csm-security-vendors-peer-pack-2026",
+      "lastmod": "2026-11-21",
+      "title": "Customer Success Manager (security vendors) Peer Pack: Palo Alto Networks 208 vs Okta 129"
+    },
+    {
+      "url": "https://metix.ai/reports/series/glean-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/glean-company-teardown-2026",
+      "kind": "series",
+      "slug": "glean-company-teardown-2026",
+      "lastmod": "2026-11-21",
+      "title": "Glean seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/snowflake-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/snowflake-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "snowflake-market-entry-geo-2026",
+      "lastmod": "2026-11-21",
+      "title": "Snowflake market-entry geography"
+    },
+    {
+      "url": "https://metix.ai/reports/series/swe-ai-infra-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/swe-ai-infra-peer-pack-2026",
+      "kind": "series",
+      "slug": "swe-ai-infra-peer-pack-2026",
+      "lastmod": "2026-11-21",
+      "title": "Software Engineer (AI infrastructure) Peer Pack: NVIDIA 7781 vs Databricks 2354"
+    },
+    {
+      "url": "https://metix.ai/reports/series/data-eng-data-infra-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/data-eng-data-infra-peer-pack-2026",
+      "kind": "series",
+      "slug": "data-eng-data-infra-peer-pack-2026",
+      "lastmod": "2026-11-20",
+      "title": "Data Engineer (data infrastructure) Peer Pack: Databricks 76 vs Snowflake 49"
+    },
+    {
+      "url": "https://metix.ai/reports/series/design-tools-swe-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/design-tools-swe-vendor-bench-2026",
+      "kind": "series",
+      "slug": "design-tools-swe-vendor-bench-2026",
+      "lastmod": "2026-11-20",
+      "title": "design / creative tools vendor bench for Software Engineer"
+    },
+    {
+      "url": "https://metix.ai/reports/series/duolingo-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/duolingo-company-teardown-2026",
+      "kind": "series",
+      "slug": "duolingo-company-teardown-2026",
+      "lastmod": "2026-11-20",
+      "title": "Duolingo seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/hubspot-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/hubspot-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "hubspot-market-entry-geo-2026",
+      "lastmod": "2026-11-20",
+      "title": "HubSpot market-entry geography"
+    },
+    {
+      "url": "https://metix.ai/reports/series/mechanical-eng-aerospace-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/mechanical-eng-aerospace-peer-pack-2026",
+      "kind": "series",
+      "slug": "mechanical-eng-aerospace-peer-pack-2026",
+      "lastmod": "2026-11-20",
+      "title": "Mechanical Engineer (aerospace) Peer Pack: Lockheed Martin 1524 vs Northrop Grumman 1481"
+    },
+    {
+      "url": "https://metix.ai/reports/series/microsoft-to-defense-tech-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/microsoft-to-defense-tech-talent-flow-2026",
+      "kind": "series",
+      "slug": "microsoft-to-defense-tech-talent-flow-2026",
+      "lastmod": "2026-11-20",
+      "title": "Microsoft to Palantir talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/operations-analyst-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/operations-analyst-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "operations-analyst-employed-vs-open-2026",
+      "lastmod": "2026-11-20",
+      "title": "Operations Analyst employed per open role"
+    },
+    {
       "url": "https://metix.ai/reports/series/chime-company-teardown-2026",
       "canonical": "https://metix.ai/reports/series/chime-company-teardown-2026",
       "kind": "series",
@@ -857,7 +969,7 @@
       "canonical": "https://metix.ai/reports/series/lyft-market-entry-geo-2026",
       "kind": "series",
       "slug": "lyft-market-entry-geo-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-17",
       "title": "Lyft market-entry geography"
     },
     {
@@ -2193,7 +2305,7 @@
       "canonical": "https://metix.ai/reports/series/cloudflare-company-teardown-2026",
       "kind": "series",
       "slug": "cloudflare-company-teardown-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-06",
       "title": "Cloudflare seat shelf"
     },
     {
@@ -2233,7 +2345,7 @@
       "canonical": "https://metix.ai/reports/series/sdet-peer-pack-2026",
       "kind": "series",
       "slug": "sdet-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Software Development Engineer in Test Peer Pack: IBM 500 vs Oracle 368"
     },
     {
@@ -2305,7 +2417,7 @@
       "canonical": "https://metix.ai/reports/series/solutions-consultant-peer-pack-2026",
       "kind": "series",
       "slug": "solutions-consultant-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Solutions Consultant Peer Pack: Adobe 445 vs ServiceNow 234"
     },
     {
@@ -2385,7 +2497,7 @@
       "canonical": "https://metix.ai/reports/series/dba-peer-pack-2026",
       "kind": "series",
       "slug": "dba-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Database Administrator Peer Pack: IBM 2136 vs Oracle 1174"
     },
     {
@@ -2473,7 +2585,7 @@
       "canonical": "https://metix.ai/reports/series/program-mgr-peer-pack-2026",
       "kind": "series",
       "slug": "program-mgr-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Program Manager Peer Pack: IBM 2989 vs Oracle 2569"
     },
     {
@@ -2521,7 +2633,7 @@
       "canonical": "https://metix.ai/reports/series/solutions-arch-employed-vs-open-2026",
       "kind": "series",
       "slug": "solutions-arch-employed-vs-open-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-06",
       "title": "Solutions Architect employed per open role"
     },
     {
@@ -2545,7 +2657,7 @@
       "canonical": "https://metix.ai/reports/series/qa-eng-peer-pack-2026",
       "kind": "series",
       "slug": "qa-eng-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "QA Engineer Peer Pack: IBM 1928 vs Oracle 1455"
     },
     {
@@ -2569,7 +2681,7 @@
       "canonical": "https://metix.ai/reports/series/analytics-eng-peer-pack-2026",
       "kind": "series",
       "slug": "analytics-eng-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Analytics Engineer Peer Pack: Netflix 119 vs Airbnb 44"
     },
     {
@@ -2673,7 +2785,7 @@
       "canonical": "https://metix.ai/reports/series/staff-eng-peer-pack-2026",
       "kind": "series",
       "slug": "staff-eng-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Staff Engineer Peer Pack: Google 205 vs IBM 149"
     },
     {
@@ -2697,7 +2809,7 @@
       "canonical": "https://metix.ai/reports/series/appsec-eng-peer-pack-2026",
       "kind": "series",
       "slug": "appsec-eng-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Application Security Engineer Peer Pack: Amazon 117 vs Salesforce 54"
     },
     {
@@ -2801,7 +2913,7 @@
       "canonical": "https://metix.ai/reports/series/tech-recruiter-peer-pack-2026",
       "kind": "series",
       "slug": "tech-recruiter-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Technical Recruiter Peer Pack: Amazon 1132 vs Google 567"
     },
     {
@@ -2809,7 +2921,7 @@
       "canonical": "https://metix.ai/reports/series/be-eng-peer-pack-2026",
       "kind": "series",
       "slug": "be-eng-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Backend Engineer Peer Pack: LinkedIn 88 vs Shopify 49"
     },
     {
@@ -2833,7 +2945,7 @@
       "canonical": "https://metix.ai/reports/series/devops-eng-peer-pack-2026",
       "kind": "series",
       "slug": "devops-eng-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Five DevOps Engineer benches on one date: inside the 1,036-profile peer pack"
     },
     {
@@ -2865,7 +2977,7 @@
       "canonical": "https://metix.ai/reports/series/fw-eng-peer-pack-2026",
       "kind": "series",
       "slug": "fw-eng-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Firmware Engineer Peer Pack: Apple 820 vs Qualcomm 521"
     },
     {
@@ -2905,7 +3017,7 @@
       "canonical": "https://metix.ai/reports/series/ios-eng-peer-pack-2026",
       "kind": "series",
       "slug": "ios-eng-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "iOS Engineer Peer Pack: Apple 367 vs Meta 83"
     },
     {
@@ -2929,7 +3041,7 @@
       "canonical": "https://metix.ai/reports/series/tpm-peer-pack-2026",
       "kind": "series",
       "slug": "tpm-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Technical Program Manager Peer Pack: Amazon 5100 vs Google 3831"
     },
     {
@@ -2937,7 +3049,7 @@
       "canonical": "https://metix.ai/reports/series/applied-scientist-peer-pack-2026",
       "kind": "series",
       "slug": "applied-scientist-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Applied Scientist Peer Pack: Amazon 4413 vs Microsoft 1624"
     },
     {
@@ -2961,7 +3073,7 @@
       "canonical": "https://metix.ai/reports/series/research-scientist-peer-pack-2026",
       "kind": "series",
       "slug": "research-scientist-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Research Scientist Peer Pack: Meta 3255 vs Google 790"
     },
     {
@@ -2993,7 +3105,7 @@
       "canonical": "https://metix.ai/reports/series/network-eng-peer-pack-2026",
       "kind": "series",
       "slug": "network-eng-peer-pack-2026",
-      "lastmod": "2026-11-19",
+      "lastmod": "2026-11-11",
       "title": "Network Engineer Peer Pack: Cisco 1896 vs Juniper 150"
     },
     {
@@ -3171,62 +3283,6 @@
       "slug": "career-families",
       "lastmod": "2026-09-23",
       "title": "Career families"
-    },
-    {
-      "url": "https://metix.ai/reports/series/data-eng-data-infra-peer-pack-2026",
-      "canonical": "https://metix.ai/reports/series/data-eng-data-infra-peer-pack-2026",
-      "kind": "series",
-      "slug": "data-eng-data-infra-peer-pack-2026",
-      "lastmod": "2026-11-20",
-      "title": "Data Engineer (data infrastructure) Peer Pack: Databricks 76 vs Snowflake 49"
-    },
-    {
-      "url": "https://metix.ai/reports/series/design-tools-swe-vendor-bench-2026",
-      "canonical": "https://metix.ai/reports/series/design-tools-swe-vendor-bench-2026",
-      "kind": "series",
-      "slug": "design-tools-swe-vendor-bench-2026",
-      "lastmod": "2026-11-20",
-      "title": "design / creative tools vendor bench for Software Engineer"
-    },
-    {
-      "url": "https://metix.ai/reports/series/duolingo-company-teardown-2026",
-      "canonical": "https://metix.ai/reports/series/duolingo-company-teardown-2026",
-      "kind": "series",
-      "slug": "duolingo-company-teardown-2026",
-      "lastmod": "2026-11-20",
-      "title": "Duolingo seat shelf"
-    },
-    {
-      "url": "https://metix.ai/reports/series/hubspot-market-entry-geo-2026",
-      "canonical": "https://metix.ai/reports/series/hubspot-market-entry-geo-2026",
-      "kind": "series",
-      "slug": "hubspot-market-entry-geo-2026",
-      "lastmod": "2026-11-20",
-      "title": "HubSpot market-entry geography"
-    },
-    {
-      "url": "https://metix.ai/reports/series/mechanical-eng-aerospace-peer-pack-2026",
-      "canonical": "https://metix.ai/reports/series/mechanical-eng-aerospace-peer-pack-2026",
-      "kind": "series",
-      "slug": "mechanical-eng-aerospace-peer-pack-2026",
-      "lastmod": "2026-11-20",
-      "title": "Mechanical Engineer (aerospace) Peer Pack: Lockheed Martin 1524 vs Northrop Grumman 1481"
-    },
-    {
-      "url": "https://metix.ai/reports/series/microsoft-to-defense-tech-talent-flow-2026",
-      "canonical": "https://metix.ai/reports/series/microsoft-to-defense-tech-talent-flow-2026",
-      "kind": "series",
-      "slug": "microsoft-to-defense-tech-talent-flow-2026",
-      "lastmod": "2026-11-20",
-      "title": "Microsoft to Palantir talent flow"
-    },
-    {
-      "url": "https://metix.ai/reports/series/operations-analyst-employed-vs-open-2026",
-      "canonical": "https://metix.ai/reports/series/operations-analyst-employed-vs-open-2026",
-      "kind": "series",
-      "slug": "operations-analyst-employed-vs-open-2026",
-      "lastmod": "2026-11-20",
-      "title": "Operations Analyst employed per open role"
     }
   ]
 }
