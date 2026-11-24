@@ -2,8 +2,8 @@
 
 > Thin pointer index for discovery. Canonical report bodies and LLM indexes live on metix.ai. This file does not copy report prose or figures.
 
-Generated: 2026-11-23T18:04:21Z
-Counts: 409 URLs (315 series, 92 mapping, 2 hubs).
+Generated: 2026-11-24T10:52:30Z
+Counts: 416 URLs (322 series, 92 mapping, 2 hubs).
 
 ## Canonical LLM indexes
 
@@ -111,6 +111,13 @@ Counts: 409 URLs (315 series, 92 mapping, 2 hubs).
 - [How large is the US chip and AI-infra talent pool?](https://metix.ai/reports/questions/us-chip-ai-infra-headcount)
 - [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin)
 - [What share of xAI is Human Data &amp; Evaluation?](https://metix.ai/reports/questions/xai-human-data-share)
+- [Controller employed per open role](https://metix.ai/reports/series/controller-employed-vs-open-2026)
+- [Data Engineer (AI infrastructure) Peer Pack: NVIDIA 107 vs Databricks 73](https://metix.ai/reports/series/data-eng-ai-infra-peer-pack-2026)
+- [Data Engineer (security vendors) Peer Pack: Palo Alto Networks 50 vs CrowdStrike 47](https://metix.ai/reports/series/data-eng-security-vendors-peer-pack-2026)
+- [Dynatrace seat shelf](https://metix.ai/reports/series/dynatrace-company-teardown-2026)
+- [low-code / no-code platforms vendor bench for Software Engineer](https://metix.ai/reports/series/lowcode-swe-vendor-bench-2026)
+- [Meta to Waymo talent flow](https://metix.ai/reports/series/meta-to-autonomy-talent-flow-2026)
+- [Snap market-entry geography](https://metix.ai/reports/series/snap-market-entry-geo-2026)
 - [Accountant employed per open role](https://metix.ai/reports/series/accountant-employed-vs-open-2026)
 - [Amazon to Datadog talent flow](https://metix.ai/reports/series/amazon-to-devtools-talent-flow-2026)
 - [collaboration suite SaaS vendor bench for Software Engineer](https://metix.ai/reports/series/collab-suite-swe-vendor-bench-2026)

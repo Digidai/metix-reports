@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-23T18:04:21Z",
+  "generated_at": "2026-11-24T10:52:30Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 409,
+    "total": 416,
     "hubs": 2,
-    "series": 315,
+    "series": 322,
     "mapping": 92
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-21",
+      "lastmod": "2026-11-24",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-21",
+      "lastmod": "2026-11-24",
       "title": "Metix AI Series Reports"
     },
     {
@@ -763,6 +763,62 @@
       "slug": "xai-human-data-share",
       "lastmod": "2026-08-20",
       "title": "What share of xAI is Human Data &amp; Evaluation?"
+    },
+    {
+      "url": "https://metix.ai/reports/series/controller-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/controller-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "controller-employed-vs-open-2026",
+      "lastmod": "2026-11-24",
+      "title": "Controller employed per open role"
+    },
+    {
+      "url": "https://metix.ai/reports/series/data-eng-ai-infra-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/data-eng-ai-infra-peer-pack-2026",
+      "kind": "series",
+      "slug": "data-eng-ai-infra-peer-pack-2026",
+      "lastmod": "2026-11-24",
+      "title": "Data Engineer (AI infrastructure) Peer Pack: NVIDIA 107 vs Databricks 73"
+    },
+    {
+      "url": "https://metix.ai/reports/series/data-eng-security-vendors-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/data-eng-security-vendors-peer-pack-2026",
+      "kind": "series",
+      "slug": "data-eng-security-vendors-peer-pack-2026",
+      "lastmod": "2026-11-24",
+      "title": "Data Engineer (security vendors) Peer Pack: Palo Alto Networks 50 vs CrowdStrike 47"
+    },
+    {
+      "url": "https://metix.ai/reports/series/dynatrace-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/dynatrace-company-teardown-2026",
+      "kind": "series",
+      "slug": "dynatrace-company-teardown-2026",
+      "lastmod": "2026-11-24",
+      "title": "Dynatrace seat shelf"
+    },
+    {
+      "url": "https://metix.ai/reports/series/lowcode-swe-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/lowcode-swe-vendor-bench-2026",
+      "kind": "series",
+      "slug": "lowcode-swe-vendor-bench-2026",
+      "lastmod": "2026-11-24",
+      "title": "low-code / no-code platforms vendor bench for Software Engineer"
+    },
+    {
+      "url": "https://metix.ai/reports/series/meta-to-autonomy-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/meta-to-autonomy-talent-flow-2026",
+      "kind": "series",
+      "slug": "meta-to-autonomy-talent-flow-2026",
+      "lastmod": "2026-11-24",
+      "title": "Meta to Waymo talent flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/snap-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/snap-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "snap-market-entry-geo-2026",
+      "lastmod": "2026-11-24",
+      "title": "Snap market-entry geography"
     },
     {
       "url": "https://metix.ai/reports/series/accountant-employed-vs-open-2026",
