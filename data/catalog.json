@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-24T17:39:17Z",
+  "generated_at": "2026-11-25T09:48:25Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 416,
+    "total": 423,
     "hubs": 2,
-    "series": 322,
+    "series": 329,
     "mapping": 92
   },
   "entries": [
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-24",
+      "lastmod": "2026-11-25",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-24",
+      "lastmod": "2026-11-25",
       "title": "Metix AI Series Reports"
     },
     {
@@ -34,7 +34,7 @@
       "kind": "mapping",
       "slug": "ai-customer-service-talent-map-2026",
       "lastmod": "2026-11-11",
-      "title": "The AI Customer-Service Talent Map: one market, four org models"
+      "title": "AI Customer-Service Talent Map: 5,537 Staff Across 12 Firms &amp; 4 Org Models"
     },
     {
       "url": "https://metix.ai/reports/mapping/sf-ai-customer-service-talent-2026",
@@ -74,7 +74,7 @@
       "kind": "mapping",
       "slug": "databricks-ai-talent-strategy-2026",
       "lastmod": "2026-11-11",
-      "title": "From Data Engineering to AI Agents: How Databricks Is Reshaping the Enterprise Data Stack"
+      "title": "Databricks AI Hiring Strategy: FDE Postings Up 40× (71.5/Mo) &amp; Agent Shift"
     },
     {
       "url": "https://metix.ai/reports/mapping/nvidia-ai-infrastructure-talent-race-2026",
@@ -82,7 +82,7 @@
       "kind": "mapping",
       "slug": "nvidia-ai-infrastructure-talent-race-2026",
       "lastmod": "2026-11-11",
-      "title": "AI Infra Talent Race: Roles Constraining Compute Buildout"
+      "title": "US AI Infrastructure Hiring: 2,615 Data Center Engineer Postings/Day"
     },
     {
       "url": "https://metix.ai/reports/mapping/ai-infra-capital-talent-2026",
@@ -130,7 +130,7 @@
       "kind": "mapping",
       "slug": "fintech-talent-momentum-2026",
       "lastmod": "2026-11-11",
-      "title": "FinTech Engineering Talent Momentum Leaderboard 2026"
+      "title": "FinTech Engineering Headcount &amp; Talent Flow: 25,860 Engineers Across 30 Firms"
     },
     {
       "url": "https://metix.ai/reports/mapping/ai-video-generation-talent-2026",
@@ -162,7 +162,7 @@
       "kind": "mapping",
       "slug": "anthropic-engineering-xray-2026",
       "lastmod": "2026-11-11",
-      "title": "Anthropic Engineering Talent X-Ray"
+      "title": "Anthropic Engineering Headcount: 1,281 Technical Staff &amp; 13-Month Tenure"
     },
     {
       "url": "https://metix.ai/reports/mapping/quant-ai-talent-2026",
@@ -210,7 +210,7 @@
       "kind": "mapping",
       "slug": "game-engine-world-model-2026",
       "lastmod": "2026-11-11",
-      "title": "Game Engine × World Model Talent Corridor"
+      "title": "World Model Talent Map: 72 of 618 Staff With Game-Engine &amp; Graphics Pedigree"
     },
     {
       "url": "https://metix.ai/reports/mapping/job-distribution-ex-china-2026",
@@ -234,7 +234,7 @@
       "kind": "mapping",
       "slug": "ai-infra-chips",
       "lastmod": "2026-10-17",
-      "title": "AI infrastructure and chip talent map"
+      "title": "AI Infrastructure &amp; Chip Talent Hub: 2,615 Daily US Jobs &amp; 21 Chipmakers"
     },
     {
       "url": "https://metix.ai/reports/topics/clinical-techbio",
@@ -242,7 +242,7 @@
       "kind": "mapping",
       "slug": "clinical-techbio",
       "lastmod": "2026-10-17",
-      "title": "Clinical AI and TechBio talent map"
+      "title": "Clinical AI &amp; TechBio Talent Hub: 6,415 Healthcare AI &amp; 1,015 Drug Discovery Staff"
     },
     {
       "url": "https://metix.ai/reports/topics/embodied-robotics",
@@ -250,7 +250,7 @@
       "kind": "mapping",
       "slug": "embodied-robotics",
       "lastmod": "2026-10-17",
-      "title": "Embodied AI and humanoid talent map"
+      "title": "Embodied AI &amp; Humanoid Robotics Talent Hub: 1,930 Profiles at 13 Firms"
     },
     {
       "url": "https://metix.ai/reports/topics/fintech-ai",
@@ -258,7 +258,7 @@
       "kind": "mapping",
       "slug": "fintech-ai",
       "lastmod": "2026-10-17",
-      "title": "Fintech and quant-to-AI talent flow"
+      "title": "FinTech Engineering &amp; Quant-to-AI Talent Hub: 25,860 Engineers &amp; 364 Quant Moves"
     },
     {
       "url": "https://metix.ai/reports/topics/frontier-ai-labs",
@@ -266,7 +266,7 @@
       "kind": "mapping",
       "slug": "frontier-ai-labs",
       "lastmod": "2026-10-17",
-      "title": "Frontier AI Labs talent structure"
+      "title": "Frontier AI Labs Talent Hub: 19,057 Profiles Across OpenAI, Anthropic &amp; xAI"
     },
     {
       "url": "https://metix.ai/reports/topics/overseas-chinese-talent",
@@ -274,7 +274,7 @@
       "kind": "mapping",
       "slug": "overseas-chinese-talent",
       "lastmod": "2026-10-17",
-      "title": "Overseas job structure and ethnic-Chinese algorithm talent"
+      "title": "Global Tech Jobs &amp; Overseas Chip Talent Hub: 6.17M Jobs &amp; 101,975 Chip Leads"
     },
     {
       "url": "https://metix.ai/reports/questions/ai-infra-accountability-seats",
@@ -765,12 +765,68 @@
       "title": "What share of xAI is Human Data &amp; Evaluation?"
     },
     {
+      "url": "https://metix.ai/reports/series/bizops-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/bizops-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "bizops-employed-vs-open-2026",
+      "lastmod": "2026-11-25",
+      "title": "Business Operations Hiring vs Headcount: Cisco (104.9×) &amp; Amazon"
+    },
+    {
+      "url": "https://metix.ai/reports/series/erp-swe-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/erp-swe-vendor-bench-2026",
+      "kind": "series",
+      "slug": "erp-swe-vendor-bench-2026",
+      "lastmod": "2026-11-25",
+      "title": "Erp / Finance Systems Software Engineer Headcount: Microsoft (55,906) vs Oracle (12,987)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/google-to-defense-tech-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/google-to-defense-tech-talent-flow-2026",
+      "kind": "series",
+      "slug": "google-to-defense-tech-talent-flow-2026",
+      "lastmod": "2026-11-25",
+      "title": "Ex-Google Talent at Palantir (123) &amp; SpaceX Flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/new-relic-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/new-relic-company-teardown-2026",
+      "kind": "series",
+      "slug": "new-relic-company-teardown-2026",
+      "lastmod": "2026-11-25",
+      "title": "New Relic Headcount by Role: 2,480 Staff (Software Engineer 795)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/notion-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/notion-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "notion-market-entry-geo-2026",
+      "lastmod": "2026-11-25",
+      "title": "Notion Employees by Country: South Korea (92) vs United States (38)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/product-mgr-ai-infra-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/product-mgr-ai-infra-peer-pack-2026",
+      "kind": "series",
+      "slug": "product-mgr-ai-infra-peer-pack-2026",
+      "lastmod": "2026-11-25",
+      "title": "Product Manager (Ai Infrastructure): NVIDIA (489) vs Snowflake (123)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/tam-security-vendors-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/tam-security-vendors-peer-pack-2026",
+      "kind": "series",
+      "slug": "tam-security-vendors-peer-pack-2026",
+      "lastmod": "2026-11-25",
+      "title": "Technical Account Manager (Cybersecurity) Headcount: CrowdStrike (225) vs Fortinet (211)"
+    },
+    {
       "url": "https://metix.ai/reports/series/controller-employed-vs-open-2026",
       "canonical": "https://metix.ai/reports/series/controller-employed-vs-open-2026",
       "kind": "series",
       "slug": "controller-employed-vs-open-2026",
       "lastmod": "2026-11-24",
-      "title": "Controller employed per open role"
+      "title": "Controller Hiring vs Headcount: Siemens (41.0×) &amp; JPMorgan Chase"
     },
     {
       "url": "https://metix.ai/reports/series/data-eng-ai-infra-peer-pack-2026",
@@ -778,7 +834,7 @@
       "kind": "series",
       "slug": "data-eng-ai-infra-peer-pack-2026",
       "lastmod": "2026-11-24",
-      "title": "Data Engineer (AI infrastructure) Peer Pack: NVIDIA 107 vs Databricks 73"
+      "title": "Data Engineer (Ai Infrastructure): NVIDIA (107) vs Databricks (73)"
     },
     {
       "url": "https://metix.ai/reports/series/data-eng-security-vendors-peer-pack-2026",
@@ -786,7 +842,7 @@
       "kind": "series",
       "slug": "data-eng-security-vendors-peer-pack-2026",
       "lastmod": "2026-11-24",
-      "title": "Data Engineer (security vendors) Peer Pack: Palo Alto Networks 50 vs CrowdStrike 47"
+      "title": "Data Engineer (Cybersecurity) Headcount: Palo Alto Networks (50) vs CrowdStrike (47)"
     },
     {
       "url": "https://metix.ai/reports/series/dynatrace-company-teardown-2026",
@@ -794,7 +850,7 @@
       "kind": "series",
       "slug": "dynatrace-company-teardown-2026",
       "lastmod": "2026-11-24",
-      "title": "Dynatrace seat shelf"
+      "title": "Dynatrace Headcount by Role: 5,127 Staff (Software Engineer 832)"
     },
     {
       "url": "https://metix.ai/reports/series/lowcode-swe-vendor-bench-2026",
@@ -802,7 +858,7 @@
       "kind": "series",
       "slug": "lowcode-swe-vendor-bench-2026",
       "lastmod": "2026-11-24",
-      "title": "low-code / no-code platforms vendor bench for Software Engineer"
+      "title": "Low-Code / No-Code Platforms Software Engineer Headcount: ServiceNow (4,367) vs Appian (282)"
     },
     {
       "url": "https://metix.ai/reports/series/meta-to-autonomy-talent-flow-2026",
@@ -810,7 +866,7 @@
       "kind": "series",
       "slug": "meta-to-autonomy-talent-flow-2026",
       "lastmod": "2026-11-24",
-      "title": "Meta to Waymo talent flow"
+      "title": "Ex-Meta Talent at Waymo (249) &amp; Zoox Flow"
     },
     {
       "url": "https://metix.ai/reports/series/snap-market-entry-geo-2026",
@@ -818,7 +874,7 @@
       "kind": "series",
       "slug": "snap-market-entry-geo-2026",
       "lastmod": "2026-11-24",
-      "title": "Snap market-entry geography"
+      "title": "Snap Employees by Country: US (4,017) vs UK (526)"
     },
     {
       "url": "https://metix.ai/reports/series/accountant-employed-vs-open-2026",
@@ -826,7 +882,7 @@
       "kind": "series",
       "slug": "accountant-employed-vs-open-2026",
       "lastmod": "2026-11-21",
-      "title": "Accountant employed per open role"
+      "title": "Accountant Hiring vs Headcount: Amazon (248.7×) &amp; Siemens"
     },
     {
       "url": "https://metix.ai/reports/series/amazon-to-devtools-talent-flow-2026",
@@ -834,7 +890,7 @@
       "kind": "series",
       "slug": "amazon-to-devtools-talent-flow-2026",
       "lastmod": "2026-11-21",
-      "title": "Amazon to Datadog talent flow"
+      "title": "Ex-Amazon Talent at Datadog (545) &amp; MongoDB Flow"
     },
     {
       "url": "https://metix.ai/reports/series/collab-suite-swe-vendor-bench-2026",
@@ -842,7 +898,7 @@
       "kind": "series",
       "slug": "collab-suite-swe-vendor-bench-2026",
       "lastmod": "2026-11-21",
-      "title": "collaboration suite SaaS vendor bench for Software Engineer"
+      "title": "Collaboration Suite Saas Software Engineer Headcount: Atlassian (4,657) vs Smartsheet (414)"
     },
     {
       "url": "https://metix.ai/reports/series/csm-security-vendors-peer-pack-2026",
@@ -850,7 +906,7 @@
       "kind": "series",
       "slug": "csm-security-vendors-peer-pack-2026",
       "lastmod": "2026-11-21",
-      "title": "Customer Success Manager (security vendors) Peer Pack: Palo Alto Networks 208 vs Okta 129"
+      "title": "Customer Success Manager (Cybersecurity) Headcount: Palo Alto Networks (208) vs Okta (129)"
     },
     {
       "url": "https://metix.ai/reports/series/glean-company-teardown-2026",
@@ -858,7 +914,7 @@
       "kind": "series",
       "slug": "glean-company-teardown-2026",
       "lastmod": "2026-11-21",
-      "title": "Glean seat shelf"
+      "title": "Glean Headcount by Role: 1,322 Staff (Software Engineer 256)"
     },
     {
       "url": "https://metix.ai/reports/series/snowflake-market-entry-geo-2026",
@@ -866,7 +922,7 @@
       "kind": "series",
       "slug": "snowflake-market-entry-geo-2026",
       "lastmod": "2026-11-21",
-      "title": "Snowflake market-entry geography"
+      "title": "Snowflake Employees by Country: United States (5,903) vs India (710)"
     },
     {
       "url": "https://metix.ai/reports/series/swe-ai-infra-peer-pack-2026",
@@ -874,7 +930,7 @@
       "kind": "series",
       "slug": "swe-ai-infra-peer-pack-2026",
       "lastmod": "2026-11-21",
-      "title": "Software Engineer (AI infrastructure) Peer Pack: NVIDIA 7781 vs Databricks 2354"
+      "title": "Software Engineer (Ai Infrastructure) Headcount: NVIDIA (7,781) vs Databricks (2,354)"
     },
     {
       "url": "https://metix.ai/reports/series/data-eng-data-infra-peer-pack-2026",
@@ -882,7 +938,7 @@
       "kind": "series",
       "slug": "data-eng-data-infra-peer-pack-2026",
       "lastmod": "2026-11-20",
-      "title": "Data Engineer (data infrastructure) Peer Pack: Databricks 76 vs Snowflake 49"
+      "title": "Data Engineer (Data Infra) Headcount: Databricks (76) vs Snowflake (49)"
     },
     {
       "url": "https://metix.ai/reports/series/design-tools-swe-vendor-bench-2026",
@@ -890,7 +946,7 @@
       "kind": "series",
       "slug": "design-tools-swe-vendor-bench-2026",
       "lastmod": "2026-11-20",
-      "title": "design / creative tools vendor bench for Software Engineer"
+      "title": "Design &amp; Creative SaaS Software Engineer Headcount: Adobe (4,285) vs Canva (1,215)"
     },
     {
       "url": "https://metix.ai/reports/series/duolingo-company-teardown-2026",
@@ -898,7 +954,7 @@
       "kind": "series",
       "slug": "duolingo-company-teardown-2026",
       "lastmod": "2026-11-20",
-      "title": "Duolingo seat shelf"
+      "title": "Duolingo Headcount by Role: 1,629 Staff (Software Engineer 321)"
     },
     {
       "url": "https://metix.ai/reports/series/hubspot-market-entry-geo-2026",
@@ -906,7 +962,7 @@
       "kind": "series",
       "slug": "hubspot-market-entry-geo-2026",
       "lastmod": "2026-11-20",
-      "title": "HubSpot market-entry geography"
+      "title": "HubSpot Employees by Country: United States (5,900) vs Ireland (1,254)"
     },
     {
       "url": "https://metix.ai/reports/series/mechanical-eng-aerospace-peer-pack-2026",
@@ -914,7 +970,7 @@
       "kind": "series",
       "slug": "mechanical-eng-aerospace-peer-pack-2026",
       "lastmod": "2026-11-20",
-      "title": "Mechanical Engineer (aerospace) Peer Pack: Lockheed Martin 1524 vs Northrop Grumman 1481"
+      "title": "Mechanical Engineer (Aerospace) Headcount: Lockheed Martin (1,524) vs Northrop Grumman (1,481)"
     },
     {
       "url": "https://metix.ai/reports/series/microsoft-to-defense-tech-talent-flow-2026",
@@ -922,7 +978,7 @@
       "kind": "series",
       "slug": "microsoft-to-defense-tech-talent-flow-2026",
       "lastmod": "2026-11-20",
-      "title": "Microsoft to Palantir talent flow"
+      "title": "Ex-Microsoft Talent at Palantir (165) &amp; SpaceX Flow"
     },
     {
       "url": "https://metix.ai/reports/series/operations-analyst-employed-vs-open-2026",
@@ -930,7 +986,7 @@
       "kind": "series",
       "slug": "operations-analyst-employed-vs-open-2026",
       "lastmod": "2026-11-20",
-      "title": "Operations Analyst employed per open role"
+      "title": "Operations Analyst Hiring vs Headcount: JPMorgan Chase (147.7×)"
     },
     {
       "url": "https://metix.ai/reports/series/chime-company-teardown-2026",
@@ -938,7 +994,7 @@
       "kind": "series",
       "slug": "chime-company-teardown-2026",
       "lastmod": "2026-11-19",
-      "title": "Chime seat shelf"
+      "title": "Chime Headcount by Role: 1,807 Staff (Software Engineer 341)"
     },
     {
       "url": "https://metix.ai/reports/series/comms-uc-swe-vendor-bench-2026",
@@ -946,7 +1002,7 @@
       "kind": "series",
       "slug": "comms-uc-swe-vendor-bench-2026",
       "lastmod": "2026-11-19",
-      "title": "unified communications vendor bench for Software Engineer"
+      "title": "Unified Communications Software Engineer Headcount: Microsoft (58,404) vs Cisco (12,137)"
     },
     {
       "url": "https://metix.ai/reports/series/data-scientist-ai-infra-peer-pack-2026",
@@ -954,7 +1010,7 @@
       "kind": "series",
       "slug": "data-scientist-ai-infra-peer-pack-2026",
       "lastmod": "2026-11-19",
-      "title": "Data Scientist (AI infrastructure) Peer Pack: NVIDIA 211 vs Databricks 85"
+      "title": "Data Scientist (Ai Infrastructure): NVIDIA (211) vs Databricks (85)"
     },
     {
       "url": "https://metix.ai/reports/series/google-to-devtools-talent-flow-2026",
@@ -962,7 +1018,7 @@
       "kind": "series",
       "slug": "google-to-devtools-talent-flow-2026",
       "lastmod": "2026-11-19",
-      "title": "Google to Datadog talent flow"
+      "title": "Ex-Google Talent at Datadog (280) &amp; MongoDB Flow"
     },
     {
       "url": "https://metix.ai/reports/series/instacart-market-entry-geo-2026",
@@ -970,7 +1026,7 @@
       "kind": "series",
       "slug": "instacart-market-entry-geo-2026",
       "lastmod": "2026-11-19",
-      "title": "Instacart market-entry geography"
+      "title": "Instacart Employees by Country: US (12,097) vs Canada (1,194)"
     },
     {
       "url": "https://metix.ai/reports/series/risk-analyst-employed-vs-open-2026",
@@ -978,7 +1034,7 @@
       "kind": "series",
       "slug": "risk-analyst-employed-vs-open-2026",
       "lastmod": "2026-11-19",
-      "title": "Risk Analyst employed per open role"
+      "title": "Risk Analyst Hiring vs Headcount: Stripe (40.0×) &amp; Intuit"
     },
     {
       "url": "https://metix.ai/reports/series/sec-eng-security-vendors-peer-pack-2026",
@@ -986,7 +1042,7 @@
       "kind": "series",
       "slug": "sec-eng-security-vendors-peer-pack-2026",
       "lastmod": "2026-11-19",
-      "title": "Security Engineer (security vendors) Peer Pack: Palo Alto Networks 221 vs Fortinet 169"
+      "title": "Security Engineer (Cybersecurity) Headcount: Palo Alto Networks (221) vs Fortinet (169)"
     },
     {
       "url": "https://metix.ai/reports/series/amazon-to-defense-tech-talent-flow-2026",
@@ -994,7 +1050,7 @@
       "kind": "series",
       "slug": "amazon-to-defense-tech-talent-flow-2026",
       "lastmod": "2026-11-17",
-      "title": "Amazon to SpaceX talent flow"
+      "title": "Ex-Amazon Talent at SpaceX (362) &amp; Palantir Flow"
     },
     {
       "url": "https://metix.ai/reports/series/cicd-devops-eng-vendor-bench-2026",
@@ -1002,7 +1058,7 @@
       "kind": "series",
       "slug": "cicd-devops-eng-vendor-bench-2026",
       "lastmod": "2026-11-17",
-      "title": "CI/CD / DevOps platforms vendor bench for Software Engineer"
+      "title": "Ci/Cd / Devops Platforms Software Engineer Headcount: Harness (489) vs JFrog (206)"
     },
     {
       "url": "https://metix.ai/reports/series/eng-mgr-security-vendors-peer-pack-2026",
@@ -1010,7 +1066,7 @@
       "kind": "series",
       "slug": "eng-mgr-security-vendors-peer-pack-2026",
       "lastmod": "2026-11-17",
-      "title": "Engineering Manager (security vendors) Peer Pack: Palo Alto Networks 307 vs CrowdStrike 221"
+      "title": "Engineering Manager (Cybersecurity) Headcount: Palo Alto Networks (307) vs CrowdStrike (221)"
     },
     {
       "url": "https://metix.ai/reports/series/fde-employed-vs-open-2026",
@@ -1018,7 +1074,7 @@
       "kind": "series",
       "slug": "fde-employed-vs-open-2026",
       "lastmod": "2026-11-17",
-      "title": "Forward Deployed Engineer employed per open role"
+      "title": "Forward Deployed Engineer Hiring vs Headcount: IBM (8.3×) &amp; Salesforce"
     },
     {
       "url": "https://metix.ai/reports/series/lyft-market-entry-geo-2026",
@@ -1026,7 +1082,7 @@
       "kind": "series",
       "slug": "lyft-market-entry-geo-2026",
       "lastmod": "2026-11-17",
-      "title": "Lyft market-entry geography"
+      "title": "Lyft Employees by Country: United States (13,786) vs Canada (640)"
     },
     {
       "url": "https://metix.ai/reports/series/research-scientist-ai-infra-peer-pack-2026",
@@ -1034,7 +1090,7 @@
       "kind": "series",
       "slug": "research-scientist-ai-infra-peer-pack-2026",
       "lastmod": "2026-11-17",
-      "title": "Research Scientist (AI infrastructure) Peer Pack: NVIDIA 706 vs OpenAI 70"
+      "title": "Research Scientist (Ai Infrastructure): NVIDIA (706) vs OpenAI (70)"
     },
     {
       "url": "https://metix.ai/reports/series/wiz-company-teardown-2026",
@@ -1042,7 +1098,7 @@
       "kind": "series",
       "slug": "wiz-company-teardown-2026",
       "lastmod": "2026-11-17",
-      "title": "Wiz seat shelf"
+      "title": "Wiz Headcount by Role: 2,086 Staff (Account Executive 290)"
     },
     {
       "url": "https://metix.ai/reports/series/ai-eng-employed-vs-open-2026",
@@ -1050,7 +1106,7 @@
       "kind": "series",
       "slug": "ai-eng-employed-vs-open-2026",
       "lastmod": "2026-11-15",
-      "title": "AI Engineer employed per open role"
+      "title": "AI Engineer Hiring vs Headcount: IBM (44.6×) &amp; Microsoft"
     },
     {
       "url": "https://metix.ai/reports/series/autodesk-market-entry-geo-2026",
@@ -1058,7 +1114,7 @@
       "kind": "series",
       "slug": "autodesk-market-entry-geo-2026",
       "lastmod": "2026-11-15",
-      "title": "Autodesk market-entry geography"
+      "title": "Autodesk Employees by Country: United States (6,659) vs India (3,167)"
     },
     {
       "url": "https://metix.ai/reports/series/discord-company-teardown-2026",
@@ -1066,7 +1122,7 @@
       "kind": "series",
       "slug": "discord-company-teardown-2026",
       "lastmod": "2026-11-15",
-      "title": "Discord seat shelf"
+      "title": "Discord Headcount by Role: 3,843 Staff (Software Engineer 289)"
     },
     {
       "url": "https://metix.ai/reports/series/etlmelt-swe-vendor-bench-2026",
@@ -1074,7 +1130,7 @@
       "kind": "series",
       "slug": "etlmelt-swe-vendor-bench-2026",
       "lastmod": "2026-11-15",
-      "title": "ELT / data movement vendor bench for Software Engineer"
+      "title": "Elt / Data Movement Software Engineer Headcount: Informatica (565) vs Fivetran (315)"
     },
     {
       "url": "https://metix.ai/reports/series/meta-to-devtools-talent-flow-2026",
@@ -1082,7 +1138,7 @@
       "kind": "series",
       "slug": "meta-to-devtools-talent-flow-2026",
       "lastmod": "2026-11-15",
-      "title": "Meta to Datadog talent flow"
+      "title": "Ex-Meta Talent at Datadog (198) &amp; MongoDB Flow"
     },
     {
       "url": "https://metix.ai/reports/series/solutions-arch-ai-infra-peer-pack-2026",
@@ -1090,7 +1146,7 @@
       "kind": "series",
       "slug": "solutions-arch-ai-infra-peer-pack-2026",
       "lastmod": "2026-11-15",
-      "title": "Solutions Architect (AI infrastructure) Peer Pack: Databricks 1652 vs NVIDIA 769"
+      "title": "Solutions Architect (Ai Infrastructure) Headcount: Databricks (1,652) vs NVIDIA (769)"
     },
     {
       "url": "https://metix.ai/reports/series/solutions-arch-security-vendors-peer-pack-2026",
@@ -1098,7 +1154,7 @@
       "kind": "series",
       "slug": "solutions-arch-security-vendors-peer-pack-2026",
       "lastmod": "2026-11-15",
-      "title": "Solutions Architect (security vendors) Peer Pack: Palo Alto Networks 129 vs Fortinet 56"
+      "title": "Solutions Architect (Cybersecurity) Headcount: Palo Alto Networks (129) vs Fortinet (56)"
     },
     {
       "url": "https://metix.ai/reports/series/apple-to-defense-tech-talent-flow-2026",
@@ -1106,7 +1162,7 @@
       "kind": "series",
       "slug": "apple-to-defense-tech-talent-flow-2026",
       "lastmod": "2026-11-14",
-      "title": "Apple to SpaceX talent flow"
+      "title": "Ex-Apple Talent at SpaceX (185) &amp; Anduril Flow"
     },
     {
       "url": "https://metix.ai/reports/series/financial-analyst-employed-vs-open-2026",
@@ -1114,7 +1170,7 @@
       "kind": "series",
       "slug": "financial-analyst-employed-vs-open-2026",
       "lastmod": "2026-11-14",
-      "title": "Financial Analyst employed per open role"
+      "title": "Financial Analyst Hiring vs Headcount: Oracle (28.9×) &amp; Amazon"
     },
     {
       "url": "https://metix.ai/reports/series/intuit-market-entry-geo-2026",
@@ -1122,7 +1178,7 @@
       "kind": "series",
       "slug": "intuit-market-entry-geo-2026",
       "lastmod": "2026-11-14",
-      "title": "Intuit market-entry geography"
+      "title": "Intuit Employees by Country: United States (18,562) vs India (2,750)"
     },
     {
       "url": "https://metix.ai/reports/series/ml-eng-ai-infra-peer-pack-2026",
@@ -1130,7 +1186,7 @@
       "kind": "series",
       "slug": "ml-eng-ai-infra-peer-pack-2026",
       "lastmod": "2026-11-14",
-      "title": "Machine Learning Engineer (AI infrastructure) Peer Pack: NVIDIA 250 vs Databricks 73"
+      "title": "ML Engineer (Ai Infrastructure): NVIDIA (250) vs Databricks (73)"
     },
     {
       "url": "https://metix.ai/reports/series/rivian-company-teardown-2026",
@@ -1138,7 +1194,7 @@
       "kind": "series",
       "slug": "rivian-company-teardown-2026",
       "lastmod": "2026-11-14",
-      "title": "Rivian seat shelf"
+      "title": "Rivian Headcount by Role: 10,087 Staff (Software Engineer 507)"
     },
     {
       "url": "https://metix.ai/reports/series/solutions-eng-security-vendors-peer-pack-2026",
@@ -1146,7 +1202,7 @@
       "kind": "series",
       "slug": "solutions-eng-security-vendors-peer-pack-2026",
       "lastmod": "2026-11-14",
-      "title": "Solutions Engineer (security vendors) Peer Pack: Okta 258 vs Palo Alto Networks 120"
+      "title": "Solutions Engineer (Cybersecurity) Headcount: Okta (258) vs Palo Alto Networks (120)"
     },
     {
       "url": "https://metix.ai/reports/series/storage-object-swe-vendor-bench-2026",
@@ -1154,7 +1210,7 @@
       "kind": "series",
       "slug": "storage-object-swe-vendor-bench-2026",
       "lastmod": "2026-11-14",
-      "title": "object / file storage vendors vendor bench for Software Engineer"
+      "title": "Object / File Storage Vendors Software Engineer Headcount: NetApp (1,402) vs Dropbox (722)"
     },
     {
       "url": "https://metix.ai/reports/series/google-to-fintech-talent-flow-2026",
@@ -1162,7 +1218,7 @@
       "kind": "series",
       "slug": "google-to-fintech-talent-flow-2026",
       "lastmod": "2026-11-13",
-      "title": "Google to Coinbase talent flow"
+      "title": "Ex-Google Talent at Coinbase (209) &amp; Robinhood Flow"
     },
     {
       "url": "https://metix.ai/reports/series/ml-platform-swe-vendor-bench-2026",
@@ -1170,7 +1226,7 @@
       "kind": "series",
       "slug": "ml-platform-swe-vendor-bench-2026",
       "lastmod": "2026-11-13",
-      "title": "ML platform / MLOps vendor bench for Software Engineer"
+      "title": "Ml Platform / Mlops Software Engineer Headcount: Databricks (2,492) vs DataRobot (99)"
     },
     {
       "url": "https://metix.ai/reports/series/netflix-market-entry-geo-2026",
@@ -1178,7 +1234,7 @@
       "kind": "series",
       "slug": "netflix-market-entry-geo-2026",
       "lastmod": "2026-11-13",
-      "title": "Netflix market-entry geography"
+      "title": "Netflix Employees by Country: US (14,367) vs UK (1,593)"
     },
     {
       "url": "https://metix.ai/reports/series/product-mgr-security-vendors-peer-pack-2026",
@@ -1186,7 +1242,7 @@
       "kind": "series",
       "slug": "product-mgr-security-vendors-peer-pack-2026",
       "lastmod": "2026-11-13",
-      "title": "Product Manager (security vendors) Peer Pack: Palo Alto Networks 323 vs Okta 105"
+      "title": "Product Manager (Cybersecurity): Palo Alto Networks (323) vs Okta (105)"
     },
     {
       "url": "https://metix.ai/reports/series/sales-eng-employed-vs-open-2026",
@@ -1194,7 +1250,7 @@
       "kind": "series",
       "slug": "sales-eng-employed-vs-open-2026",
       "lastmod": "2026-11-13",
-      "title": "Sales Engineer employed per open role"
+      "title": "Sales Engineer Hiring vs Headcount: CrowdStrike (20.6×) &amp; Datadog"
     },
     {
       "url": "https://metix.ai/reports/series/sre-fintech-broad-peer-pack-2026",
@@ -1202,7 +1258,7 @@
       "kind": "series",
       "slug": "sre-fintech-broad-peer-pack-2026",
       "lastmod": "2026-11-13",
-      "title": "Site Reliability Engineer (fintech) Peer Pack: Visa 425 vs Mastercard 363"
+      "title": "SRE (Fintech) Headcount: Visa (425) vs Mastercard (363)"
     },
     {
       "url": "https://metix.ai/reports/series/zoom-company-teardown-2026",
@@ -1210,7 +1266,7 @@
       "kind": "series",
       "slug": "zoom-company-teardown-2026",
       "lastmod": "2026-11-13",
-      "title": "Zoom seat shelf"
+      "title": "Zoom Headcount by Role: 6,715 Staff (Account Executive 828)"
     },
     {
       "url": "https://metix.ai/reports/series/amazon-to-autonomy-talent-flow-2026",
@@ -1218,7 +1274,7 @@
       "kind": "series",
       "slug": "amazon-to-autonomy-talent-flow-2026",
       "lastmod": "2026-11-12",
-      "title": "Amazon to Waymo talent flow"
+      "title": "Ex-Amazon Talent at Waymo (268) &amp; Zoox Flow"
     },
     {
       "url": "https://metix.ai/reports/series/billing-revops-swe-vendor-bench-2026",
@@ -1226,7 +1282,7 @@
       "kind": "series",
       "slug": "billing-revops-swe-vendor-bench-2026",
       "lastmod": "2026-11-12",
-      "title": "billing / subscription platforms vendor bench for Software Engineer"
+      "title": "Billing &amp; RevOps Software Engineers: Stripe (3,247) vs Chargebee (270)"
     },
     {
       "url": "https://metix.ai/reports/series/compliance-analyst-fintech-peer-pack-2026",
@@ -1234,7 +1290,7 @@
       "kind": "series",
       "slug": "compliance-analyst-fintech-peer-pack-2026",
       "lastmod": "2026-11-12",
-      "title": "Compliance Analyst (fintech) Peer Pack: PayPal 184 vs Coinbase 164"
+      "title": "Compliance Analyst (Fintech) Headcount: PayPal (184) vs Coinbase (164)"
     },
     {
       "url": "https://metix.ai/reports/series/infra-eng-employed-vs-open-2026",
@@ -1242,7 +1298,7 @@
       "kind": "series",
       "slug": "infra-eng-employed-vs-open-2026",
       "lastmod": "2026-11-12",
-      "title": "Infrastructure Engineer employed per open role"
+      "title": "Infrastructure Engineer Hiring vs Headcount: Amazon (21.5×) &amp; NVIDIA"
     },
     {
       "url": "https://metix.ai/reports/series/paypal-market-entry-geo-2026",
@@ -1250,7 +1306,7 @@
       "kind": "series",
       "slug": "paypal-market-entry-geo-2026",
       "lastmod": "2026-11-12",
-      "title": "PayPal market-entry geography"
+      "title": "PayPal Employees by Country: United States (12,776) vs India (7,439)"
     },
     {
       "url": "https://metix.ai/reports/series/roblox-company-teardown-2026",
@@ -1258,7 +1314,7 @@
       "kind": "series",
       "slug": "roblox-company-teardown-2026",
       "lastmod": "2026-11-12",
-      "title": "Roblox seat shelf"
+      "title": "Roblox Headcount by Role: 5,577 Staff (Software Engineer 1,448)"
     },
     {
       "url": "https://metix.ai/reports/series/swe-security-vendors-peer-pack-2026",
@@ -1266,7 +1322,7 @@
       "kind": "series",
       "slug": "swe-security-vendors-peer-pack-2026",
       "lastmod": "2026-11-12",
-      "title": "Software Engineer (security vendors) Peer Pack: Palo Alto Networks 2656 vs Zscaler 1301"
+      "title": "Software Engineer (Cybersecurity) Headcount: Palo Alto Networks (2,656) vs Zscaler (1,301)"
     },
     {
       "url": "https://metix.ai/reports/series/airbnb-market-entry-geo-2026",
@@ -1274,7 +1330,7 @@
       "kind": "series",
       "slug": "airbnb-market-entry-geo-2026",
       "lastmod": "2026-11-11",
-      "title": "Airbnb market-entry geography"
+      "title": "Airbnb Employees by Country: United States (12,144) vs India (2,763)"
     },
     {
       "url": "https://metix.ai/reports/series/fullstack-eng-employed-vs-open-2026",
@@ -1282,7 +1338,7 @@
       "kind": "series",
       "slug": "fullstack-eng-employed-vs-open-2026",
       "lastmod": "2026-11-11",
-      "title": "Full Stack Engineer employed per open role"
+      "title": "Full Stack Engineer Hiring vs Headcount: IBM (115.9×) &amp; Capital One"
     },
     {
       "url": "https://metix.ai/reports/series/k8s-platform-swe-vendor-bench-2026",
@@ -1290,7 +1346,7 @@
       "kind": "series",
       "slug": "k8s-platform-swe-vendor-bench-2026",
       "lastmod": "2026-11-11",
-      "title": "Kubernetes platform / PaaS vendor bench for Software Engineer"
+      "title": "Kubernetes Platform / Paas Software Engineer Headcount: Red Hat (3,480) vs Canonical (537)"
     },
     {
       "url": "https://metix.ai/reports/series/microsoft-to-devtools-talent-flow-2026",
@@ -1298,7 +1354,7 @@
       "kind": "series",
       "slug": "microsoft-to-devtools-talent-flow-2026",
       "lastmod": "2026-11-11",
-      "title": "Microsoft to Datadog talent flow"
+      "title": "Ex-Microsoft Talent at Datadog (248) &amp; MongoDB Flow"
     },
     {
       "url": "https://metix.ai/reports/series/pinterest-company-teardown-2026",
@@ -1306,7 +1362,7 @@
       "kind": "series",
       "slug": "pinterest-company-teardown-2026",
       "lastmod": "2026-11-11",
-      "title": "Pinterest seat shelf"
+      "title": "Pinterest Headcount by Role: 8,104 Staff (Software Engineer 1,336)"
     },
     {
       "url": "https://metix.ai/reports/series/pmm-fintech-peer-pack-2026",
@@ -1314,7 +1370,7 @@
       "kind": "series",
       "slug": "pmm-fintech-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Product Marketing Manager (fintech) Peer Pack: Stripe 41 vs Visa 27"
+      "title": "Product Marketing Manager (Fintech) Headcount: Stripe (41) vs Visa (27)"
     },
     {
       "url": "https://metix.ai/reports/series/risk-analyst-fintech-peer-pack-2026",
@@ -1322,7 +1378,7 @@
       "kind": "series",
       "slug": "risk-analyst-fintech-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Risk Analyst (fintech) Peer Pack: PayPal 337 vs Coinbase 60"
+      "title": "Risk Analyst (Fintech) Headcount: PayPal (337) vs Coinbase (60)"
     },
     {
       "url": "https://metix.ai/reports/series/cloud-eng-employed-vs-open-2026",
@@ -1330,7 +1386,7 @@
       "kind": "series",
       "slug": "cloud-eng-employed-vs-open-2026",
       "lastmod": "2026-11-10",
-      "title": "Cloud Engineer employed per open role"
+      "title": "Cloud Engineer Hiring vs Headcount: Amazon (684.0×) &amp; Oracle"
     },
     {
       "url": "https://metix.ai/reports/series/hris-swe-vendor-bench-2026",
@@ -1338,7 +1394,7 @@
       "kind": "series",
       "slug": "hris-swe-vendor-bench-2026",
       "lastmod": "2026-11-10",
-      "title": "HRIS / workforce platforms vendor bench for Software Engineer"
+      "title": "Hris / Workforce Platforms Software Engineer Headcount: Workday (3,385) vs ADP (1,129)"
     },
     {
       "url": "https://metix.ai/reports/series/l3harris-to-defense-tech-talent-flow-2026",
@@ -1346,7 +1402,7 @@
       "kind": "series",
       "slug": "l3harris-to-defense-tech-talent-flow-2026",
       "lastmod": "2026-11-10",
-      "title": "L3Harris to SpaceX talent flow"
+      "title": "Ex-L3Harris Talent at SpaceX (152) &amp; Anduril Flow"
     },
     {
       "url": "https://metix.ai/reports/series/sales-eng-security-vendors-peer-pack-2026",
@@ -1354,7 +1410,7 @@
       "kind": "series",
       "slug": "sales-eng-security-vendors-peer-pack-2026",
       "lastmod": "2026-11-10",
-      "title": "1,121 Sales Engineer names across five security vendors"
+      "title": "Sales Engineer (Cybersecurity): CrowdStrike (373) vs Zscaler (361)"
     },
     {
       "url": "https://metix.ai/reports/series/samsara-company-teardown-2026",
@@ -1362,7 +1418,7 @@
       "kind": "series",
       "slug": "samsara-company-teardown-2026",
       "lastmod": "2026-11-10",
-      "title": "Samsara seat shelf"
+      "title": "Samsara Headcount by Role: 4,562 Staff (Account Executive 930)"
     },
     {
       "url": "https://metix.ai/reports/series/sdm-peer-pack-2026",
@@ -1370,7 +1426,7 @@
       "kind": "series",
       "slug": "sdm-peer-pack-2026",
       "lastmod": "2026-11-10",
-      "title": "1,593 Software Development Managers, India 580 vs US 541"
+      "title": "Software Development Manager Headcount: Oracle (908) vs IBM (415)"
     },
     {
       "url": "https://metix.ai/reports/series/staff-eng-fintech-peer-pack-2026",
@@ -1378,7 +1434,7 @@
       "kind": "series",
       "slug": "staff-eng-fintech-peer-pack-2026",
       "lastmod": "2026-11-10",
-      "title": "Staff Engineer (fintech) Peer Pack: Visa 69 vs PayPal 59"
+      "title": "Staff Engineer (Fintech) Headcount: Visa (69) vs PayPal (59)"
     },
     {
       "url": "https://metix.ai/reports/series/stripe-adyen-fraud-risk-2026",
@@ -1394,7 +1450,7 @@
       "kind": "series",
       "slug": "support-eng-fintech-peer-pack-2026",
       "lastmod": "2026-11-10",
-      "title": "Support Engineer (fintech) Peer Pack: PayPal 58 vs Capital One 46"
+      "title": "Support Engineer (Fintech) Headcount: PayPal (58) vs Capital One (46)"
     },
     {
       "url": "https://metix.ai/reports/series/visa-market-entry-geo-2026",
@@ -1402,7 +1458,7 @@
       "kind": "series",
       "slug": "visa-market-entry-geo-2026",
       "lastmod": "2026-11-10",
-      "title": "Visa market-entry geography"
+      "title": "Visa Employees by Country: United States (16,247) vs India (6,620)"
     },
     {
       "url": "https://metix.ai/reports/series/adobe-market-entry-geo-2026",
@@ -1410,7 +1466,7 @@
       "kind": "series",
       "slug": "adobe-market-entry-geo-2026",
       "lastmod": "2026-11-09",
-      "title": "Adobe market-entry geography"
+      "title": "Adobe Employees by Country: United States (21,111) vs India (18,444)"
     },
     {
       "url": "https://metix.ai/reports/series/csm-fintech-peer-pack-2026",
@@ -1418,7 +1474,7 @@
       "kind": "series",
       "slug": "csm-fintech-peer-pack-2026",
       "lastmod": "2026-11-09",
-      "title": "Customer Success Manager (fintech) Peer Pack: PayPal 148 vs Visa 116"
+      "title": "Customer Success Manager (Fintech): PayPal (148) vs Visa (116)"
     },
     {
       "url": "https://metix.ai/reports/series/google-to-security-vendors-talent-flow-2026",
@@ -1426,7 +1482,7 @@
       "kind": "series",
       "slug": "google-to-security-vendors-talent-flow-2026",
       "lastmod": "2026-11-09",
-      "title": "Google to Palo Alto Networks talent flow"
+      "title": "Ex-Google Talent at Palo Alto Networks (316) &amp; CrowdStrike Flow"
     },
     {
       "url": "https://metix.ai/reports/series/ramp-company-teardown-2026",
@@ -1434,7 +1490,7 @@
       "kind": "series",
       "slug": "ramp-company-teardown-2026",
       "lastmod": "2026-11-09",
-      "title": "Ramp seat shelf"
+      "title": "Ramp Headcount by Role: 2,133 Staff (Software Engineer 373)"
     },
     {
       "url": "https://metix.ai/reports/series/robotics-sw-swe-vendor-bench-2026",
@@ -1442,7 +1498,7 @@
       "kind": "series",
       "slug": "robotics-sw-swe-vendor-bench-2026",
       "lastmod": "2026-11-09",
-      "title": "robotics software platforms vendor bench for Software Engineer"
+      "title": "Robotics Software Platforms Software Engineers: NVIDIA (8,126) vs Boston Dynamics (135)"
     },
     {
       "url": "https://metix.ai/reports/series/staff-eng-employed-vs-open-2026",
@@ -1450,7 +1506,7 @@
       "kind": "series",
       "slug": "staff-eng-employed-vs-open-2026",
       "lastmod": "2026-11-09",
-      "title": "Staff Engineer employed per open role"
+      "title": "Staff Engineer Hiring vs Headcount: Palo Alto Networks (9.8×) &amp; Uber"
     },
     {
       "url": "https://metix.ai/reports/series/tam-fintech-peer-pack-2026",
@@ -1458,7 +1514,7 @@
       "kind": "series",
       "slug": "tam-fintech-peer-pack-2026",
       "lastmod": "2026-11-09",
-      "title": "Technical Account Manager (fintech) Peer Pack: Stripe 170 vs Visa 80"
+      "title": "Technical Account Manager (Fintech): Stripe (170) vs Visa (80)"
     },
     {
       "url": "https://metix.ai/reports/series/account-exec-fintech-peer-pack-2026",
@@ -1466,7 +1522,7 @@
       "kind": "series",
       "slug": "account-exec-fintech-peer-pack-2026",
       "lastmod": "2026-11-08",
-      "title": "Account Executive (fintech) Peer Pack: Stripe 691 vs PayPal 311"
+      "title": "Account Executive (Fintech) Headcount: Stripe (691) vs PayPal (311)"
     },
     {
       "url": "https://metix.ai/reports/series/amazon-to-fintech-talent-flow-2026",
@@ -1474,7 +1530,7 @@
       "kind": "series",
       "slug": "amazon-to-fintech-talent-flow-2026",
       "lastmod": "2026-11-08",
-      "title": "Amazon to Coinbase talent flow"
+      "title": "Ex-Amazon Talent at Coinbase (517) &amp; Robinhood Flow"
     },
     {
       "url": "https://metix.ai/reports/series/brex-company-teardown-2026",
@@ -1482,7 +1538,7 @@
       "kind": "series",
       "slug": "brex-company-teardown-2026",
       "lastmod": "2026-11-08",
-      "title": "Brex seat shelf"
+      "title": "Brex Headcount by Role: 1,500 Staff (Software Engineer 254)"
     },
     {
       "url": "https://metix.ai/reports/series/chip-eda-swe-vendor-bench-2026",
@@ -1490,7 +1546,7 @@
       "kind": "series",
       "slug": "chip-eda-swe-vendor-bench-2026",
       "lastmod": "2026-11-08",
-      "title": "EDA / semiconductor tools vendor bench for Software Engineer"
+      "title": "EDA &amp; Chip Tools Software Engineers: Siemens (5,766) vs Cadence (2,332)"
     },
     {
       "url": "https://metix.ai/reports/series/data-analyst-fintech-peer-pack-2026",
@@ -1498,7 +1554,7 @@
       "kind": "series",
       "slug": "data-analyst-fintech-peer-pack-2026",
       "lastmod": "2026-11-08",
-      "title": "Data Analyst (fintech) Peer Pack: Stripe 177 vs PayPal 157"
+      "title": "Data Analyst (Fintech) Headcount: Stripe (177) vs PayPal (157)"
     },
     {
       "url": "https://metix.ai/reports/series/platform-eng-employed-vs-open-2026",
@@ -1506,7 +1562,7 @@
       "kind": "series",
       "slug": "platform-eng-employed-vs-open-2026",
       "lastmod": "2026-11-08",
-      "title": "Platform Engineer employed per open role"
+      "title": "Platform Engineer Hiring vs Headcount: IBM (52.8×) &amp; NVIDIA"
     },
     {
       "url": "https://metix.ai/reports/series/salesforce-market-entry-geo-2026",
@@ -1514,7 +1570,7 @@
       "kind": "series",
       "slug": "salesforce-market-entry-geo-2026",
       "lastmod": "2026-11-08",
-      "title": "Salesforce market-entry geography"
+      "title": "Salesforce Employees by Country: US (38,938) vs India (18,063)"
     },
     {
       "url": "https://metix.ai/reports/series/devops-eng-employed-vs-open-2026",
@@ -1522,7 +1578,7 @@
       "kind": "series",
       "slug": "devops-eng-employed-vs-open-2026",
       "lastmod": "2026-11-07",
-      "title": "DevOps Engineer employed per open role"
+      "title": "DevOps Engineer Hiring vs Headcount: IBM (120.1×) &amp; NVIDIA"
     },
     {
       "url": "https://metix.ai/reports/series/ibm-to-devtools-talent-flow-2026",
@@ -1530,7 +1586,7 @@
       "kind": "series",
       "slug": "ibm-to-devtools-talent-flow-2026",
       "lastmod": "2026-11-07",
-      "title": "IBM to MongoDB talent flow"
+      "title": "Ex-IBM Talent at MongoDB (293) &amp; Datadog Flow"
     },
     {
       "url": "https://metix.ai/reports/series/network-infra-swe-vendor-bench-2026",
@@ -1538,7 +1594,7 @@
       "kind": "series",
       "slug": "network-infra-swe-vendor-bench-2026",
       "lastmod": "2026-11-07",
-      "title": "enterprise networking vendor bench for Software Engineer"
+      "title": "Enterprise Networking Software Engineers: Cisco (12,137) vs HPE (5,576)"
     },
     {
       "url": "https://metix.ai/reports/series/product-designer-fintech-peer-pack-2026",
@@ -1546,7 +1602,7 @@
       "kind": "series",
       "slug": "product-designer-fintech-peer-pack-2026",
       "lastmod": "2026-11-07",
-      "title": "Product Designer (fintech) Peer Pack: Stripe 100 vs Coinbase 74"
+      "title": "Product Designer (Fintech) Headcount: Stripe (100) vs Coinbase (74)"
     },
     {
       "url": "https://metix.ai/reports/series/tpm-fintech-peer-pack-2026",
@@ -1554,7 +1610,7 @@
       "kind": "series",
       "slug": "tpm-fintech-peer-pack-2026",
       "lastmod": "2026-11-07",
-      "title": "Technical Program Manager (fintech) Peer Pack: Stripe 72 vs PayPal 62"
+      "title": "Technical Program Manager (Fintech): Stripe (72) vs PayPal (62)"
     },
     {
       "url": "https://metix.ai/reports/series/uber-market-entry-geo-2026",
@@ -1562,7 +1618,7 @@
       "kind": "series",
       "slug": "uber-market-entry-geo-2026",
       "lastmod": "2026-11-07",
-      "title": "Uber market-entry geography"
+      "title": "Uber Employees by Country: United States (46,071) vs Brazil (19,943)"
     },
     {
       "url": "https://metix.ai/reports/series/zoox-company-teardown-2026",
@@ -1570,7 +1626,7 @@
       "kind": "series",
       "slug": "zoox-company-teardown-2026",
       "lastmod": "2026-11-07",
-      "title": "Zoox seat shelf"
+      "title": "Zoox Headcount by Role: 4,410 Staff (Software Engineer 728)"
     },
     {
       "url": "https://metix.ai/reports/series/asana-company-teardown-2026",
@@ -1578,7 +1634,7 @@
       "kind": "series",
       "slug": "asana-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Asana seat shelf"
+      "title": "Asana Headcount by Role: 2,373 Staff (Software Engineer 417)"
     },
     {
       "url": "https://metix.ai/reports/series/data-analyst-employed-vs-open-2026",
@@ -1586,7 +1642,7 @@
       "kind": "series",
       "slug": "data-analyst-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Data Analyst employed per open role"
+      "title": "Data Analyst Hiring vs Headcount: Amazon (396.3×) &amp; Capital One"
     },
     {
       "url": "https://metix.ai/reports/series/devops-eng-fintech-peer-pack-2026",
@@ -1594,7 +1650,7 @@
       "kind": "series",
       "slug": "devops-eng-fintech-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "DevOps Engineer (fintech) Peer Pack: Capital One 450 vs Mastercard 218"
+      "title": "DevOps Engineer (Fintech): Capital One (450) vs Mastercard (218)"
     },
     {
       "url": "https://metix.ai/reports/series/fullstack-eng-fintech-peer-pack-2026",
@@ -1602,7 +1658,7 @@
       "kind": "series",
       "slug": "fullstack-eng-fintech-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Full Stack Engineer (fintech) Peer Pack: Capital One 727 vs PayPal 175"
+      "title": "Full Stack Engineer (Fintech): Capital One (727) vs PayPal (175)"
     },
     {
       "url": "https://metix.ai/reports/series/itsm-swe-vendor-bench-2026",
@@ -1610,7 +1666,7 @@
       "kind": "series",
       "slug": "itsm-swe-vendor-bench-2026",
       "lastmod": "2026-11-06",
-      "title": "ITSM / service management vendor bench for Software Engineer"
+      "title": "Itsm / Service Management Software Engineer Headcount: Atlassian (4,899) vs ServiceNow (4,583)"
     },
     {
       "url": "https://metix.ai/reports/series/linkedin-market-entry-geo-2026",
@@ -1618,7 +1674,7 @@
       "kind": "series",
       "slug": "linkedin-market-entry-geo-2026",
       "lastmod": "2026-11-11",
-      "title": "LinkedIn market-entry geography"
+      "title": "LinkedIn Employees by Country: United States (79,670) vs India (30,070)"
     },
     {
       "url": "https://metix.ai/reports/series/rtx-to-defense-tech-talent-flow-2026",
@@ -1626,7 +1682,7 @@
       "kind": "series",
       "slug": "rtx-to-defense-tech-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "RTX to SpaceX talent flow"
+      "title": "Ex-RTX Talent at SpaceX (307) &amp; Anduril Flow"
     },
     {
       "url": "https://metix.ai/reports/series/affirm-company-teardown-2026",
@@ -1634,7 +1690,7 @@
       "kind": "series",
       "slug": "affirm-company-teardown-2026",
       "lastmod": "2026-11-05",
-      "title": "Affirm seat shelf"
+      "title": "Affirm Headcount by Role: 2,687 Staff (Software Engineer 745)"
     },
     {
       "url": "https://metix.ai/reports/series/amazon-to-security-vendors-talent-flow-2026",
@@ -1642,7 +1698,7 @@
       "kind": "series",
       "slug": "amazon-to-security-vendors-talent-flow-2026",
       "lastmod": "2026-11-05",
-      "title": "Amazon to Palo Alto Networks talent flow"
+      "title": "Ex-Amazon Talent at Palo Alto Networks (473) &amp; CrowdStrike Flow"
     },
     {
       "url": "https://metix.ai/reports/series/be-eng-fintech-peer-pack-2026",
@@ -1650,7 +1706,7 @@
       "kind": "series",
       "slug": "be-eng-fintech-peer-pack-2026",
       "lastmod": "2026-11-05",
-      "title": "Backend Engineer (fintech) Peer Pack: PayPal 59 vs Capital One 34"
+      "title": "Backend Engineer (Fintech) Headcount: PayPal (59) vs Capital One (34)"
     },
     {
       "url": "https://metix.ai/reports/series/endpoint-sec-swe-vendor-bench-2026",
@@ -1658,7 +1714,7 @@
       "kind": "series",
       "slug": "endpoint-sec-swe-vendor-bench-2026",
       "lastmod": "2026-11-11",
-      "title": "endpoint security vendor bench for Software Engineer"
+      "title": "Endpoint Security Software Engineer Headcount: Microsoft (56,176) vs CrowdStrike (870)"
     },
     {
       "url": "https://metix.ai/reports/series/fe-eng-fintech-peer-pack-2026",
@@ -1666,7 +1722,7 @@
       "kind": "series",
       "slug": "fe-eng-fintech-peer-pack-2026",
       "lastmod": "2026-11-05",
-      "title": "Frontend Engineer (fintech) Peer Pack: Capital One 76 vs PayPal 33"
+      "title": "Frontend Engineer (Fintech) Headcount: Capital One (76) vs PayPal (33)"
     },
     {
       "url": "https://metix.ai/reports/series/ibm-market-entry-geo-2026",
@@ -1674,7 +1730,7 @@
       "kind": "series",
       "slug": "ibm-market-entry-geo-2026",
       "lastmod": "2026-11-05",
-      "title": "IBM market-entry geography"
+      "title": "IBM Employees by Country: India (153,360) vs United States (97,321)"
     },
     {
       "url": "https://metix.ai/reports/series/sde-employed-vs-open-2026",
@@ -1682,7 +1738,7 @@
       "kind": "series",
       "slug": "sde-employed-vs-open-2026",
       "lastmod": "2026-11-05",
-      "title": "Software Development Engineer employed per open role"
+      "title": "Software Development Engineer Hiring vs Headcount: Oracle (1012.6×)"
     },
     {
       "url": "https://metix.ai/reports/series/block-company-teardown-2026",
@@ -1690,7 +1746,7 @@
       "kind": "series",
       "slug": "block-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Block seat shelf"
+      "title": "Block Headcount by Role: 3,418 Staff (Software Engineer 563)"
     },
     {
       "url": "https://metix.ai/reports/series/cisco-to-devtools-talent-flow-2026",
@@ -1698,7 +1754,7 @@
       "kind": "series",
       "slug": "cisco-to-devtools-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Cisco to Cloudflare talent flow"
+      "title": "Ex-Cisco Talent at Cloudflare (348) &amp; Datadog Flow"
     },
     {
       "url": "https://metix.ai/reports/series/database-systems-swe-vendor-bench-2026",
@@ -1706,7 +1762,7 @@
       "kind": "series",
       "slug": "database-systems-swe-vendor-bench-2026",
       "lastmod": "2026-11-06",
-      "title": "database systems vendors vendor bench for Software Engineer"
+      "title": "Database Systems Vendors Software Engineer Headcount: MongoDB (870) vs Neo4j (210)"
     },
     {
       "url": "https://metix.ai/reports/series/electrical-eng-peer-pack-2026",
@@ -1714,7 +1770,7 @@
       "kind": "series",
       "slug": "electrical-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Electrical Engineer Peer Pack: Apple 423 vs Tesla 158"
+      "title": "Electrical Engineer Headcount: Apple (423) vs Tesla (158)"
     },
     {
       "url": "https://metix.ai/reports/series/figma-market-entry-geo-2026",
@@ -1722,7 +1778,7 @@
       "kind": "series",
       "slug": "figma-market-entry-geo-2026",
       "lastmod": "2026-11-06",
-      "title": "Figma market-entry geography"
+      "title": "Figma Employees by Country: US (1,881) vs UK (240)"
     },
     {
       "url": "https://metix.ai/reports/series/hrbp-peer-pack-2026",
@@ -1730,7 +1786,7 @@
       "kind": "series",
       "slug": "hrbp-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "HR Business Partner Peer Pack: Amazon 2888 vs Microsoft 181"
+      "title": "HR Business Partner Headcount: Amazon (2,888) vs Microsoft (181)"
     },
     {
       "url": "https://metix.ai/reports/series/research-eng-employed-vs-open-2026",
@@ -1738,7 +1794,7 @@
       "kind": "series",
       "slug": "research-eng-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Research Engineer employed per open role"
+      "title": "Research Engineer Hiring vs Headcount: Meta (38.4×) &amp; NVIDIA"
     },
     {
       "url": "https://metix.ai/reports/series/bi-analytics-swe-vendor-bench-2026",
@@ -1746,7 +1802,7 @@
       "kind": "series",
       "slug": "bi-analytics-swe-vendor-bench-2026",
       "lastmod": "2026-11-06",
-      "title": "BI / analytics platforms vendor bench for Software Engineer"
+      "title": "BI &amp; Analytics Software Engineer Headcount: Tableau (274) vs Qlik (262)"
     },
     {
       "url": "https://metix.ai/reports/series/canva-market-entry-geo-2026",
@@ -1754,7 +1810,7 @@
       "kind": "series",
       "slug": "canva-market-entry-geo-2026",
       "lastmod": "2026-11-06",
-      "title": "Canva market-entry geography"
+      "title": "Canva Employees by Country: Australia (3,331) vs United States (1,304)"
     },
     {
       "url": "https://metix.ai/reports/series/dropbox-company-teardown-2026",
@@ -1762,7 +1818,7 @@
       "kind": "series",
       "slug": "dropbox-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Dropbox seat shelf"
+      "title": "Dropbox Headcount by Role: 3,747 Staff (Software Engineer 722)"
     },
     {
       "url": "https://metix.ai/reports/series/financial-analyst-peer-pack-2026",
@@ -1770,7 +1826,7 @@
       "kind": "series",
       "slug": "financial-analyst-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Financial Analyst Peer Pack: Amazon 3417 vs Google 576"
+      "title": "Financial Analyst Headcount: Amazon (3,417) vs Google (576)"
     },
     {
       "url": "https://metix.ai/reports/series/ibm-to-ai-infra-talent-flow-2026",
@@ -1778,7 +1834,7 @@
       "kind": "series",
       "slug": "ibm-to-ai-infra-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "IBM to NVIDIA talent flow"
+      "title": "Ex-IBM Talent at NVIDIA (1,215) &amp; CoreWeave Flow"
     },
     {
       "url": "https://metix.ai/reports/series/security-analyst-peer-pack-2026",
@@ -1786,7 +1842,7 @@
       "kind": "series",
       "slug": "security-analyst-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Security Analyst Peer Pack: IBM 773 vs Microsoft 199"
+      "title": "Security Analyst Headcount: IBM (773) vs Microsoft (199)"
     },
     {
       "url": "https://metix.ai/reports/series/tam-employed-vs-open-2026",
@@ -1794,7 +1850,7 @@
       "kind": "series",
       "slug": "tam-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Technical Account Manager employed per open role"
+      "title": "Technical Account Manager Hiring vs Headcount: Amazon (522.2×)"
     },
     {
       "url": "https://metix.ai/reports/series/cloud-architect-peer-pack-2026",
@@ -1802,7 +1858,7 @@
       "kind": "series",
       "slug": "cloud-architect-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Cloud Architect Peer Pack: Oracle 877 vs Amazon 569"
+      "title": "Cloud Architect Headcount: Oracle (877) vs Amazon (569)"
     },
     {
       "url": "https://metix.ai/reports/series/databricks-market-entry-geo-2026",
@@ -1810,7 +1866,7 @@
       "kind": "series",
       "slug": "databricks-market-entry-geo-2026",
       "lastmod": "2026-11-06",
-      "title": "Databricks market-entry geography"
+      "title": "Databricks Employees by Country: United States (6,220) vs India (1,196)"
     },
     {
       "url": "https://metix.ai/reports/series/gusto-company-teardown-2026",
@@ -1818,7 +1874,7 @@
       "kind": "series",
       "slug": "gusto-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Gusto seat shelf"
+      "title": "Gusto Headcount by Role: 3,394 Staff (Software Engineer 427)"
     },
     {
       "url": "https://metix.ai/reports/series/marketing-mgr-employed-vs-open-2026",
@@ -1826,7 +1882,7 @@
       "kind": "series",
       "slug": "marketing-mgr-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Marketing Manager employed per open role"
+      "title": "Marketing Manager Hiring vs Headcount: Salesforce (100.0×) &amp; Amazon"
     },
     {
       "url": "https://metix.ai/reports/series/messaging-cpaas-swe-vendor-bench-2026",
@@ -1834,7 +1890,7 @@
       "kind": "series",
       "slug": "messaging-cpaas-swe-vendor-bench-2026",
       "lastmod": "2026-11-06",
-      "title": "CPaaS / messaging vendor bench for Software Engineer"
+      "title": "Cpaas / Messaging Software Engineers: Twilio (1,147) vs Vonage (351)"
     },
     {
       "url": "https://metix.ai/reports/series/microsoft-to-security-vendors-talent-flow-2026",
@@ -1842,7 +1898,7 @@
       "kind": "series",
       "slug": "microsoft-to-security-vendors-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Microsoft to Palo Alto Networks talent flow"
+      "title": "Ex-Microsoft Talent at Palo Alto Networks (514) &amp; CrowdStrike Flow"
     },
     {
       "url": "https://metix.ai/reports/series/technical-writer-peer-pack-2026",
@@ -1850,7 +1906,7 @@
       "kind": "series",
       "slug": "technical-writer-peer-pack-2026",
       "lastmod": "2026-11-01",
-      "title": "Technical Writer Peer Pack: Google 401 vs Oracle 358"
+      "title": "Technical Writer Headcount: Google (401) vs Oracle (358)"
     },
     {
       "url": "https://metix.ai/reports/series/eng-mgr-fintech-peer-pack-2026",
@@ -1858,7 +1914,7 @@
       "kind": "series",
       "slug": "eng-mgr-fintech-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Engineering Manager (fintech) Peer Pack: PayPal 377 vs Stripe 289"
+      "title": "Engineering Manager (Fintech) Headcount: PayPal (377) vs Stripe (289)"
     },
     {
       "url": "https://metix.ai/reports/series/identity-iam-swe-vendor-bench-2026",
@@ -1866,7 +1922,7 @@
       "kind": "series",
       "slug": "identity-iam-swe-vendor-bench-2026",
       "lastmod": "2026-11-06",
-      "title": "identity / IAM vendor bench for Software Engineer"
+      "title": "Identity / Iam Software Engineers: Okta (807) vs CyberArk (360)"
     },
     {
       "url": "https://metix.ai/reports/series/partner-mgr-employed-vs-open-2026",
@@ -1874,7 +1930,7 @@
       "kind": "series",
       "slug": "partner-mgr-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Partner Manager employed per open role"
+      "title": "Partner Manager Hiring vs Headcount: Amazon (10.4×) &amp; Datadog"
     },
     {
       "url": "https://metix.ai/reports/series/product-analyst-peer-pack-2026",
@@ -1882,7 +1938,7 @@
       "kind": "series",
       "slug": "product-analyst-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Product Analyst Peer Pack: Salesforce 41 vs Oracle 35"
+      "title": "Product Analyst Headcount: Salesforce (41) vs Oracle (35)"
     },
     {
       "url": "https://metix.ai/reports/series/spotify-market-entry-geo-2026",
@@ -1890,7 +1946,7 @@
       "kind": "series",
       "slug": "spotify-market-entry-geo-2026",
       "lastmod": "2026-11-06",
-      "title": "Spotify market-entry geography"
+      "title": "Spotify Employees by Country: US (136) vs UK (31)"
     },
     {
       "url": "https://metix.ai/reports/series/toast-company-teardown-2026",
@@ -1898,7 +1954,7 @@
       "kind": "series",
       "slug": "toast-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Toast seat shelf"
+      "title": "Toast Headcount by Role: 6,410 Staff (Account Executive 1,109)"
     },
     {
       "url": "https://metix.ai/reports/series/uber-to-fintech-talent-flow-2026",
@@ -1906,7 +1962,7 @@
       "kind": "series",
       "slug": "uber-to-fintech-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Uber to Coinbase talent flow"
+      "title": "Ex-Uber Talent at Coinbase (133) &amp; Robinhood Flow"
     },
     {
       "url": "https://metix.ai/reports/series/applied-scientist-employed-vs-open-2026",
@@ -1914,7 +1970,7 @@
       "kind": "series",
       "slug": "applied-scientist-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Applied Scientist employed per open role"
+      "title": "Applied Scientist Hiring vs Headcount: Microsoft (46.4×) &amp; Amazon"
     },
     {
       "url": "https://metix.ai/reports/series/cloudflare-market-entry-geo-2026",
@@ -1922,7 +1978,7 @@
       "kind": "series",
       "slug": "cloudflare-market-entry-geo-2026",
       "lastmod": "2026-11-06",
-      "title": "Cloudflare market-entry geography"
+      "title": "Cloudflare Employees by Country: US (2,719) vs UK (589)"
     },
     {
       "url": "https://metix.ai/reports/series/data-warehouse-sa-vendor-bench-2026",
@@ -1930,7 +1986,7 @@
       "kind": "series",
       "slug": "data-warehouse-sa-vendor-bench-2026",
       "lastmod": "2026-11-06",
-      "title": "cloud data warehouse vendor bench for Solutions Architect"
+      "title": "Cloud Data Warehouse Solutions Architect Headcount: Amazon (7,193) vs Databricks (1,505)"
     },
     {
       "url": "https://metix.ai/reports/series/release-eng-peer-pack-2026",
@@ -1938,7 +1994,7 @@
       "kind": "series",
       "slug": "release-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Release Engineer Peer Pack: Oracle 85 vs IBM 38"
+      "title": "Release Engineer Headcount: Oracle (85) vs IBM (38)"
     },
     {
       "url": "https://metix.ai/reports/series/swe-ai-natives-peer-pack-2026",
@@ -1946,7 +2002,7 @@
       "kind": "series",
       "slug": "swe-ai-natives-peer-pack-2026",
       "lastmod": "2026-10-30",
-      "title": "Software Engineer (AI-native companies) Peer Pack: Scale AI 364 vs Glean 228"
+      "title": "Software Engineer (Ai-Native Companies): Scale AI (364) vs Glean (228)"
     },
     {
       "url": "https://metix.ai/reports/series/tesla-to-autonomy-talent-flow-2026",
@@ -1954,7 +2010,7 @@
       "kind": "series",
       "slug": "tesla-to-autonomy-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Tesla to Zoox talent flow"
+      "title": "Ex-Tesla Talent at Zoox (273) &amp; Waymo Flow"
     },
     {
       "url": "https://metix.ai/reports/series/twilio-company-teardown-2026",
@@ -1962,7 +2018,7 @@
       "kind": "series",
       "slug": "twilio-company-teardown-2026",
       "lastmod": "2026-11-04",
-      "title": "Twilio seat shelf"
+      "title": "Twilio Headcount by Role: 5,768 Staff (Software Engineer 1,147)"
     },
     {
       "url": "https://metix.ai/reports/series/confluent-company-teardown-2026",
@@ -1970,7 +2026,7 @@
       "kind": "series",
       "slug": "confluent-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Confluent seat shelf"
+      "title": "Confluent Headcount by Role: 3,243 Staff (Software Engineer 735)"
     },
     {
       "url": "https://metix.ai/reports/series/design-mgr-peer-pack-2026",
@@ -1978,7 +2034,7 @@
       "kind": "series",
       "slug": "design-mgr-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Design Manager Peer Pack: IBM 111 vs Adobe 89"
+      "title": "Design Manager Headcount: IBM (111) vs Adobe (89)"
     },
     {
       "url": "https://metix.ai/reports/series/okta-to-security-vendors-talent-flow-2026",
@@ -1986,7 +2042,7 @@
       "kind": "series",
       "slug": "okta-to-security-vendors-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Okta to Wiz talent flow"
+      "title": "Ex-Okta Talent at Wiz (79) &amp; Palo Alto Networks Flow"
     },
     {
       "url": "https://metix.ai/reports/series/principal-eng-employed-vs-open-2026",
@@ -1994,7 +2050,7 @@
       "kind": "series",
       "slug": "principal-eng-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Principal Engineer employed per open role"
+      "title": "Principal Engineer Hiring vs Headcount: Amazon (105.5×) &amp; Oracle"
     },
     {
       "url": "https://metix.ai/reports/series/shopify-market-entry-geo-2026",
@@ -2002,7 +2058,7 @@
       "kind": "series",
       "slug": "shopify-market-entry-geo-2026",
       "lastmod": "2026-11-06",
-      "title": "Shopify market-entry geography"
+      "title": "Shopify Employees by Country: Canada (4,850) vs United States (3,293)"
     },
     {
       "url": "https://metix.ai/reports/series/swe-fintech-peer-pack-2026",
@@ -2010,7 +2066,7 @@
       "kind": "series",
       "slug": "swe-fintech-peer-pack-2026",
       "lastmod": "2026-10-30",
-      "title": "Software Engineer (fintech) Peer Pack: PayPal 4788 vs Stripe 2770"
+      "title": "Software Engineer (Fintech) Headcount: PayPal (4,788) vs Stripe (2,770)"
     },
     {
       "url": "https://metix.ai/reports/series/vector-db-swe-vendor-bench-2026",
@@ -2018,7 +2074,7 @@
       "kind": "series",
       "slug": "vector-db-swe-vendor-bench-2026",
       "lastmod": "2026-11-06",
-      "title": "vector database vendor bench for Software Engineer"
+      "title": "Vector Database Software Engineers: MongoDB (745) vs Elastic (569)"
     },
     {
       "url": "https://metix.ai/reports/series/google-to-ai-infra-talent-flow-2026",
@@ -2026,7 +2082,7 @@
       "kind": "series",
       "slug": "google-to-ai-infra-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Google to NVIDIA talent flow"
+      "title": "Ex-Google Talent at NVIDIA (1,074) &amp; CoreWeave Flow"
     },
     {
       "url": "https://metix.ai/reports/series/payments-rails-swe-vendor-bench-2026",
@@ -2034,7 +2090,7 @@
       "kind": "series",
       "slug": "payments-rails-swe-vendor-bench-2026",
       "lastmod": "2026-11-06",
-      "title": "payments rails vendor bench for Software Engineer"
+      "title": "Payments Rails Software Engineers: Stripe (2,770) vs Adyen (541)"
     },
     {
       "url": "https://metix.ai/reports/series/plaid-company-teardown-2026",
@@ -2042,7 +2098,7 @@
       "kind": "series",
       "slug": "plaid-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Plaid seat shelf"
+      "title": "Plaid Headcount by Role: 1,307 Staff (Software Engineer 245)"
     },
     {
       "url": "https://metix.ai/reports/series/program-mgr-employed-vs-open-2026",
@@ -2050,7 +2106,7 @@
       "kind": "series",
       "slug": "program-mgr-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Program Manager employed per open role"
+      "title": "Program Manager Hiring vs Headcount: Microsoft (106.6×) &amp; Amazon"
     },
     {
       "url": "https://metix.ai/reports/series/stripe-market-entry-geo-2026",
@@ -2058,7 +2114,7 @@
       "kind": "series",
       "slug": "stripe-market-entry-geo-2026",
       "lastmod": "2026-11-06",
-      "title": "Stripe market-entry geography"
+      "title": "Stripe Employees by Country: United States (6,301) vs India (1,406)"
     },
     {
       "url": "https://metix.ai/reports/series/swe-devtools-peer-pack-2026",
@@ -2066,7 +2122,7 @@
       "kind": "series",
       "slug": "swe-devtools-peer-pack-2026",
       "lastmod": "2026-11-10",
-      "title": "Software Engineer Peer Pack: Atlassian 4809 vs Datadog 2187"
+      "title": "Software Engineer (Developer Tools) Headcount: Atlassian (4,809) vs Datadog (2,187)"
     },
     {
       "url": "https://metix.ai/reports/series/systems-eng-peer-pack-2026",
@@ -2074,7 +2130,7 @@
       "kind": "series",
       "slug": "systems-eng-peer-pack-2026",
       "lastmod": "2026-11-10",
-      "title": "Systems Engineer Peer Pack: Cisco 938 vs IBM 552"
+      "title": "Systems Engineer Headcount: Cisco (938) vs IBM (552)"
     },
     {
       "url": "https://metix.ai/reports/series/meta-to-fintech-talent-flow-2026",
@@ -2082,7 +2138,7 @@
       "kind": "series",
       "slug": "meta-to-fintech-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Meta to Coinbase talent flow"
+      "title": "Ex-Meta Talent at Coinbase (188) &amp; Robinhood Flow"
     },
     {
       "url": "https://metix.ai/reports/series/openai-market-entry-geo-2026",
@@ -2090,7 +2146,7 @@
       "kind": "series",
       "slug": "openai-market-entry-geo-2026",
       "lastmod": "2026-11-06",
-      "title": "OpenAI market-entry geography"
+      "title": "OpenAI Employees by Country: US (5,716) vs UK (237)"
     },
     {
       "url": "https://metix.ai/reports/series/security-vendor-sec-eng-vendor-bench-2026",
@@ -2098,7 +2154,7 @@
       "kind": "series",
       "slug": "security-vendor-sec-eng-vendor-bench-2026",
       "lastmod": "2026-11-06",
-      "title": "enterprise security vendors vendor bench for Security Engineer"
+      "title": "Enterprise Security Vendors Security Engineers: Palo Alto Networks (193) vs CrowdStrike (100)"
     },
     {
       "url": "https://metix.ai/reports/series/solutions-eng-employed-vs-open-2026",
@@ -2106,7 +2162,7 @@
       "kind": "series",
       "slug": "solutions-eng-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Solutions Engineer employed per open role"
+      "title": "Solutions Engineer Hiring vs Headcount: Databricks (36.9×) &amp; Snowflake"
     },
     {
       "url": "https://metix.ai/reports/series/swe-defense-tech-peer-pack-2026",
@@ -2114,7 +2170,7 @@
       "kind": "series",
       "slug": "swe-defense-tech-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Software Engineer Peer Pack: Palantir 1122 vs Anduril 947"
+      "title": "Software Engineer (Defense Tech): Palantir (1,122) vs Anduril (947)"
     },
     {
       "url": "https://metix.ai/reports/series/zscaler-company-teardown-2026",
@@ -2122,7 +2178,7 @@
       "kind": "series",
       "slug": "zscaler-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Zscaler seat shelf"
+      "title": "Zscaler Headcount by Role: 8,621 Staff (Software Engineer 1,189)"
     },
     {
       "url": "https://metix.ai/reports/series/account-mgr-employed-vs-open-2026",
@@ -2130,7 +2186,7 @@
       "kind": "series",
       "slug": "account-mgr-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Account Manager employed per open role"
+      "title": "Account Manager Hiring vs Headcount: Microsoft (523.4×) &amp; Amazon"
     },
     {
       "url": "https://metix.ai/reports/series/anthropic-market-entry-geo-2026",
@@ -2138,7 +2194,7 @@
       "kind": "series",
       "slug": "anthropic-market-entry-geo-2026",
       "lastmod": "2026-11-06",
-      "title": "Anthropic market-entry geography"
+      "title": "Anthropic Employees by Country: US (2,849) vs UK (198)"
     },
     {
       "url": "https://metix.ai/reports/series/observability-sre-vendor-bench-2026",
@@ -2146,7 +2202,7 @@
       "kind": "series",
       "slug": "observability-sre-vendor-bench-2026",
       "lastmod": "2026-11-06",
-      "title": "observability vendor bench for Site Reliability Engineer"
+      "title": "Observability SRE Headcount: Splunk (112) vs Elastic (56)"
     },
     {
       "url": "https://metix.ai/reports/series/partner-mgr-peer-pack-2026",
@@ -2154,7 +2210,7 @@
       "kind": "series",
       "slug": "partner-mgr-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Partner Manager Peer Pack: ServiceNow 136 vs SAP 127"
+      "title": "Partner Manager Headcount: ServiceNow (136) vs SAP (127)"
     },
     {
       "url": "https://metix.ai/reports/series/servicenow-company-teardown-2026",
@@ -2162,7 +2218,7 @@
       "kind": "series",
       "slug": "servicenow-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "ServiceNow seat shelf"
+      "title": "ServiceNow Headcount by Role: 29,127 Staff (Software Engineer 4,279)"
     },
     {
       "url": "https://metix.ai/reports/series/splunk-to-security-vendors-talent-flow-2026",
@@ -2170,7 +2226,7 @@
       "kind": "series",
       "slug": "splunk-to-security-vendors-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Splunk to Palo Alto Networks talent flow"
+      "title": "Ex-Splunk Talent at Palo Alto Networks (169) &amp; CrowdStrike Flow"
     },
     {
       "url": "https://metix.ai/reports/series/swe-autonomy-peer-pack-2026",
@@ -2178,7 +2234,7 @@
       "kind": "series",
       "slug": "swe-autonomy-peer-pack-2026",
       "lastmod": "2026-10-30",
-      "title": "Software Engineer (autonomy) Peer Pack: Tesla 2033 vs Waymo 1107"
+      "title": "Software Engineer (Autonomy) Headcount: Tesla (2,033) vs Waymo (1,107)"
     },
     {
       "url": "https://metix.ai/reports/series/apple-to-autonomy-talent-flow-2026",
@@ -2186,7 +2242,7 @@
       "kind": "series",
       "slug": "apple-to-autonomy-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Apple to Zoox talent flow"
+      "title": "Ex-Apple Talent at Zoox (174) &amp; Waymo Flow"
     },
     {
       "url": "https://metix.ai/reports/series/csm-employed-vs-open-2026",
@@ -2194,7 +2250,7 @@
       "kind": "series",
       "slug": "csm-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Customer Success Manager employed per open role"
+      "title": "Customer Success Manager Hiring vs Headcount: Salesforce (33.8×)"
     },
     {
       "url": "https://metix.ai/reports/series/data-architect-peer-pack-2026",
@@ -2202,7 +2258,7 @@
       "kind": "series",
       "slug": "data-architect-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Data Architect Peer Pack: IBM 250 vs Adobe 63"
+      "title": "Data Architect Headcount: IBM (250) vs Adobe (63)"
     },
     {
       "url": "https://metix.ai/reports/series/palo-alto-networks-company-teardown-2026",
@@ -2210,7 +2266,7 @@
       "kind": "series",
       "slug": "palo-alto-networks-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Palo Alto Networks seat shelf"
+      "title": "Palo Alto Networks Headcount by Role: 18,339 Mapped Staff"
     },
     {
       "url": "https://metix.ai/reports/series/pmm-enterprise-saas-peer-pack-2026",
@@ -2218,7 +2274,7 @@
       "kind": "series",
       "slug": "pmm-enterprise-saas-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Product Marketing Manager (enterprise SaaS) Peer Pack: Adobe 231 vs Salesforce 186"
+      "title": "Product Marketing Manager (Enterprise Saas) Headcount: Adobe (231) vs Salesforce (186)"
     },
     {
       "url": "https://metix.ai/reports/series/boeing-to-defense-tech-talent-flow-2026",
@@ -2226,7 +2282,7 @@
       "kind": "series",
       "slug": "boeing-to-defense-tech-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Boeing to SpaceX talent flow"
+      "title": "Ex-Boeing Talent at SpaceX (367) &amp; Anduril Flow"
     },
     {
       "url": "https://metix.ai/reports/series/product-mgr-fintech-peer-pack-2026",
@@ -2234,7 +2290,7 @@
       "kind": "series",
       "slug": "product-mgr-fintech-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Product Manager (fintech) Peer Pack: PayPal 776 vs Stripe 199"
+      "title": "Product Manager (Fintech) Headcount: PayPal (776) vs Stripe (199)"
     },
     {
       "url": "https://metix.ai/reports/series/robinhood-company-teardown-2026",
@@ -2242,7 +2298,7 @@
       "kind": "series",
       "slug": "robinhood-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Robinhood seat shelf"
+      "title": "Robinhood Headcount by Role: 3,551 Staff (Software Engineer 599)"
     },
     {
       "url": "https://metix.ai/reports/series/sdr-employed-vs-open-2026",
@@ -2250,7 +2306,7 @@
       "kind": "series",
       "slug": "sdr-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Sales Development Representative employed per open role"
+      "title": "SDR Hiring vs Headcount: Salesforce (246.1×) &amp; Okta"
     },
     {
       "url": "https://metix.ai/reports/series/sourcer-peer-pack-2026",
@@ -2258,7 +2314,7 @@
       "kind": "series",
       "slug": "sourcer-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Sourcer Peer Pack: Uber 96 vs IBM 89"
+      "title": "Sourcer Headcount: Uber (96) vs IBM (89)"
     },
     {
       "url": "https://metix.ai/reports/series/business-analyst-peer-pack-2026",
@@ -2266,7 +2322,7 @@
       "kind": "series",
       "slug": "business-analyst-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Business Analyst Peer Pack: IBM 3187 vs Oracle 1406"
+      "title": "Business Analyst Headcount: IBM (3,187) vs Oracle (1,406)"
     },
     {
       "url": "https://metix.ai/reports/series/data-eng-fintech-peer-pack-2026",
@@ -2274,7 +2330,7 @@
       "kind": "series",
       "slug": "data-eng-fintech-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Data Engineer (fintech) Peer Pack: PayPal 344 vs Block 47"
+      "title": "Data Engineer (Fintech) Headcount: PayPal (344) vs Block (47)"
     },
     {
       "url": "https://metix.ai/reports/series/network-eng-employed-vs-open-2026",
@@ -2282,7 +2338,7 @@
       "kind": "series",
       "slug": "network-eng-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Network Engineer employed per open role"
+      "title": "Network Engineer Hiring vs Headcount: Microsoft (270.0×) &amp; Meta"
     },
     {
       "url": "https://metix.ai/reports/series/okta-company-teardown-2026",
@@ -2290,7 +2346,7 @@
       "kind": "series",
       "slug": "okta-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Okta seat shelf"
+      "title": "Okta Headcount by Role: 6,867 Staff (Software Engineer 807)"
     },
     {
       "url": "https://metix.ai/reports/series/salesforce-to-devtools-talent-flow-2026",
@@ -2298,7 +2354,7 @@
       "kind": "series",
       "slug": "salesforce-to-devtools-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Salesforce to Datadog talent flow"
+      "title": "Ex-Salesforce Talent at Datadog (198) &amp; MongoDB Flow"
     },
     {
       "url": "https://metix.ai/reports/series/csm-enterprise-saas-peer-pack-2026",
@@ -2306,7 +2362,7 @@
       "kind": "series",
       "slug": "csm-enterprise-saas-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Customer Success Manager (enterprise SaaS) Peer Pack: Salesforce 1250 vs SAP 1008"
+      "title": "Customer Success Manager (Enterprise Saas) Headcount: Salesforce (1,250) vs SAP (1,008)"
     },
     {
       "url": "https://metix.ai/reports/series/datadog-company-teardown-2026",
@@ -2314,7 +2370,7 @@
       "kind": "series",
       "slug": "datadog-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Datadog seat shelf"
+      "title": "Datadog Headcount by Role: 8,488 Staff (Software Engineer 2,187)"
     },
     {
       "url": "https://metix.ai/reports/series/microsoft-to-ai-infra-talent-flow-2026",
@@ -2322,7 +2378,7 @@
       "kind": "series",
       "slug": "microsoft-to-ai-infra-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Microsoft to NVIDIA talent flow"
+      "title": "Ex-Microsoft Talent at NVIDIA (1,304) &amp; CoreWeave Flow"
     },
     {
       "url": "https://metix.ai/reports/series/perf-eng-peer-pack-2026",
@@ -2330,7 +2386,7 @@
       "kind": "series",
       "slug": "perf-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Performance Engineer Peer Pack: NVIDIA 118 vs IBM 107"
+      "title": "Performance Engineer Headcount: NVIDIA (118) vs IBM (107)"
     },
     {
       "url": "https://metix.ai/reports/series/pmm-employed-vs-open-2026",
@@ -2338,7 +2394,7 @@
       "kind": "series",
       "slug": "pmm-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Product Marketing Manager employed per open role"
+      "title": "Product Marketing Manager Hiring vs Headcount: Microsoft (169.8×)"
     },
     {
       "url": "https://metix.ai/reports/series/account-exec-employed-vs-open-2026",
@@ -2346,7 +2402,7 @@
       "kind": "series",
       "slug": "account-exec-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Account Executive employed per open role"
+      "title": "Account Executive Hiring vs Headcount: Amazon (61.5×) &amp; Salesforce"
     },
     {
       "url": "https://metix.ai/reports/series/ai-eng-peer-pack-2026",
@@ -2354,7 +2410,7 @@
       "kind": "series",
       "slug": "ai-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "AI Engineer Peer Pack: IBM 778 vs NVIDIA 96"
+      "title": "AI Engineer Headcount: IBM (778) vs NVIDIA (96)"
     },
     {
       "url": "https://metix.ai/reports/series/cloudflare-company-teardown-2026",
@@ -2362,7 +2418,7 @@
       "kind": "series",
       "slug": "cloudflare-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Cloudflare seat shelf"
+      "title": "Cloudflare Headcount by Role: 5,355 Staff (Account Executive 565)"
     },
     {
       "url": "https://metix.ai/reports/series/sec-eng-fintech-peer-pack-2026",
@@ -2370,7 +2426,7 @@
       "kind": "series",
       "slug": "sec-eng-fintech-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Security Engineer (fintech) Peer Pack: PayPal 138 vs Coinbase 53"
+      "title": "Security Engineer (Fintech) Headcount: PayPal (138) vs Coinbase (53)"
     },
     {
       "url": "https://metix.ai/reports/series/uber-to-autonomy-talent-flow-2026",
@@ -2378,7 +2434,7 @@
       "kind": "series",
       "slug": "uber-to-autonomy-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Uber to Aurora talent flow"
+      "title": "Ex-Uber Talent at Aurora (357) &amp; Waymo Flow"
     },
     {
       "url": "https://metix.ai/reports/series/jpmorgan-chase-to-fintech-talent-flow-2026",
@@ -2386,7 +2442,7 @@
       "kind": "series",
       "slug": "jpmorgan-chase-to-fintech-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "JPMorgan Chase to Coinbase talent flow"
+      "title": "Ex-JPMorgan Chase Talent at Coinbase (120) &amp; Robinhood Flow"
     },
     {
       "url": "https://metix.ai/reports/series/recruiter-employed-vs-open-2026",
@@ -2394,7 +2450,7 @@
       "kind": "series",
       "slug": "recruiter-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Recruiter employed per open role"
+      "title": "Recruiter Hiring vs Headcount: Microsoft (153.9×) &amp; Amazon"
     },
     {
       "url": "https://metix.ai/reports/series/sdet-peer-pack-2026",
@@ -2402,7 +2458,7 @@
       "kind": "series",
       "slug": "sdet-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Software Development Engineer in Test Peer Pack: IBM 500 vs Oracle 368"
+      "title": "SDET Headcount: IBM (500) vs Oracle (368)"
     },
     {
       "url": "https://metix.ai/reports/series/tam-data-infra-peer-pack-2026",
@@ -2410,7 +2466,7 @@
       "kind": "series",
       "slug": "tam-data-infra-peer-pack-2026",
       "lastmod": "2026-10-30",
-      "title": "Technical Account Manager (data infrastructure) Peer Pack: Datadog 72 vs Cloudflare 32"
+      "title": "Technical Account Manager (Data Infra): Datadog (72) vs Cloudflare (32)"
     },
     {
       "url": "https://metix.ai/reports/series/workday-company-teardown-2026",
@@ -2418,7 +2474,7 @@
       "kind": "series",
       "slug": "workday-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Workday seat shelf"
+      "title": "Workday Headcount by Role: 20,583 Staff (Software Engineer 3,116)"
     },
     {
       "url": "https://metix.ai/reports/series/director-eng-peer-pack-2026",
@@ -2426,7 +2482,7 @@
       "kind": "series",
       "slug": "director-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Director of Engineering Peer Pack: Salesforce 173 vs Oracle 163"
+      "title": "Director of Engineering Headcount: Salesforce (173) vs Oracle (163)"
     },
     {
       "url": "https://metix.ai/reports/series/hubspot-company-teardown-2026",
@@ -2434,7 +2490,7 @@
       "kind": "series",
       "slug": "hubspot-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "HubSpot seat shelf"
+      "title": "HubSpot Headcount by Role: 10,599 Staff (Account Executive 1,548)"
     },
     {
       "url": "https://metix.ai/reports/series/ibm-to-security-vendors-talent-flow-2026",
@@ -2442,7 +2498,7 @@
       "kind": "series",
       "slug": "ibm-to-security-vendors-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "IBM to Palo Alto Networks talent flow"
+      "title": "Ex-IBM Talent at Palo Alto Networks (658) &amp; CrowdStrike Flow"
     },
     {
       "url": "https://metix.ai/reports/series/ml-eng-fintech-peer-pack-2026",
@@ -2450,7 +2506,7 @@
       "kind": "series",
       "slug": "ml-eng-fintech-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Machine Learning Engineer (fintech) Peer Pack: PayPal 236 vs Block 101"
+      "title": "ML Engineer (Fintech) Headcount: PayPal (236) vs Block (101)"
     },
     {
       "url": "https://metix.ai/reports/series/systems-eng-employed-vs-open-2026",
@@ -2458,7 +2514,7 @@
       "kind": "series",
       "slug": "systems-eng-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Systems Engineer employed per open role"
+      "title": "Systems Engineer Hiring vs Headcount: Cisco (85.3×) &amp; Amazon"
     },
     {
       "url": "https://metix.ai/reports/series/account-exec-security-vendors-peer-pack-2026",
@@ -2466,7 +2522,7 @@
       "kind": "series",
       "slug": "account-exec-security-vendors-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Account Executive (security vendors) Peer Pack: Zscaler 449 vs CrowdStrike 422"
+      "title": "Account Executive (Cybersecurity): Zscaler (449) vs CrowdStrike (422)"
     },
     {
       "url": "https://metix.ai/reports/series/solutions-consultant-peer-pack-2026",
@@ -2474,7 +2530,7 @@
       "kind": "series",
       "slug": "solutions-consultant-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Solutions Consultant Peer Pack: Adobe 445 vs ServiceNow 234"
+      "title": "Solutions Consultant Headcount: Adobe (445) vs ServiceNow (234)"
     },
     {
       "url": "https://metix.ai/reports/series/support-eng-employed-vs-open-2026",
@@ -2482,7 +2538,7 @@
       "kind": "series",
       "slug": "support-eng-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Support Engineer employed per open role"
+      "title": "Support Engineer Hiring vs Headcount: Microsoft (278.7×) &amp; Amazon"
     },
     {
       "url": "https://metix.ai/reports/series/tesla-to-defense-tech-talent-flow-2026",
@@ -2490,7 +2546,7 @@
       "kind": "series",
       "slug": "tesla-to-defense-tech-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Tesla to SpaceX talent flow"
+      "title": "Ex-Tesla Talent at SpaceX (508) &amp; Anduril Flow"
     },
     {
       "url": "https://metix.ai/reports/series/waymo-company-teardown-2026",
@@ -2498,7 +2554,7 @@
       "kind": "series",
       "slug": "waymo-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Waymo seat shelf"
+      "title": "Waymo Headcount by Role: 3,356 Staff (Software Engineer 1,107)"
     },
     {
       "url": "https://metix.ai/reports/series/amazon-to-ai-infra-talent-flow-2026",
@@ -2506,7 +2562,7 @@
       "kind": "series",
       "slug": "amazon-to-ai-infra-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Amazon to NVIDIA talent flow"
+      "title": "Ex-Amazon Talent at NVIDIA (1,087) &amp; CoreWeave Flow"
     },
     {
       "url": "https://metix.ai/reports/series/coinbase-company-teardown-2026",
@@ -2514,7 +2570,7 @@
       "kind": "series",
       "slug": "coinbase-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Coinbase seat shelf"
+      "title": "Coinbase Headcount by Role: 6,396 Staff (Software Engineer 1,370)"
     },
     {
       "url": "https://metix.ai/reports/series/hardware-eng-employed-vs-open-2026",
@@ -2522,7 +2578,7 @@
       "kind": "series",
       "slug": "hardware-eng-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Hardware Engineer employed per open role"
+      "title": "Hardware Engineer Hiring vs Headcount: Microsoft (70.4×) &amp; Cisco"
     },
     {
       "url": "https://metix.ai/reports/series/product-mgr-devtools-peer-pack-2026",
@@ -2530,7 +2586,7 @@
       "kind": "series",
       "slug": "product-mgr-devtools-peer-pack-2026",
       "lastmod": "2026-11-10",
-      "title": "Product Manager Peer Pack: Atlassian 412 vs Datadog 164"
+      "title": "Product Manager (Developer Tools): Atlassian (412) vs Datadog (164)"
     },
     {
       "url": "https://metix.ai/reports/series/security-architect-peer-pack-2026",
@@ -2538,7 +2594,7 @@
       "kind": "series",
       "slug": "security-architect-peer-pack-2026",
       "lastmod": "2026-10-30",
-      "title": "Security Architect Peer Pack: IBM 339 vs Cisco 128"
+      "title": "Security Architect Headcount: IBM (339) vs Cisco (128)"
     },
     {
       "url": "https://metix.ai/reports/series/crowdstrike-company-teardown-2026",
@@ -2546,7 +2602,7 @@
       "kind": "series",
       "slug": "crowdstrike-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "CrowdStrike seat shelf"
+      "title": "CrowdStrike Headcount by Role: 9,362 Staff (Software Engineer 774)"
     },
     {
       "url": "https://metix.ai/reports/series/dba-peer-pack-2026",
@@ -2554,7 +2610,7 @@
       "kind": "series",
       "slug": "dba-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Database Administrator Peer Pack: IBM 2136 vs Oracle 1174"
+      "title": "Database Administrator Headcount: IBM (2,136) vs Oracle (1,174)"
     },
     {
       "url": "https://metix.ai/reports/series/oracle-to-devtools-talent-flow-2026",
@@ -2562,7 +2618,7 @@
       "kind": "series",
       "slug": "oracle-to-devtools-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Oracle to MongoDB talent flow"
+      "title": "Ex-Oracle Talent at MongoDB (329) &amp; Datadog Flow"
     },
     {
       "url": "https://metix.ai/reports/series/research-eng-ai-labs-peer-pack-2026",
@@ -2570,7 +2626,7 @@
       "kind": "series",
       "slug": "research-eng-ai-labs-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Research Engineer (AI labs) Peer Pack: Meta 440 vs NVIDIA 91"
+      "title": "Research Engineer (AI Labs) Headcount: Meta (440) vs NVIDIA (91)"
     },
     {
       "url": "https://metix.ai/reports/series/software-eng-employed-vs-open-2026",
@@ -2578,7 +2634,7 @@
       "kind": "series",
       "slug": "software-eng-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Software Engineer employed per open role"
+      "title": "Software Engineer Hiring vs Headcount: Amazon (568.5×) &amp; Microsoft"
     },
     {
       "url": "https://metix.ai/reports/series/data-scientist-fintech-peer-pack-2026",
@@ -2586,7 +2642,7 @@
       "kind": "series",
       "slug": "data-scientist-fintech-peer-pack-2026",
       "lastmod": "2026-11-10",
-      "title": "Data Scientist Peer Pack: PayPal 561 vs Stripe 99"
+      "title": "Data Scientist (Fintech) Headcount: PayPal (561) vs Stripe (99)"
     },
     {
       "url": "https://metix.ai/reports/series/designer-employed-vs-open-2026",
@@ -2594,7 +2650,7 @@
       "kind": "series",
       "slug": "designer-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Designer employed per open role"
+      "title": "Designer Hiring vs Headcount: Microsoft (702.0×) &amp; Amazon"
     },
     {
       "url": "https://metix.ai/reports/series/google-to-autonomy-talent-flow-2026",
@@ -2602,7 +2658,7 @@
       "kind": "series",
       "slug": "google-to-autonomy-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Google to Waymo talent flow"
+      "title": "Ex-Google Talent at Waymo (800) &amp; Zoox Flow"
     },
     {
       "url": "https://metix.ai/reports/series/palantir-company-teardown-2026",
@@ -2610,7 +2666,7 @@
       "kind": "series",
       "slug": "palantir-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Palantir seat shelf"
+      "title": "Palantir Headcount by Role: 4,665 Staff (Software Engineer 1,122)"
     },
     {
       "url": "https://metix.ai/reports/series/tech-writer-peer-pack-2026",
@@ -2618,7 +2674,7 @@
       "kind": "series",
       "slug": "tech-writer-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Technical Writer Peer Pack: Oracle 358 vs Salesforce 280"
+      "title": "Technical Writer Headcount: Oracle (358) vs Salesforce (280)"
     },
     {
       "url": "https://metix.ai/reports/series/atlassian-company-teardown-2026",
@@ -2626,7 +2682,7 @@
       "kind": "series",
       "slug": "atlassian-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Atlassian seat shelf"
+      "title": "Atlassian Headcount by Role: 17,909 Staff (Software Engineer 4,809)"
     },
     {
       "url": "https://metix.ai/reports/series/cisco-to-security-vendors-talent-flow-2026",
@@ -2634,7 +2690,7 @@
       "kind": "series",
       "slug": "cisco-to-security-vendors-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Cisco to Palo Alto Networks talent flow"
+      "title": "Ex-Cisco Talent at Palo Alto Networks (1,687) &amp; Zscaler Flow"
     },
     {
       "url": "https://metix.ai/reports/series/program-mgr-peer-pack-2026",
@@ -2642,7 +2698,7 @@
       "kind": "series",
       "slug": "program-mgr-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Program Manager Peer Pack: IBM 2989 vs Oracle 2569"
+      "title": "Program Manager Headcount: IBM (2,989) vs Oracle (2,569)"
     },
     {
       "url": "https://metix.ai/reports/series/research-scientist-employed-vs-open-2026",
@@ -2650,7 +2706,7 @@
       "kind": "series",
       "slug": "research-scientist-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Research Scientist employed per open role"
+      "title": "Research Scientist Hiring vs Headcount: Amazon (59.8×) &amp; Meta"
     },
     {
       "url": "https://metix.ai/reports/series/figma-company-teardown-2026",
@@ -2658,7 +2714,7 @@
       "kind": "series",
       "slug": "figma-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Figma seat shelf"
+      "title": "Figma Headcount by Role: 3,322 Staff (Software Engineer 505)"
     },
     {
       "url": "https://metix.ai/reports/series/goldman-sachs-to-fintech-talent-flow-2026",
@@ -2666,7 +2722,7 @@
       "kind": "series",
       "slug": "goldman-sachs-to-fintech-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Goldman Sachs to Coinbase talent flow"
+      "title": "Ex-Goldman Sachs Talent at Coinbase (143) &amp; Robinhood Flow"
     },
     {
       "url": "https://metix.ai/reports/series/ml-eng-autonomy-peer-pack-2026",
@@ -2674,7 +2730,7 @@
       "kind": "series",
       "slug": "ml-eng-autonomy-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Machine Learning Engineer (autonomy) Peer Pack: NVIDIA 201 vs Tesla 143"
+      "title": "ML Engineer (Autonomy) Headcount: NVIDIA (201) vs Tesla (143)"
     },
     {
       "url": "https://metix.ai/reports/series/software-architect-peer-pack-2026",
@@ -2682,7 +2738,7 @@
       "kind": "series",
       "slug": "software-architect-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Software Architect Peer Pack: IBM 513 vs SAP 248"
+      "title": "Software Architect Headcount: IBM (513) vs SAP (248)"
     },
     {
       "url": "https://metix.ai/reports/series/solutions-arch-employed-vs-open-2026",
@@ -2690,7 +2746,7 @@
       "kind": "series",
       "slug": "solutions-arch-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Solutions Architect employed per open role"
+      "title": "Solutions Architect Hiring vs Headcount: Amazon (133.2×) &amp; Databricks"
     },
     {
       "url": "https://metix.ai/reports/series/account-exec-data-infra-peer-pack-2026",
@@ -2698,7 +2754,7 @@
       "kind": "series",
       "slug": "account-exec-data-infra-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Account Executive (data infrastructure) Peer Pack: Databricks 1403 vs Datadog 1137"
+      "title": "Account Executive (Data Infra): Databricks (1,403) vs Datadog (1,137)"
     },
     {
       "url": "https://metix.ai/reports/series/northrop-grumman-to-defense-tech-talent-flow-2026",
@@ -2706,7 +2762,7 @@
       "kind": "series",
       "slug": "northrop-grumman-to-defense-tech-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Northrop Grumman to Anduril talent flow"
+      "title": "Ex-Northrop Grumman Talent at Anduril (522) &amp; SpaceX Flow"
     },
     {
       "url": "https://metix.ai/reports/series/qa-eng-peer-pack-2026",
@@ -2714,7 +2770,7 @@
       "kind": "series",
       "slug": "qa-eng-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "QA Engineer Peer Pack: IBM 1928 vs Oracle 1455"
+      "title": "QA Engineer Headcount: IBM (1,928) vs Oracle (1,455)"
     },
     {
       "url": "https://metix.ai/reports/series/rippling-company-teardown-2026",
@@ -2722,7 +2778,7 @@
       "kind": "series",
       "slug": "rippling-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Rippling seat shelf"
+      "title": "Rippling Headcount by Role: 5,606 Staff (Software Engineer 874)"
     },
     {
       "url": "https://metix.ai/reports/series/tpm-employed-vs-open-2026",
@@ -2730,7 +2786,7 @@
       "kind": "series",
       "slug": "tpm-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Technical Program Manager employed per open role"
+      "title": "Technical Program Manager Hiring vs Headcount: Microsoft (69.6×)"
     },
     {
       "url": "https://metix.ai/reports/series/analytics-eng-peer-pack-2026",
@@ -2738,7 +2794,7 @@
       "kind": "series",
       "slug": "analytics-eng-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Analytics Engineer Peer Pack: Netflix 119 vs Airbnb 44"
+      "title": "Analytics Engineer Headcount: Netflix (119) vs Airbnb (44)"
     },
     {
       "url": "https://metix.ai/reports/series/data-scientist-employed-vs-open-2026",
@@ -2746,7 +2802,7 @@
       "kind": "series",
       "slug": "data-scientist-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Data Scientist employed per open role"
+      "title": "Data Scientist Hiring vs Headcount: Microsoft (104.2×) &amp; Meta"
     },
     {
       "url": "https://metix.ai/reports/series/impl-eng-peer-pack-2026",
@@ -2754,7 +2810,7 @@
       "kind": "series",
       "slug": "impl-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Implementation Engineer Peer Pack: Google 161 vs Meta 26"
+      "title": "Implementation Engineer Headcount: Google (161) vs Meta (26)"
     },
     {
       "url": "https://metix.ai/reports/series/snowflake-company-teardown-2026",
@@ -2762,7 +2818,7 @@
       "kind": "series",
       "slug": "snowflake-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Snowflake seat shelf"
+      "title": "Snowflake Headcount by Role: 9,579 Staff (Software Engineer 1,675)"
     },
     {
       "url": "https://metix.ai/reports/series/uber-to-data-infra-talent-flow-2026",
@@ -2770,7 +2826,7 @@
       "kind": "series",
       "slug": "uber-to-data-infra-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Uber to Stripe talent flow"
+      "title": "Ex-Uber Talent at Stripe (206) &amp; Databricks Flow"
     },
     {
       "url": "https://metix.ai/reports/series/apple-to-frontier-labs-talent-flow-2026",
@@ -2778,7 +2834,7 @@
       "kind": "series",
       "slug": "apple-to-frontier-labs-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Apple to OpenAI talent flow"
+      "title": "Ex-Apple Talent at OpenAI (431) &amp; Anthropic Flow"
     },
     {
       "url": "https://metix.ai/reports/series/databricks-company-teardown-2026",
@@ -2786,7 +2842,7 @@
       "kind": "series",
       "slug": "databricks-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Databricks seat shelf"
+      "title": "Databricks Headcount by Role: 11,373 Staff (Software Engineer 1,985)"
     },
     {
       "url": "https://metix.ai/reports/series/infra-eng-peer-pack-2026",
@@ -2794,7 +2850,7 @@
       "kind": "series",
       "slug": "infra-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Infrastructure Engineer Peer Pack: NVIDIA 113 vs Amazon 100"
+      "title": "Infrastructure Engineer Headcount: NVIDIA (113) vs Amazon (100)"
     },
     {
       "url": "https://metix.ai/reports/series/principal-eng-peer-pack-2026",
@@ -2802,7 +2858,7 @@
       "kind": "series",
       "slug": "principal-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Principal Engineer Peer Pack: Amazon 844 vs Oracle 682"
+      "title": "Principal Engineer Headcount: Amazon (844) vs Oracle (682)"
     },
     {
       "url": "https://metix.ai/reports/series/sec-eng-employed-vs-open-2026",
@@ -2810,7 +2866,7 @@
       "kind": "series",
       "slug": "sec-eng-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Security Engineer employed per open role"
+      "title": "Security Engineer Hiring vs Headcount: Microsoft (69.0×) &amp; Amazon"
     },
     {
       "url": "https://metix.ai/reports/series/eng-manager-employed-vs-open-2026",
@@ -2818,7 +2874,7 @@
       "kind": "series",
       "slug": "eng-manager-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Engineering Manager employed per open role"
+      "title": "Engineering Manager Hiring vs Headcount: Meta (399.5×) &amp; Microsoft"
     },
     {
       "url": "https://metix.ai/reports/series/fullstack-eng-peer-pack-2026",
@@ -2826,7 +2882,7 @@
       "kind": "series",
       "slug": "fullstack-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Full Stack Engineer Peer Pack: Google 392 vs Amazon 386"
+      "title": "Full Stack Engineer Headcount: Google (392) vs Amazon (386)"
     },
     {
       "url": "https://metix.ai/reports/series/microsoft-to-data-infra-talent-flow-2026",
@@ -2834,7 +2890,7 @@
       "kind": "series",
       "slug": "microsoft-to-data-infra-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Microsoft to Databricks talent flow"
+      "title": "Ex-Microsoft Talent at Databricks (873) &amp; Snowflake Flow"
     },
     {
       "url": "https://metix.ai/reports/series/staff-eng-peer-pack-2026",
@@ -2842,7 +2898,7 @@
       "kind": "series",
       "slug": "staff-eng-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Staff Engineer Peer Pack: Google 205 vs IBM 149"
+      "title": "Staff Engineer Headcount: Google (205) vs IBM (149)"
     },
     {
       "url": "https://metix.ai/reports/series/stripe-company-teardown-2026",
@@ -2850,7 +2906,7 @@
       "kind": "series",
       "slug": "stripe-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Stripe seat shelf"
+      "title": "Stripe Headcount by Role: 11,452 Staff (Software Engineer 2,770)"
     },
     {
       "url": "https://metix.ai/reports/series/amazon-to-data-infra-talent-flow-2026",
@@ -2858,7 +2914,7 @@
       "kind": "series",
       "slug": "amazon-to-data-infra-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Amazon into Databricks"
+      "title": "Ex-Amazon Talent at Databricks (1,379) &amp; Stripe Flow"
     },
     {
       "url": "https://metix.ai/reports/series/appsec-eng-peer-pack-2026",
@@ -2866,7 +2922,7 @@
       "kind": "series",
       "slug": "appsec-eng-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Application Security Engineer Peer Pack: Amazon 117 vs Salesforce 54"
+      "title": "AppSec Engineer Headcount: Amazon (117) vs Salesforce (54)"
     },
     {
       "url": "https://metix.ai/reports/series/mobile-eng-peer-pack-2026",
@@ -2874,7 +2930,7 @@
       "kind": "series",
       "slug": "mobile-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Mobile Engineer Peer Pack: Microsoft 161 vs Amazon 91"
+      "title": "Mobile Engineer Headcount: Microsoft (161) vs Amazon (91)"
     },
     {
       "url": "https://metix.ai/reports/series/nvidia-company-teardown-2026",
@@ -2882,7 +2938,7 @@
       "kind": "series",
       "slug": "nvidia-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "NVIDIA seat shelf"
+      "title": "NVIDIA Headcount by Role: 39,150 Staff (Software Engineer 6,875)"
     },
     {
       "url": "https://metix.ai/reports/series/pm-employed-vs-open-2026",
@@ -2890,7 +2946,7 @@
       "kind": "series",
       "slug": "pm-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Product Manager employed per open role"
+      "title": "Product Manager Hiring vs Headcount: Meta (42.9×) &amp; Google"
     },
     {
       "url": "https://metix.ai/reports/series/meta-to-data-infra-talent-flow-2026",
@@ -2898,7 +2954,7 @@
       "kind": "series",
       "slug": "meta-to-data-infra-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Meta to Stripe talent flow"
+      "title": "Ex-Meta Talent at Stripe (476) &amp; Databricks Flow"
     },
     {
       "url": "https://metix.ai/reports/series/openai-company-teardown-2026",
@@ -2906,7 +2962,7 @@
       "kind": "series",
       "slug": "openai-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "OpenAI seat shelf"
+      "title": "OpenAI Headcount by Role: 7,242 Staff (Member of Technical Staff 1,973)"
     },
     {
       "url": "https://metix.ai/reports/series/platform-eng-peer-pack-2026",
@@ -2914,7 +2970,7 @@
       "kind": "series",
       "slug": "platform-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Platform Engineer Peer Pack: Microsoft 42 vs NVIDIA 29"
+      "title": "Platform Engineer Headcount: Microsoft (42) vs NVIDIA (29)"
     },
     {
       "url": "https://metix.ai/reports/series/sre-employed-vs-open-2026",
@@ -2922,7 +2978,7 @@
       "kind": "series",
       "slug": "sre-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Site Reliability Engineer employed per open role"
+      "title": "Site Reliability Engineer Hiring vs Headcount: Amazon (31.0×) &amp; Google"
     },
     {
       "url": "https://metix.ai/reports/series/support-eng-peer-pack-2026",
@@ -2930,7 +2986,7 @@
       "kind": "series",
       "slug": "support-eng-peer-pack-2026",
       "lastmod": "2026-10-30",
-      "title": "Support Engineer Peer Pack: Twilio 252 vs Datadog 176"
+      "title": "Support Engineer Headcount: Twilio (252) vs Datadog (176)"
     },
     {
       "url": "https://metix.ai/reports/series/anthropic-company-teardown-2026",
@@ -2938,7 +2994,7 @@
       "kind": "series",
       "slug": "anthropic-company-teardown-2026",
       "lastmod": "2026-11-06",
-      "title": "Anthropic seat shelf"
+      "title": "Anthropic Headcount by Role: 3,527 Mapped Staff"
     },
     {
       "url": "https://metix.ai/reports/series/data-analyst-peer-pack-2026",
@@ -2946,7 +3002,7 @@
       "kind": "series",
       "slug": "data-analyst-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Data Analyst Peer Pack: Amazon 2910 vs Google 1413"
+      "title": "Data Analyst Headcount: Amazon (2,910) vs Google (1,413)"
     },
     {
       "url": "https://metix.ai/reports/series/google-to-frontier-labs-talent-flow-2026",
@@ -2954,7 +3010,7 @@
       "kind": "series",
       "slug": "google-to-frontier-labs-talent-flow-2026",
       "lastmod": "2026-11-06",
-      "title": "Google to OpenAI talent flow"
+      "title": "Ex-Google Talent at OpenAI (1,156) &amp; Anthropic Flow"
     },
     {
       "url": "https://metix.ai/reports/series/ml-eng-employed-vs-open-2026",
@@ -2962,7 +3018,7 @@
       "kind": "series",
       "slug": "ml-eng-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Machine Learning Engineer employed per open role"
+      "title": "Machine Learning Engineer Hiring vs Headcount: Meta (484.8×) &amp; Google"
     },
     {
       "url": "https://metix.ai/reports/series/tech-recruiter-peer-pack-2026",
@@ -2970,7 +3026,7 @@
       "kind": "series",
       "slug": "tech-recruiter-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Technical Recruiter Peer Pack: Amazon 1132 vs Google 567"
+      "title": "Technical Recruiter Headcount: Amazon (1,132) vs Google (567)"
     },
     {
       "url": "https://metix.ai/reports/series/be-eng-peer-pack-2026",
@@ -2978,7 +3034,7 @@
       "kind": "series",
       "slug": "be-eng-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Backend Engineer Peer Pack: LinkedIn 88 vs Shopify 49"
+      "title": "Backend Engineer Headcount: LinkedIn (88) vs Shopify (49)"
     },
     {
       "url": "https://metix.ai/reports/series/ce-peer-pack-2026",
@@ -2986,7 +3042,7 @@
       "kind": "series",
       "slug": "ce-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Customer Engineer Peer Pack: Google 1884 vs Microsoft 622"
+      "title": "Customer Engineer Headcount: Google (1,884) vs Microsoft (622)"
     },
     {
       "url": "https://metix.ai/reports/series/cloud-eng-peer-pack-2026",
@@ -2994,7 +3050,7 @@
       "kind": "series",
       "slug": "cloud-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Cloud Engineer Peer Pack: Amazon 1441 vs Microsoft 467"
+      "title": "Cloud Engineer Headcount: Amazon (1,441) vs Microsoft (467)"
     },
     {
       "url": "https://metix.ai/reports/series/devops-eng-peer-pack-2026",
@@ -3002,7 +3058,7 @@
       "kind": "series",
       "slug": "devops-eng-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Five DevOps Engineer benches on one date: inside the 1,036-profile peer pack"
+      "title": "DevOps Engineer Headcount: Amazon (560) vs Microsoft (296)"
     },
     {
       "url": "https://metix.ai/reports/series/fe-eng-peer-pack-2026",
@@ -3010,7 +3066,7 @@
       "kind": "series",
       "slug": "fe-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Frontend Engineer Peer Pack: Google 384 vs Meta 204"
+      "title": "Frontend Engineer Headcount: Google (384) vs Meta (204)"
     },
     {
       "url": "https://metix.ai/reports/series/android-eng-peer-pack-2026",
@@ -3018,7 +3074,7 @@
       "kind": "series",
       "slug": "android-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Android Engineer Peer Pack: Google 345 vs Meta 61"
+      "title": "Android Engineer Headcount: Google (345) vs Meta (61)"
     },
     {
       "url": "https://metix.ai/reports/series/fde-peer-pack-2026",
@@ -3026,7 +3082,7 @@
       "kind": "series",
       "slug": "fde-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Forward Deployed Engineer Peer Pack: Palantir 576 vs Meta 96"
+      "title": "Forward Deployed Engineer Headcount: Palantir (576) vs Meta (96)"
     },
     {
       "url": "https://metix.ai/reports/series/fw-eng-peer-pack-2026",
@@ -3034,7 +3090,7 @@
       "kind": "series",
       "slug": "fw-eng-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Firmware Engineer Peer Pack: Apple 820 vs Qualcomm 521"
+      "title": "Firmware Engineer Headcount: Apple (820) vs Qualcomm (521)"
     },
     {
       "url": "https://metix.ai/reports/series/hw-eng-peer-pack-2026",
@@ -3042,7 +3098,7 @@
       "kind": "series",
       "slug": "hw-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Hardware Engineer Peer Pack: Apple 828 vs Qualcomm 432"
+      "title": "Hardware Engineer Headcount: Apple (828) vs Qualcomm (432)"
     },
     {
       "url": "https://metix.ai/reports/series/uxr-peer-pack-2026",
@@ -3050,7 +3106,7 @@
       "kind": "series",
       "slug": "uxr-peer-pack-2026",
       "lastmod": "2026-10-30",
-      "title": "UX Researcher Peer Pack: Google 1121 vs Meta 634"
+      "title": "UX Researcher Headcount: Google (1,121) vs Meta (634)"
     },
     {
       "url": "https://metix.ai/reports/series/data-eng-employed-vs-open-2026",
@@ -3058,7 +3114,7 @@
       "kind": "series",
       "slug": "data-eng-employed-vs-open-2026",
       "lastmod": "2026-11-06",
-      "title": "Data Engineer Employed vs Open: Netflix 173 against 5"
+      "title": "Data Engineer Hiring vs Headcount: Airbnb (79.0×) &amp; Netflix"
     },
     {
       "url": "https://metix.ai/reports/series/data-eng-peer-pack-2026",
@@ -3066,7 +3122,7 @@
       "kind": "series",
       "slug": "data-eng-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Data Engineer Peer Pack: Netflix 173 vs Uber 89"
+      "title": "Data Engineer Headcount: Netflix (173) vs Uber (89)"
     },
     {
       "url": "https://metix.ai/reports/series/ios-eng-peer-pack-2026",
@@ -3074,7 +3130,7 @@
       "kind": "series",
       "slug": "ios-eng-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "iOS Engineer Peer Pack: Apple 367 vs Meta 83"
+      "title": "iOS Engineer Headcount: Apple (367) vs Meta (83)"
     },
     {
       "url": "https://metix.ai/reports/series/product-mgr-peer-pack-2026",
@@ -3082,7 +3138,7 @@
       "kind": "series",
       "slug": "product-mgr-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Product Manager Peer Pack: Google 4099 vs Meta 2657"
+      "title": "Product Manager Headcount: Google (4,099) vs Meta (2,657)"
     },
     {
       "url": "https://metix.ai/reports/series/sales-eng-peer-pack-2026",
@@ -3090,7 +3146,7 @@
       "kind": "series",
       "slug": "sales-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Sales Engineer Peer Pack: Snowflake 328 vs Cisco 114"
+      "title": "Sales Engineer Headcount: Snowflake (328) vs Cisco (114)"
     },
     {
       "url": "https://metix.ai/reports/series/tpm-peer-pack-2026",
@@ -3098,7 +3154,7 @@
       "kind": "series",
       "slug": "tpm-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Technical Program Manager Peer Pack: Amazon 5100 vs Google 3831"
+      "title": "Technical Program Manager Headcount: Amazon (5,100) vs Google (3,831)"
     },
     {
       "url": "https://metix.ai/reports/series/applied-scientist-peer-pack-2026",
@@ -3106,7 +3162,7 @@
       "kind": "series",
       "slug": "applied-scientist-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Applied Scientist Peer Pack: Amazon 4413 vs Microsoft 1624"
+      "title": "Applied Scientist Headcount: Amazon (4,413) vs Microsoft (1,624)"
     },
     {
       "url": "https://metix.ai/reports/series/data-scientist-peer-pack-2026",
@@ -3114,7 +3170,7 @@
       "kind": "series",
       "slug": "data-scientist-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Data Scientist Peer Pack: Meta 2593 vs Uber 378"
+      "title": "Data Scientist Headcount: Meta (2,593) vs Uber (378)"
     },
     {
       "url": "https://metix.ai/reports/series/product-designer-peer-pack-2026",
@@ -3122,7 +3178,7 @@
       "kind": "series",
       "slug": "product-designer-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Product Designer Peer Pack: Shopify 206 vs Adobe 138"
+      "title": "Product Designer Headcount: Shopify (206) vs Adobe (138)"
     },
     {
       "url": "https://metix.ai/reports/series/research-scientist-peer-pack-2026",
@@ -3130,7 +3186,7 @@
       "kind": "series",
       "slug": "research-scientist-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Research Scientist Peer Pack: Meta 3255 vs Google 790"
+      "title": "Research Scientist Headcount: Meta (3,255) vs Google (790)"
     },
     {
       "url": "https://metix.ai/reports/series/solutions-eng-peer-pack-2026",
@@ -3138,7 +3194,7 @@
       "kind": "series",
       "slug": "solutions-eng-peer-pack-2026",
       "lastmod": "2026-10-30",
-      "title": "Solutions Engineer Peer Pack: Databricks 664 vs Cloudflare 327"
+      "title": "Solutions Engineer Headcount: Databricks (664) vs Cloudflare (327)"
     },
     {
       "url": "https://metix.ai/reports/series/infra-sre-peer-pack-2026",
@@ -3146,7 +3202,7 @@
       "kind": "series",
       "slug": "infra-sre-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Infra SRE Peer Pack: Elastic 56 vs MongoDB 43"
+      "title": "Site Reliability Engineer Headcount: Elastic (56) vs MongoDB (43)"
     },
     {
       "url": "https://metix.ai/reports/series/ml-eng-peer-pack-2026",
@@ -3154,7 +3210,7 @@
       "kind": "series",
       "slug": "ml-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Machine Learning Engineer Peer Pack: Scale AI 89 vs Hugging Face 62"
+      "title": "Machine Learning Engineer Headcount: Scale AI (89) vs Hugging Face (62)"
     },
     {
       "url": "https://metix.ai/reports/series/network-eng-peer-pack-2026",
@@ -3162,7 +3218,7 @@
       "kind": "series",
       "slug": "network-eng-peer-pack-2026",
       "lastmod": "2026-11-11",
-      "title": "Network Engineer Peer Pack: Cisco 1896 vs Juniper 150"
+      "title": "Network Engineer Headcount: Cisco (1,896) vs Juniper (150)"
     },
     {
       "url": "https://metix.ai/reports/series/sec-eng-peer-pack-2026",
@@ -3170,7 +3226,7 @@
       "kind": "series",
       "slug": "sec-eng-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Security Engineer Peer Pack: Palo Alto Networks 193 vs CrowdStrike 100"
+      "title": "Security Engineer: Palo Alto Networks (193) vs CrowdStrike (100)"
     },
     {
       "url": "https://metix.ai/reports/series/solutions-arch-peer-pack-2026",
@@ -3178,7 +3234,7 @@
       "kind": "series",
       "slug": "solutions-arch-peer-pack-2026",
       "lastmod": "2026-10-30",
-      "title": "Solutions Architect Peer Pack: Databricks 1505 vs Snowflake 322"
+      "title": "Solutions Architect Headcount: Databricks (1,505) vs Snowflake (322)"
     },
     {
       "url": "https://metix.ai/reports/series/sre-peer-pack-2026",
@@ -3186,7 +3242,7 @@
       "kind": "series",
       "slug": "sre-peer-pack-2026",
       "lastmod": "2026-11-06",
-      "title": "Site Reliability Engineer Peer Pack: GitLab 47 vs CrowdStrike 26"
+      "title": "Site Reliability Engineer Headcount: GitLab (47) vs CrowdStrike (26)"
     },
     {
       "url": "https://metix.ai/reports/series/jpmorgan-goldman-markets-2026",
@@ -3337,8 +3393,8 @@
       "canonical": "https://metix.ai/reports/series/career-families",
       "kind": "series",
       "slug": "career-families",
-      "lastmod": "2026-09-23",
-      "title": "Career families"
+      "lastmod": "2026-11-25",
+      "title": "Company &amp; Career-Family Report Directory"
     }
   ]
 }
