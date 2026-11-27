@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-26T16:52:45Z",
+  "generated_at": "2026-11-27T09:40:59Z",
   "canonical_host": "https://metix.ai",
   "source_sitemaps": [
     "https://metix.ai/reports/sitemap.xml",
     "https://metix.ai/reports/series/sitemap.xml"
   ],
   "counts": {
-    "total": 552,
+    "total": 592,
     "hubs": 2,
-    "series": 336,
-    "mapping": 214
+    "series": 357,
+    "mapping": 233
   },
   "entries": [
     {
@@ -17,7 +17,7 @@
       "canonical": "https://metix.ai/reports/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Metix AI Reports"
     },
     {
@@ -25,7 +25,7 @@
       "canonical": "https://metix.ai/reports/series/",
       "kind": "hub",
       "slug": null,
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Metix AI Series Reports"
     },
     {
@@ -233,7 +233,7 @@
       "canonical": "https://metix.ai/reports/topics/ai-infra-chips",
       "kind": "mapping",
       "slug": "ai-infra-chips",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "AI Infrastructure &amp; Chip Talent Hub: 2,615 Daily US Jobs &amp; 21 Chipmakers"
     },
     {
@@ -241,7 +241,7 @@
       "canonical": "https://metix.ai/reports/topics/clinical-techbio",
       "kind": "mapping",
       "slug": "clinical-techbio",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "Clinical AI &amp; TechBio Talent Hub: 6,415 Healthcare AI &amp; 1,015 Drug Discovery Staff"
     },
     {
@@ -249,7 +249,7 @@
       "canonical": "https://metix.ai/reports/topics/embodied-robotics",
       "kind": "mapping",
       "slug": "embodied-robotics",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "Embodied AI &amp; Humanoid Robotics Talent Hub: 1,930 Profiles at 13 Firms"
     },
     {
@@ -257,7 +257,7 @@
       "canonical": "https://metix.ai/reports/topics/fintech-ai",
       "kind": "mapping",
       "slug": "fintech-ai",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "FinTech Engineering &amp; Quant-to-AI Talent Hub: 25,860 Engineers &amp; 364 Quant Moves"
     },
     {
@@ -265,7 +265,7 @@
       "canonical": "https://metix.ai/reports/topics/frontier-ai-labs",
       "kind": "mapping",
       "slug": "frontier-ai-labs",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "Frontier AI Labs Talent Hub: 19,057 Profiles Across OpenAI, Anthropic &amp; xAI"
     },
     {
@@ -273,15 +273,31 @@
       "canonical": "https://metix.ai/reports/topics/overseas-chinese-talent",
       "kind": "mapping",
       "slug": "overseas-chinese-talent",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "Global Tech Jobs &amp; Overseas Chip Talent Hub: 6.17M Jobs &amp; 101,975 Chip Leads"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/ai-customer-service-customer-facing-share",
+      "canonical": "https://metix.ai/reports/questions/ai-customer-service-customer-facing-share",
+      "kind": "mapping",
+      "slug": "ai-customer-service-customer-facing-share",
+      "lastmod": "2026-11-11",
+      "title": "What share of AI customer-service company staff face customers?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/ai-customer-service-cx-prior-share",
+      "canonical": "https://metix.ai/reports/questions/ai-customer-service-cx-prior-share",
+      "kind": "mapping",
+      "slug": "ai-customer-service-cx-prior-share",
+      "lastmod": "2026-11-11",
+      "title": "What share of AI customer-service talent came from legacy CX software?"
     },
     {
       "url": "https://metix.ai/reports/questions/ai-infra-accountability-seats",
       "canonical": "https://metix.ai/reports/questions/ai-infra-accountability-seats",
       "kind": "mapping",
       "slug": "ai-infra-accountability-seats",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-08-20",
       "title": "How many accountability seats connect AI-infra capital to delivery?"
     },
     {
@@ -289,7 +305,7 @@
       "canonical": "https://metix.ai/reports/questions/ai-infra-construction-scarcity",
       "kind": "mapping",
       "slug": "ai-infra-construction-scarcity",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "Which AI infrastructure role is scarcest? (construction proxy 19.6%)"
     },
     {
@@ -297,7 +313,7 @@
       "canonical": "https://metix.ai/reports/questions/ai-infra-core-company-map",
       "kind": "mapping",
       "slug": "ai-infra-core-company-map",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-08-20",
       "title": "How many core companies are on the AI-infra capital talent map?"
     },
     {
@@ -305,7 +321,7 @@
       "canonical": "https://metix.ai/reports/questions/ai-infra-datacenter-engineer-postings",
       "kind": "mapping",
       "slug": "ai-infra-datacenter-engineer-postings",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many US data-center engineer jobs post per day? (2,615 / day)"
     },
     {
@@ -313,7 +329,7 @@
       "canonical": "https://metix.ai/reports/questions/ai-infra-electrical-power-growth",
       "kind": "mapping",
       "slug": "ai-infra-electrical-power-growth",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How fast is electrical and power hiring growing versus data-center engineers?"
     },
     {
@@ -321,7 +337,7 @@
       "canonical": "https://metix.ai/reports/questions/ai-infra-internal-mobility",
       "kind": "mapping",
       "slug": "ai-infra-internal-mobility",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "Where do AI infrastructure hires come from?"
     },
     {
@@ -329,7 +345,7 @@
       "canonical": "https://metix.ai/reports/questions/ai-video-builder-share",
       "kind": "mapping",
       "slug": "ai-video-builder-share",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many people at AI video companies are builders?"
     },
     {
@@ -337,7 +353,7 @@
       "canonical": "https://metix.ai/reports/questions/ai-video-joined-two-years",
       "kind": "mapping",
       "slug": "ai-video-joined-two-years",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "What share of AI video builders joined in the last two years?"
     },
     {
@@ -345,7 +361,7 @@
       "canonical": "https://metix.ai/reports/questions/ai-video-phd-share",
       "kind": "mapping",
       "slug": "ai-video-phd-share",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "What is the PhD share of AI video builders? (builders’ PhD share 13.7%)"
     },
     {
@@ -353,7 +369,7 @@
       "canonical": "https://metix.ai/reports/questions/anthropic-gtm-share",
       "kind": "mapping",
       "slug": "anthropic-gtm-share",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-10",
       "title": "How commercial is Anthropic’s talent mix? (GTM 22.6%)"
     },
     {
@@ -361,7 +377,7 @@
       "canonical": "https://metix.ai/reports/questions/anthropic-mts-share",
       "kind": "mapping",
       "slug": "anthropic-mts-share",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "What share of Anthropic staff are Member of Technical Staff?"
     },
     {
@@ -369,7 +385,7 @@
       "canonical": "https://metix.ai/reports/questions/anthropic-phd-share",
       "kind": "mapping",
       "slug": "anthropic-phd-share",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "What share of Anthropic technical staff hold a PhD? (15.5% of 1,281)"
     },
     {
@@ -377,7 +393,7 @@
       "canonical": "https://metix.ai/reports/questions/anthropic-talent-sources",
       "kind": "mapping",
       "slug": "anthropic-talent-sources",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "Where does Anthropic hire engineers from? (Google 302 (24%))"
     },
     {
@@ -385,7 +401,7 @@
       "canonical": "https://metix.ai/reports/questions/anthropic-tenure",
       "kind": "mapping",
       "slug": "anthropic-tenure",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How new is Anthropic’s engineering team? (median 13 months)"
     },
     {
@@ -393,7 +409,7 @@
       "canonical": "https://metix.ai/reports/questions/clinical-ai-headcount",
       "kind": "mapping",
       "slug": "clinical-ai-headcount",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many US clinical-AI profiles are mapped? (22 companies, 6,415 US)"
     },
     {
@@ -401,7 +417,7 @@
       "canonical": "https://metix.ai/reports/questions/clinical-background-share",
       "kind": "mapping",
       "slug": "clinical-background-share",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many people in the clinical-AI map have a clinical background?"
     },
     {
@@ -409,15 +425,31 @@
       "canonical": "https://metix.ai/reports/questions/clinical-ml-bilingual-talent",
       "kind": "mapping",
       "slug": "clinical-ml-bilingual-talent",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many clinical-by-ML bilingual people are mapped?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/databricks-ai-ml-title-headcount",
+      "canonical": "https://metix.ai/reports/questions/databricks-ai-ml-title-headcount",
+      "kind": "mapping",
+      "slug": "databricks-ai-ml-title-headcount",
+      "lastmod": "2026-11-11",
+      "title": "How many Databricks employees hold AI/ML titles? (137 AI/ML, 40.6% YoY)"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/databricks-fde-hiring-growth",
+      "canonical": "https://metix.ai/reports/questions/databricks-fde-hiring-growth",
+      "kind": "mapping",
+      "slug": "databricks-fde-hiring-growth",
+      "lastmod": "2026-11-11",
+      "title": "How fast did Databricks Forward Deployed Engineer hiring grow?"
     },
     {
       "url": "https://metix.ai/reports/questions/discovery-loop-founder-capabilities",
       "canonical": "https://metix.ai/reports/questions/discovery-loop-founder-capabilities",
       "kind": "mapping",
       "slug": "discovery-loop-founder-capabilities",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-10",
       "title": "How many founder capabilities does the Discovery Loop map name?"
     },
     {
@@ -425,7 +457,7 @@
       "canonical": "https://metix.ai/reports/questions/discovery-loop-lineage-talent",
       "kind": "mapping",
       "slug": "discovery-loop-lineage-talent",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-10",
       "title": "How many lineage-covered people are in the Discovery Loop map?"
     },
     {
@@ -433,7 +465,7 @@
       "canonical": "https://metix.ai/reports/questions/discovery-loop-peer-postings",
       "kind": "mapping",
       "slug": "discovery-loop-peer-postings",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-10",
       "title": "How many peer postings are in the Discovery Loop map?"
     },
     {
@@ -441,7 +473,7 @@
       "canonical": "https://metix.ai/reports/questions/embodied-ai-headcount",
       "kind": "mapping",
       "slug": "embodied-ai-headcount",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many embodied-AI companies and profiles are mapped?"
     },
     {
@@ -449,7 +481,7 @@
       "canonical": "https://metix.ai/reports/questions/embodied-ai-technical-pool",
       "kind": "mapping",
       "slug": "embodied-ai-technical-pool",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How large is the embodied-AI technical pool? (1,044 technical)"
     },
     {
@@ -457,7 +489,7 @@
       "canonical": "https://metix.ai/reports/questions/embodied-hardware-ai-hybrids",
       "kind": "mapping",
       "slug": "embodied-hardware-ai-hybrids",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How big is the hardware-by-AI hybrid bench in embodied AI?"
     },
     {
@@ -465,7 +497,7 @@
       "canonical": "https://metix.ai/reports/questions/fintech-engineer-headcount",
       "kind": "mapping",
       "slug": "fintech-engineer-headcount",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many engineers are in the fintech momentum table?"
     },
     {
@@ -473,7 +505,7 @@
       "canonical": "https://metix.ai/reports/questions/fintech-joined-last-year",
       "kind": "mapping",
       "slug": "fintech-joined-last-year",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "What share of fintech engineers joined in the last year?"
     },
     {
@@ -481,7 +513,7 @@
       "canonical": "https://metix.ai/reports/questions/fintech-ramp-net-import",
       "kind": "mapping",
       "slug": "fintech-ramp-net-import",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "Which fintech company is the top net importer in the peer circle?"
     },
     {
@@ -489,7 +521,7 @@
       "canonical": "https://metix.ai/reports/questions/frontier-labs-headcount",
       "kind": "mapping",
       "slug": "frontier-labs-headcount",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many people are in the 13-lab technical pool?"
     },
     {
@@ -497,7 +529,7 @@
       "canonical": "https://metix.ai/reports/questions/frontier-labs-research-share",
       "kind": "mapping",
       "slug": "frontier-labs-research-share",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "What share of frontier-lab staff are on a research track?"
     },
     {
@@ -505,7 +537,7 @@
       "canonical": "https://metix.ai/reports/questions/game-engine-graphics-talent",
       "kind": "mapping",
       "slug": "game-engine-graphics-talent",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many engine-side graphics specialists are mapped? (486 graphics)"
     },
     {
@@ -513,15 +545,31 @@
       "canonical": "https://metix.ai/reports/questions/game-engine-technical-pool",
       "kind": "mapping",
       "slug": "game-engine-technical-pool",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How large is the engine-side technical pool?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/goldman-sachs-senior-banker-net-flow",
+      "canonical": "https://metix.ai/reports/questions/goldman-sachs-senior-banker-net-flow",
+      "kind": "mapping",
+      "slug": "goldman-sachs-senior-banker-net-flow",
+      "lastmod": "2026-11-11",
+      "title": "What is Goldman Sachs's senior-banker net flow across peer banks?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/infosys-vs-cognizant-genai-bench",
+      "canonical": "https://metix.ai/reports/questions/infosys-vs-cognizant-genai-bench",
+      "kind": "mapping",
+      "slug": "infosys-vs-cognizant-genai-bench",
+      "lastmod": "2026-11-11",
+      "title": "How do Infosys and Cognizant compare on GenAI delivery staffing?"
     },
     {
       "url": "https://metix.ai/reports/questions/intel-feeder-to-chip-startups",
       "canonical": "https://metix.ai/reports/questions/intel-feeder-to-chip-startups",
       "kind": "mapping",
       "slug": "intel-feeder-to-chip-startups",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-10",
       "title": "How often is Intel the top feeder into chip companies? (9 of 14)"
     },
     {
@@ -529,7 +577,7 @@
       "canonical": "https://metix.ai/reports/questions/jacobs-datacenter-hiring-growth",
       "kind": "mapping",
       "slug": "jacobs-datacenter-hiring-growth",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How fast is Jacobs hiring for data centers? (Jacobs +295.0%)"
     },
     {
@@ -537,7 +585,7 @@
       "canonical": "https://metix.ai/reports/questions/nvidia-500b-capital-talent",
       "kind": "mapping",
       "slug": "nvidia-500b-capital-talent",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-08-20",
       "title": "What talent sits behind the $500B+ AI-infra capital target?"
     },
     {
@@ -545,7 +593,7 @@
       "canonical": "https://metix.ai/reports/questions/nvidia-golden-handcuff-share",
       "kind": "mapping",
       "slug": "nvidia-golden-handcuff-share",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-10",
       "title": "What share of NVIDIA engineers does the chip map call golden-handcuffed? (NVIDIA 1/7)"
     },
     {
@@ -553,7 +601,7 @@
       "canonical": "https://metix.ai/reports/questions/openai-anthropic-xai-engineering-share",
       "kind": "mapping",
       "slug": "openai-anthropic-xai-engineering-share",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-10",
       "title": "What is the engineering share at OpenAI vs Anthropic vs xAI?"
     },
     {
@@ -561,7 +609,7 @@
       "canonical": "https://metix.ai/reports/questions/openai-anthropic-xai-sources",
       "kind": "mapping",
       "slug": "openai-anthropic-xai-sources",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-10",
       "title": "Where do OpenAI, Anthropic and xAI hire from?"
     },
     {
@@ -569,7 +617,7 @@
       "canonical": "https://metix.ai/reports/questions/openai-mts-share",
       "kind": "mapping",
       "slug": "openai-mts-share",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "OpenAI MTS: 1,725 of 3,041 Technical"
     },
     {
@@ -577,7 +625,7 @@
       "canonical": "https://metix.ai/reports/questions/openai-phd-share",
       "kind": "mapping",
       "slug": "openai-phd-share",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "What share of OpenAI technical staff hold a PhD? (14.4% of 3,041)"
     },
     {
@@ -585,7 +633,7 @@
       "canonical": "https://metix.ai/reports/questions/openai-talent-sources",
       "kind": "mapping",
       "slug": "openai-talent-sources",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "Where does OpenAI hire engineers from? (Google 702 (23%))"
     },
     {
@@ -593,7 +641,7 @@
       "canonical": "https://metix.ai/reports/questions/openai-tenure",
       "kind": "mapping",
       "slug": "openai-tenure",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How new is OpenAI’s engineering team? (median 17 months)"
     },
     {
@@ -601,7 +649,7 @@
       "canonical": "https://metix.ai/reports/questions/openai-to-anthropic-moves",
       "kind": "mapping",
       "slug": "openai-to-anthropic-moves",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-10",
       "title": "How many visible moves from OpenAI to Anthropic? (47 vs 10)"
     },
     {
@@ -609,7 +657,7 @@
       "canonical": "https://metix.ai/reports/questions/openai-us-share",
       "kind": "mapping",
       "slug": "openai-us-share",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "What share of OpenAI technical staff are in the US? (88% in the US)"
     },
     {
@@ -617,7 +665,7 @@
       "canonical": "https://metix.ai/reports/questions/overseas-chip-company-map",
       "kind": "mapping",
       "slug": "overseas-chip-company-map",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many companies are on the overseas chip map? (58 companies)"
     },
     {
@@ -625,7 +673,7 @@
       "canonical": "https://metix.ai/reports/questions/overseas-chip-priority-targets",
       "kind": "mapping",
       "slug": "overseas-chip-priority-targets",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many gated priority targets are on the overseas chip map?"
     },
     {
@@ -633,7 +681,7 @@
       "canonical": "https://metix.ai/reports/questions/overseas-chip-talent-leads",
       "kind": "mapping",
       "slug": "overseas-chip-talent-leads",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many overseas chip talent leads are mapped?"
     },
     {
@@ -641,7 +689,7 @@
       "canonical": "https://metix.ai/reports/questions/overseas-jobs-function-mix",
       "kind": "mapping",
       "slug": "overseas-jobs-function-mix",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "Which functions dominate overseas hiring? (four functions 44.7%)"
     },
     {
@@ -649,7 +697,7 @@
       "canonical": "https://metix.ai/reports/questions/overseas-jobs-industry-mix",
       "kind": "mapping",
       "slug": "overseas-jobs-industry-mix",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "Which industries dominate overseas hiring? (three industries 49.8%)"
     },
     {
@@ -657,7 +705,7 @@
       "canonical": "https://metix.ai/reports/questions/overseas-jobs-top-countries",
       "kind": "mapping",
       "slug": "overseas-jobs-top-countries",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "Which countries hold the most overseas job postings? (Top 5 = 73.2%)"
     },
     {
@@ -665,7 +713,7 @@
       "canonical": "https://metix.ai/reports/questions/overseas-jobs-us-share",
       "kind": "mapping",
       "slug": "overseas-jobs-us-share",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many overseas jobs are in the US? (US 3,329,273 / 54.0%)"
     },
     {
@@ -673,7 +721,7 @@
       "canonical": "https://metix.ai/reports/questions/quant-ai-corridor-size",
       "kind": "mapping",
       "slug": "quant-ai-corridor-size",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How large is the visible quant-to-AI-lab corridor?"
     },
     {
@@ -681,7 +729,7 @@
       "canonical": "https://metix.ai/reports/questions/quant-ai-current-pool",
       "kind": "mapping",
       "slug": "quant-ai-current-pool",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many current profiles are at the 25 quant firms? (29,317 profiles)"
     },
     {
@@ -689,15 +737,55 @@
       "canonical": "https://metix.ai/reports/questions/quant-to-ai-lab-flow",
       "kind": "mapping",
       "slug": "quant-to-ai-lab-flow",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many visible moves run from quant firms to AI labs?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/salesforce-agentforce-rd-share",
+      "canonical": "https://metix.ai/reports/questions/salesforce-agentforce-rd-share",
+      "kind": "mapping",
+      "slug": "salesforce-agentforce-rd-share",
+      "lastmod": "2026-11-11",
+      "title": "How many Salesforce Agentforce job postings are R&amp;D roles?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/salesforce-us-rd-open-share",
+      "canonical": "https://metix.ai/reports/questions/salesforce-us-rd-open-share",
+      "kind": "mapping",
+      "slug": "salesforce-us-rd-open-share",
+      "lastmod": "2026-11-11",
+      "title": "What share of Salesforce US open roles are product R&amp;D?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/sf-agent-engineer-median-pay",
+      "canonical": "https://metix.ai/reports/questions/sf-agent-engineer-median-pay",
+      "kind": "mapping",
+      "slug": "sf-agent-engineer-median-pay",
+      "lastmod": "2026-11-10",
+      "title": "What is the median posted pay for SF Bay Area agent engineers?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/sf-bay-agent-native-builders",
+      "canonical": "https://metix.ai/reports/questions/sf-bay-agent-native-builders",
+      "kind": "mapping",
+      "slug": "sf-bay-agent-native-builders",
+      "lastmod": "2026-11-10",
+      "title": "How many agent-native builders work in the SF Bay Area?"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/si-genai-delivery-seats",
+      "canonical": "https://metix.ai/reports/questions/si-genai-delivery-seats",
+      "kind": "mapping",
+      "slug": "si-genai-delivery-seats",
+      "lastmod": "2026-11-11",
+      "title": "How many GenAI delivery seats do top system integrators map?"
     },
     {
       "url": "https://metix.ai/reports/questions/techbio-computational-ml-pool",
       "canonical": "https://metix.ai/reports/questions/techbio-computational-ml-pool",
       "kind": "mapping",
       "slug": "techbio-computational-ml-pool",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How large is the TechBio computational and ML pool?"
     },
     {
@@ -705,7 +793,7 @@
       "canonical": "https://metix.ai/reports/questions/techbio-headcount",
       "kind": "mapping",
       "slug": "techbio-headcount",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many profiles are in the TechBio map?"
     },
     {
@@ -713,7 +801,7 @@
       "canonical": "https://metix.ai/reports/questions/techbio-target-companies",
       "kind": "mapping",
       "slug": "techbio-target-companies",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "How many TechBio target companies are mapped?"
     },
     {
@@ -721,7 +809,7 @@
       "canonical": "https://metix.ai/reports/questions/us-agent-jd-count",
       "kind": "mapping",
       "slug": "us-agent-jd-count",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-10",
       "title": "How many Agent job descriptions are in the US map? (259 Agent JDs)"
     },
     {
@@ -729,7 +817,7 @@
       "canonical": "https://metix.ai/reports/questions/us-agent-job-groups",
       "kind": "mapping",
       "slug": "us-agent-job-groups",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-10",
       "title": "How many job groups are in the US Agent map? (10 job groups)"
     },
     {
@@ -737,7 +825,7 @@
       "canonical": "https://metix.ai/reports/questions/us-agent-talent-headcount",
       "kind": "mapping",
       "slug": "us-agent-talent-headcount",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-10",
       "title": "How many US Agent professionals are in the supply-demand map?"
     },
     {
@@ -745,15 +833,23 @@
       "canonical": "https://metix.ai/reports/questions/us-chip-ai-infra-headcount",
       "kind": "mapping",
       "slug": "us-chip-ai-infra-headcount",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-10",
       "title": "How large is the US chip and AI-infra talent pool? (56,861)"
+    },
+    {
+      "url": "https://metix.ai/reports/questions/wall-street-senior-banker-moves",
+      "canonical": "https://metix.ai/reports/questions/wall-street-senior-banker-moves",
+      "kind": "mapping",
+      "slug": "wall-street-senior-banker-moves",
+      "lastmod": "2026-11-11",
+      "title": "How many senior-banker moves occurred across top US investment banks?"
     },
     {
       "url": "https://metix.ai/reports/questions/world-model-engine-origin",
       "canonical": "https://metix.ai/reports/questions/world-model-engine-origin",
       "kind": "mapping",
       "slug": "world-model-engine-origin",
-      "lastmod": "2026-10-17",
+      "lastmod": "2026-11-11",
       "title": "What share of world-model talent comes from game engines?"
     },
     {
@@ -778,7 +874,15 @@
       "kind": "mapping",
       "slug": "amazon",
       "lastmod": "2026-11-25",
-      "title": "Amazon Engineering Headcount, Hiring &amp; Talent Reports (58 Cuts)"
+      "title": "Amazon Engineering Headcount, Hiring &amp; Talent Reports (60 Cuts)"
+    },
+    {
+      "url": "https://metix.ai/reports/companies/nvidia",
+      "canonical": "https://metix.ai/reports/companies/nvidia",
+      "kind": "mapping",
+      "slug": "nvidia",
+      "lastmod": "2026-11-26",
+      "title": "NVIDIA Headcount, Roles &amp; Talent Reports (39,150 Mapped)"
     },
     {
       "url": "https://metix.ai/reports/companies/meta",
@@ -786,15 +890,7 @@
       "kind": "mapping",
       "slug": "meta",
       "lastmod": "2026-11-25",
-      "title": "Meta Engineering Headcount, Hiring &amp; Talent Reports (46 Cuts)"
-    },
-    {
-      "url": "https://metix.ai/reports/companies/nvidia",
-      "canonical": "https://metix.ai/reports/companies/nvidia",
-      "kind": "mapping",
-      "slug": "nvidia",
-      "lastmod": "2026-09-29",
-      "title": "NVIDIA Headcount, Roles &amp; Talent Reports (39,150 Mapped)"
+      "title": "Meta Engineering Headcount, Hiring &amp; Talent Reports (48 Cuts)"
     },
     {
       "url": "https://metix.ai/reports/companies/microsoft",
@@ -802,7 +898,15 @@
       "kind": "mapping",
       "slug": "microsoft",
       "lastmod": "2026-11-25",
-      "title": "Microsoft Engineering Headcount, Hiring &amp; Talent Reports (45 Cuts)"
+      "title": "Microsoft Engineering Headcount, Hiring &amp; Talent Reports (46 Cuts)"
+    },
+    {
+      "url": "https://metix.ai/reports/companies/oracle",
+      "canonical": "https://metix.ai/reports/companies/oracle",
+      "kind": "mapping",
+      "slug": "oracle",
+      "lastmod": "2026-11-25",
+      "title": "Oracle Engineering Headcount, Hiring &amp; Talent Reports (43 Cuts)"
     },
     {
       "url": "https://metix.ai/reports/companies/stripe",
@@ -813,14 +917,6 @@
       "title": "Stripe Headcount, Roles &amp; Talent Reports (11,452 Mapped)"
     },
     {
-      "url": "https://metix.ai/reports/companies/oracle",
-      "canonical": "https://metix.ai/reports/companies/oracle",
-      "kind": "mapping",
-      "slug": "oracle",
-      "lastmod": "2026-11-25",
-      "title": "Oracle Engineering Headcount, Hiring &amp; Talent Reports (40 Cuts)"
-    },
-    {
       "url": "https://metix.ai/reports/companies/ibm",
       "canonical": "https://metix.ai/reports/companies/ibm",
       "kind": "mapping",
@@ -829,20 +925,20 @@
       "title": "IBM Employees by Country &amp; Role Benchmarks (410,668 Staff)"
     },
     {
-      "url": "https://metix.ai/reports/companies/google",
-      "canonical": "https://metix.ai/reports/companies/google",
-      "kind": "mapping",
-      "slug": "google",
-      "lastmod": "2026-11-25",
-      "title": "Google Engineering Headcount, Hiring &amp; Talent Reports (37 Cuts)"
-    },
-    {
       "url": "https://metix.ai/reports/companies/salesforce",
       "canonical": "https://metix.ai/reports/companies/salesforce",
       "kind": "mapping",
       "slug": "salesforce",
       "lastmod": "2026-11-07",
       "title": "Salesforce Employees by Country &amp; Role Benchmarks (85,282 Staff)"
+    },
+    {
+      "url": "https://metix.ai/reports/companies/google",
+      "canonical": "https://metix.ai/reports/companies/google",
+      "kind": "mapping",
+      "slug": "google",
+      "lastmod": "2026-11-25",
+      "title": "Google Engineering Headcount, Hiring &amp; Talent Reports (37 Cuts)"
     },
     {
       "url": "https://metix.ai/reports/companies/cisco",
@@ -877,20 +973,20 @@
       "title": "Datadog Headcount, Roles &amp; Talent Reports (8,488 Mapped)"
     },
     {
+      "url": "https://metix.ai/reports/companies/cloudflare",
+      "canonical": "https://metix.ai/reports/companies/cloudflare",
+      "kind": "mapping",
+      "slug": "cloudflare",
+      "lastmod": "2026-10-29",
+      "title": "Cloudflare Headcount, Roles &amp; Talent Reports (5,355 Mapped)"
+    },
+    {
       "url": "https://metix.ai/reports/companies/paypal",
       "canonical": "https://metix.ai/reports/companies/paypal",
       "kind": "mapping",
       "slug": "paypal",
       "lastmod": "2026-11-11",
       "title": "PayPal Employees by Country &amp; Role Benchmarks (30,511 Staff)"
-    },
-    {
-      "url": "https://metix.ai/reports/companies/crowdstrike",
-      "canonical": "https://metix.ai/reports/companies/crowdstrike",
-      "kind": "mapping",
-      "slug": "crowdstrike",
-      "lastmod": "2026-10-12",
-      "title": "CrowdStrike Headcount, Roles &amp; Talent Reports (9,362 Mapped)"
     },
     {
       "url": "https://metix.ai/reports/companies/palo-alto-networks",
@@ -901,12 +997,12 @@
       "title": "Palo Alto Networks Headcount, Roles &amp; Talent Reports (18,339 Mapped)"
     },
     {
-      "url": "https://metix.ai/reports/companies/cloudflare",
-      "canonical": "https://metix.ai/reports/companies/cloudflare",
+      "url": "https://metix.ai/reports/companies/crowdstrike",
+      "canonical": "https://metix.ai/reports/companies/crowdstrike",
       "kind": "mapping",
-      "slug": "cloudflare",
-      "lastmod": "2026-10-29",
-      "title": "Cloudflare Headcount, Roles &amp; Talent Reports (5,355 Mapped)"
+      "slug": "crowdstrike",
+      "lastmod": "2026-10-12",
+      "title": "CrowdStrike Headcount, Roles &amp; Talent Reports (9,362 Mapped)"
     },
     {
       "url": "https://metix.ai/reports/companies/coinbase",
@@ -917,14 +1013,6 @@
       "title": "Coinbase Headcount, Roles &amp; Talent Reports (6,396 Mapped)"
     },
     {
-      "url": "https://metix.ai/reports/companies/uber",
-      "canonical": "https://metix.ai/reports/companies/uber",
-      "kind": "mapping",
-      "slug": "uber",
-      "lastmod": "2026-11-06",
-      "title": "Uber Employees by Country &amp; Role Benchmarks (110,100 Staff)"
-    },
-    {
       "url": "https://metix.ai/reports/companies/zscaler",
       "canonical": "https://metix.ai/reports/companies/zscaler",
       "kind": "mapping",
@@ -933,12 +1021,20 @@
       "title": "Zscaler Headcount, Roles &amp; Talent Reports (8,621 Mapped)"
     },
     {
+      "url": "https://metix.ai/reports/companies/uber",
+      "canonical": "https://metix.ai/reports/companies/uber",
+      "kind": "mapping",
+      "slug": "uber",
+      "lastmod": "2026-11-06",
+      "title": "Uber Employees by Country &amp; Role Benchmarks (110,100 Staff)"
+    },
+    {
       "url": "https://metix.ai/reports/companies/mongodb",
       "canonical": "https://metix.ai/reports/companies/mongodb",
       "kind": "mapping",
       "slug": "mongodb",
       "lastmod": "2026-11-25",
-      "title": "MongoDB Engineering Headcount, Hiring &amp; Talent Reports (19 Cuts)"
+      "title": "MongoDB Engineering Headcount, Hiring &amp; Talent Reports (20 Cuts)"
     },
     {
       "url": "https://metix.ai/reports/companies/okta",
@@ -949,12 +1045,36 @@
       "title": "Okta Headcount, Roles &amp; Talent Reports (6,867 Mapped)"
     },
     {
+      "url": "https://metix.ai/reports/companies/adobe",
+      "canonical": "https://metix.ai/reports/companies/adobe",
+      "kind": "mapping",
+      "slug": "adobe",
+      "lastmod": "2026-11-08",
+      "title": "Adobe Employees by Country &amp; Role Benchmarks (64,187 Staff)"
+    },
+    {
       "url": "https://metix.ai/reports/companies/openai",
       "canonical": "https://metix.ai/reports/companies/openai",
       "kind": "mapping",
       "slug": "openai",
       "lastmod": "2026-10-26",
       "title": "OpenAI Headcount, Roles &amp; Talent Reports (7,242 Mapped)"
+    },
+    {
+      "url": "https://metix.ai/reports/companies/servicenow",
+      "canonical": "https://metix.ai/reports/companies/servicenow",
+      "kind": "mapping",
+      "slug": "servicenow",
+      "lastmod": "2026-11-26",
+      "title": "ServiceNow Headcount, Roles &amp; Talent Reports (29,127 Mapped)"
+    },
+    {
+      "url": "https://metix.ai/reports/companies/sap",
+      "canonical": "https://metix.ai/reports/companies/sap",
+      "kind": "mapping",
+      "slug": "sap",
+      "lastmod": "2026-11-25",
+      "title": "SAP Engineering Headcount, Hiring &amp; Talent Reports (16 Cuts)"
     },
     {
       "url": "https://metix.ai/reports/companies/robinhood",
@@ -965,36 +1085,12 @@
       "title": "Robinhood Headcount, Roles &amp; Talent Reports (3,551 Mapped)"
     },
     {
-      "url": "https://metix.ai/reports/companies/sap",
-      "canonical": "https://metix.ai/reports/companies/sap",
-      "kind": "mapping",
-      "slug": "sap",
-      "lastmod": "2026-11-25",
-      "title": "SAP Engineering Headcount, Hiring &amp; Talent Reports (15 Cuts)"
-    },
-    {
-      "url": "https://metix.ai/reports/companies/adobe",
-      "canonical": "https://metix.ai/reports/companies/adobe",
-      "kind": "mapping",
-      "slug": "adobe",
-      "lastmod": "2026-11-08",
-      "title": "Adobe Employees by Country &amp; Role Benchmarks (64,187 Staff)"
-    },
-    {
-      "url": "https://metix.ai/reports/companies/servicenow",
-      "canonical": "https://metix.ai/reports/companies/servicenow",
-      "kind": "mapping",
-      "slug": "servicenow",
-      "lastmod": "2026-10-25",
-      "title": "ServiceNow Headcount, Roles &amp; Talent Reports (29,127 Mapped)"
-    },
-    {
       "url": "https://metix.ai/reports/companies/apple",
       "canonical": "https://metix.ai/reports/companies/apple",
       "kind": "mapping",
       "slug": "apple",
       "lastmod": "2026-11-25",
-      "title": "Apple Engineering Headcount, Hiring &amp; Talent Reports (13 Cuts)"
+      "title": "Apple Engineering Headcount, Hiring &amp; Talent Reports (14 Cuts)"
     },
     {
       "url": "https://metix.ai/reports/companies/block",
@@ -1005,6 +1101,22 @@
       "title": "Block Headcount, Roles &amp; Talent Reports (3,418 Mapped)"
     },
     {
+      "url": "https://metix.ai/reports/companies/capital-one",
+      "canonical": "https://metix.ai/reports/companies/capital-one",
+      "kind": "mapping",
+      "slug": "capital-one",
+      "lastmod": "2026-11-25",
+      "title": "Capital One Engineering Headcount, Hiring &amp; Talent Reports (13 Cuts)"
+    },
+    {
+      "url": "https://metix.ai/reports/companies/spacex",
+      "canonical": "https://metix.ai/reports/companies/spacex",
+      "kind": "mapping",
+      "slug": "spacex",
+      "lastmod": "2026-11-25",
+      "title": "SpaceX Engineering Headcount, Hiring &amp; Talent Reports (13 Cuts)"
+    },
+    {
       "url": "https://metix.ai/reports/companies/airbnb",
       "canonical": "https://metix.ai/reports/companies/airbnb",
       "kind": "mapping",
@@ -1013,28 +1125,12 @@
       "title": "Airbnb Employees by Country &amp; Role Benchmarks (30,341 Staff)"
     },
     {
-      "url": "https://metix.ai/reports/companies/capital-one",
-      "canonical": "https://metix.ai/reports/companies/capital-one",
-      "kind": "mapping",
-      "slug": "capital-one",
-      "lastmod": "2026-11-25",
-      "title": "Capital One Engineering Headcount, Hiring &amp; Talent Reports (12 Cuts)"
-    },
-    {
-      "url": "https://metix.ai/reports/companies/spacex",
-      "canonical": "https://metix.ai/reports/companies/spacex",
-      "kind": "mapping",
-      "slug": "spacex",
-      "lastmod": "2026-11-25",
-      "title": "SpaceX Engineering Headcount, Hiring &amp; Talent Reports (12 Cuts)"
-    },
-    {
       "url": "https://metix.ai/reports/companies/anduril",
       "canonical": "https://metix.ai/reports/companies/anduril",
       "kind": "mapping",
       "slug": "anduril",
       "lastmod": "2026-11-25",
-      "title": "Anduril Engineering Headcount, Hiring &amp; Talent Reports (11 Cuts)"
+      "title": "Anduril Engineering Headcount, Hiring &amp; Talent Reports (12 Cuts)"
     },
     {
       "url": "https://metix.ai/reports/companies/fortinet",
@@ -1042,7 +1138,23 @@
       "kind": "mapping",
       "slug": "fortinet",
       "lastmod": "2026-11-25",
-      "title": "Fortinet Engineering Headcount, Hiring &amp; Talent Reports (11 Cuts)"
+      "title": "Fortinet Engineering Headcount, Hiring &amp; Talent Reports (12 Cuts)"
+    },
+    {
+      "url": "https://metix.ai/reports/companies/coreweave",
+      "canonical": "https://metix.ai/reports/companies/coreweave",
+      "kind": "mapping",
+      "slug": "coreweave",
+      "lastmod": "2026-11-25",
+      "title": "CoreWeave Engineering Headcount, Hiring &amp; Talent Reports (10 Cuts)"
+    },
+    {
+      "url": "https://metix.ai/reports/companies/palantir",
+      "canonical": "https://metix.ai/reports/companies/palantir",
+      "kind": "mapping",
+      "slug": "palantir",
+      "lastmod": "2026-10-08",
+      "title": "Palantir Headcount, Roles &amp; Talent Reports (4,665 Mapped)"
     },
     {
       "url": "https://metix.ai/reports/companies/visa",
@@ -1077,20 +1189,20 @@
       "title": "Anthropic Headcount, Roles &amp; Talent Reports (3,527 Mapped)"
     },
     {
-      "url": "https://metix.ai/reports/companies/coreweave",
-      "canonical": "https://metix.ai/reports/companies/coreweave",
+      "url": "https://metix.ai/reports/companies/atlassian",
+      "canonical": "https://metix.ai/reports/companies/atlassian",
       "kind": "mapping",
-      "slug": "coreweave",
-      "lastmod": "2026-11-25",
-      "title": "CoreWeave Engineering Headcount, Hiring &amp; Talent Reports (9 Cuts)"
+      "slug": "atlassian",
+      "lastmod": "2026-10-07",
+      "title": "Atlassian Headcount, Roles &amp; Talent Reports (17,909 Mapped)"
     },
     {
-      "url": "https://metix.ai/reports/companies/palantir",
-      "canonical": "https://metix.ai/reports/companies/palantir",
+      "url": "https://metix.ai/reports/companies/elastic",
+      "canonical": "https://metix.ai/reports/companies/elastic",
       "kind": "mapping",
-      "slug": "palantir",
-      "lastmod": "2026-10-08",
-      "title": "Palantir Headcount, Roles &amp; Talent Reports (4,665 Mapped)"
+      "slug": "elastic",
+      "lastmod": "2026-11-26",
+      "title": "Elastic Headcount, Roles &amp; Talent Reports (3,763 Mapped)"
     },
     {
       "url": "https://metix.ai/reports/companies/intuit",
@@ -1117,12 +1229,12 @@
       "title": "Plaid Headcount, Roles &amp; Talent Reports (1,307 Mapped)"
     },
     {
-      "url": "https://metix.ai/reports/companies/elastic",
-      "canonical": "https://metix.ai/reports/companies/elastic",
+      "url": "https://metix.ai/reports/companies/sentinelone",
+      "canonical": "https://metix.ai/reports/companies/sentinelone",
       "kind": "mapping",
-      "slug": "elastic",
-      "lastmod": "2026-11-25",
-      "title": "Elastic Engineering Headcount, Hiring &amp; Talent Reports (7 Cuts)"
+      "slug": "sentinelone",
+      "lastmod": "2026-11-26",
+      "title": "SentinelOne Headcount, Roles &amp; Talent Reports (2,612 Mapped)"
     },
     {
       "url": "https://metix.ai/reports/companies/shopify",
@@ -1149,12 +1261,12 @@
       "title": "Tesla Engineering Headcount, Hiring &amp; Talent Reports (7 Cuts)"
     },
     {
-      "url": "https://metix.ai/reports/companies/atlassian",
-      "canonical": "https://metix.ai/reports/companies/atlassian",
+      "url": "https://metix.ai/reports/companies/workday",
+      "canonical": "https://metix.ai/reports/companies/workday",
       "kind": "mapping",
-      "slug": "atlassian",
-      "lastmod": "2026-10-07",
-      "title": "Atlassian Headcount, Roles &amp; Talent Reports (17,909 Mapped)"
+      "slug": "workday",
+      "lastmod": "2026-11-26",
+      "title": "Workday Headcount, Roles &amp; Talent Reports (20,583 Mapped)"
     },
     {
       "url": "https://metix.ai/reports/companies/aurora",
@@ -1171,14 +1283,6 @@
       "slug": "netflix",
       "lastmod": "2026-11-12",
       "title": "Netflix Employees by Country &amp; Role Benchmarks (24,497 Staff)"
-    },
-    {
-      "url": "https://metix.ai/reports/companies/sentinelone",
-      "canonical": "https://metix.ai/reports/companies/sentinelone",
-      "kind": "mapping",
-      "slug": "sentinelone",
-      "lastmod": "2026-11-25",
-      "title": "SentinelOne Engineering Headcount, Hiring &amp; Talent Reports (6 Cuts)"
     },
     {
       "url": "https://metix.ai/reports/companies/shield-ai",
@@ -1213,12 +1317,28 @@
       "title": "JPMorgan Chase Engineering Headcount, Hiring &amp; Talent Reports (5 Cuts)"
     },
     {
+      "url": "https://metix.ai/reports/companies/qualcomm",
+      "canonical": "https://metix.ai/reports/companies/qualcomm",
+      "kind": "mapping",
+      "slug": "qualcomm",
+      "lastmod": "2026-11-25",
+      "title": "Qualcomm Engineering Headcount, Hiring &amp; Talent Reports (5 Cuts)"
+    },
+    {
       "url": "https://metix.ai/reports/companies/ramp",
       "canonical": "https://metix.ai/reports/companies/ramp",
       "kind": "mapping",
       "slug": "ramp",
       "lastmod": "2026-11-08",
       "title": "Ramp Headcount, Roles &amp; Talent Reports (2,133 Mapped)"
+    },
+    {
+      "url": "https://metix.ai/reports/companies/splunk",
+      "canonical": "https://metix.ai/reports/companies/splunk",
+      "kind": "mapping",
+      "slug": "splunk",
+      "lastmod": "2026-11-25",
+      "title": "Splunk Engineering Headcount, Hiring &amp; Talent Reports (5 Cuts)"
     },
     {
       "url": "https://metix.ai/reports/companies/twilio",
@@ -1229,20 +1349,20 @@
       "title": "Twilio Headcount, Roles &amp; Talent Reports (5,768 Mapped)"
     },
     {
+      "url": "https://metix.ai/reports/companies/confluent",
+      "canonical": "https://metix.ai/reports/companies/confluent",
+      "kind": "mapping",
+      "slug": "confluent",
+      "lastmod": "2026-10-28",
+      "title": "Confluent Headcount, Roles &amp; Talent Reports (3,243 Mapped)"
+    },
+    {
       "url": "https://metix.ai/reports/companies/figma",
       "canonical": "https://metix.ai/reports/companies/figma",
       "kind": "mapping",
       "slug": "figma",
       "lastmod": "2026-11-03",
       "title": "Figma Headcount, Roles &amp; Talent Reports (3,322 Mapped)"
-    },
-    {
-      "url": "https://metix.ai/reports/companies/qualcomm",
-      "canonical": "https://metix.ai/reports/companies/qualcomm",
-      "kind": "mapping",
-      "slug": "qualcomm",
-      "lastmod": "2026-11-25",
-      "title": "Qualcomm Engineering Headcount, Hiring &amp; Talent Reports (4 Cuts)"
     },
     {
       "url": "https://metix.ai/reports/companies/scale-ai",
@@ -1253,20 +1373,12 @@
       "title": "Scale AI Engineering Headcount, Hiring &amp; Talent Reports (4 Cuts)"
     },
     {
-      "url": "https://metix.ai/reports/companies/splunk",
-      "canonical": "https://metix.ai/reports/companies/splunk",
+      "url": "https://metix.ai/reports/companies/amd",
+      "canonical": "https://metix.ai/reports/companies/amd",
       "kind": "mapping",
-      "slug": "splunk",
+      "slug": "amd",
       "lastmod": "2026-11-25",
-      "title": "Splunk Engineering Headcount, Hiring &amp; Talent Reports (4 Cuts)"
-    },
-    {
-      "url": "https://metix.ai/reports/companies/workday",
-      "canonical": "https://metix.ai/reports/companies/workday",
-      "kind": "mapping",
-      "slug": "workday",
-      "lastmod": "2026-10-16",
-      "title": "Workday Headcount, Roles &amp; Talent Reports (20,583 Mapped)"
+      "title": "AMD Engineering Headcount, Hiring &amp; Talent Reports (3 Cuts)"
     },
     {
       "url": "https://metix.ai/reports/companies/canva",
@@ -1277,12 +1389,12 @@
       "title": "Canva Employees by Country &amp; Role Benchmarks (12,727 Staff)"
     },
     {
-      "url": "https://metix.ai/reports/companies/confluent",
-      "canonical": "https://metix.ai/reports/companies/confluent",
+      "url": "https://metix.ai/reports/companies/gitlab",
+      "canonical": "https://metix.ai/reports/companies/gitlab",
       "kind": "mapping",
-      "slug": "confluent",
-      "lastmod": "2026-10-28",
-      "title": "Confluent Headcount, Roles &amp; Talent Reports (3,243 Mapped)"
+      "slug": "gitlab",
+      "lastmod": "2026-11-25",
+      "title": "GitLab Engineering Headcount, Hiring &amp; Talent Reports (3 Cuts)"
     },
     {
       "url": "https://metix.ai/reports/companies/hubspot",
@@ -1317,6 +1429,14 @@
       "title": "Mastercard Engineering Headcount, Hiring &amp; Talent Reports (3 Cuts)"
     },
     {
+      "url": "https://metix.ai/reports/companies/new-relic",
+      "canonical": "https://metix.ai/reports/companies/new-relic",
+      "kind": "mapping",
+      "slug": "new-relic",
+      "lastmod": "2026-11-24",
+      "title": "New Relic Headcount, Roles &amp; Talent Reports (2,480 Mapped)"
+    },
+    {
       "url": "https://metix.ai/reports/companies/pinterest",
       "canonical": "https://metix.ai/reports/companies/pinterest",
       "kind": "mapping",
@@ -1331,6 +1451,14 @@
       "slug": "siemens",
       "lastmod": "2026-11-25",
       "title": "Siemens Engineering Headcount, Hiring &amp; Talent Reports (3 Cuts)"
+    },
+    {
+      "url": "https://metix.ai/reports/companies/synopsys",
+      "canonical": "https://metix.ai/reports/companies/synopsys",
+      "kind": "mapping",
+      "slug": "synopsys",
+      "lastmod": "2026-11-25",
+      "title": "Synopsys Engineering Headcount, Hiring &amp; Talent Reports (3 Cuts)"
     },
     {
       "url": "https://metix.ai/reports/companies/wiz",
@@ -1373,12 +1501,28 @@
       "title": "Chime Headcount, Roles &amp; Talent Reports (1,807 Mapped)"
     },
     {
+      "url": "https://metix.ai/reports/companies/deel",
+      "canonical": "https://metix.ai/reports/companies/deel",
+      "kind": "mapping",
+      "slug": "deel",
+      "lastmod": "2026-11-26",
+      "title": "Deel Headcount, Roles &amp; Talent Reports (6,383 Mapped)"
+    },
+    {
       "url": "https://metix.ai/reports/companies/dropbox",
       "canonical": "https://metix.ai/reports/companies/dropbox",
       "kind": "mapping",
       "slug": "dropbox",
       "lastmod": "2026-11-01",
       "title": "Dropbox Headcount, Roles &amp; Talent Reports (3,747 Mapped)"
+    },
+    {
+      "url": "https://metix.ai/reports/companies/dynatrace",
+      "canonical": "https://metix.ai/reports/companies/dynatrace",
+      "kind": "mapping",
+      "slug": "dynatrace",
+      "lastmod": "2026-11-22",
+      "title": "Dynatrace Headcount, Roles &amp; Talent Reports (5,127 Mapped)"
     },
     {
       "url": "https://metix.ai/reports/companies/glean",
@@ -1397,12 +1541,12 @@
       "title": "Gusto Headcount, Roles &amp; Talent Reports (3,394 Mapped)"
     },
     {
-      "url": "https://metix.ai/reports/companies/new-relic",
-      "canonical": "https://metix.ai/reports/companies/new-relic",
+      "url": "https://metix.ai/reports/companies/netskope",
+      "canonical": "https://metix.ai/reports/companies/netskope",
       "kind": "mapping",
-      "slug": "new-relic",
-      "lastmod": "2026-11-24",
-      "title": "New Relic Headcount, Roles &amp; Talent Reports (2,480 Mapped)"
+      "slug": "netskope",
+      "lastmod": "2026-11-25",
+      "title": "Netskope Headcount, Roles &amp; Talent Reports (2,938 Mapped)"
     },
     {
       "url": "https://metix.ai/reports/companies/rippling",
@@ -1433,7 +1577,7 @@
       "canonical": "https://metix.ai/reports/roles/software-engineer",
       "kind": "mapping",
       "slug": "software-engineer",
-      "lastmod": "2026-11-25",
+      "lastmod": "2026-11-26",
       "title": "Software Engineer Headcount by Company: Amazon vs Microsoft"
     },
     {
@@ -1441,7 +1585,7 @@
       "canonical": "https://metix.ai/reports/roles/solutions-architect",
       "kind": "mapping",
       "slug": "solutions-architect",
-      "lastmod": "2026-11-25",
+      "lastmod": "2026-11-26",
       "title": "Solutions Architect &amp; Solutions Engineer Headcount &amp; Hiring Benchmar"
     },
     {
@@ -1473,8 +1617,8 @@
       "canonical": "https://metix.ai/reports/roles/business-finance-ops",
       "kind": "mapping",
       "slug": "business-finance-ops",
-      "lastmod": "2026-11-24",
-      "title": "Business, Finance &amp; Risk Operations Headcount &amp; Hiring Benchmarks (9"
+      "lastmod": "2026-11-26",
+      "title": "Business, Finance &amp; Risk Operations Headcount by Company: Amazon vs IBM"
     },
     {
       "url": "https://metix.ai/reports/roles/machine-learning-engineer",
@@ -1483,6 +1627,14 @@
       "slug": "machine-learning-engineer",
       "lastmod": "2026-11-13",
       "title": "Machine Learning Engineer Headcount by Company: Databricks vs Meta"
+    },
+    {
+      "url": "https://metix.ai/reports/roles/product-manager",
+      "canonical": "https://metix.ai/reports/roles/product-manager",
+      "kind": "mapping",
+      "slug": "product-manager",
+      "lastmod": "2026-11-26",
+      "title": "Product Manager Headcount by Company: Google vs Google"
     },
     {
       "url": "https://metix.ai/reports/roles/systems-hardware-engineer",
@@ -1517,12 +1669,12 @@
       "title": "Security Engineer &amp; Security Analyst Headcount by Company: Amazon vs IBM"
     },
     {
-      "url": "https://metix.ai/reports/roles/product-manager",
-      "canonical": "https://metix.ai/reports/roles/product-manager",
+      "url": "https://metix.ai/reports/roles/technical-program-manager",
+      "canonical": "https://metix.ai/reports/roles/technical-program-manager",
       "kind": "mapping",
-      "slug": "product-manager",
-      "lastmod": "2026-11-25",
-      "title": "Product Manager Headcount by Company: Google vs Google"
+      "slug": "technical-program-manager",
+      "lastmod": "2026-11-26",
+      "title": "Technical Program Manager (TPM) Headcount by Company: Amazon vs Amazon"
     },
     {
       "url": "https://metix.ai/reports/roles/site-reliability-engineer",
@@ -1555,14 +1707,6 @@
       "slug": "product-designer",
       "lastmod": "2026-11-06",
       "title": "Product Designer &amp; UX Researcher Headcount &amp; Hiring Benchmarks (5 Re"
-    },
-    {
-      "url": "https://metix.ai/reports/roles/technical-program-manager",
-      "canonical": "https://metix.ai/reports/roles/technical-program-manager",
-      "kind": "mapping",
-      "slug": "technical-program-manager",
-      "lastmod": "2026-11-06",
-      "title": "Technical Program Manager (TPM) Headcount by Company: Amazon vs Amazon"
     },
     {
       "url": "https://metix.ai/reports/roles/data-scientist",
@@ -1641,40 +1785,48 @@
       "canonical": "https://metix.ai/reports/locations/united-states",
       "kind": "mapping",
       "slug": "united-states",
-      "lastmod": "2026-11-25",
-      "title": "Tech Company Headcount in United States: IBM, LinkedIn (27 Firms)"
+      "lastmod": "2026-11-26",
+      "title": "Tech Company Headcount in United States: IBM, LinkedIn (30 Firms)"
     },
     {
       "url": "https://metix.ai/reports/locations/united-kingdom",
       "canonical": "https://metix.ai/reports/locations/united-kingdom",
       "kind": "mapping",
       "slug": "united-kingdom",
-      "lastmod": "2026-11-25",
-      "title": "Tech Company Headcount in United Kingdom: LinkedIn, IBM (22 Firms)"
+      "lastmod": "2026-11-26",
+      "title": "Tech Company Headcount in United Kingdom: LinkedIn, IBM (25 Firms)"
     },
     {
       "url": "https://metix.ai/reports/locations/india",
       "canonical": "https://metix.ai/reports/locations/india",
       "kind": "mapping",
       "slug": "india",
-      "lastmod": "2026-11-25",
-      "title": "Tech Company Headcount in India: IBM, LinkedIn (16 Firms)"
+      "lastmod": "2026-11-26",
+      "title": "Tech Company Headcount in India: IBM, LinkedIn (19 Firms)"
     },
     {
       "url": "https://metix.ai/reports/locations/canada",
       "canonical": "https://metix.ai/reports/locations/canada",
       "kind": "mapping",
       "slug": "canada",
-      "lastmod": "2026-11-25",
-      "title": "Tech Company Headcount in Canada: IBM, Shopify (13 Firms)"
+      "lastmod": "2026-11-26",
+      "title": "Tech Company Headcount in Canada: IBM, Shopify (14 Firms)"
     },
     {
       "url": "https://metix.ai/reports/locations/ireland",
       "canonical": "https://metix.ai/reports/locations/ireland",
       "kind": "mapping",
       "slug": "ireland",
-      "lastmod": "2026-11-19",
-      "title": "Tech Company Headcount in Ireland: Salesforce, LinkedIn (12 Firms)"
+      "lastmod": "2026-11-26",
+      "title": "Tech Company Headcount in Ireland: Salesforce, LinkedIn (14 Firms)"
+    },
+    {
+      "url": "https://metix.ai/reports/locations/germany",
+      "canonical": "https://metix.ai/reports/locations/germany",
+      "kind": "mapping",
+      "slug": "germany",
+      "lastmod": "2026-11-26",
+      "title": "Tech Company Headcount in Germany: IBM, Adobe (9 Firms)"
     },
     {
       "url": "https://metix.ai/reports/locations/singapore",
@@ -1685,12 +1837,12 @@
       "title": "Tech Company Headcount in Singapore: Visa, LinkedIn (8 Firms)"
     },
     {
-      "url": "https://metix.ai/reports/locations/germany",
-      "canonical": "https://metix.ai/reports/locations/germany",
+      "url": "https://metix.ai/reports/locations/netherlands",
+      "canonical": "https://metix.ai/reports/locations/netherlands",
       "kind": "mapping",
-      "slug": "germany",
-      "lastmod": "2026-11-20",
-      "title": "Tech Company Headcount in Germany: IBM, Adobe (7 Firms)"
+      "slug": "netherlands",
+      "lastmod": "2026-11-26",
+      "title": "Tech Company Headcount in Netherlands: Uber, ServiceNow (5 Firms)"
     },
     {
       "url": "https://metix.ai/reports/locations/australia",
@@ -1709,20 +1861,20 @@
       "title": "Tech Company Headcount in Japan: Salesforce, Adobe (4 Firms)"
     },
     {
-      "url": "https://metix.ai/reports/locations/netherlands",
-      "canonical": "https://metix.ai/reports/locations/netherlands",
-      "kind": "mapping",
-      "slug": "netherlands",
-      "lastmod": "2026-11-22",
-      "title": "Tech Company Headcount in Netherlands: Uber, Netflix (4 Firms)"
-    },
-    {
       "url": "https://metix.ai/reports/locations/brazil",
       "canonical": "https://metix.ai/reports/locations/brazil",
       "kind": "mapping",
       "slug": "brazil",
       "lastmod": "2026-11-12",
       "title": "Tech Company Headcount in Brazil: Uber, IBM (3 Firms)"
+    },
+    {
+      "url": "https://metix.ai/reports/locations/israel",
+      "canonical": "https://metix.ai/reports/locations/israel",
+      "kind": "mapping",
+      "slug": "israel",
+      "lastmod": "2026-11-26",
+      "title": "Tech Company Headcount in Israel: NVIDIA, Intuit (2 Firms)"
     },
     {
       "url": "https://metix.ai/reports/locations/poland",
@@ -1739,6 +1891,174 @@
       "slug": "mexico",
       "lastmod": "2026-11-15",
       "title": "Tech Company Headcount in Mexico: Netflix, Lyft (2 Firms)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/apple-to-devtools-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/apple-to-devtools-talent-flow-2026",
+      "kind": "series",
+      "slug": "apple-to-devtools-talent-flow-2026",
+      "lastmod": "2026-11-27",
+      "title": "Ex-Apple Talent at Atlassian (149) &amp; Datadog Flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/business-analyst-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/business-analyst-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "business-analyst-employed-vs-open-2026",
+      "lastmod": "2026-11-27",
+      "title": "Business Analyst Hiring vs Headcount: Oracle (273.7×) &amp; IBM"
+    },
+    {
+      "url": "https://metix.ai/reports/series/deel-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/deel-company-teardown-2026",
+      "kind": "series",
+      "slug": "deel-company-teardown-2026",
+      "lastmod": "2026-11-27",
+      "title": "Deel Headcount by Role: 6,383 Staff (Account Executive 579)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/delivery-manager-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/delivery-manager-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "delivery-manager-employed-vs-open-2026",
+      "lastmod": "2026-11-27",
+      "title": "Delivery Manager Hiring vs Headcount: IBM (156.6×) &amp; SAP"
+    },
+    {
+      "url": "https://metix.ai/reports/series/devtools-ide-swe-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/devtools-ide-swe-vendor-bench-2026",
+      "kind": "series",
+      "slug": "devtools-ide-swe-vendor-bench-2026",
+      "lastmod": "2026-11-27",
+      "title": "Developer Ide / Collab Tools Software Engineer Headcount: GitHub (1,409) vs JetBrains (307)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/elastic-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/elastic-company-teardown-2026",
+      "kind": "series",
+      "slug": "elastic-company-teardown-2026",
+      "lastmod": "2026-11-27",
+      "title": "Elastic Headcount by Role: 3,763 Staff (Software Engineer 567)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/meta-to-defense-tech-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/meta-to-defense-tech-talent-flow-2026",
+      "kind": "series",
+      "slug": "meta-to-defense-tech-talent-flow-2026",
+      "lastmod": "2026-11-27",
+      "title": "Ex-Meta Talent at Palantir (94) &amp; Anduril Flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/nvidia-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/nvidia-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "nvidia-market-entry-geo-2026",
+      "lastmod": "2026-11-27",
+      "title": "NVIDIA Employees by Country: United States (23,152) vs India (7,639)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/observability-swe-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/observability-swe-vendor-bench-2026",
+      "kind": "series",
+      "slug": "observability-swe-vendor-bench-2026",
+      "lastmod": "2026-11-27",
+      "title": "Apm / Observability Swe Software Engineer Headcount: Datadog (2,250) vs Dynatrace (832)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/oracle-to-cloud-saas-talent-flow-2026",
+      "canonical": "https://metix.ai/reports/series/oracle-to-cloud-saas-talent-flow-2026",
+      "kind": "series",
+      "slug": "oracle-to-cloud-saas-talent-flow-2026",
+      "lastmod": "2026-11-27",
+      "title": "Ex-Oracle Talent at Salesforce (5,220) &amp; ServiceNow Flow"
+    },
+    {
+      "url": "https://metix.ai/reports/series/principal-pm-employed-vs-open-2026",
+      "canonical": "https://metix.ai/reports/series/principal-pm-employed-vs-open-2026",
+      "kind": "series",
+      "slug": "principal-pm-employed-vs-open-2026",
+      "lastmod": "2026-11-27",
+      "title": "Principal Product Manager Hiring vs Headcount: Adobe (19.9×)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/product-mgr-data-infra-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/product-mgr-data-infra-peer-pack-2026",
+      "kind": "series",
+      "slug": "product-mgr-data-infra-peer-pack-2026",
+      "lastmod": "2026-11-27",
+      "title": "Product Manager (Data Infra): Datadog (167) vs Snowflake (123)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/sase-zerotrust-swe-vendor-bench-2026",
+      "canonical": "https://metix.ai/reports/series/sase-zerotrust-swe-vendor-bench-2026",
+      "kind": "series",
+      "slug": "sase-zerotrust-swe-vendor-bench-2026",
+      "lastmod": "2026-11-27",
+      "title": "Sase / Zero Trust Network Software Engineers: Cisco (11,743) vs Palo Alto Networks (2,554)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/sentinelone-company-teardown-2026",
+      "canonical": "https://metix.ai/reports/series/sentinelone-company-teardown-2026",
+      "kind": "series",
+      "slug": "sentinelone-company-teardown-2026",
+      "lastmod": "2026-11-27",
+      "title": "SentinelOne Headcount by Role: 2,612 Staff (Software Engineer 416)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/servicenow-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/servicenow-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "servicenow-market-entry-geo-2026",
+      "lastmod": "2026-11-27",
+      "title": "ServiceNow Employees by Country: US (14,197) vs India (6,972)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/solutions-arch-enterprise-saas-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/solutions-arch-enterprise-saas-peer-pack-2026",
+      "kind": "series",
+      "slug": "solutions-arch-enterprise-saas-peer-pack-2026",
+      "lastmod": "2026-11-27",
+      "title": "Solutions Architect (Enterprise Saas): Salesforce (293) vs Adobe (105)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/swe-data-infra-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/swe-data-infra-peer-pack-2026",
+      "kind": "series",
+      "slug": "swe-data-infra-peer-pack-2026",
+      "lastmod": "2026-11-27",
+      "title": "Software Engineer (Data Infra): Databricks (2,354) vs Datadog (2,250)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/swe-enterprise-saas-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/swe-enterprise-saas-peer-pack-2026",
+      "kind": "series",
+      "slug": "swe-enterprise-saas-peer-pack-2026",
+      "lastmod": "2026-11-27",
+      "title": "Software Engineer (Enterprise Saas) Headcount: Atlassian (4,657) vs ServiceNow (4,367)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/swe-semiconductors-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/swe-semiconductors-peer-pack-2026",
+      "kind": "series",
+      "slug": "swe-semiconductors-peer-pack-2026",
+      "lastmod": "2026-11-27",
+      "title": "Software Engineer (Semiconductors): NVIDIA (7,781) vs Intel (5,885)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/tpm-ai-infra-peer-pack-2026",
+      "canonical": "https://metix.ai/reports/series/tpm-ai-infra-peer-pack-2026",
+      "kind": "series",
+      "slug": "tpm-ai-infra-peer-pack-2026",
+      "lastmod": "2026-11-27",
+      "title": "Technical Program Manager (Ai Infrastructure) Headcount: NVIDIA (590) vs Databricks (87)"
+    },
+    {
+      "url": "https://metix.ai/reports/series/workday-market-entry-geo-2026",
+      "canonical": "https://metix.ai/reports/series/workday-market-entry-geo-2026",
+      "kind": "series",
+      "slug": "workday-market-entry-geo-2026",
+      "lastmod": "2026-11-27",
+      "title": "Workday Employees by Country: United States (11,467) vs Ireland (1,961)"
     },
     {
       "url": "https://metix.ai/reports/series/cisco-market-entry-geo-2026",
@@ -1793,7 +2113,7 @@
       "canonical": "https://metix.ai/reports/series/technical-pm-employed-vs-open-2026",
       "kind": "series",
       "slug": "technical-pm-employed-vs-open-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Technical Product Manager Hiring vs Headcount: Amazon (100.3×)"
     },
     {
@@ -1801,7 +2121,7 @@
       "canonical": "https://metix.ai/reports/series/bizops-employed-vs-open-2026",
       "kind": "series",
       "slug": "bizops-employed-vs-open-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Business Operations Hiring vs Headcount: Cisco (104.9×) &amp; Amazon"
     },
     {
@@ -1857,7 +2177,7 @@
       "canonical": "https://metix.ai/reports/series/controller-employed-vs-open-2026",
       "kind": "series",
       "slug": "controller-employed-vs-open-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Controller Hiring vs Headcount: Siemens (41.0×) &amp; JPMorgan Chase"
     },
     {
@@ -2017,7 +2337,7 @@
       "canonical": "https://metix.ai/reports/series/operations-analyst-employed-vs-open-2026",
       "kind": "series",
       "slug": "operations-analyst-employed-vs-open-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Operations Analyst Hiring vs Headcount: JPMorgan Chase (147.7×)"
     },
     {
@@ -2065,7 +2385,7 @@
       "canonical": "https://metix.ai/reports/series/risk-analyst-employed-vs-open-2026",
       "kind": "series",
       "slug": "risk-analyst-employed-vs-open-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Risk Analyst Hiring vs Headcount: Stripe (40.0×) &amp; Intuit"
     },
     {
@@ -2769,7 +3089,7 @@
       "canonical": "https://metix.ai/reports/series/sde-employed-vs-open-2026",
       "kind": "series",
       "slug": "sde-employed-vs-open-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Software Development Engineer Hiring vs Headcount: Oracle (1012.6×)"
     },
     {
@@ -2857,7 +3177,7 @@
       "canonical": "https://metix.ai/reports/series/financial-analyst-peer-pack-2026",
       "kind": "series",
       "slug": "financial-analyst-peer-pack-2026",
-      "lastmod": "2026-11-06",
+      "lastmod": "2026-11-27",
       "title": "Financial Analyst Headcount: Amazon (3,417) vs Google (576)"
     },
     {
@@ -2969,7 +3289,7 @@
       "canonical": "https://metix.ai/reports/series/product-analyst-peer-pack-2026",
       "kind": "series",
       "slug": "product-analyst-peer-pack-2026",
-      "lastmod": "2026-11-06",
+      "lastmod": "2026-11-27",
       "title": "Product Analyst Headcount: Salesforce (41) vs Oracle (35)"
     },
     {
@@ -3353,7 +3673,7 @@
       "canonical": "https://metix.ai/reports/series/business-analyst-peer-pack-2026",
       "kind": "series",
       "slug": "business-analyst-peer-pack-2026",
-      "lastmod": "2026-11-06",
+      "lastmod": "2026-11-27",
       "title": "Business Analyst Headcount: IBM (3,187) vs Oracle (1,406)"
     },
     {
@@ -3489,7 +3809,7 @@
       "canonical": "https://metix.ai/reports/series/sdet-peer-pack-2026",
       "kind": "series",
       "slug": "sdet-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "SDET Headcount: IBM (500) vs Oracle (368)"
     },
     {
@@ -3561,7 +3881,7 @@
       "canonical": "https://metix.ai/reports/series/solutions-consultant-peer-pack-2026",
       "kind": "series",
       "slug": "solutions-consultant-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Solutions Consultant Headcount: Adobe (445) vs ServiceNow (234)"
     },
     {
@@ -3641,7 +3961,7 @@
       "canonical": "https://metix.ai/reports/series/dba-peer-pack-2026",
       "kind": "series",
       "slug": "dba-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Database Administrator Headcount: IBM (2,136) vs Oracle (1,174)"
     },
     {
@@ -3729,7 +4049,7 @@
       "canonical": "https://metix.ai/reports/series/program-mgr-peer-pack-2026",
       "kind": "series",
       "slug": "program-mgr-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Program Manager Headcount: IBM (2,989) vs Oracle (2,569)"
     },
     {
@@ -3801,7 +4121,7 @@
       "canonical": "https://metix.ai/reports/series/qa-eng-peer-pack-2026",
       "kind": "series",
       "slug": "qa-eng-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "QA Engineer Headcount: IBM (1,928) vs Oracle (1,455)"
     },
     {
@@ -3825,7 +4145,7 @@
       "canonical": "https://metix.ai/reports/series/analytics-eng-peer-pack-2026",
       "kind": "series",
       "slug": "analytics-eng-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Analytics Engineer Headcount: Netflix (119) vs Airbnb (44)"
     },
     {
@@ -3929,7 +4249,7 @@
       "canonical": "https://metix.ai/reports/series/staff-eng-peer-pack-2026",
       "kind": "series",
       "slug": "staff-eng-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Staff Engineer Headcount: Google (205) vs IBM (149)"
     },
     {
@@ -3953,7 +4273,7 @@
       "canonical": "https://metix.ai/reports/series/appsec-eng-peer-pack-2026",
       "kind": "series",
       "slug": "appsec-eng-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "AppSec Engineer Headcount: Amazon (117) vs Salesforce (54)"
     },
     {
@@ -4033,7 +4353,7 @@
       "canonical": "https://metix.ai/reports/series/data-analyst-peer-pack-2026",
       "kind": "series",
       "slug": "data-analyst-peer-pack-2026",
-      "lastmod": "2026-11-06",
+      "lastmod": "2026-11-27",
       "title": "Data Analyst Headcount: Amazon (2,910) vs Google (1,413)"
     },
     {
@@ -4057,7 +4377,7 @@
       "canonical": "https://metix.ai/reports/series/tech-recruiter-peer-pack-2026",
       "kind": "series",
       "slug": "tech-recruiter-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Technical Recruiter Headcount: Amazon (1,132) vs Google (567)"
     },
     {
@@ -4065,7 +4385,7 @@
       "canonical": "https://metix.ai/reports/series/be-eng-peer-pack-2026",
       "kind": "series",
       "slug": "be-eng-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Backend Engineer Headcount: LinkedIn (88) vs Shopify (49)"
     },
     {
@@ -4089,7 +4409,7 @@
       "canonical": "https://metix.ai/reports/series/devops-eng-peer-pack-2026",
       "kind": "series",
       "slug": "devops-eng-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "DevOps Engineer Headcount: Amazon (560) vs Microsoft (296)"
     },
     {
@@ -4121,7 +4441,7 @@
       "canonical": "https://metix.ai/reports/series/fw-eng-peer-pack-2026",
       "kind": "series",
       "slug": "fw-eng-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Firmware Engineer Headcount: Apple (820) vs Qualcomm (521)"
     },
     {
@@ -4161,7 +4481,7 @@
       "canonical": "https://metix.ai/reports/series/ios-eng-peer-pack-2026",
       "kind": "series",
       "slug": "ios-eng-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "iOS Engineer Headcount: Apple (367) vs Meta (83)"
     },
     {
@@ -4185,7 +4505,7 @@
       "canonical": "https://metix.ai/reports/series/tpm-peer-pack-2026",
       "kind": "series",
       "slug": "tpm-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Technical Program Manager Headcount: Amazon (5,100) vs Google (3,831)"
     },
     {
@@ -4193,7 +4513,7 @@
       "canonical": "https://metix.ai/reports/series/applied-scientist-peer-pack-2026",
       "kind": "series",
       "slug": "applied-scientist-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Applied Scientist Headcount: Amazon (4,413) vs Microsoft (1,624)"
     },
     {
@@ -4217,7 +4537,7 @@
       "canonical": "https://metix.ai/reports/series/research-scientist-peer-pack-2026",
       "kind": "series",
       "slug": "research-scientist-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Research Scientist Headcount: Meta (3,255) vs Google (790)"
     },
     {
@@ -4249,7 +4569,7 @@
       "canonical": "https://metix.ai/reports/series/network-eng-peer-pack-2026",
       "kind": "series",
       "slug": "network-eng-peer-pack-2026",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Network Engineer Headcount: Cisco (1,896) vs Juniper (150)"
     },
     {
@@ -4425,7 +4745,7 @@
       "canonical": "https://metix.ai/reports/series/career-families",
       "kind": "series",
       "slug": "career-families",
-      "lastmod": "2026-11-26",
+      "lastmod": "2026-11-27",
       "title": "Company &amp; Career-Family Report Directory"
     }
   ]

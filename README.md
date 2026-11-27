@@ -15,9 +15,9 @@ Metix publishes structured talent reports (series peer packs / benches and mappi
 - Series sitemap: https://metix.ai/reports/series/sitemap.xml
 - Mapping sitemap: https://metix.ai/reports/sitemap.xml
 
-## Catalog (552 URLs)
+## Catalog (592 URLs)
 
-Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping · 2 hubs).
+Generated `2026-11-27T09:40:59Z` from live sitemaps (357 series · 233 mapping · 2 hubs).
 
 ### Series
 
@@ -34,30 +34,32 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [AI Engineer Hiring vs Headcount: IBM (44.6×) &amp; Microsoft](https://metix.ai/reports/series/ai-eng-employed-vs-open-2026) — lastmod `2026-11-15`
 - [Airbnb 16 vs Booking 21 | Host Pricing / Marketplace](https://metix.ai/reports/series/airbnb-booking-marketplace-2026) — lastmod `2026-11-06`
 - [Airbnb Employees by Country: United States (12,144) vs India (2,763)](https://metix.ai/reports/series/airbnb-market-entry-geo-2026) — lastmod `2026-11-11`
-- [Analytics Engineer Headcount: Netflix (119) vs Airbnb (44)](https://metix.ai/reports/series/analytics-eng-peer-pack-2026) — lastmod `2026-11-26`
+- [Analytics Engineer Headcount: Netflix (119) vs Airbnb (44)](https://metix.ai/reports/series/analytics-eng-peer-pack-2026) — lastmod `2026-11-27`
 - [Android Engineer Headcount: Google (345) vs Meta (61)](https://metix.ai/reports/series/android-eng-peer-pack-2026) — lastmod `2026-11-06`
 - [Anduril 54 / Shield AI 38 Jobs | Defense Autonomy](https://metix.ai/reports/series/defense-ai-autonomy-talent-2026) — lastmod `2026-11-06`
 - [Anthropic Employees by Country: US (2,849) vs UK (198)](https://metix.ai/reports/series/anthropic-market-entry-geo-2026) — lastmod `2026-11-06`
 - [Anthropic Headcount by Role: 3,527 Mapped Staff](https://metix.ai/reports/series/anthropic-company-teardown-2026) — lastmod `2026-11-06`
 - [Anyscale 489, Groq 1 Job | Inference Serving](https://metix.ai/reports/series/inference-serving-talent-2026) — lastmod `2026-11-06`
+- [Apm / Observability Swe Software Engineer Headcount: Datadog (2,250) vs Dynatrace (832)](https://metix.ai/reports/series/observability-swe-vendor-bench-2026) — lastmod `2026-11-27`
 - [Applied 213 vs Lam 120 | Etch / Deposition](https://metix.ai/reports/series/lam-amat-etch-deposition-process-2026) — lastmod `2026-11-06`
-- [Applied Scientist Headcount: Amazon (4,413) vs Microsoft (1,624)](https://metix.ai/reports/series/applied-scientist-peer-pack-2026) — lastmod `2026-11-26`
+- [Applied Scientist Headcount: Amazon (4,413) vs Microsoft (1,624)](https://metix.ai/reports/series/applied-scientist-peer-pack-2026) — lastmod `2026-11-27`
 - [Applied Scientist Hiring vs Headcount: Microsoft (46.4×) &amp; Amazon](https://metix.ai/reports/series/applied-scientist-employed-vs-open-2026) — lastmod `2026-11-06`
-- [AppSec Engineer Headcount: Amazon (117) vs Salesforce (54)](https://metix.ai/reports/series/appsec-eng-peer-pack-2026) — lastmod `2026-11-26`
+- [AppSec Engineer Headcount: Amazon (117) vs Salesforce (54)](https://metix.ai/reports/series/appsec-eng-peer-pack-2026) — lastmod `2026-11-27`
 - [Archer 84 vs Joby 38 | eVTOL GNC](https://metix.ai/reports/series/joby-archer-evtol-gnc-2026) — lastmod `2026-11-06`
 - [Asana Headcount by Role: 2,373 Staff (Software Engineer 417)](https://metix.ai/reports/series/asana-company-teardown-2026) — lastmod `2026-11-06`
 - [ASML Eindhoven 191 vs HQ Veldhoven 21](https://metix.ai/reports/series/asml-kla-overlay-litho-process-control-2026) — lastmod `2026-11-06`
 - [Atlassian Headcount by Role: 17,909 Staff (Software Engineer 4,809)](https://metix.ai/reports/series/atlassian-company-teardown-2026) — lastmod `2026-11-06`
 - [Autodesk Employees by Country: United States (6,659) vs India (3,167)](https://metix.ai/reports/series/autodesk-market-entry-geo-2026) — lastmod `2026-11-15`
 - [Backend Engineer (Fintech) Headcount: PayPal (59) vs Capital One (34)](https://metix.ai/reports/series/be-eng-fintech-peer-pack-2026) — lastmod `2026-11-05`
-- [Backend Engineer Headcount: LinkedIn (88) vs Shopify (49)](https://metix.ai/reports/series/be-eng-peer-pack-2026) — lastmod `2026-11-26`
+- [Backend Engineer Headcount: LinkedIn (88) vs Shopify (49)](https://metix.ai/reports/series/be-eng-peer-pack-2026) — lastmod `2026-11-27`
 - [BI &amp; Analytics Software Engineer Headcount: Tableau (274) vs Qlik (262)](https://metix.ai/reports/series/bi-analytics-swe-vendor-bench-2026) — lastmod `2026-11-06`
 - [Billing &amp; RevOps Software Engineers: Stripe (3,247) vs Chargebee (270)](https://metix.ai/reports/series/billing-revops-swe-vendor-bench-2026) — lastmod `2026-11-12`
 - [Block Headcount by Role: 3,418 Staff (Software Engineer 563)](https://metix.ai/reports/series/block-company-teardown-2026) — lastmod `2026-11-06`
 - [Blue Origin 318 GNC Jobs | Launch Flight Software](https://metix.ai/reports/series/spacex-rocketlab-blueorigin-launch-gnc-2026) — lastmod `2026-11-11`
 - [Brex Headcount by Role: 1,500 Staff (Software Engineer 254)](https://metix.ai/reports/series/brex-company-teardown-2026) — lastmod `2026-11-08`
-- [Business Analyst Headcount: IBM (3,187) vs Oracle (1,406)](https://metix.ai/reports/series/business-analyst-peer-pack-2026) — lastmod `2026-11-06`
-- [Business Operations Hiring vs Headcount: Cisco (104.9×) &amp; Amazon](https://metix.ai/reports/series/bizops-employed-vs-open-2026) — lastmod `2026-11-26`
+- [Business Analyst Headcount: IBM (3,187) vs Oracle (1,406)](https://metix.ai/reports/series/business-analyst-peer-pack-2026) — lastmod `2026-11-27`
+- [Business Analyst Hiring vs Headcount: Oracle (273.7×) &amp; IBM](https://metix.ai/reports/series/business-analyst-employed-vs-open-2026) — lastmod `2026-11-27`
+- [Business Operations Hiring vs Headcount: Cisco (104.9×) &amp; Amazon](https://metix.ai/reports/series/bizops-employed-vs-open-2026) — lastmod `2026-11-27`
 - [Canva Employees by Country: Australia (3,331) vs United States (1,304)](https://metix.ai/reports/series/canva-market-entry-geo-2026) — lastmod `2026-11-06`
 - [Chime Headcount by Role: 1,807 Staff (Software Engineer 341)](https://metix.ai/reports/series/chime-company-teardown-2026) — lastmod `2026-11-19`
 - [Ci/Cd / Devops Platforms Software Engineer Headcount: Harness (489) vs JFrog (206)](https://metix.ai/reports/series/cicd-devops-eng-vendor-bench-2026) — lastmod `2026-11-17`
@@ -70,10 +72,10 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Cloudflare Headcount by Role: 5,355 Staff (Account Executive 565)](https://metix.ai/reports/series/cloudflare-company-teardown-2026) — lastmod `2026-11-26`
 - [Coinbase Headcount by Role: 6,396 Staff (Software Engineer 1,370)](https://metix.ai/reports/series/coinbase-company-teardown-2026) — lastmod `2026-11-06`
 - [Collaboration Suite Saas Software Engineer Headcount: Atlassian (4,657) vs Smartsheet (414)](https://metix.ai/reports/series/collab-suite-swe-vendor-bench-2026) — lastmod `2026-11-21`
-- [Company &amp; Career-Family Report Directory](https://metix.ai/reports/series/career-families) — lastmod `2026-11-26`
+- [Company &amp; Career-Family Report Directory](https://metix.ai/reports/series/career-families) — lastmod `2026-11-27`
 - [Compliance Analyst (Fintech) Headcount: PayPal (184) vs Coinbase (164)](https://metix.ai/reports/series/compliance-analyst-fintech-peer-pack-2026) — lastmod `2026-11-12`
 - [Confluent Headcount by Role: 3,243 Staff (Software Engineer 735)](https://metix.ai/reports/series/confluent-company-teardown-2026) — lastmod `2026-11-06`
-- [Controller Hiring vs Headcount: Siemens (41.0×) &amp; JPMorgan Chase](https://metix.ai/reports/series/controller-employed-vs-open-2026) — lastmod `2026-11-26`
+- [Controller Hiring vs Headcount: Siemens (41.0×) &amp; JPMorgan Chase](https://metix.ai/reports/series/controller-employed-vs-open-2026) — lastmod `2026-11-27`
 - [CoreWeave: 93 of 102 US DC-Ops Seats](https://metix.ai/reports/series/coreweave-crusoe-dc-ops-2026) — lastmod `2026-11-06`
 - [Cpaas / Messaging Software Engineers: Twilio (1,147) vs Vonage (351)](https://metix.ai/reports/series/messaging-cpaas-swe-vendor-bench-2026) — lastmod `2026-11-06`
 - [CrowdStrike Headcount by Role: 9,362 Staff (Software Engineer 774)](https://metix.ai/reports/series/crowdstrike-company-teardown-2026) — lastmod `2026-11-06`
@@ -83,7 +85,7 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Customer Success Manager (Fintech): PayPal (148) vs Visa (116)](https://metix.ai/reports/series/csm-fintech-peer-pack-2026) — lastmod `2026-11-09`
 - [Customer Success Manager Hiring vs Headcount: Salesforce (33.8×)](https://metix.ai/reports/series/csm-employed-vs-open-2026) — lastmod `2026-11-06`
 - [Data Analyst (Fintech) Headcount: Stripe (177) vs PayPal (157)](https://metix.ai/reports/series/data-analyst-fintech-peer-pack-2026) — lastmod `2026-11-08`
-- [Data Analyst Headcount: Amazon (2,910) vs Google (1,413)](https://metix.ai/reports/series/data-analyst-peer-pack-2026) — lastmod `2026-11-06`
+- [Data Analyst Headcount: Amazon (2,910) vs Google (1,413)](https://metix.ai/reports/series/data-analyst-peer-pack-2026) — lastmod `2026-11-27`
 - [Data Analyst Hiring vs Headcount: Amazon (396.3×) &amp; Capital One](https://metix.ai/reports/series/data-analyst-employed-vs-open-2026) — lastmod `2026-11-06`
 - [Data Architect Headcount: IBM (250) vs Adobe (63)](https://metix.ai/reports/series/data-architect-peer-pack-2026) — lastmod `2026-11-06`
 - [Data Engineer (Ai Infrastructure): NVIDIA (107) vs Databricks (73)](https://metix.ai/reports/series/data-eng-ai-infra-peer-pack-2026) — lastmod `2026-11-24`
@@ -96,16 +98,19 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Data Scientist (Fintech) Headcount: PayPal (561) vs Stripe (99)](https://metix.ai/reports/series/data-scientist-fintech-peer-pack-2026) — lastmod `2026-11-10`
 - [Data Scientist Headcount: Meta (2,593) vs Uber (378)](https://metix.ai/reports/series/data-scientist-peer-pack-2026) — lastmod `2026-11-06`
 - [Data Scientist Hiring vs Headcount: Microsoft (104.2×) &amp; Meta](https://metix.ai/reports/series/data-scientist-employed-vs-open-2026) — lastmod `2026-11-06`
-- [Database Administrator Headcount: IBM (2,136) vs Oracle (1,174)](https://metix.ai/reports/series/dba-peer-pack-2026) — lastmod `2026-11-26`
+- [Database Administrator Headcount: IBM (2,136) vs Oracle (1,174)](https://metix.ai/reports/series/dba-peer-pack-2026) — lastmod `2026-11-27`
 - [Database Systems Vendors Software Engineer Headcount: MongoDB (870) vs Neo4j (210)](https://metix.ai/reports/series/database-systems-swe-vendor-bench-2026) — lastmod `2026-11-06`
 - [Databricks Employees by Country: United States (6,220) vs India (1,196)](https://metix.ai/reports/series/databricks-market-entry-geo-2026) — lastmod `2026-11-06`
 - [Databricks Headcount by Role: 11,373 Staff (Software Engineer 1,985)](https://metix.ai/reports/series/databricks-company-teardown-2026) — lastmod `2026-11-06`
 - [Datadog Headcount by Role: 8,488 Staff (Software Engineer 2,187)](https://metix.ai/reports/series/datadog-company-teardown-2026) — lastmod `2026-11-06`
+- [Deel Headcount by Role: 6,383 Staff (Account Executive 579)](https://metix.ai/reports/series/deel-company-teardown-2026) — lastmod `2026-11-27`
+- [Delivery Manager Hiring vs Headcount: IBM (156.6×) &amp; SAP](https://metix.ai/reports/series/delivery-manager-employed-vs-open-2026) — lastmod `2026-11-27`
 - [Design &amp; Creative SaaS Software Engineer Headcount: Adobe (4,285) vs Canva (1,215)](https://metix.ai/reports/series/design-tools-swe-vendor-bench-2026) — lastmod `2026-11-20`
 - [Design Manager Headcount: IBM (111) vs Adobe (89)](https://metix.ai/reports/series/design-mgr-peer-pack-2026) — lastmod `2026-11-11`
 - [Designer Hiring vs Headcount: Microsoft (702.0×) &amp; Amazon](https://metix.ai/reports/series/designer-employed-vs-open-2026) — lastmod `2026-11-06`
+- [Developer Ide / Collab Tools Software Engineer Headcount: GitHub (1,409) vs JetBrains (307)](https://metix.ai/reports/series/devtools-ide-swe-vendor-bench-2026) — lastmod `2026-11-27`
 - [DevOps Engineer (Fintech): Capital One (450) vs Mastercard (218)](https://metix.ai/reports/series/devops-eng-fintech-peer-pack-2026) — lastmod `2026-11-06`
-- [DevOps Engineer Headcount: Amazon (560) vs Microsoft (296)](https://metix.ai/reports/series/devops-eng-peer-pack-2026) — lastmod `2026-11-26`
+- [DevOps Engineer Headcount: Amazon (560) vs Microsoft (296)](https://metix.ai/reports/series/devops-eng-peer-pack-2026) — lastmod `2026-11-27`
 - [DevOps Engineer Hiring vs Headcount: IBM (120.1×) &amp; NVIDIA](https://metix.ai/reports/series/devops-eng-employed-vs-open-2026) — lastmod `2026-11-07`
 - [Director of Engineering Headcount: Salesforce (173) vs Oracle (163)](https://metix.ai/reports/series/director-eng-peer-pack-2026) — lastmod `2026-11-06`
 - [Discord Headcount by Role: 3,843 Staff (Software Engineer 289)](https://metix.ai/reports/series/discord-company-teardown-2026) — lastmod `2026-11-15`
@@ -114,6 +119,7 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Dynatrace Headcount by Role: 5,127 Staff (Software Engineer 832)](https://metix.ai/reports/series/dynatrace-company-teardown-2026) — lastmod `2026-11-24`
 - [Ecommerce Platform Saas Software Engineer Headcount: Salesforce (4,219) vs Adobe (4,085)](https://metix.ai/reports/series/ecommerce-saas-swe-vendor-bench-2026) — lastmod `2026-11-26`
 - [EDA &amp; Chip Tools Software Engineers: Siemens (5,766) vs Cadence (2,332)](https://metix.ai/reports/series/chip-eda-swe-vendor-bench-2026) — lastmod `2026-11-08`
+- [Elastic Headcount by Role: 3,763 Staff (Software Engineer 567)](https://metix.ai/reports/series/elastic-company-teardown-2026) — lastmod `2026-11-27`
 - [Electrical Engineer Headcount: Apple (423) vs Tesla (158)](https://metix.ai/reports/series/electrical-eng-peer-pack-2026) — lastmod `2026-11-06`
 - [ElevenLabs Voice AI: 622 Current, 219 Jobs](https://metix.ai/reports/series/voice-speech-ai-talent-2026) — lastmod `2026-11-06`
 - [Elt / Data Movement Software Engineer Headcount: Informatica (565) vs Fivetran (315)](https://metix.ai/reports/series/etlmelt-swe-vendor-bench-2026) — lastmod `2026-11-15`
@@ -132,6 +138,7 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Ex-Amazon Talent at Palo Alto Networks (473) &amp; CrowdStrike Flow](https://metix.ai/reports/series/amazon-to-security-vendors-talent-flow-2026) — lastmod `2026-11-05`
 - [Ex-Amazon Talent at SpaceX (362) &amp; Palantir Flow](https://metix.ai/reports/series/amazon-to-defense-tech-talent-flow-2026) — lastmod `2026-11-17`
 - [Ex-Amazon Talent at Waymo (268) &amp; Zoox Flow](https://metix.ai/reports/series/amazon-to-autonomy-talent-flow-2026) — lastmod `2026-11-12`
+- [Ex-Apple Talent at Atlassian (149) &amp; Datadog Flow](https://metix.ai/reports/series/apple-to-devtools-talent-flow-2026) — lastmod `2026-11-27`
 - [Ex-Apple Talent at OpenAI (431) &amp; Anthropic Flow](https://metix.ai/reports/series/apple-to-frontier-labs-talent-flow-2026) — lastmod `2026-11-06`
 - [Ex-Apple Talent at SpaceX (185) &amp; Anduril Flow](https://metix.ai/reports/series/apple-to-defense-tech-talent-flow-2026) — lastmod `2026-11-14`
 - [Ex-Apple Talent at Zoox (174) &amp; Waymo Flow](https://metix.ai/reports/series/apple-to-autonomy-talent-flow-2026) — lastmod `2026-11-06`
@@ -154,6 +161,7 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Ex-Meta Talent at Coinbase (188) &amp; Robinhood Flow](https://metix.ai/reports/series/meta-to-fintech-talent-flow-2026) — lastmod `2026-11-06`
 - [Ex-Meta Talent at Datadog (198) &amp; MongoDB Flow](https://metix.ai/reports/series/meta-to-devtools-talent-flow-2026) — lastmod `2026-11-15`
 - [Ex-Meta Talent at NVIDIA (779) &amp; CoreWeave Flow](https://metix.ai/reports/series/meta-to-ai-infra-talent-flow-2026) — lastmod `2026-11-26`
+- [Ex-Meta Talent at Palantir (94) &amp; Anduril Flow](https://metix.ai/reports/series/meta-to-defense-tech-talent-flow-2026) — lastmod `2026-11-27`
 - [Ex-Meta Talent at Stripe (476) &amp; Databricks Flow](https://metix.ai/reports/series/meta-to-data-infra-talent-flow-2026) — lastmod `2026-11-06`
 - [Ex-Meta Talent at Waymo (249) &amp; Zoox Flow](https://metix.ai/reports/series/meta-to-autonomy-talent-flow-2026) — lastmod `2026-11-24`
 - [Ex-Microsoft Talent at Databricks (873) &amp; Snowflake Flow](https://metix.ai/reports/series/microsoft-to-data-infra-talent-flow-2026) — lastmod `2026-11-06`
@@ -164,6 +172,7 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Ex-Northrop Grumman Talent at Anduril (522) &amp; SpaceX Flow](https://metix.ai/reports/series/northrop-grumman-to-defense-tech-talent-flow-2026) — lastmod `2026-11-06`
 - [Ex-Okta Talent at Wiz (79) &amp; Palo Alto Networks Flow](https://metix.ai/reports/series/okta-to-security-vendors-talent-flow-2026) — lastmod `2026-11-06`
 - [Ex-Oracle Talent at MongoDB (329) &amp; Datadog Flow](https://metix.ai/reports/series/oracle-to-devtools-talent-flow-2026) — lastmod `2026-11-06`
+- [Ex-Oracle Talent at Salesforce (5,220) &amp; ServiceNow Flow](https://metix.ai/reports/series/oracle-to-cloud-saas-talent-flow-2026) — lastmod `2026-11-27`
 - [Ex-RTX Talent at SpaceX (307) &amp; Anduril Flow](https://metix.ai/reports/series/rtx-to-defense-tech-talent-flow-2026) — lastmod `2026-11-06`
 - [Ex-Salesforce Talent at Datadog (198) &amp; MongoDB Flow](https://metix.ai/reports/series/salesforce-to-devtools-talent-flow-2026) — lastmod `2026-11-06`
 - [Ex-Splunk Talent at Palo Alto Networks (169) &amp; CrowdStrike Flow](https://metix.ai/reports/series/splunk-to-security-vendors-talent-flow-2026) — lastmod `2026-11-06`
@@ -174,9 +183,9 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Ex-Uber Talent at Stripe (206) &amp; Databricks Flow](https://metix.ai/reports/series/uber-to-data-infra-talent-flow-2026) — lastmod `2026-11-06`
 - [Figma Employees by Country: US (1,881) vs UK (240)](https://metix.ai/reports/series/figma-market-entry-geo-2026) — lastmod `2026-11-06`
 - [Figma Headcount by Role: 3,322 Staff (Software Engineer 505)](https://metix.ai/reports/series/figma-company-teardown-2026) — lastmod `2026-11-06`
-- [Financial Analyst Headcount: Amazon (3,417) vs Google (576)](https://metix.ai/reports/series/financial-analyst-peer-pack-2026) — lastmod `2026-11-06`
+- [Financial Analyst Headcount: Amazon (3,417) vs Google (576)](https://metix.ai/reports/series/financial-analyst-peer-pack-2026) — lastmod `2026-11-27`
 - [Financial Analyst Hiring vs Headcount: Oracle (28.9×) &amp; Amazon](https://metix.ai/reports/series/financial-analyst-employed-vs-open-2026) — lastmod `2026-11-14`
-- [Firmware Engineer Headcount: Apple (820) vs Qualcomm (521)](https://metix.ai/reports/series/fw-eng-peer-pack-2026) — lastmod `2026-11-26`
+- [Firmware Engineer Headcount: Apple (820) vs Qualcomm (521)](https://metix.ai/reports/series/fw-eng-peer-pack-2026) — lastmod `2026-11-27`
 - [Forward Deployed Engineer Headcount: Palantir (576) vs Meta (96)](https://metix.ai/reports/series/fde-peer-pack-2026) — lastmod `2026-11-06`
 - [Forward Deployed Engineer Hiring vs Headcount: IBM (8.3×) &amp; Salesforce](https://metix.ai/reports/series/fde-employed-vs-open-2026) — lastmod `2026-11-17`
 - [Frontend Engineer (Fintech) Headcount: Capital One (76) vs PayPal (33)](https://metix.ai/reports/series/fe-eng-fintech-peer-pack-2026) — lastmod `2026-11-05`
@@ -200,7 +209,7 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Infrastructure Engineer Hiring vs Headcount: Amazon (21.5×) &amp; NVIDIA](https://metix.ai/reports/series/infra-eng-employed-vs-open-2026) — lastmod `2026-11-12`
 - [Instacart Employees by Country: US (12,097) vs Canada (1,194)](https://metix.ai/reports/series/instacart-market-entry-geo-2026) — lastmod `2026-11-19`
 - [Intuit Employees by Country: United States (18,562) vs India (2,750)](https://metix.ai/reports/series/intuit-market-entry-geo-2026) — lastmod `2026-11-14`
-- [iOS Engineer Headcount: Apple (367) vs Meta (83)](https://metix.ai/reports/series/ios-eng-peer-pack-2026) — lastmod `2026-11-26`
+- [iOS Engineer Headcount: Apple (367) vs Meta (83)](https://metix.ai/reports/series/ios-eng-peer-pack-2026) — lastmod `2026-11-27`
 - [Itsm / Service Management Software Engineer Headcount: Atlassian (4,899) vs ServiceNow (4,583)](https://metix.ai/reports/series/itsm-swe-vendor-bench-2026) — lastmod `2026-11-06`
 - [Kubernetes Platform / Paas Software Engineer Headcount: Red Hat (3,480) vs Canonical (537)](https://metix.ai/reports/series/k8s-platform-swe-vendor-bench-2026) — lastmod `2026-11-11`
 - [LinkedIn Employees by Country: United States (79,670) vs India (30,070)](https://metix.ai/reports/series/linkedin-market-entry-geo-2026) — lastmod `2026-11-11`
@@ -218,17 +227,18 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Mongo 24 vs Elastic 31 | Query / Search Seats](https://metix.ai/reports/series/mongodb-elastic-query-search-2026) — lastmod `2026-11-06`
 - [Netflix Employees by Country: US (14,367) vs UK (1,593)](https://metix.ai/reports/series/netflix-market-entry-geo-2026) — lastmod `2026-11-13`
 - [Netskope Headcount by Role: 2,938 Staff (Software Engineer 411)](https://metix.ai/reports/series/netskope-company-teardown-2026) — lastmod `2026-11-26`
-- [Network Engineer Headcount: Cisco (1,896) vs Juniper (150)](https://metix.ai/reports/series/network-eng-peer-pack-2026) — lastmod `2026-11-26`
+- [Network Engineer Headcount: Cisco (1,896) vs Juniper (150)](https://metix.ai/reports/series/network-eng-peer-pack-2026) — lastmod `2026-11-27`
 - [Network Engineer Hiring vs Headcount: Microsoft (270.0×) &amp; Meta](https://metix.ai/reports/series/network-eng-employed-vs-open-2026) — lastmod `2026-11-06`
 - [New Relic Headcount by Role: 2,480 Staff (Software Engineer 795)](https://metix.ai/reports/series/new-relic-company-teardown-2026) — lastmod `2026-11-25`
 - [Notion Employees by Country: South Korea (92) vs United States (38)](https://metix.ai/reports/series/notion-market-entry-geo-2026) — lastmod `2026-11-25`
+- [NVIDIA Employees by Country: United States (23,152) vs India (7,639)](https://metix.ai/reports/series/nvidia-market-entry-geo-2026) — lastmod `2026-11-27`
 - [NVIDIA Headcount by Role: 39,150 Staff (Software Engineer 6,875)](https://metix.ai/reports/series/nvidia-company-teardown-2026) — lastmod `2026-11-06`
 - [Object / File Storage Vendors Software Engineer Headcount: NetApp (1,402) vs Dropbox (722)](https://metix.ai/reports/series/storage-object-swe-vendor-bench-2026) — lastmod `2026-11-14`
 - [Observability SRE Headcount: Splunk (112) vs Elastic (56)](https://metix.ai/reports/series/observability-sre-vendor-bench-2026) — lastmod `2026-11-06`
 - [Okta Headcount by Role: 6,867 Staff (Software Engineer 807)](https://metix.ai/reports/series/okta-company-teardown-2026) — lastmod `2026-11-06`
 - [OpenAI Employees by Country: US (5,716) vs UK (237)](https://metix.ai/reports/series/openai-market-entry-geo-2026) — lastmod `2026-11-06`
 - [OpenAI Headcount by Role: 7,242 Staff (Member of Technical Staff 1,973)](https://metix.ai/reports/series/openai-company-teardown-2026) — lastmod `2026-11-06`
-- [Operations Analyst Hiring vs Headcount: JPMorgan Chase (147.7×)](https://metix.ai/reports/series/operations-analyst-employed-vs-open-2026) — lastmod `2026-11-26`
+- [Operations Analyst Hiring vs Headcount: JPMorgan Chase (147.7×)](https://metix.ai/reports/series/operations-analyst-employed-vs-open-2026) — lastmod `2026-11-27`
 - [Palantir FDE: 1 Exact Job, 1 Employed Title, 69 Job Titles](https://metix.ai/reports/series/fde-employed-vs-jd-2026) — lastmod `2026-11-06`
 - [Palantir Headcount by Role: 4,665 Staff (Software Engineer 1,122)](https://metix.ai/reports/series/palantir-company-teardown-2026) — lastmod `2026-11-06`
 - [Palo Alto Networks Headcount by Role: 18,339 Mapped Staff](https://metix.ai/reports/series/palo-alto-networks-company-teardown-2026) — lastmod `2026-11-06`
@@ -243,11 +253,13 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Platform Engineer Hiring vs Headcount: IBM (52.8×) &amp; NVIDIA](https://metix.ai/reports/series/platform-eng-employed-vs-open-2026) — lastmod `2026-11-08`
 - [Principal Engineer Headcount: Amazon (844) vs Oracle (682)](https://metix.ai/reports/series/principal-eng-peer-pack-2026) — lastmod `2026-11-06`
 - [Principal Engineer Hiring vs Headcount: Amazon (105.5×) &amp; Oracle](https://metix.ai/reports/series/principal-eng-employed-vs-open-2026) — lastmod `2026-11-06`
-- [Product Analyst Headcount: Salesforce (41) vs Oracle (35)](https://metix.ai/reports/series/product-analyst-peer-pack-2026) — lastmod `2026-11-06`
+- [Principal Product Manager Hiring vs Headcount: Adobe (19.9×)](https://metix.ai/reports/series/principal-pm-employed-vs-open-2026) — lastmod `2026-11-27`
+- [Product Analyst Headcount: Salesforce (41) vs Oracle (35)](https://metix.ai/reports/series/product-analyst-peer-pack-2026) — lastmod `2026-11-27`
 - [Product Designer (Fintech) Headcount: Stripe (100) vs Coinbase (74)](https://metix.ai/reports/series/product-designer-fintech-peer-pack-2026) — lastmod `2026-11-07`
 - [Product Designer Headcount: Shopify (206) vs Adobe (138)](https://metix.ai/reports/series/product-designer-peer-pack-2026) — lastmod `2026-11-06`
 - [Product Manager (Ai Infrastructure): NVIDIA (489) vs Snowflake (123)](https://metix.ai/reports/series/product-mgr-ai-infra-peer-pack-2026) — lastmod `2026-11-25`
 - [Product Manager (Cybersecurity): Palo Alto Networks (323) vs Okta (105)](https://metix.ai/reports/series/product-mgr-security-vendors-peer-pack-2026) — lastmod `2026-11-13`
+- [Product Manager (Data Infra): Datadog (167) vs Snowflake (123)](https://metix.ai/reports/series/product-mgr-data-infra-peer-pack-2026) — lastmod `2026-11-27`
 - [Product Manager (Developer Tools): Atlassian (412) vs Datadog (164)](https://metix.ai/reports/series/product-mgr-devtools-peer-pack-2026) — lastmod `2026-11-10`
 - [Product Manager (Fintech) Headcount: PayPal (776) vs Stripe (199)](https://metix.ai/reports/series/product-mgr-fintech-peer-pack-2026) — lastmod `2026-11-06`
 - [Product Manager Headcount: Google (4,099) vs Meta (2,657)](https://metix.ai/reports/series/product-mgr-peer-pack-2026) — lastmod `2026-11-26`
@@ -255,20 +267,20 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Product Marketing Manager (Enterprise Saas) Headcount: Adobe (231) vs Salesforce (186)](https://metix.ai/reports/series/pmm-enterprise-saas-peer-pack-2026) — lastmod `2026-11-06`
 - [Product Marketing Manager (Fintech) Headcount: Stripe (41) vs Visa (27)](https://metix.ai/reports/series/pmm-fintech-peer-pack-2026) — lastmod `2026-11-11`
 - [Product Marketing Manager Hiring vs Headcount: Microsoft (169.8×)](https://metix.ai/reports/series/pmm-employed-vs-open-2026) — lastmod `2026-11-06`
-- [Program Manager Headcount: IBM (2,989) vs Oracle (2,569)](https://metix.ai/reports/series/program-mgr-peer-pack-2026) — lastmod `2026-11-26`
+- [Program Manager Headcount: IBM (2,989) vs Oracle (2,569)](https://metix.ai/reports/series/program-mgr-peer-pack-2026) — lastmod `2026-11-27`
 - [Program Manager Hiring vs Headcount: Microsoft (106.6×) &amp; Amazon](https://metix.ai/reports/series/program-mgr-employed-vs-open-2026) — lastmod `2026-11-06`
-- [QA Engineer Headcount: IBM (1,928) vs Oracle (1,455)](https://metix.ai/reports/series/qa-eng-peer-pack-2026) — lastmod `2026-11-26`
+- [QA Engineer Headcount: IBM (1,928) vs Oracle (1,455)](https://metix.ai/reports/series/qa-eng-peer-pack-2026) — lastmod `2026-11-27`
 - [Ramp Headcount by Role: 2,133 Staff (Software Engineer 373)](https://metix.ai/reports/series/ramp-company-teardown-2026) — lastmod `2026-11-09`
 - [Recruiter Hiring vs Headcount: Microsoft (153.9×) &amp; Amazon](https://metix.ai/reports/series/recruiter-employed-vs-open-2026) — lastmod `2026-11-06`
 - [Release Engineer Headcount: Oracle (85) vs IBM (38)](https://metix.ai/reports/series/release-eng-peer-pack-2026) — lastmod `2026-11-06`
 - [Research Engineer (AI Labs) Headcount: Meta (440) vs NVIDIA (91)](https://metix.ai/reports/series/research-eng-ai-labs-peer-pack-2026) — lastmod `2026-11-06`
 - [Research Engineer Hiring vs Headcount: Meta (38.4×) &amp; NVIDIA](https://metix.ai/reports/series/research-eng-employed-vs-open-2026) — lastmod `2026-11-06`
 - [Research Scientist (Ai Infrastructure): NVIDIA (706) vs OpenAI (70)](https://metix.ai/reports/series/research-scientist-ai-infra-peer-pack-2026) — lastmod `2026-11-17`
-- [Research Scientist Headcount: Meta (3,255) vs Google (790)](https://metix.ai/reports/series/research-scientist-peer-pack-2026) — lastmod `2026-11-26`
+- [Research Scientist Headcount: Meta (3,255) vs Google (790)](https://metix.ai/reports/series/research-scientist-peer-pack-2026) — lastmod `2026-11-27`
 - [Research Scientist Hiring vs Headcount: Amazon (59.8×) &amp; Meta](https://metix.ai/reports/series/research-scientist-employed-vs-open-2026) — lastmod `2026-11-06`
 - [Rippling Headcount by Role: 5,606 Staff (Software Engineer 874)](https://metix.ai/reports/series/rippling-company-teardown-2026) — lastmod `2026-11-06`
 - [Risk Analyst (Fintech) Headcount: PayPal (337) vs Coinbase (60)](https://metix.ai/reports/series/risk-analyst-fintech-peer-pack-2026) — lastmod `2026-11-11`
-- [Risk Analyst Hiring vs Headcount: Stripe (40.0×) &amp; Intuit](https://metix.ai/reports/series/risk-analyst-employed-vs-open-2026) — lastmod `2026-11-26`
+- [Risk Analyst Hiring vs Headcount: Stripe (40.0×) &amp; Intuit](https://metix.ai/reports/series/risk-analyst-employed-vs-open-2026) — lastmod `2026-11-27`
 - [Rivian Headcount by Role: 10,087 Staff (Software Engineer 507)](https://metix.ai/reports/series/rivian-company-teardown-2026) — lastmod `2026-11-14`
 - [Robinhood Headcount by Role: 3,551 Staff (Software Engineer 599)](https://metix.ai/reports/series/robinhood-company-teardown-2026) — lastmod `2026-11-06`
 - [Roblox Headcount by Role: 5,577 Staff (Software Engineer 1,448)](https://metix.ai/reports/series/roblox-company-teardown-2026) — lastmod `2026-11-12`
@@ -278,7 +290,8 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Sales Engineer Hiring vs Headcount: CrowdStrike (20.6×) &amp; Datadog](https://metix.ai/reports/series/sales-eng-employed-vs-open-2026) — lastmod `2026-11-13`
 - [Salesforce Employees by Country: US (38,938) vs India (18,063)](https://metix.ai/reports/series/salesforce-market-entry-geo-2026) — lastmod `2026-11-08`
 - [Samsara Headcount by Role: 4,562 Staff (Account Executive 930)](https://metix.ai/reports/series/samsara-company-teardown-2026) — lastmod `2026-11-10`
-- [SDET Headcount: IBM (500) vs Oracle (368)](https://metix.ai/reports/series/sdet-peer-pack-2026) — lastmod `2026-11-26`
+- [Sase / Zero Trust Network Software Engineers: Cisco (11,743) vs Palo Alto Networks (2,554)](https://metix.ai/reports/series/sase-zerotrust-swe-vendor-bench-2026) — lastmod `2026-11-27`
+- [SDET Headcount: IBM (500) vs Oracle (368)](https://metix.ai/reports/series/sdet-peer-pack-2026) — lastmod `2026-11-27`
 - [SDR Hiring vs Headcount: Salesforce (246.1×) &amp; Okta](https://metix.ai/reports/series/sdr-employed-vs-open-2026) — lastmod `2026-11-06`
 - [Security Analyst Headcount: IBM (773) vs Microsoft (199)](https://metix.ai/reports/series/security-analyst-peer-pack-2026) — lastmod `2026-11-06`
 - [Security Architect Headcount: IBM (339) vs Cisco (128)](https://metix.ai/reports/series/security-architect-peer-pack-2026) — lastmod `2026-10-30`
@@ -286,7 +299,9 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Security Engineer (Fintech) Headcount: PayPal (138) vs Coinbase (53)](https://metix.ai/reports/series/sec-eng-fintech-peer-pack-2026) — lastmod `2026-11-06`
 - [Security Engineer Hiring vs Headcount: Microsoft (69.0×) &amp; Amazon](https://metix.ai/reports/series/sec-eng-employed-vs-open-2026) — lastmod `2026-11-06`
 - [Security Engineer: Palo Alto Networks (193) vs CrowdStrike (100)](https://metix.ai/reports/series/sec-eng-peer-pack-2026) — lastmod `2026-11-06`
+- [SentinelOne Headcount by Role: 2,612 Staff (Software Engineer 416)](https://metix.ai/reports/series/sentinelone-company-teardown-2026) — lastmod `2026-11-27`
 - [Series methodology](https://metix.ai/reports/series/methodology) — lastmod `2026-09-23`
+- [ServiceNow Employees by Country: US (14,197) vs India (6,972)](https://metix.ai/reports/series/servicenow-market-entry-geo-2026) — lastmod `2026-11-27`
 - [ServiceNow Headcount by Role: 29,127 Staff (Software Engineer 4,279)](https://metix.ai/reports/series/servicenow-company-teardown-2026) — lastmod `2026-11-06`
 - [Shopify Employees by Country: Canada (4,850) vs United States (3,293)](https://metix.ai/reports/series/shopify-market-entry-geo-2026) — lastmod `2026-11-06`
 - [Site Reliability Engineer Headcount: Elastic (56) vs MongoDB (43)](https://metix.ai/reports/series/infra-sre-peer-pack-2026) — lastmod `2026-11-06`
@@ -297,21 +312,25 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Snowflake Employees by Country: United States (5,903) vs India (710)](https://metix.ai/reports/series/snowflake-market-entry-geo-2026) — lastmod `2026-11-21`
 - [Snowflake Headcount by Role: 9,579 Staff (Software Engineer 1,675)](https://metix.ai/reports/series/snowflake-company-teardown-2026) — lastmod `2026-11-06`
 - [Software Architect Headcount: IBM (513) vs SAP (248)](https://metix.ai/reports/series/software-architect-peer-pack-2026) — lastmod `2026-11-06`
-- [Software Development Engineer Hiring vs Headcount: Oracle (1012.6×)](https://metix.ai/reports/series/sde-employed-vs-open-2026) — lastmod `2026-11-26`
+- [Software Development Engineer Hiring vs Headcount: Oracle (1012.6×)](https://metix.ai/reports/series/sde-employed-vs-open-2026) — lastmod `2026-11-27`
 - [Software Development Manager Headcount: Oracle (908) vs IBM (415)](https://metix.ai/reports/series/sdm-peer-pack-2026) — lastmod `2026-11-10`
 - [Software Engineer (Ai Infrastructure) Headcount: NVIDIA (7,781) vs Databricks (2,354)](https://metix.ai/reports/series/swe-ai-infra-peer-pack-2026) — lastmod `2026-11-21`
 - [Software Engineer (Ai-Native Companies): Scale AI (364) vs Glean (228)](https://metix.ai/reports/series/swe-ai-natives-peer-pack-2026) — lastmod `2026-10-30`
 - [Software Engineer (Autonomy) Headcount: Tesla (2,033) vs Waymo (1,107)](https://metix.ai/reports/series/swe-autonomy-peer-pack-2026) — lastmod `2026-10-30`
 - [Software Engineer (Cybersecurity) Headcount: Palo Alto Networks (2,656) vs Zscaler (1,301)](https://metix.ai/reports/series/swe-security-vendors-peer-pack-2026) — lastmod `2026-11-12`
+- [Software Engineer (Data Infra): Databricks (2,354) vs Datadog (2,250)](https://metix.ai/reports/series/swe-data-infra-peer-pack-2026) — lastmod `2026-11-27`
 - [Software Engineer (Defense Tech): Palantir (1,122) vs Anduril (947)](https://metix.ai/reports/series/swe-defense-tech-peer-pack-2026) — lastmod `2026-11-11`
 - [Software Engineer (Developer Tools) Headcount: Atlassian (4,809) vs Datadog (2,187)](https://metix.ai/reports/series/swe-devtools-peer-pack-2026) — lastmod `2026-11-10`
+- [Software Engineer (Enterprise Saas) Headcount: Atlassian (4,657) vs ServiceNow (4,367)](https://metix.ai/reports/series/swe-enterprise-saas-peer-pack-2026) — lastmod `2026-11-27`
 - [Software Engineer (Fintech) Headcount: PayPal (4,788) vs Stripe (2,770)](https://metix.ai/reports/series/swe-fintech-peer-pack-2026) — lastmod `2026-10-30`
+- [Software Engineer (Semiconductors): NVIDIA (7,781) vs Intel (5,885)](https://metix.ai/reports/series/swe-semiconductors-peer-pack-2026) — lastmod `2026-11-27`
 - [Software Engineer Hiring vs Headcount: Amazon (568.5×) &amp; Microsoft](https://metix.ai/reports/series/software-eng-employed-vs-open-2026) — lastmod `2026-11-06`
 - [Solutions Architect (Ai Infrastructure) Headcount: Databricks (1,652) vs NVIDIA (769)](https://metix.ai/reports/series/solutions-arch-ai-infra-peer-pack-2026) — lastmod `2026-11-15`
 - [Solutions Architect (Cybersecurity) Headcount: Palo Alto Networks (129) vs Fortinet (56)](https://metix.ai/reports/series/solutions-arch-security-vendors-peer-pack-2026) — lastmod `2026-11-15`
+- [Solutions Architect (Enterprise Saas): Salesforce (293) vs Adobe (105)](https://metix.ai/reports/series/solutions-arch-enterprise-saas-peer-pack-2026) — lastmod `2026-11-27`
 - [Solutions Architect Headcount: Databricks (1,505) vs Snowflake (322)](https://metix.ai/reports/series/solutions-arch-peer-pack-2026) — lastmod `2026-10-30`
 - [Solutions Architect Hiring vs Headcount: Amazon (133.2×) &amp; Databricks](https://metix.ai/reports/series/solutions-arch-employed-vs-open-2026) — lastmod `2026-11-26`
-- [Solutions Consultant Headcount: Adobe (445) vs ServiceNow (234)](https://metix.ai/reports/series/solutions-consultant-peer-pack-2026) — lastmod `2026-11-26`
+- [Solutions Consultant Headcount: Adobe (445) vs ServiceNow (234)](https://metix.ai/reports/series/solutions-consultant-peer-pack-2026) — lastmod `2026-11-27`
 - [Solutions Engineer (Ai Infrastructure) Headcount: Databricks (717) vs Cloudflare (380)](https://metix.ai/reports/series/solutions-eng-ai-infra-peer-pack-2026) — lastmod `2026-11-26`
 - [Solutions Engineer (Cybersecurity) Headcount: Okta (258) vs Palo Alto Networks (120)](https://metix.ai/reports/series/solutions-eng-security-vendors-peer-pack-2026) — lastmod `2026-11-14`
 - [Solutions Engineer Headcount: Databricks (664) vs Cloudflare (327)](https://metix.ai/reports/series/solutions-eng-peer-pack-2026) — lastmod `2026-10-30`
@@ -321,7 +340,7 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [SRE (Cybersecurity): Palo Alto Networks (155) vs Zscaler (136)](https://metix.ai/reports/series/sre-security-vendors-peer-pack-2026) — lastmod `2026-11-26`
 - [SRE (Fintech) Headcount: Visa (425) vs Mastercard (363)](https://metix.ai/reports/series/sre-fintech-broad-peer-pack-2026) — lastmod `2026-11-13`
 - [Staff Engineer (Fintech) Headcount: Visa (69) vs PayPal (59)](https://metix.ai/reports/series/staff-eng-fintech-peer-pack-2026) — lastmod `2026-11-10`
-- [Staff Engineer Headcount: Google (205) vs IBM (149)](https://metix.ai/reports/series/staff-eng-peer-pack-2026) — lastmod `2026-11-26`
+- [Staff Engineer Headcount: Google (205) vs IBM (149)](https://metix.ai/reports/series/staff-eng-peer-pack-2026) — lastmod `2026-11-27`
 - [Staff Engineer Hiring vs Headcount: Palo Alto Networks (9.8×) &amp; Uber](https://metix.ai/reports/series/staff-eng-employed-vs-open-2026) — lastmod `2026-11-09`
 - [Stripe Employees by Country: United States (6,301) vs India (1,406)](https://metix.ai/reports/series/stripe-market-entry-geo-2026) — lastmod `2026-11-06`
 - [Stripe Headcount by Role: 11,452 Staff (Software Engineer 2,770)](https://metix.ai/reports/series/stripe-company-teardown-2026) — lastmod `2026-11-06`
@@ -335,11 +354,12 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Technical Account Manager (Data Infra): Datadog (72) vs Cloudflare (32)](https://metix.ai/reports/series/tam-data-infra-peer-pack-2026) — lastmod `2026-10-30`
 - [Technical Account Manager (Fintech): Stripe (170) vs Visa (80)](https://metix.ai/reports/series/tam-fintech-peer-pack-2026) — lastmod `2026-11-09`
 - [Technical Account Manager Hiring vs Headcount: Amazon (522.2×)](https://metix.ai/reports/series/tam-employed-vs-open-2026) — lastmod `2026-11-06`
-- [Technical Product Manager Hiring vs Headcount: Amazon (100.3×)](https://metix.ai/reports/series/technical-pm-employed-vs-open-2026) — lastmod `2026-11-26`
+- [Technical Product Manager Hiring vs Headcount: Amazon (100.3×)](https://metix.ai/reports/series/technical-pm-employed-vs-open-2026) — lastmod `2026-11-27`
+- [Technical Program Manager (Ai Infrastructure) Headcount: NVIDIA (590) vs Databricks (87)](https://metix.ai/reports/series/tpm-ai-infra-peer-pack-2026) — lastmod `2026-11-27`
 - [Technical Program Manager (Fintech): Stripe (72) vs PayPal (62)](https://metix.ai/reports/series/tpm-fintech-peer-pack-2026) — lastmod `2026-11-07`
-- [Technical Program Manager Headcount: Amazon (5,100) vs Google (3,831)](https://metix.ai/reports/series/tpm-peer-pack-2026) — lastmod `2026-11-26`
+- [Technical Program Manager Headcount: Amazon (5,100) vs Google (3,831)](https://metix.ai/reports/series/tpm-peer-pack-2026) — lastmod `2026-11-27`
 - [Technical Program Manager Hiring vs Headcount: Microsoft (69.6×)](https://metix.ai/reports/series/tpm-employed-vs-open-2026) — lastmod `2026-11-06`
-- [Technical Recruiter Headcount: Amazon (1,132) vs Google (567)](https://metix.ai/reports/series/tech-recruiter-peer-pack-2026) — lastmod `2026-11-26`
+- [Technical Recruiter Headcount: Amazon (1,132) vs Google (567)](https://metix.ai/reports/series/tech-recruiter-peer-pack-2026) — lastmod `2026-11-27`
 - [Technical Writer Headcount: Google (401) vs Oracle (358)](https://metix.ai/reports/series/technical-writer-peer-pack-2026) — lastmod `2026-11-01`
 - [Technical Writer Headcount: Oracle (358) vs Salesforce (280)](https://metix.ai/reports/series/tech-writer-peer-pack-2026) — lastmod `2026-11-11`
 - [TI 692 vs ADI 374 | Analog / Mixed-Signal](https://metix.ai/reports/series/ti-adi-analog-2026) — lastmod `2026-11-06`
@@ -353,6 +373,7 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Waymo 48 / Zoox 9 Jobs | AV Perception](https://metix.ai/reports/series/av-perception-talent-2026) — lastmod `2026-11-06`
 - [Waymo Headcount by Role: 3,356 Staff (Software Engineer 1,107)](https://metix.ai/reports/series/waymo-company-teardown-2026) — lastmod `2026-11-06`
 - [Wiz Headcount by Role: 2,086 Staff (Account Executive 290)](https://metix.ai/reports/series/wiz-company-teardown-2026) — lastmod `2026-11-17`
+- [Workday Employees by Country: United States (11,467) vs Ireland (1,961)](https://metix.ai/reports/series/workday-market-entry-geo-2026) — lastmod `2026-11-27`
 - [Workday Headcount by Role: 20,583 Staff (Software Engineer 3,116)](https://metix.ai/reports/series/workday-company-teardown-2026) — lastmod `2026-11-06`
 - [Zoom Headcount by Role: 6,715 Staff (Account Executive 828)](https://metix.ai/reports/series/zoom-company-teardown-2026) — lastmod `2026-11-13`
 - [Zoox Headcount by Role: 4,410 Staff (Software Engineer 728)](https://metix.ai/reports/series/zoox-company-teardown-2026) — lastmod `2026-11-07`
@@ -380,31 +401,32 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [AI &amp; Research Scientist Headcount by Company: Amazon vs Meta](https://metix.ai/reports/roles/ai-research-scientist) — lastmod `2026-11-15`
 - [AI Customer-Service Talent Map: 5,537 Staff Across 12 Firms &amp; 4 Org Models](https://metix.ai/reports/mapping/ai-customer-service-talent-map-2026) — lastmod `2026-11-11`
 - [AI Infra: 3,633 Profiles, $500B+ Capital](https://metix.ai/reports/mapping/ai-infra-capital-talent-2026) — lastmod `2026-08-20`
-- [AI Infrastructure &amp; Chip Talent Hub: 2,615 Daily US Jobs &amp; 21 Chipmakers](https://metix.ai/reports/topics/ai-infra-chips) — lastmod `2026-10-17`
+- [AI Infrastructure &amp; Chip Talent Hub: 2,615 Daily US Jobs &amp; 21 Chipmakers](https://metix.ai/reports/topics/ai-infra-chips) — lastmod `2026-11-11`
 - [Airbnb Employees by Country &amp; Role Benchmarks (30,341 Staff)](https://metix.ai/reports/companies/airbnb) — lastmod `2026-11-10`
-- [Amazon Engineering Headcount, Hiring &amp; Talent Reports (58 Cuts)](https://metix.ai/reports/companies/amazon) — lastmod `2026-11-25`
-- [Anduril Engineering Headcount, Hiring &amp; Talent Reports (11 Cuts)](https://metix.ai/reports/companies/anduril) — lastmod `2026-11-25`
+- [Amazon Engineering Headcount, Hiring &amp; Talent Reports (60 Cuts)](https://metix.ai/reports/companies/amazon) — lastmod `2026-11-25`
+- [AMD Engineering Headcount, Hiring &amp; Talent Reports (3 Cuts)](https://metix.ai/reports/companies/amd) — lastmod `2026-11-25`
+- [Anduril Engineering Headcount, Hiring &amp; Talent Reports (12 Cuts)](https://metix.ai/reports/companies/anduril) — lastmod `2026-11-25`
 - [Anthropic Engineering Headcount: 1,281 Technical Staff &amp; 13-Month Tenure](https://metix.ai/reports/mapping/anthropic-engineering-xray-2026) — lastmod `2026-11-11`
 - [Anthropic Headcount, Roles &amp; Talent Reports (3,527 Mapped)](https://metix.ai/reports/companies/anthropic) — lastmod `2026-10-25`
-- [Apple Engineering Headcount, Hiring &amp; Talent Reports (13 Cuts)](https://metix.ai/reports/companies/apple) — lastmod `2026-11-25`
+- [Apple Engineering Headcount, Hiring &amp; Talent Reports (14 Cuts)](https://metix.ai/reports/companies/apple) — lastmod `2026-11-25`
 - [Asana Headcount, Roles &amp; Talent Reports (2,373 Mapped)](https://metix.ai/reports/companies/asana) — lastmod `2026-11-05`
 - [Atlassian Headcount, Roles &amp; Talent Reports (17,909 Mapped)](https://metix.ai/reports/companies/atlassian) — lastmod `2026-10-07`
 - [Aurora Engineering Headcount, Hiring &amp; Talent Reports (6 Cuts)](https://metix.ai/reports/companies/aurora) — lastmod `2026-11-25`
 - [Backend Engineer Headcount by Company: LinkedIn vs PayPal](https://metix.ai/reports/roles/backend-engineer) — lastmod `2026-11-04`
 - [Block Headcount, Roles &amp; Talent Reports (3,418 Mapped)](https://metix.ai/reports/companies/block) — lastmod `2026-11-03`
 - [Brex Headcount, Roles &amp; Talent Reports (1,500 Mapped)](https://metix.ai/reports/companies/brex) — lastmod `2026-11-07`
-- [Business, Finance &amp; Risk Operations Headcount &amp; Hiring Benchmarks (9](https://metix.ai/reports/roles/business-finance-ops) — lastmod `2026-11-24`
+- [Business, Finance &amp; Risk Operations Headcount by Company: Amazon vs IBM](https://metix.ai/reports/roles/business-finance-ops) — lastmod `2026-11-26`
 - [Canva Employees by Country &amp; Role Benchmarks (12,727 Staff)](https://metix.ai/reports/companies/canva) — lastmod `2026-11-01`
-- [Capital One Engineering Headcount, Hiring &amp; Talent Reports (12 Cuts)](https://metix.ai/reports/companies/capital-one) — lastmod `2026-11-25`
+- [Capital One Engineering Headcount, Hiring &amp; Talent Reports (13 Cuts)](https://metix.ai/reports/companies/capital-one) — lastmod `2026-11-25`
 - [Cerebras Engineering Headcount, Hiring &amp; Talent Reports (5 Cuts)](https://metix.ai/reports/companies/cerebras) — lastmod `2026-11-25`
 - [Chime Headcount, Roles &amp; Talent Reports (1,807 Mapped)](https://metix.ai/reports/companies/chime) — lastmod `2026-11-18`
 - [Cisco Employees by Country &amp; Role Benchmarks (96,932 Staff)](https://metix.ai/reports/companies/cisco) — lastmod `2026-11-25`
-- [Clinical AI &amp; TechBio Talent Hub: 6,415 Healthcare AI &amp; 1,015 Drug Discovery Staff](https://metix.ai/reports/topics/clinical-techbio) — lastmod `2026-10-17`
+- [Clinical AI &amp; TechBio Talent Hub: 6,415 Healthcare AI &amp; 1,015 Drug Discovery Staff](https://metix.ai/reports/topics/clinical-techbio) — lastmod `2026-11-11`
 - [Cloudflare Headcount, Roles &amp; Talent Reports (5,355 Mapped)](https://metix.ai/reports/companies/cloudflare) — lastmod `2026-10-29`
 - [Coinbase Headcount, Roles &amp; Talent Reports (6,396 Mapped)](https://metix.ai/reports/companies/coinbase) — lastmod `2026-10-13`
 - [Company Talent &amp; Headcount Benchmarks Directory](https://metix.ai/reports/companies/) — lastmod `2026-11-25`
 - [Confluent Headcount, Roles &amp; Talent Reports (3,243 Mapped)](https://metix.ai/reports/companies/confluent) — lastmod `2026-10-28`
-- [CoreWeave Engineering Headcount, Hiring &amp; Talent Reports (9 Cuts)](https://metix.ai/reports/companies/coreweave) — lastmod `2026-11-25`
+- [CoreWeave Engineering Headcount, Hiring &amp; Talent Reports (10 Cuts)](https://metix.ai/reports/companies/coreweave) — lastmod `2026-11-25`
 - [CrowdStrike Headcount, Roles &amp; Talent Reports (9,362 Mapped)](https://metix.ai/reports/companies/crowdstrike) — lastmod `2026-10-12`
 - [Customer Success &amp; Technical Account Manager Headcount &amp; Hiring Benc](https://metix.ai/reports/roles/customer-success-tam) — lastmod `2026-11-24`
 - [Data &amp; Analytics Engineer Headcount by Company: PayPal vs IBM](https://metix.ai/reports/roles/data-engineer) — lastmod `2026-11-22`
@@ -413,62 +435,72 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Databricks AI Hiring Strategy: FDE Postings Up 40× (71.5/Mo) &amp; Agent Shift](https://metix.ai/reports/mapping/databricks-ai-talent-strategy-2026) — lastmod `2026-11-11`
 - [Databricks Headcount, Roles &amp; Talent Reports (11,373 Mapped)](https://metix.ai/reports/companies/databricks) — lastmod `2026-10-31`
 - [Datadog Headcount, Roles &amp; Talent Reports (8,488 Mapped)](https://metix.ai/reports/companies/datadog) — lastmod `2026-10-20`
+- [Deel Headcount, Roles &amp; Talent Reports (6,383 Mapped)](https://metix.ai/reports/companies/deel) — lastmod `2026-11-26`
 - [DevOps, Cloud &amp; Platform Engineer Headcount by Company: Amazon vs Oracle](https://metix.ai/reports/roles/devops-platform-engineer) — lastmod `2026-11-15`
 - [Dropbox Headcount, Roles &amp; Talent Reports (3,747 Mapped)](https://metix.ai/reports/companies/dropbox) — lastmod `2026-11-01`
-- [Elastic Engineering Headcount, Hiring &amp; Talent Reports (7 Cuts)](https://metix.ai/reports/companies/elastic) — lastmod `2026-11-25`
-- [Embodied AI &amp; Humanoid Robotics Talent Hub: 1,930 Profiles at 13 Firms](https://metix.ai/reports/topics/embodied-robotics) — lastmod `2026-10-17`
+- [Dynatrace Headcount, Roles &amp; Talent Reports (5,127 Mapped)](https://metix.ai/reports/companies/dynatrace) — lastmod `2026-11-22`
+- [Elastic Headcount, Roles &amp; Talent Reports (3,763 Mapped)](https://metix.ai/reports/companies/elastic) — lastmod `2026-11-26`
+- [Embodied AI &amp; Humanoid Robotics Talent Hub: 1,930 Profiles at 13 Firms](https://metix.ai/reports/topics/embodied-robotics) — lastmod `2026-11-11`
 - [Engineering Manager Headcount by Company: Microsoft vs Google](https://metix.ai/reports/roles/engineering-manager) — lastmod `2026-11-15`
 - [Figma Headcount, Roles &amp; Talent Reports (3,322 Mapped)](https://metix.ai/reports/companies/figma) — lastmod `2026-11-03`
-- [FinTech Engineering &amp; Quant-to-AI Talent Hub: 25,860 Engineers &amp; 364 Quant Moves](https://metix.ai/reports/topics/fintech-ai) — lastmod `2026-10-17`
+- [FinTech Engineering &amp; Quant-to-AI Talent Hub: 25,860 Engineers &amp; 364 Quant Moves](https://metix.ai/reports/topics/fintech-ai) — lastmod `2026-11-11`
 - [FinTech Engineering Headcount &amp; Talent Flow: 25,860 Engineers Across 30 Firms](https://metix.ai/reports/mapping/fintech-talent-momentum-2026) — lastmod `2026-11-11`
-- [Fortinet Engineering Headcount, Hiring &amp; Talent Reports (11 Cuts)](https://metix.ai/reports/companies/fortinet) — lastmod `2026-11-25`
+- [Fortinet Engineering Headcount, Hiring &amp; Talent Reports (12 Cuts)](https://metix.ai/reports/companies/fortinet) — lastmod `2026-11-25`
 - [Frontend Engineer Headcount by Company: Google vs Meta](https://metix.ai/reports/roles/frontend-engineer) — lastmod `2026-11-04`
-- [Frontier AI Labs Talent Hub: 19,057 Profiles Across OpenAI, Anthropic &amp; xAI](https://metix.ai/reports/topics/frontier-ai-labs) — lastmod `2026-10-17`
+- [Frontier AI Labs Talent Hub: 19,057 Profiles Across OpenAI, Anthropic &amp; xAI](https://metix.ai/reports/topics/frontier-ai-labs) — lastmod `2026-11-11`
 - [Full Stack Engineer Headcount by Company: IBM vs Capital One](https://metix.ai/reports/roles/full-stack-engineer) — lastmod `2026-11-10`
+- [GitLab Engineering Headcount, Hiring &amp; Talent Reports (3 Cuts)](https://metix.ai/reports/companies/gitlab) — lastmod `2026-11-25`
 - [Glean Headcount, Roles &amp; Talent Reports (1,322 Mapped)](https://metix.ai/reports/companies/glean) — lastmod `2026-11-20`
-- [Global Tech Jobs &amp; Overseas Chip Talent Hub: 6.17M Jobs &amp; 101,975 Chip Leads](https://metix.ai/reports/topics/overseas-chinese-talent) — lastmod `2026-10-17`
+- [Global Tech Jobs &amp; Overseas Chip Talent Hub: 6.17M Jobs &amp; 101,975 Chip Leads](https://metix.ai/reports/topics/overseas-chinese-talent) — lastmod `2026-11-11`
 - [Global Tech Talent &amp; Headcount by Country Directory](https://metix.ai/reports/locations/) — lastmod `2026-11-25`
 - [Google Engineering Headcount, Hiring &amp; Talent Reports (37 Cuts)](https://metix.ai/reports/companies/google) — lastmod `2026-11-25`
 - [Gusto Headcount, Roles &amp; Talent Reports (3,394 Mapped)](https://metix.ai/reports/companies/gusto) — lastmod `2026-10-31`
-- [How big is the hardware-by-AI hybrid bench in embodied AI?](https://metix.ai/reports/questions/embodied-hardware-ai-hybrids) — lastmod `2026-10-17`
-- [How commercial is Anthropic’s talent mix? (GTM 22.6%)](https://metix.ai/reports/questions/anthropic-gtm-share) — lastmod `2026-10-17`
-- [How fast is electrical and power hiring growing versus data-center engineers?](https://metix.ai/reports/questions/ai-infra-electrical-power-growth) — lastmod `2026-10-17`
-- [How fast is Jacobs hiring for data centers? (Jacobs +295.0%)](https://metix.ai/reports/questions/jacobs-datacenter-hiring-growth) — lastmod `2026-10-17`
-- [How large is the embodied-AI technical pool? (1,044 technical)](https://metix.ai/reports/questions/embodied-ai-technical-pool) — lastmod `2026-10-17`
-- [How large is the engine-side technical pool?](https://metix.ai/reports/questions/game-engine-technical-pool) — lastmod `2026-10-17`
-- [How large is the TechBio computational and ML pool?](https://metix.ai/reports/questions/techbio-computational-ml-pool) — lastmod `2026-10-17`
-- [How large is the US chip and AI-infra talent pool? (56,861)](https://metix.ai/reports/questions/us-chip-ai-infra-headcount) — lastmod `2026-10-17`
-- [How large is the visible quant-to-AI-lab corridor?](https://metix.ai/reports/questions/quant-ai-corridor-size) — lastmod `2026-10-17`
-- [How many accountability seats connect AI-infra capital to delivery?](https://metix.ai/reports/questions/ai-infra-accountability-seats) — lastmod `2026-10-17`
-- [How many Agent job descriptions are in the US map? (259 Agent JDs)](https://metix.ai/reports/questions/us-agent-jd-count) — lastmod `2026-10-17`
-- [How many clinical-by-ML bilingual people are mapped?](https://metix.ai/reports/questions/clinical-ml-bilingual-talent) — lastmod `2026-10-17`
-- [How many companies are on the overseas chip map? (58 companies)](https://metix.ai/reports/questions/overseas-chip-company-map) — lastmod `2026-10-17`
-- [How many core companies are on the AI-infra capital talent map?](https://metix.ai/reports/questions/ai-infra-core-company-map) — lastmod `2026-10-17`
-- [How many current profiles are at the 25 quant firms? (29,317 profiles)](https://metix.ai/reports/questions/quant-ai-current-pool) — lastmod `2026-10-17`
-- [How many embodied-AI companies and profiles are mapped?](https://metix.ai/reports/questions/embodied-ai-headcount) — lastmod `2026-10-17`
-- [How many engine-side graphics specialists are mapped? (486 graphics)](https://metix.ai/reports/questions/game-engine-graphics-talent) — lastmod `2026-10-17`
-- [How many engineers are in the fintech momentum table?](https://metix.ai/reports/questions/fintech-engineer-headcount) — lastmod `2026-10-17`
-- [How many founder capabilities does the Discovery Loop map name?](https://metix.ai/reports/questions/discovery-loop-founder-capabilities) — lastmod `2026-10-17`
-- [How many gated priority targets are on the overseas chip map?](https://metix.ai/reports/questions/overseas-chip-priority-targets) — lastmod `2026-10-17`
-- [How many job groups are in the US Agent map? (10 job groups)](https://metix.ai/reports/questions/us-agent-job-groups) — lastmod `2026-10-17`
-- [How many lineage-covered people are in the Discovery Loop map?](https://metix.ai/reports/questions/discovery-loop-lineage-talent) — lastmod `2026-10-17`
-- [How many overseas chip talent leads are mapped?](https://metix.ai/reports/questions/overseas-chip-talent-leads) — lastmod `2026-10-17`
-- [How many overseas jobs are in the US? (US 3,329,273 / 54.0%)](https://metix.ai/reports/questions/overseas-jobs-us-share) — lastmod `2026-10-17`
-- [How many peer postings are in the Discovery Loop map?](https://metix.ai/reports/questions/discovery-loop-peer-postings) — lastmod `2026-10-17`
-- [How many people are in the 13-lab technical pool?](https://metix.ai/reports/questions/frontier-labs-headcount) — lastmod `2026-10-17`
-- [How many people at AI video companies are builders?](https://metix.ai/reports/questions/ai-video-builder-share) — lastmod `2026-10-17`
-- [How many people in the clinical-AI map have a clinical background?](https://metix.ai/reports/questions/clinical-background-share) — lastmod `2026-10-17`
-- [How many profiles are in the TechBio map?](https://metix.ai/reports/questions/techbio-headcount) — lastmod `2026-10-17`
-- [How many TechBio target companies are mapped?](https://metix.ai/reports/questions/techbio-target-companies) — lastmod `2026-10-17`
-- [How many US Agent professionals are in the supply-demand map?](https://metix.ai/reports/questions/us-agent-talent-headcount) — lastmod `2026-10-17`
-- [How many US clinical-AI profiles are mapped? (22 companies, 6,415 US)](https://metix.ai/reports/questions/clinical-ai-headcount) — lastmod `2026-10-17`
-- [How many US data-center engineer jobs post per day? (2,615 / day)](https://metix.ai/reports/questions/ai-infra-datacenter-engineer-postings) — lastmod `2026-10-17`
-- [How many visible moves from OpenAI to Anthropic? (47 vs 10)](https://metix.ai/reports/questions/openai-to-anthropic-moves) — lastmod `2026-10-17`
-- [How many visible moves run from quant firms to AI labs?](https://metix.ai/reports/questions/quant-to-ai-lab-flow) — lastmod `2026-10-17`
+- [How big is the hardware-by-AI hybrid bench in embodied AI?](https://metix.ai/reports/questions/embodied-hardware-ai-hybrids) — lastmod `2026-11-11`
+- [How commercial is Anthropic’s talent mix? (GTM 22.6%)](https://metix.ai/reports/questions/anthropic-gtm-share) — lastmod `2026-11-10`
+- [How do Infosys and Cognizant compare on GenAI delivery staffing?](https://metix.ai/reports/questions/infosys-vs-cognizant-genai-bench) — lastmod `2026-11-11`
+- [How fast did Databricks Forward Deployed Engineer hiring grow?](https://metix.ai/reports/questions/databricks-fde-hiring-growth) — lastmod `2026-11-11`
+- [How fast is electrical and power hiring growing versus data-center engineers?](https://metix.ai/reports/questions/ai-infra-electrical-power-growth) — lastmod `2026-11-11`
+- [How fast is Jacobs hiring for data centers? (Jacobs +295.0%)](https://metix.ai/reports/questions/jacobs-datacenter-hiring-growth) — lastmod `2026-11-11`
+- [How large is the embodied-AI technical pool? (1,044 technical)](https://metix.ai/reports/questions/embodied-ai-technical-pool) — lastmod `2026-11-11`
+- [How large is the engine-side technical pool?](https://metix.ai/reports/questions/game-engine-technical-pool) — lastmod `2026-11-11`
+- [How large is the TechBio computational and ML pool?](https://metix.ai/reports/questions/techbio-computational-ml-pool) — lastmod `2026-11-11`
+- [How large is the US chip and AI-infra talent pool? (56,861)](https://metix.ai/reports/questions/us-chip-ai-infra-headcount) — lastmod `2026-11-10`
+- [How large is the visible quant-to-AI-lab corridor?](https://metix.ai/reports/questions/quant-ai-corridor-size) — lastmod `2026-11-11`
+- [How many accountability seats connect AI-infra capital to delivery?](https://metix.ai/reports/questions/ai-infra-accountability-seats) — lastmod `2026-08-20`
+- [How many Agent job descriptions are in the US map? (259 Agent JDs)](https://metix.ai/reports/questions/us-agent-jd-count) — lastmod `2026-11-10`
+- [How many agent-native builders work in the SF Bay Area?](https://metix.ai/reports/questions/sf-bay-agent-native-builders) — lastmod `2026-11-10`
+- [How many clinical-by-ML bilingual people are mapped?](https://metix.ai/reports/questions/clinical-ml-bilingual-talent) — lastmod `2026-11-11`
+- [How many companies are on the overseas chip map? (58 companies)](https://metix.ai/reports/questions/overseas-chip-company-map) — lastmod `2026-11-11`
+- [How many core companies are on the AI-infra capital talent map?](https://metix.ai/reports/questions/ai-infra-core-company-map) — lastmod `2026-08-20`
+- [How many current profiles are at the 25 quant firms? (29,317 profiles)](https://metix.ai/reports/questions/quant-ai-current-pool) — lastmod `2026-11-11`
+- [How many Databricks employees hold AI/ML titles? (137 AI/ML, 40.6% YoY)](https://metix.ai/reports/questions/databricks-ai-ml-title-headcount) — lastmod `2026-11-11`
+- [How many embodied-AI companies and profiles are mapped?](https://metix.ai/reports/questions/embodied-ai-headcount) — lastmod `2026-11-11`
+- [How many engine-side graphics specialists are mapped? (486 graphics)](https://metix.ai/reports/questions/game-engine-graphics-talent) — lastmod `2026-11-11`
+- [How many engineers are in the fintech momentum table?](https://metix.ai/reports/questions/fintech-engineer-headcount) — lastmod `2026-11-11`
+- [How many founder capabilities does the Discovery Loop map name?](https://metix.ai/reports/questions/discovery-loop-founder-capabilities) — lastmod `2026-11-10`
+- [How many gated priority targets are on the overseas chip map?](https://metix.ai/reports/questions/overseas-chip-priority-targets) — lastmod `2026-11-11`
+- [How many GenAI delivery seats do top system integrators map?](https://metix.ai/reports/questions/si-genai-delivery-seats) — lastmod `2026-11-11`
+- [How many job groups are in the US Agent map? (10 job groups)](https://metix.ai/reports/questions/us-agent-job-groups) — lastmod `2026-11-10`
+- [How many lineage-covered people are in the Discovery Loop map?](https://metix.ai/reports/questions/discovery-loop-lineage-talent) — lastmod `2026-11-10`
+- [How many overseas chip talent leads are mapped?](https://metix.ai/reports/questions/overseas-chip-talent-leads) — lastmod `2026-11-11`
+- [How many overseas jobs are in the US? (US 3,329,273 / 54.0%)](https://metix.ai/reports/questions/overseas-jobs-us-share) — lastmod `2026-11-11`
+- [How many peer postings are in the Discovery Loop map?](https://metix.ai/reports/questions/discovery-loop-peer-postings) — lastmod `2026-11-10`
+- [How many people are in the 13-lab technical pool?](https://metix.ai/reports/questions/frontier-labs-headcount) — lastmod `2026-11-11`
+- [How many people at AI video companies are builders?](https://metix.ai/reports/questions/ai-video-builder-share) — lastmod `2026-11-11`
+- [How many people in the clinical-AI map have a clinical background?](https://metix.ai/reports/questions/clinical-background-share) — lastmod `2026-11-11`
+- [How many profiles are in the TechBio map?](https://metix.ai/reports/questions/techbio-headcount) — lastmod `2026-11-11`
+- [How many Salesforce Agentforce job postings are R&amp;D roles?](https://metix.ai/reports/questions/salesforce-agentforce-rd-share) — lastmod `2026-11-11`
+- [How many senior-banker moves occurred across top US investment banks?](https://metix.ai/reports/questions/wall-street-senior-banker-moves) — lastmod `2026-11-11`
+- [How many TechBio target companies are mapped?](https://metix.ai/reports/questions/techbio-target-companies) — lastmod `2026-11-11`
+- [How many US Agent professionals are in the supply-demand map?](https://metix.ai/reports/questions/us-agent-talent-headcount) — lastmod `2026-11-10`
+- [How many US clinical-AI profiles are mapped? (22 companies, 6,415 US)](https://metix.ai/reports/questions/clinical-ai-headcount) — lastmod `2026-11-11`
+- [How many US data-center engineer jobs post per day? (2,615 / day)](https://metix.ai/reports/questions/ai-infra-datacenter-engineer-postings) — lastmod `2026-11-11`
+- [How many visible moves from OpenAI to Anthropic? (47 vs 10)](https://metix.ai/reports/questions/openai-to-anthropic-moves) — lastmod `2026-11-10`
+- [How many visible moves run from quant firms to AI labs?](https://metix.ai/reports/questions/quant-to-ai-lab-flow) — lastmod `2026-11-11`
 - [How Metix talent maps are built](https://metix.ai/reports/methodology) — lastmod `2026-09-26`
-- [How new is Anthropic’s engineering team? (median 13 months)](https://metix.ai/reports/questions/anthropic-tenure) — lastmod `2026-10-17`
-- [How new is OpenAI’s engineering team? (median 17 months)](https://metix.ai/reports/questions/openai-tenure) — lastmod `2026-10-17`
-- [How often is Intel the top feeder into chip companies? (9 of 14)](https://metix.ai/reports/questions/intel-feeder-to-chip-startups) — lastmod `2026-10-17`
+- [How new is Anthropic’s engineering team? (median 13 months)](https://metix.ai/reports/questions/anthropic-tenure) — lastmod `2026-11-11`
+- [How new is OpenAI’s engineering team? (median 17 months)](https://metix.ai/reports/questions/openai-tenure) — lastmod `2026-11-11`
+- [How often is Intel the top feeder into chip companies? (9 of 14)](https://metix.ai/reports/questions/intel-feeder-to-chip-startups) — lastmod `2026-11-10`
 - [HubSpot Headcount, Roles &amp; Talent Reports (10,599 Mapped)](https://metix.ai/reports/companies/hubspot) — lastmod `2026-11-19`
 - [Hugging Face Engineering Headcount, Hiring &amp; Talent Reports (3 Cuts)](https://metix.ai/reports/companies/hugging-face) — lastmod `2026-11-25`
 - [IBM Employees by Country &amp; Role Benchmarks (410,668 Staff)](https://metix.ai/reports/companies/ibm) — lastmod `2026-11-04`
@@ -478,37 +510,38 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Lyft Employees by Country &amp; Role Benchmarks (15,031 Staff)](https://metix.ai/reports/companies/lyft) — lastmod `2026-11-15`
 - [Machine Learning Engineer Headcount by Company: Databricks vs Meta](https://metix.ai/reports/roles/machine-learning-engineer) — lastmod `2026-11-13`
 - [Mastercard Engineering Headcount, Hiring &amp; Talent Reports (3 Cuts)](https://metix.ai/reports/companies/mastercard) — lastmod `2026-11-25`
-- [Meta Engineering Headcount, Hiring &amp; Talent Reports (46 Cuts)](https://metix.ai/reports/companies/meta) — lastmod `2026-11-25`
-- [Microsoft Engineering Headcount, Hiring &amp; Talent Reports (45 Cuts)](https://metix.ai/reports/companies/microsoft) — lastmod `2026-11-25`
+- [Meta Engineering Headcount, Hiring &amp; Talent Reports (48 Cuts)](https://metix.ai/reports/companies/meta) — lastmod `2026-11-25`
+- [Microsoft Engineering Headcount, Hiring &amp; Talent Reports (46 Cuts)](https://metix.ai/reports/companies/microsoft) — lastmod `2026-11-25`
 - [Mobile, iOS &amp; Android Engineer Headcount by Company: Apple vs Google](https://metix.ai/reports/roles/mobile-engineer) — lastmod `2026-09-29`
-- [MongoDB Engineering Headcount, Hiring &amp; Talent Reports (19 Cuts)](https://metix.ai/reports/companies/mongodb) — lastmod `2026-11-25`
+- [MongoDB Engineering Headcount, Hiring &amp; Talent Reports (20 Cuts)](https://metix.ai/reports/companies/mongodb) — lastmod `2026-11-25`
 - [Netflix Employees by Country &amp; Role Benchmarks (24,497 Staff)](https://metix.ai/reports/companies/netflix) — lastmod `2026-11-12`
+- [Netskope Headcount, Roles &amp; Talent Reports (2,938 Mapped)](https://metix.ai/reports/companies/netskope) — lastmod `2026-11-25`
 - [Network Engineer Headcount by Company: Cisco vs Microsoft](https://metix.ai/reports/roles/network-engineer) — lastmod `2026-10-21`
 - [New Relic Headcount, Roles &amp; Talent Reports (2,480 Mapped)](https://metix.ai/reports/companies/new-relic) — lastmod `2026-11-24`
-- [NVIDIA Headcount, Roles &amp; Talent Reports (39,150 Mapped)](https://metix.ai/reports/companies/nvidia) — lastmod `2026-09-29`
+- [NVIDIA Headcount, Roles &amp; Talent Reports (39,150 Mapped)](https://metix.ai/reports/companies/nvidia) — lastmod `2026-11-26`
 - [Okta Headcount, Roles &amp; Talent Reports (6,867 Mapped)](https://metix.ai/reports/companies/okta) — lastmod `2026-10-21`
 - [OpenAI Headcount, Roles &amp; Talent Reports (7,242 Mapped)](https://metix.ai/reports/companies/openai) — lastmod `2026-10-26`
-- [OpenAI MTS: 1,725 of 3,041 Technical](https://metix.ai/reports/questions/openai-mts-share) — lastmod `2026-10-17`
-- [Oracle Engineering Headcount, Hiring &amp; Talent Reports (40 Cuts)](https://metix.ai/reports/companies/oracle) — lastmod `2026-11-25`
+- [OpenAI MTS: 1,725 of 3,041 Technical](https://metix.ai/reports/questions/openai-mts-share) — lastmod `2026-11-11`
+- [Oracle Engineering Headcount, Hiring &amp; Talent Reports (43 Cuts)](https://metix.ai/reports/companies/oracle) — lastmod `2026-11-25`
 - [Palantir Headcount, Roles &amp; Talent Reports (4,665 Mapped)](https://metix.ai/reports/companies/palantir) — lastmod `2026-10-08`
 - [Palo Alto Networks Headcount, Roles &amp; Talent Reports (18,339 Mapped)](https://metix.ai/reports/companies/palo-alto-networks) — lastmod `2026-10-23`
 - [PayPal Employees by Country &amp; Role Benchmarks (30,511 Staff)](https://metix.ai/reports/companies/paypal) — lastmod `2026-11-11`
 - [Pinterest Headcount, Roles &amp; Talent Reports (8,104 Mapped)](https://metix.ai/reports/companies/pinterest) — lastmod `2026-11-10`
 - [Plaid Headcount, Roles &amp; Talent Reports (1,307 Mapped)](https://metix.ai/reports/companies/plaid) — lastmod `2026-10-27`
 - [Product Designer &amp; UX Researcher Headcount &amp; Hiring Benchmarks (5 Re](https://metix.ai/reports/roles/product-designer) — lastmod `2026-11-06`
-- [Product Manager Headcount by Company: Google vs Google](https://metix.ai/reports/roles/product-manager) — lastmod `2026-11-25`
+- [Product Manager Headcount by Company: Google vs Google](https://metix.ai/reports/roles/product-manager) — lastmod `2026-11-26`
 - [QA &amp; Test Automation Engineer Headcount by Company: IBM vs Oracle](https://metix.ai/reports/roles/qa-test-engineer) — lastmod `2026-10-16`
-- [Qualcomm Engineering Headcount, Hiring &amp; Talent Reports (4 Cuts)](https://metix.ai/reports/companies/qualcomm) — lastmod `2026-11-25`
+- [Qualcomm Engineering Headcount, Hiring &amp; Talent Reports (5 Cuts)](https://metix.ai/reports/companies/qualcomm) — lastmod `2026-11-25`
 - [Ramp Headcount, Roles &amp; Talent Reports (2,133 Mapped)](https://metix.ai/reports/companies/ramp) — lastmod `2026-11-08`
 - [Rippling Headcount, Roles &amp; Talent Reports (5,606 Mapped)](https://metix.ai/reports/companies/rippling) — lastmod `2026-10-05`
 - [Robinhood Headcount, Roles &amp; Talent Reports (3,551 Mapped)](https://metix.ai/reports/companies/robinhood) — lastmod `2026-10-22`
 - [Salesforce Employees by Country &amp; Role Benchmarks (85,282 Staff)](https://metix.ai/reports/companies/salesforce) — lastmod `2026-11-07`
-- [SAP Engineering Headcount, Hiring &amp; Talent Reports (15 Cuts)](https://metix.ai/reports/companies/sap) — lastmod `2026-11-25`
+- [SAP Engineering Headcount, Hiring &amp; Talent Reports (16 Cuts)](https://metix.ai/reports/companies/sap) — lastmod `2026-11-25`
 - [Scale AI Engineering Headcount, Hiring &amp; Talent Reports (4 Cuts)](https://metix.ai/reports/companies/scale-ai) — lastmod `2026-11-25`
 - [Security Engineer &amp; Security Analyst Headcount by Company: Amazon vs IBM](https://metix.ai/reports/roles/security-engineer) — lastmod `2026-11-18`
 - [Senior Banker Mapping: 101 Moves Across 11 Banks](https://metix.ai/reports/mapping/wall-street-senior-banker-2026) — lastmod `2026-11-11`
-- [SentinelOne Engineering Headcount, Hiring &amp; Talent Reports (6 Cuts)](https://metix.ai/reports/companies/sentinelone) — lastmod `2026-11-25`
-- [ServiceNow Headcount, Roles &amp; Talent Reports (29,127 Mapped)](https://metix.ai/reports/companies/servicenow) — lastmod `2026-10-25`
+- [SentinelOne Headcount, Roles &amp; Talent Reports (2,612 Mapped)](https://metix.ai/reports/companies/sentinelone) — lastmod `2026-11-26`
+- [ServiceNow Headcount, Roles &amp; Talent Reports (29,127 Mapped)](https://metix.ai/reports/companies/servicenow) — lastmod `2026-11-26`
 - [Seven AI video firms: 518 builders out of 1,687 listed](https://metix.ai/reports/mapping/ai-video-generation-talent-2026) — lastmod `2026-11-11`
 - [Shield AI Engineering Headcount, Hiring &amp; Talent Reports (6 Cuts)](https://metix.ai/reports/companies/shield-ai) — lastmod `2026-11-25`
 - [Shopify Employees by Country &amp; Role Benchmarks (16,746 Staff)](https://metix.ai/reports/companies/shopify) — lastmod `2026-10-28`
@@ -517,58 +550,65 @@ Generated `2026-11-26T16:52:45Z` from live sitemaps (336 series · 214 mapping �
 - [Site Reliability Engineer (SRE) Headcount by Company: Google vs Visa](https://metix.ai/reports/roles/site-reliability-engineer) — lastmod `2026-11-25`
 - [Snowflake Headcount, Roles &amp; Talent Reports (9,579 Mapped)](https://metix.ai/reports/companies/snowflake) — lastmod `2026-11-20`
 - [SoFi Engineering Headcount, Hiring &amp; Talent Reports (7 Cuts)](https://metix.ai/reports/companies/sofi) — lastmod `2026-11-25`
-- [Software Engineer Headcount by Company: Amazon vs Microsoft](https://metix.ai/reports/roles/software-engineer) — lastmod `2026-11-25`
-- [Solutions Architect &amp; Solutions Engineer Headcount &amp; Hiring Benchmar](https://metix.ai/reports/roles/solutions-architect) — lastmod `2026-11-25`
-- [SpaceX Engineering Headcount, Hiring &amp; Talent Reports (12 Cuts)](https://metix.ai/reports/companies/spacex) — lastmod `2026-11-25`
-- [Splunk Engineering Headcount, Hiring &amp; Talent Reports (4 Cuts)](https://metix.ai/reports/companies/splunk) — lastmod `2026-11-25`
+- [Software Engineer Headcount by Company: Amazon vs Microsoft](https://metix.ai/reports/roles/software-engineer) — lastmod `2026-11-26`
+- [Solutions Architect &amp; Solutions Engineer Headcount &amp; Hiring Benchmar](https://metix.ai/reports/roles/solutions-architect) — lastmod `2026-11-26`
+- [SpaceX Engineering Headcount, Hiring &amp; Talent Reports (13 Cuts)](https://metix.ai/reports/companies/spacex) — lastmod `2026-11-25`
+- [Splunk Engineering Headcount, Hiring &amp; Talent Reports (5 Cuts)](https://metix.ai/reports/companies/splunk) — lastmod `2026-11-25`
 - [Staff &amp; Principal Engineer Headcount by Company: Amazon vs Amazon](https://metix.ai/reports/roles/staff-principal-engineer) — lastmod `2026-11-09`
 - [Stripe Headcount, Roles &amp; Talent Reports (11,452 Mapped)](https://metix.ai/reports/companies/stripe) — lastmod `2026-10-27`
+- [Synopsys Engineering Headcount, Hiring &amp; Talent Reports (3 Cuts)](https://metix.ai/reports/companies/synopsys) — lastmod `2026-11-25`
 - [Systems, Firmware &amp; Hardware Engineer Headcount &amp; Hiring Benchmarks](https://metix.ai/reports/roles/systems-hardware-engineer) — lastmod `2026-11-19`
 - [Tech Company Headcount in Australia: Canva, Snowflake (4 Firms)](https://metix.ai/reports/locations/australia) — lastmod `2026-11-22`
 - [Tech Company Headcount in Brazil: Uber, IBM (3 Firms)](https://metix.ai/reports/locations/brazil) — lastmod `2026-11-12`
-- [Tech Company Headcount in Canada: IBM, Shopify (13 Firms)](https://metix.ai/reports/locations/canada) — lastmod `2026-11-25`
-- [Tech Company Headcount in Germany: IBM, Adobe (7 Firms)](https://metix.ai/reports/locations/germany) — lastmod `2026-11-20`
-- [Tech Company Headcount in India: IBM, LinkedIn (16 Firms)](https://metix.ai/reports/locations/india) — lastmod `2026-11-25`
-- [Tech Company Headcount in Ireland: Salesforce, LinkedIn (12 Firms)](https://metix.ai/reports/locations/ireland) — lastmod `2026-11-19`
+- [Tech Company Headcount in Canada: IBM, Shopify (14 Firms)](https://metix.ai/reports/locations/canada) — lastmod `2026-11-26`
+- [Tech Company Headcount in Germany: IBM, Adobe (9 Firms)](https://metix.ai/reports/locations/germany) — lastmod `2026-11-26`
+- [Tech Company Headcount in India: IBM, LinkedIn (19 Firms)](https://metix.ai/reports/locations/india) — lastmod `2026-11-26`
+- [Tech Company Headcount in Ireland: Salesforce, LinkedIn (14 Firms)](https://metix.ai/reports/locations/ireland) — lastmod `2026-11-26`
+- [Tech Company Headcount in Israel: NVIDIA, Intuit (2 Firms)](https://metix.ai/reports/locations/israel) — lastmod `2026-11-26`
 - [Tech Company Headcount in Japan: Salesforce, Adobe (4 Firms)](https://metix.ai/reports/locations/japan) — lastmod `2026-11-08`
 - [Tech Company Headcount in Mexico: Netflix, Lyft (2 Firms)](https://metix.ai/reports/locations/mexico) — lastmod `2026-11-15`
-- [Tech Company Headcount in Netherlands: Uber, Netflix (4 Firms)](https://metix.ai/reports/locations/netherlands) — lastmod `2026-11-22`
+- [Tech Company Headcount in Netherlands: Uber, ServiceNow (5 Firms)](https://metix.ai/reports/locations/netherlands) — lastmod `2026-11-26`
 - [Tech Company Headcount in Poland: Cisco, Visa (2 Firms)](https://metix.ai/reports/locations/poland) — lastmod `2026-11-25`
 - [Tech Company Headcount in Singapore: Visa, LinkedIn (8 Firms)](https://metix.ai/reports/locations/singapore) — lastmod `2026-11-19`
-- [Tech Company Headcount in United Kingdom: LinkedIn, IBM (22 Firms)](https://metix.ai/reports/locations/united-kingdom) — lastmod `2026-11-25`
-- [Tech Company Headcount in United States: IBM, LinkedIn (27 Firms)](https://metix.ai/reports/locations/united-states) — lastmod `2026-11-25`
+- [Tech Company Headcount in United Kingdom: LinkedIn, IBM (25 Firms)](https://metix.ai/reports/locations/united-kingdom) — lastmod `2026-11-26`
+- [Tech Company Headcount in United States: IBM, LinkedIn (30 Firms)](https://metix.ai/reports/locations/united-states) — lastmod `2026-11-26`
 - [Tech Role Headcount &amp; Hiring Velocity Benchmarks](https://metix.ai/reports/roles/) — lastmod `2026-11-25`
-- [Technical Program Manager (TPM) Headcount by Company: Amazon vs Amazon](https://metix.ai/reports/roles/technical-program-manager) — lastmod `2026-11-06`
+- [Technical Program Manager (TPM) Headcount by Company: Amazon vs Amazon](https://metix.ai/reports/roles/technical-program-manager) — lastmod `2026-11-26`
 - [Tesla Engineering Headcount, Hiring &amp; Talent Reports (7 Cuts)](https://metix.ai/reports/companies/tesla) — lastmod `2026-11-25`
 - [Twilio Headcount, Roles &amp; Talent Reports (5,768 Mapped)](https://metix.ai/reports/companies/twilio) — lastmod `2026-10-29`
 - [Uber Employees by Country &amp; Role Benchmarks (110,100 Staff)](https://metix.ai/reports/companies/uber) — lastmod `2026-11-06`
 - [US AI Infrastructure Hiring: 2,615 Data Center Engineer Postings/Day](https://metix.ai/reports/mapping/nvidia-ai-infrastructure-talent-race-2026) — lastmod `2026-11-11`
 - [Visa Employees by Country &amp; Role Benchmarks (41,535 Staff)](https://metix.ai/reports/companies/visa) — lastmod `2026-11-09`
 - [Waymo Headcount, Roles &amp; Talent Reports (3,356 Mapped)](https://metix.ai/reports/companies/waymo) — lastmod `2026-10-14`
-- [What is the engineering share at OpenAI vs Anthropic vs xAI?](https://metix.ai/reports/questions/openai-anthropic-xai-engineering-share) — lastmod `2026-10-17`
-- [What is the PhD share of AI video builders? (builders’ PhD share 13.7%)](https://metix.ai/reports/questions/ai-video-phd-share) — lastmod `2026-10-17`
-- [What share of AI video builders joined in the last two years?](https://metix.ai/reports/questions/ai-video-joined-two-years) — lastmod `2026-10-17`
-- [What share of Anthropic staff are Member of Technical Staff?](https://metix.ai/reports/questions/anthropic-mts-share) — lastmod `2026-10-17`
-- [What share of Anthropic technical staff hold a PhD? (15.5% of 1,281)](https://metix.ai/reports/questions/anthropic-phd-share) — lastmod `2026-10-17`
-- [What share of fintech engineers joined in the last year?](https://metix.ai/reports/questions/fintech-joined-last-year) — lastmod `2026-10-17`
-- [What share of frontier-lab staff are on a research track?](https://metix.ai/reports/questions/frontier-labs-research-share) — lastmod `2026-10-17`
-- [What share of NVIDIA engineers does the chip map call golden-handcuffed? (NVIDIA 1/7)](https://metix.ai/reports/questions/nvidia-golden-handcuff-share) — lastmod `2026-10-17`
-- [What share of OpenAI technical staff are in the US? (88% in the US)](https://metix.ai/reports/questions/openai-us-share) — lastmod `2026-10-17`
-- [What share of OpenAI technical staff hold a PhD? (14.4% of 3,041)](https://metix.ai/reports/questions/openai-phd-share) — lastmod `2026-10-17`
-- [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin) — lastmod `2026-10-17`
+- [What is Goldman Sachs's senior-banker net flow across peer banks?](https://metix.ai/reports/questions/goldman-sachs-senior-banker-net-flow) — lastmod `2026-11-11`
+- [What is the engineering share at OpenAI vs Anthropic vs xAI?](https://metix.ai/reports/questions/openai-anthropic-xai-engineering-share) — lastmod `2026-11-10`
+- [What is the median posted pay for SF Bay Area agent engineers?](https://metix.ai/reports/questions/sf-agent-engineer-median-pay) — lastmod `2026-11-10`
+- [What is the PhD share of AI video builders? (builders’ PhD share 13.7%)](https://metix.ai/reports/questions/ai-video-phd-share) — lastmod `2026-11-11`
+- [What share of AI customer-service company staff face customers?](https://metix.ai/reports/questions/ai-customer-service-customer-facing-share) — lastmod `2026-11-11`
+- [What share of AI customer-service talent came from legacy CX software?](https://metix.ai/reports/questions/ai-customer-service-cx-prior-share) — lastmod `2026-11-11`
+- [What share of AI video builders joined in the last two years?](https://metix.ai/reports/questions/ai-video-joined-two-years) — lastmod `2026-11-11`
+- [What share of Anthropic staff are Member of Technical Staff?](https://metix.ai/reports/questions/anthropic-mts-share) — lastmod `2026-11-11`
+- [What share of Anthropic technical staff hold a PhD? (15.5% of 1,281)](https://metix.ai/reports/questions/anthropic-phd-share) — lastmod `2026-11-11`
+- [What share of fintech engineers joined in the last year?](https://metix.ai/reports/questions/fintech-joined-last-year) — lastmod `2026-11-11`
+- [What share of frontier-lab staff are on a research track?](https://metix.ai/reports/questions/frontier-labs-research-share) — lastmod `2026-11-11`
+- [What share of NVIDIA engineers does the chip map call golden-handcuffed? (NVIDIA 1/7)](https://metix.ai/reports/questions/nvidia-golden-handcuff-share) — lastmod `2026-11-10`
+- [What share of OpenAI technical staff are in the US? (88% in the US)](https://metix.ai/reports/questions/openai-us-share) — lastmod `2026-11-11`
+- [What share of OpenAI technical staff hold a PhD? (14.4% of 3,041)](https://metix.ai/reports/questions/openai-phd-share) — lastmod `2026-11-11`
+- [What share of Salesforce US open roles are product R&amp;D?](https://metix.ai/reports/questions/salesforce-us-rd-open-share) — lastmod `2026-11-11`
+- [What share of world-model talent comes from game engines?](https://metix.ai/reports/questions/world-model-engine-origin) — lastmod `2026-11-11`
 - [What share of xAI is Human Data &amp; Evaluation? (28.4%, 425 / 1,496)](https://metix.ai/reports/questions/xai-human-data-share) — lastmod `2026-08-20`
-- [What talent sits behind the $500B+ AI-infra capital target?](https://metix.ai/reports/questions/nvidia-500b-capital-talent) — lastmod `2026-10-17`
-- [Where do AI infrastructure hires come from?](https://metix.ai/reports/questions/ai-infra-internal-mobility) — lastmod `2026-10-17`
-- [Where do OpenAI, Anthropic and xAI hire from?](https://metix.ai/reports/questions/openai-anthropic-xai-sources) — lastmod `2026-10-17`
-- [Where does Anthropic hire engineers from? (Google 302 (24%))](https://metix.ai/reports/questions/anthropic-talent-sources) — lastmod `2026-10-17`
-- [Where does OpenAI hire engineers from? (Google 702 (23%))](https://metix.ai/reports/questions/openai-talent-sources) — lastmod `2026-10-17`
-- [Which AI infrastructure role is scarcest? (construction proxy 19.6%)](https://metix.ai/reports/questions/ai-infra-construction-scarcity) — lastmod `2026-10-17`
-- [Which countries hold the most overseas job postings? (Top 5 = 73.2%)](https://metix.ai/reports/questions/overseas-jobs-top-countries) — lastmod `2026-10-17`
-- [Which fintech company is the top net importer in the peer circle?](https://metix.ai/reports/questions/fintech-ramp-net-import) — lastmod `2026-10-17`
-- [Which functions dominate overseas hiring? (four functions 44.7%)](https://metix.ai/reports/questions/overseas-jobs-function-mix) — lastmod `2026-10-17`
-- [Which industries dominate overseas hiring? (three industries 49.8%)](https://metix.ai/reports/questions/overseas-jobs-industry-mix) — lastmod `2026-10-17`
+- [What talent sits behind the $500B+ AI-infra capital target?](https://metix.ai/reports/questions/nvidia-500b-capital-talent) — lastmod `2026-08-20`
+- [Where do AI infrastructure hires come from?](https://metix.ai/reports/questions/ai-infra-internal-mobility) — lastmod `2026-11-11`
+- [Where do OpenAI, Anthropic and xAI hire from?](https://metix.ai/reports/questions/openai-anthropic-xai-sources) — lastmod `2026-11-10`
+- [Where does Anthropic hire engineers from? (Google 302 (24%))](https://metix.ai/reports/questions/anthropic-talent-sources) — lastmod `2026-11-11`
+- [Where does OpenAI hire engineers from? (Google 702 (23%))](https://metix.ai/reports/questions/openai-talent-sources) — lastmod `2026-11-11`
+- [Which AI infrastructure role is scarcest? (construction proxy 19.6%)](https://metix.ai/reports/questions/ai-infra-construction-scarcity) — lastmod `2026-11-11`
+- [Which countries hold the most overseas job postings? (Top 5 = 73.2%)](https://metix.ai/reports/questions/overseas-jobs-top-countries) — lastmod `2026-11-11`
+- [Which fintech company is the top net importer in the peer circle?](https://metix.ai/reports/questions/fintech-ramp-net-import) — lastmod `2026-11-11`
+- [Which functions dominate overseas hiring? (four functions 44.7%)](https://metix.ai/reports/questions/overseas-jobs-function-mix) — lastmod `2026-11-11`
+- [Which industries dominate overseas hiring? (three industries 49.8%)](https://metix.ai/reports/questions/overseas-jobs-industry-mix) — lastmod `2026-11-11`
 - [Wiz Headcount, Roles &amp; Talent Reports (2,086 Mapped)](https://metix.ai/reports/companies/wiz) — lastmod `2026-11-15`
-- [Workday Headcount, Roles &amp; Talent Reports (20,583 Mapped)](https://metix.ai/reports/companies/workday) — lastmod `2026-10-16`
+- [Workday Headcount, Roles &amp; Talent Reports (20,583 Mapped)](https://metix.ai/reports/companies/workday) — lastmod `2026-11-26`
 - [World Model Talent Map: 72 of 618 Staff With Game-Engine &amp; Graphics Pedigree](https://metix.ai/reports/mapping/game-engine-world-model-2026) — lastmod `2026-11-11`
 - [xAI Engineering Headcount, Hiring &amp; Talent Reports (3 Cuts)](https://metix.ai/reports/companies/xai) — lastmod `2026-11-25`
 - [Zoom Headcount, Roles &amp; Talent Reports (6,715 Mapped)](https://metix.ai/reports/companies/zoom) — lastmod `2026-11-12`
